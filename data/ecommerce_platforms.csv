@@ -1,0 +1,31 @@
+platform_id,platform_name,platform_logo_url,website_url,country_id,description
+1,Shopee,/logos/shopee.png,https://shopee.co.id,1,东南亚领先的电商平台，提供C2C和B2C交易
+2,Lazada,/logos/lazada.png,https://www.lazada.co.id,4,阿里旗下的东南亚电商平台
+3,Tokopedia,/logos/tokopedia.png,https://www.tokopedia.com,1,印尼最大的本土电商平台
+4,Tiki,/logos/tiki.png,https://tiki.vn,3,越南领先的B2C电商平台
+5,Lazada Vietnam,/logos/lazada_vn.png,https://www.lazada.vn,3,Lazada越南站点
+6,Shopee Thailand,/logos/shopee_th.png,https://shopee.co.th,2,Shopee泰国站点
+7,Blibli,/logos/blibli.png,https://www.blibli.com,1,印尼高端电商平台
+8,Bukalapak,/logos/bukalapak.png,https://www.bukalapak.com,1,印尼知名电商平台
+9,Sendo,/logos/sendo.png,https://www.sendo.vn,3,越南C2C电商平台
+10,The Gioi Di Dong,/logos/tgdd.png,https://www.thegioididong.com,3,越南电子产品零售巨头
+11,Shopee Malaysia,/logos/shopee.png,https://shopee.com.my,4,Shopee马来西亚站点
+12,Lazada Thailand,/logos/lazada.png,https://www.lazada.co.th,2,Lazada泰国站点
+13,Shopee Philippines,/logos/shopee.png,https://shopee.ph,6,Shopee菲律宾站点
+14,Lazada Philippines,/logos/lazada.png,https://www.lazada.com.ph,6,Lazada菲律宾站点
+15,Shopee Singapore,/logos/shopee.png,https://shopee.sg,5,Shopee新加坡站点
+16,Lazada Singapore,/logos/lazada.png,https://www.lazada.sg,5,Lazada新加坡站点
+17,Qoo10,/logos/qoo10.png,https://www.qoo10.sg,5,新加坡知名电商平台
+18,Zalora,/logos/zalora.png,https://www.zalora.com.my,4,东南亚时尚电商平台
+19,JD Central,/logos/jd.png,https://www.jd.co.th,2,JD.com在泰国的合资企业
+20,Amazon.sg,/logos/amazon.png,https://www.amazon.sg,5,亚马逊新加坡站点
+21,Pomelo,/logos/pomelo.png,https://www.pomelofashion.com,2,泰国时尚电商平台
+22,Central Online,/logos/central.png,https://www.central.co.th,2,泰国百货公司电商平台
+23,Youbeli,/logos/youbeli.png,https://www.youbeli.com,4,马来西亚电子产品电商
+24,11street,/logos/11street.png,https://www.11street.my,4,马来西亚电商平台
+25,Shopee Vietnam,/logos/shopee.png,https://shopee.vn,3,Shopee越南站点
+26,TikTok Shop Indonesia,/logos/tiktok.png,https://shop.tiktok.com,1,TikTok印尼电商
+27,TikTok Shop Thailand,/logos/tiktok.png,https://shop.tiktok.com,2,TikTok泰国电商
+28,TikTok Shop Vietnam,/logos/tiktok.png,https://shop.tiktok.com,3,TikTok越南电商
+29,Carousell,/logos/carousell.png,https://www.carousell.sg,5,新加坡二手交易平台
+30,Lelong.my,/logos/lelong.png,https://www.lelong.com.my,4,马来西亚拍卖电商平台

@@ -1,0 +1,374 @@
+17个数据库表总结
+1. countries (国家表)
+country_id - 国家ID (主键)
+
+country_code_iso2 - ISO 2位国家代码
+
+country_code_iso3 - ISO 3位国家代码
+
+country_name_cn - 中文国家名称
+
+country_name_local - 本地语言国家名称
+
+region - 所属区域
+
+currency_code - 货币代码
+
+timezone - 时区
+
+flag_icon_url - 国旗图标URL
+
+is_active - 是否激活
+
+2. ecommerce_platforms (电商平台表)
+platform_id - 平台ID (主键)
+
+platform_name - 平台名称
+
+platform_logo_url - 平台logo URL
+
+website_url - 网站URL
+
+country_id - 所属国家ID (外键)
+
+description - 平台描述
+
+3. product_categories (商品品类表)
+category_id - 品类ID (主键)
+
+category_name_en - 英文品类名称
+
+category_name_cn - 中文品类名称
+
+parent_category_id - 父品类ID (自引用外键)
+
+level - 层级 (1:一级, 2:二级等)
+
+keywords - 关键词
+
+4. macro_economic_indicators (宏观经济指标表)
+indicator_id - 指标ID (主键)
+
+country_id - 国家ID (外键)
+
+year - 年份
+
+quarter - 季度 (可为NULL)
+
+indicator_type - 指标类型
+
+indicator_value - 指标值
+
+unit - 单位
+
+data_source - 数据来源
+
+last_updated - 最后更新时间
+
+5. consumer_profiles (消费者画像表)
+profile_id - 画像ID (主键)
+
+country_id - 国家ID (外键)
+
+segment_name - 细分市场名称
+
+age_range - 年龄范围
+
+income_level - 收入水平
+
+city_tier - 城市等级
+
+preferred_categories - 偏好品类 (JSON数组)
+
+average_order_value - 平均订单价值
+
+top_payment_methods - 主要支付方式 (JSON数组)
+
+sample_size - 样本大小
+
+report_date - 报告日期
+
+6. shops (店铺信息表)
+shop_id - 店铺ID (主键)
+
+external_shop_id - 外部店铺ID
+
+platform_id - 平台ID (外键)
+
+country_id - 国家ID (外键)
+
+shop_name - 店铺名称
+
+shop_rating - 店铺评分
+
+follower_count - 关注者数量
+
+response_rate - 响应率
+
+joined_date - 加入日期
+
+is_official_mall - 是否官方商城
+
+location_city - 所在城市
+
+7. products (商品信息表)
+product_id - 商品ID (主键)
+
+external_product_id - 外部商品ID
+
+platform_id - 平台ID (外键)
+
+country_id - 国家ID (外键)
+
+shop_id - 店铺ID (外键)
+
+category_id - 品类ID (外键)
+
+product_title - 商品标题 (原始语言)
+
+product_title_translated - 翻译后商品标题
+
+brand - 品牌
+
+description - 描述
+
+main_image_url - 主图URL
+
+url - 商品链接
+
+is_ad - 是否为广告商品
+
+first_seen_date - 首次发现日期
+
+last_updated - 最后更新时间
+
+8. product_daily_snapshots (商品每日快照表)
+snapshot_id - 快照ID (主键)
+
+product_id - 商品ID (外键)
+
+date - 快照日期
+
+current_price - 当前价格
+
+original_price - 原始价格
+
+discount_rate - 折扣率
+
+monthly_sales_estimated - 月销售估算
+
+cumulative_reviews - 累计评价数
+
+average_rating - 平均评分
+
+in_stock - 是否有库存
+
+tags - 标签 (JSON数组)
+
+9. marketing_campaigns (营销活动表)
+campaign_id - 活动ID (主键)
+
+platform_id - 平台ID (外键)
+
+country_id - 国家ID (外键)
+
+campaign_name - 活动名称
+
+campaign_type - 活动类型
+
+start_date - 开始日期
+
+end_date - 结束日期
+
+description - 描述
+
+10. logistics_solutions (物流方案表)
+solution_id - 方案ID (主键)
+
+solution_name - 方案名称
+
+service_type - 服务类型
+
+origin_country_id - 原产国ID (外键)
+
+dest_country_id - 目的国ID (外键)
+
+estimated_days_min - 预估最少天数
+
+estimated_days_max - 预估最多天数
+
+price_per_kg - 每公斤价格
+
+tracking_available - 是否支持跟踪
+
+service_provider - 服务提供商
+
+11. tax_tariff_rules (关税与税务规则表)
+rule_id - 规则ID (主键)
+
+country_id - 国家ID (外键)
+
+hs_code - HS编码
+
+hs_code_description - HS编码描述
+
+import_duty_rate - 进口关税率
+
+vat_rate - 增值税率
+
+other_taxes - 其他税种 (JSON)
+
+threshold_amount - 起征点金额
+
+data_source - 数据来源
+
+effective_date - 生效日期
+
+expiry_date - 过期日期
+
+12. service_providers (服务商目录表)
+provider_id - 服务商ID (主键)
+
+provider_name - 服务商名称
+
+service_type - 服务类型
+
+countries_covered - 覆盖国家 (JSON数组)
+
+contact_info - 联系信息 (JSON)
+
+user_rating_avg - 用户平均评分
+
+review_count - 评价数量
+
+is_verified - 是否认证
+
+13. users (用户表)
+user_id - 用户ID (主键)
+
+email - 邮箱
+
+hashed_password - 哈希密码
+
+company_name - 公司名称
+
+user_type - 用户类型 (free/basic/pro/enterprise)
+
+interested_countries - 感兴趣国家 (JSON数组)
+
+interested_categories - 感兴趣品类 (JSON数组)
+
+subscription_expiry_date - 订阅到期日期 (可为NULL)
+
+created_at - 创建时间
+
+14. user_watchlists (用户监控看板表)
+watchlist_id - 监控ID (主键)
+
+user_id - 用户ID (外键)
+
+item_type - 项目类型 (product/shop/brand/keyword等)
+
+item_target_id - 项目目标ID
+
+notes - 备注说明
+
+created_at - 创建时间
+
+15. user_generated_content (用户生成内容表)
+content_id - 内容ID (主键)
+
+user_id - 用户ID (外键)
+
+content_type - 内容类型 (insight_share/question/review等)
+
+title - 标题
+
+body - 正文内容
+
+related_country_id - 关联国家ID (外键，可为NULL)
+
+related_category_id - 关联品类ID (外键，可为NULL)
+
+upvote_count - 点赞数量
+
+created_at - 创建时间
+
+16. data_update_logs (数据更新日志表)
+log_id - 日志ID (主键)
+
+data_source - 数据源
+
+data_type - 数据类型
+
+country_id - 国家ID (外键，可为NULL)
+
+update_range_start - 更新范围开始时间 (可为NULL)
+
+update_range_end - 更新范围结束时间 (可为NULL)
+
+records_updated - 更新记录数量
+
+status - 状态 (success/partial/failed)
+
+run_at - 运行时间
+
+17. aggregated_reports_cache (聚合报告缓存表)
+report_id - 报告ID (主键)
+
+report_slug - 报告唯一标识符 (URL友好)
+
+report_title - 报告标题
+
+report_data - 报告数据 (JSON格式)
+
+parameters - 生成参数 (JSON格式)
+
+generated_at - 生成时间
+
+valid_until - 有效期限
+
+数据表分类总结
+基础配置表 (3个)
+国家表 - 存储东盟国家基本信息
+
+电商平台表 - 存储各电商平台信息
+
+商品品类表 - 商品分类系统
+
+市场宏观表 (2个)
+宏观经济指标表 - 各国经济数据
+
+消费者画像表 - 消费者细分数据
+
+商品竞争表 (3个)
+店铺信息表 - 各平台店铺数据
+
+商品信息表 - 商品基础信息
+
+商品每日快照表 - 商品每日状态快照
+
+营销活动表 (1个)
+营销活动表 - 平台营销活动信息
+
+物流合规表 (3个)
+物流方案表 - 物流配送方案
+
+关税税务规则表 - 海关税务信息
+
+服务商目录表 - 各类服务商信息
+
+用户交互表 (3个)
+用户表 - 系统用户信息
+
+用户监控看板表 - 用户监控项目
+
+用户生成内容表 - 用户分享内容
+
+系统分析表 (2个)
+数据更新日志表 - 数据采集更新记录
+
+聚合报告缓存表 - 分析报告缓存
+
+数据关系概述
+这个数据库系统涵盖了从基础配置 → 市场数据 → 商品竞争 → 物流合规 → 用户交互 → 系统分析的完整数据流，支持东南亚电商市场分析平台的各项功能需求。17个表\data文件夹里面

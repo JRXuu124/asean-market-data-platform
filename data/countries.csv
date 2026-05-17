@@ -1,0 +1,12 @@
+﻿country_id,country_code_iso2,country_code_iso3,country_name_cn,country_name_local,region,currency_code,timezone,flag_icon_url,is_active
+1,ID,IDN,印度尼西亚,Indonesia,东南亚,IDR,Asia/Jakarta,/flags/id.svg,True
+2,TH,THA,泰国,ประเทศไทย,东南亚,THB,Asia/Bangkok,/flags/th.svg,True
+3,VN,VNM,越南,Việt Nam,东南亚,VND,Asia/Ho_Chi_Minh,/flags/vn.svg,True
+4,MY,MYS,马来西亚,Malaysia,东南亚,MYR,Asia/Kuala_Lumpur,/flags/my.svg,True
+5,SG,SGP,新加坡,Singapore,东南亚,SGD,Asia/Singapore,/flags/sg.svg,True
+6,PH,PHL,菲律宾,Philippines,东南亚,PHP,Asia/Manila,/flags/ph.svg,True
+7,KH,KHM,柬埔寨,កម្ពុជា,东南亚,KHR,Asia/Phnom_Penh,/flags/kh.svg,True
+8,MM,MMR,缅甸,မြန်မာ,东南亚,MMK,Asia/Yangon,/flags/mm.svg,True
+9,LA,LAO,老挝,ລາວ,东南亚,LAK,Asia/Vientiane,/flags/la.svg,True
+10,TL,TLS,东帝汶,Timor-Leste,东南亚,USD,Asia/Dili,/flags/tl.svg,True
+11,BN,BRN,文莱,Brunei Darussalam,东南亚,BND,Asia/Brunei,/flags/bn.svg,True

@@ -1,0 +1,501 @@
+solution_id,solution_name,service_type,origin_country_id,dest_country_id,estimated_days_min,estimated_days_max,price_per_kg,tracking_available,service_provider
+1,Myanmar本地国内快递 - Myanmar Post,domestic,9,9,2,6,1616.21 MMK,True,Myanmar Post
+2,Thailand到Vietnam国际物流 - CJ Logistics,international,2,3,5,13,305.67 VND,True,CJ Logistics
+3,Laos本地国内快递 - J&T Express Laos,domestic,8,8,1,4,11576.64 LAK,True,J&T Express Laos
+4,USA到Philippines国际物流 - Aramex,cross_border,12,6,10,32,629.8 PHP,False,Aramex
+5,Vietnam到Singapore国际物流 - Kerry Logistics,cross_border,3,5,8,15,5.85 SGD,False,Kerry Logistics
+6,Indonesia到Cambodia国际物流 - SF Express,international,1,7,3,21,43277.41 KHR,True,SF Express
+7,Myanmar-Germany特快专递 - FedEx,express,9,16,2,3,2.4 EUR,True,FedEx
+8,Philippines-Japan特快专递 - Aramex,express,6,13,2,4,898.16 JPY,True,Aramex
+9,Philippines海外仓一件代发 - Amazon FBA,overseas_warehouse,6,6,2,5,56.19 PHP,True,Amazon FBA
+10,Malaysia到Philippines国际物流 - CJ Logistics,international,4,6,5,20,540.91 PHP,True,CJ Logistics
+11,Laos-USA经济物流 - FedEx,economy,8,12,8,26,2.48 USD,True,FedEx
+12,South Korea到Brunei国际物流 - Aramex,cross_border,14,10,11,18,5.53 BND,True,Aramex
+13,Vietnam-Cambodia特快专递 - CJ Logistics,express,3,7,2,3,13401.1 KHR,True,CJ Logistics
+14,Philippines到Germany国际物流 - DHL,international,6,16,7,9,5.23 EUR,False,DHL
+15,Cambodia-Singapore特快专递 - SF Express,express,7,5,1,3,13.24 SGD,True,SF Express
+16,Laos-Philippines经济物流 - SF Express,economy,8,6,7,21,273.14 PHP,True,SF Express
+17,China到Vietnam国际物流 - ePacket,cross_border,11,3,12,30,217.04 VND,True,ePacket
+18,USA到Germany国际物流 - DHL,cross_border,12,16,11,23,3.1 EUR,True,DHL
+19,Singapore-Philippines经济物流 - SF Express,economy,5,6,8,20,197.72 PHP,True,SF Express
+20,USA到Brunei国际物流 - UPS,cross_border,12,10,10,32,8.06 BND,True,UPS
+21,Philippines到Malaysia国际物流 - Yamato Transport,international,6,4,4,16,36.51 MYR,True,Yamato Transport
+22,Thailand到Brunei国际物流 - Kerry Logistics,cross_border,2,10,13,25,10.42 BND,True,Kerry Logistics
+23,Myanmar-Brunei经济物流 - Kerry Logistics,economy,9,10,10,18,6.14 BND,True,Kerry Logistics
+24,Laos本地国内快递 - Lao Post,domestic,8,8,3,5,7815.36 LAK,True,Lao Post
+25,USA到Singapore国际物流 - UPS,cross_border,12,5,10,29,15.99 SGD,True,UPS
+26,Philippines本地国内快递 - LBC Express,domestic,6,6,1,7,179.48 PHP,True,LBC Express
+27,Philippines-Brunei经济物流 - SF Express,economy,6,10,9,14,6.75 BND,True,SF Express
+28,Brunei-Indonesia特快专递 - SF Express,express,10,1,1,4,57016.0 IDR,True,SF Express
+29,Myanmar到Cambodia国际物流 - Yamato Transport,international,9,7,3,18,37526.48 KHR,True,Yamato Transport
+30,Brunei本地国内快递 - J&T Express Brunei,domestic,10,10,3,6,2.75 BND,True,J&T Express Brunei
+31,Japan到Australia国际物流 - UPS,cross_border,13,15,13,35,3.87 AUD,True,UPS
+32,Vietnam到South Korea国际物流 - UPS,international,3,14,3,8,10487.25 KRW,True,UPS
+33,Philippines到UK国际物流 - TNT,cross_border,6,17,8,35,10.05 GBP,True,TNT
+34,Myanmar到Philippines国际物流 - Yamato Transport,international,9,6,6,8,346.49 PHP,True,Yamato Transport
+35,Indonesia本地国内快递 - GrabExpress,domestic,1,1,3,6,49392.0 IDR,True,GrabExpress
+36,Cambodia到Japan国际物流 - UPS,cross_border,7,13,13,32,1333.96 JPY,True,UPS
+37,Brunei本地国内快递 - Brunei Post,domestic,10,10,3,5,0.95 BND,True,Brunei Post
+38,Myanmar-Laos特快专递 - CJ Logistics,express,9,8,2,4,11624.4 LAK,True,CJ Logistics
+39,South Korea到Brunei国际物流 - Aramex,international,14,10,4,21,25.46 BND,True,Aramex
+40,Vietnam-Thailand经济物流 - Kerry Logistics,economy,3,2,7,22,120.79 THB,True,Kerry Logistics
+41,USA到Laos国际物流 - TNT,cross_border,12,8,10,19,20136.0 LAK,True,TNT
+42,Thailand海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,2,2,2,2,13.42 THB,True,Tokopedia Fulfillment
+43,Myanmar本地国内快递 - DHL Myanmar,domestic,9,9,3,5,1554.89 MMK,True,DHL Myanmar
+44,Myanmar到Germany国际物流 - Aramex,cross_border,9,16,14,17,3.7 EUR,True,Aramex
+45,Indonesia到Myanmar国际物流 - Kerry Logistics,cross_border,1,9,14,26,2678.28 MMK,False,Kerry Logistics
+46,Australia到USA国际物流 - DHL,international,15,12,5,13,9.08 USD,True,DHL
+47,Cambodia海外仓一件代发 - Janio,overseas_warehouse,7,7,1,5,942.65 KHR,True,Janio
+48,Philippines本地国内快递 - Ninja Van Philippines,domestic,6,6,1,4,136.46 PHP,True,Ninja Van Philippines
+49,Thailand本地国内快递 - J&T Express Thailand,domestic,2,2,3,5,99.53 THB,True,J&T Express Thailand
+50,Brunei海外仓一件代发 - aCommerce,overseas_warehouse,10,10,1,5,0.76 BND,True,aCommerce
+51,Indonesia本地国内快递 - SiCepat,domestic,1,1,1,6,11569.0 IDR,True,SiCepat
+52,Thailand-Cambodia经济物流 - CJ Logistics,economy,2,7,5,23,9836.03 KHR,True,CJ Logistics
+53,Thailand海外仓一件代发 - Janio,overseas_warehouse,2,2,2,5,13.27 THB,True,Janio
+54,South Korea到Malaysia国际物流 - Aramex,cross_border,14,4,10,24,20.69 MYR,True,Aramex
+55,Myanmar-Cambodia经济物流 - Yamato Transport,economy,9,7,10,21,8868.73 KHR,False,Yamato Transport
+56,Malaysia到South Korea国际物流 - DHL,international,4,14,7,20,17327.23 KRW,True,DHL
+57,Cambodia海外仓一件代发 - aCommerce,overseas_warehouse,7,7,2,4,945.54 KHR,True,aCommerce
+58,Malaysia-Brunei特快专递 - CJ Logistics,express,4,10,1,3,8.87 BND,True,CJ Logistics
+59,Australia到Cambodia国际物流 - TNT,international,15,7,5,20,12035.32 KHR,True,TNT
+60,Brunei本地国内快递 - DHL Brunei,domestic,10,10,1,5,3.69 BND,True,DHL Brunei
+61,Brunei-Indonesia经济物流 - CJ Logistics,economy,10,1,7,14,39887.0 IDR,False,CJ Logistics
+62,Indonesia-Thailand特快专递 - Kerry Logistics,express,1,2,1,4,197.39 THB,True,Kerry Logistics
+63,UK到Laos国际物流 - Aramex,cross_border,17,8,7,22,24479.76 LAK,True,Aramex
+64,Laos到Japan国际物流 - TNT,international,8,13,5,7,1566.99 JPY,True,TNT
+65,Indonesia-Singapore经济物流 - CJ Logistics,economy,1,5,6,25,4.43 SGD,True,CJ Logistics
+66,Vietnam到Philippines国际物流 - Yamato Transport,international,3,6,3,21,271.94 PHP,True,Yamato Transport
+67,Cambodia-China特快专递 - SunYou,express,7,11,2,3,49.02 CNY,True,SunYou
+68,Indonesia本地国内快递 - Anteraja,domestic,1,1,1,6,37256.0 IDR,True,Anteraja
+69,Laos本地国内快递 - DHL Laos,domestic,8,8,3,4,8252.64 LAK,True,DHL Laos
+70,Thailand到Vietnam国际物流 - CJ Logistics,cross_border,2,3,14,18,116.57 VND,True,CJ Logistics
+71,Laos海外仓一件代发 - Janio,overseas_warehouse,8,8,1,4,3720.48 LAK,True,Janio
+72,South Korea-Laos特快专递 - DHL,express,14,8,1,2,29145.84 LAK,True,DHL
+73,Laos海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,8,8,2,5,2880.96 LAK,True,Shopee Fulfillment
+74,Cambodia本地国内快递 - Cambodia Post,domestic,7,7,1,4,4257.65 KHR,True,Cambodia Post
+75,Vietnam到Thailand国际物流 - Kerry Logistics,international,3,2,5,11,450.99 THB,True,Kerry Logistics
+76,Brunei-Vietnam特快专递 - Yamato Transport,express,10,3,2,3,212.18 VND,True,Yamato Transport
+77,Singapore本地国内快递 - Qxpress,domestic,5,5,2,7,1.69 SGD,True,Qxpress
+78,UK到Myanmar国际物流 - DHL,cross_border,17,9,10,32,1794.31 MMK,True,DHL
+79,Singapore-Cambodia经济物流 - SF Express,economy,5,7,6,21,7091.55 KHR,True,SF Express
+80,Brunei海外仓一件代发 - Amazon FBA,overseas_warehouse,10,10,1,5,1.75 BND,True,Amazon FBA
+81,Indonesia到Brunei国际物流 - Yamato Transport,cross_border,1,10,8,29,9.76 BND,True,Yamato Transport
+82,South Korea-Singapore特快专递 - TNT,express,14,5,2,3,3.59 SGD,True,TNT
+83,China-Indonesia经济物流 - Yanwen,economy,11,1,7,28,31914.0 IDR,True,Yanwen
+84,Laos-Philippines特快专递 - CJ Logistics,express,8,6,1,2,181.93 PHP,True,CJ Logistics
+85,Japan-Vietnam经济物流 - Aramex,economy,13,3,5,13,71.21 VND,True,Aramex
+86,Thailand本地国内快递 - J&T Express Thailand,domestic,2,2,3,6,37.78 THB,True,J&T Express Thailand
+87,USA-South Korea特快专递 - UPS,express,12,14,2,3,2492.03 KRW,True,UPS
+88,Singapore本地国内快递 - Qxpress,domestic,5,5,3,7,1.63 SGD,True,Qxpress
+89,Australia到Thailand国际物流 - FedEx,international,15,2,7,20,541.46 THB,True,FedEx
+90,UK-Vietnam特快专递 - DHL,express,17,3,1,2,153.42 VND,True,DHL
+91,Singapore本地国内快递 - Qxpress,domestic,5,5,2,7,3.34 SGD,True,Qxpress
+92,Myanmar-Malaysia经济物流 - Yamato Transport,economy,9,4,7,29,22.32 MYR,False,Yamato Transport
+93,Thailand本地国内快递 - Thailand Post,domestic,2,2,1,4,89.42 THB,True,Thailand Post
+94,Singapore海外仓一件代发 - aCommerce,overseas_warehouse,5,5,1,2,1.06 SGD,True,aCommerce
+95,Brunei到Laos国际物流 - Kerry Logistics,international,10,8,5,14,32345.52 LAK,True,Kerry Logistics
+96,Vietnam到Japan国际物流 - TNT,international,3,13,3,21,1544.84 JPY,True,TNT
+97,Laos海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,8,8,1,4,4182.72 LAK,True,Shopee Fulfillment
+98,Laos-Myanmar经济物流 - Kerry Logistics,economy,8,9,7,17,2636.44 MMK,True,Kerry Logistics
+99,Philippines到Myanmar国际物流 - SF Express,international,6,9,5,17,9066.98 MMK,True,SF Express
+100,Malaysia到Myanmar国际物流 - CJ Logistics,cross_border,4,9,12,22,3923.3 MMK,True,CJ Logistics
+101,Laos海外仓一件代发 - Janio,overseas_warehouse,8,8,1,4,3786.24 LAK,True,Janio
+102,Laos到Vietnam国际物流 - Kerry Logistics,international,8,3,6,8,88.2 VND,True,Kerry Logistics
+103,South Korea-Philippines经济物流 - FedEx,economy,14,6,8,29,259.12 PHP,True,FedEx
+104,Indonesia到Brunei国际物流 - SF Express,cross_border,1,10,13,15,4.63 BND,False,SF Express
+105,Malaysia-Myanmar特快专递 - Yamato Transport,express,4,9,2,4,4347.02 MMK,True,Yamato Transport
+106,Singapore海外仓一件代发 - EasyParcel,overseas_warehouse,5,5,1,5,1.23 SGD,True,EasyParcel
+107,Myanmar-Laos经济物流 - Kerry Logistics,economy,9,8,5,19,8515.68 LAK,True,Kerry Logistics
+108,Philippines到Japan国际物流 - TNT,cross_border,6,13,10,27,901.89 JPY,True,TNT
+109,China到Thailand国际物流 - SunYou,cross_border,11,2,13,28,164.6 THB,True,SunYou
+110,Malaysia到USA国际物流 - TNT,cross_border,4,12,8,28,6.38 USD,True,TNT
+111,Vietnam-Malaysia特快专递 - Yamato Transport,express,3,4,1,2,37.85 MYR,True,Yamato Transport
+112,Thailand本地国内快递 - Ninja Van,domestic,2,2,2,4,36.14 THB,True,Ninja Van
+113,Thailand-Vietnam特快专递 - CJ Logistics,express,2,3,2,4,139.59 VND,True,CJ Logistics
+114,Thailand-UK经济物流 - DHL,economy,2,17,6,19,3.79 GBP,True,DHL
+115,Singapore海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,5,5,1,3,1.55 SGD,True,Shopee Fulfillment
+116,Thailand-China经济物流 - SunYou,economy,2,11,7,20,11.85 CNY,False,SunYou
+117,China-Indonesia特快专递 - ePacket,express,11,1,2,3,126926.0 IDR,True,ePacket
+118,Singapore-Brunei经济物流 - Kerry Logistics,economy,5,10,6,20,1.88 BND,True,Kerry Logistics
+119,Malaysia到Indonesia国际物流 - Yamato Transport,international,4,1,4,16,254659.0 IDR,True,Yamato Transport
+120,Cambodia到South Korea国际物流 - UPS,cross_border,7,14,10,26,3811.04 KRW,True,UPS
+121,Myanmar-Laos特快专递 - Yamato Transport,express,9,8,2,3,28372.8 LAK,True,Yamato Transport
+122,Philippines-Singapore经济物流 - Kerry Logistics,economy,6,5,6,21,2.78 SGD,True,Kerry Logistics
+123,Thailand本地国内快递 - Thailand Post,domestic,2,2,1,5,101.9 THB,True,Thailand Post
+124,China到USA国际物流 - Cainiao,cross_border,11,12,8,32,3.59 USD,False,Cainiao
+125,Australia到Singapore国际物流 - DHL,international,15,5,5,12,10.1 SGD,True,DHL
+126,Vietnam海外仓一件代发 - Amazon FBA,overseas_warehouse,3,3,2,2,22.47 VND,True,Amazon FBA
+127,Singapore-Cambodia经济物流 - Yamato Transport,economy,5,7,5,15,13179.76 KHR,True,Yamato Transport
+128,Malaysia到Cambodia国际物流 - CJ Logistics,international,4,7,5,12,23274.87 KHR,True,CJ Logistics
+129,Indonesia到Vietnam国际物流 - Kerry Logistics,cross_border,1,3,10,26,82.18 VND,True,Kerry Logistics
+130,China-Singapore特快专递 - 4PX,express,11,5,2,4,6.57 SGD,True,4PX
+131,Laos到Singapore国际物流 - CJ Logistics,cross_border,8,5,9,31,7.53 SGD,True,CJ Logistics
+132,Indonesia到Malaysia国际物流 - SF Express,international,1,4,7,15,65.93 MYR,True,SF Express
+133,Cambodia海外仓一件代发 - Janio,overseas_warehouse,7,7,1,3,1445.0 KHR,True,Janio
+134,Philippines到Malaysia国际物流 - SF Express,international,6,4,7,19,86.21 MYR,True,SF Express
+135,Cambodia到UK国际物流 - FedEx,international,7,17,4,10,8.2 GBP,True,FedEx
+136,Myanmar-Brunei经济物流 - SF Express,economy,9,10,5,24,7.19 BND,False,SF Express
+137,Laos海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,8,8,2,5,2327.52 LAK,True,Tokopedia Fulfillment
+138,UK到Malaysia国际物流 - TNT,cross_border,17,4,12,32,21.34 MYR,True,TNT
+139,Germany到Myanmar国际物流 - DHL,cross_border,16,9,7,33,1404.68 MMK,True,DHL
+140,Myanmar本地国内快递 - Myanmar Post,domestic,9,9,2,4,816.42 MMK,True,Myanmar Post
+141,Myanmar到Brunei国际物流 - Yamato Transport,cross_border,9,10,14,21,14.19 BND,True,Yamato Transport
+142,Malaysia-China特快专递 - 4PX,express,4,11,1,4,34.91 CNY,True,4PX
+143,Singapore到Laos国际物流 - SF Express,international,5,8,7,9,43061.28 LAK,True,SF Express
+144,China到Brunei国际物流 - Cainiao,international,11,10,3,14,10.57 BND,True,Cainiao
+145,Philippines-Cambodia特快专递 - SF Express,express,6,7,2,3,15620.96 KHR,True,SF Express
+146,Philippines-Singapore经济物流 - Yamato Transport,economy,6,5,9,20,6.91 SGD,True,Yamato Transport
+147,Vietnam海外仓一件代发 - Amazon FBA,overseas_warehouse,3,3,1,4,29.98 VND,True,Amazon FBA
+148,Brunei-Malaysia经济物流 - Kerry Logistics,economy,10,4,6,23,15.78 MYR,True,Kerry Logistics
+149,Malaysia海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,4,4,1,2,3.82 MYR,True,Tokopedia Fulfillment
+150,Laos到Brunei国际物流 - CJ Logistics,cross_border,8,10,13,20,7.3 BND,True,CJ Logistics
+151,Philippines到Indonesia国际物流 - CJ Logistics,international,6,1,3,9,157456.0 IDR,True,CJ Logistics
+152,Brunei本地国内快递 - J&T Express Brunei,domestic,10,10,1,7,2.28 BND,True,J&T Express Brunei
+153,Singapore海外仓一件代发 - Anchanto,overseas_warehouse,5,5,1,5,0.73 SGD,True,Anchanto
+154,Singapore本地国内快递 - Qxpress,domestic,5,5,2,6,4.51 SGD,True,Qxpress
+155,Japan到Germany国际物流 - FedEx,cross_border,13,16,10,30,6.0 EUR,True,FedEx
+156,Indonesia-Malaysia特快专递 - CJ Logistics,express,1,4,2,3,16.15 MYR,True,CJ Logistics
+157,Laos-Indonesia特快专递 - SF Express,express,8,1,1,2,116665.0 IDR,True,SF Express
+158,Brunei到USA国际物流 - TNT,international,10,12,7,15,9.87 USD,True,TNT
+159,Singapore到Malaysia国际物流 - SF Express,cross_border,5,4,8,27,17.4 MYR,False,SF Express
+160,Cambodia-Thailand经济物流 - CJ Logistics,economy,7,2,7,15,96.05 THB,True,CJ Logistics
+161,Australia-USA经济物流 - UPS,economy,15,12,7,21,1.72 USD,True,UPS
+162,Laos到Indonesia国际物流 - CJ Logistics,international,8,1,4,14,215857.0 IDR,True,CJ Logistics
+163,Germany到Malaysia国际物流 - Aramex,international,16,4,6,13,82.97 MYR,True,Aramex
+164,Thailand海外仓一件代发 - Janio,overseas_warehouse,2,2,2,3,16.42 THB,True,Janio
+165,China-Brunei经济物流 - Cainiao,economy,11,10,7,21,5.03 BND,True,Cainiao
+166,Laos本地国内快递 - Lao Post,domestic,8,8,3,3,11235.84 LAK,True,Lao Post
+167,Indonesia到Vietnam国际物流 - CJ Logistics,international,1,3,6,17,175.61 VND,True,CJ Logistics
+168,Brunei本地国内快递 - J&T Express Brunei,domestic,10,10,3,5,4.18 BND,True,J&T Express Brunei
+169,Australia到Laos国际物流 - TNT,cross_border,15,8,14,28,33227.28 LAK,True,TNT
+170,Singapore海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,5,5,1,2,1.45 SGD,True,Shopee Fulfillment
+171,Germany到Brunei国际物流 - UPS,international,16,10,4,20,14.19 BND,True,UPS
+172,Philippines到Vietnam国际物流 - Yamato Transport,cross_border,6,3,9,26,145.77 VND,True,Yamato Transport
+173,Philippines海外仓一件代发 - Amazon FBA,overseas_warehouse,6,6,1,3,52.58 PHP,True,Amazon FBA
+174,Indonesia到Laos国际物流 - CJ Logistics,cross_border,1,8,9,25,43645.92 LAK,True,CJ Logistics
+175,Philippines-Singapore经济物流 - Kerry Logistics,economy,6,5,5,15,6.24 SGD,False,Kerry Logistics
+176,USA-Singapore特快专递 - Aramex,express,12,5,1,2,13.41 SGD,True,Aramex
+177,Indonesia到Brunei国际物流 - SF Express,cross_border,1,10,9,27,7.43 BND,True,SF Express
+178,China到Indonesia国际物流 - 4PX,international,11,1,3,15,147298.0 IDR,True,4PX
+179,China-Cambodia特快专递 - Cainiao,express,11,7,2,3,18970.3 KHR,True,Cainiao
+180,Myanmar本地国内快递 - DHL Myanmar,domestic,9,9,1,4,493.94 MMK,True,DHL Myanmar
+181,Myanmar本地国内快递 - Myanmar Post,domestic,9,9,2,5,737.85 MMK,True,Myanmar Post
+182,Myanmar-Brunei经济物流 - Yamato Transport,economy,9,10,6,20,5.37 BND,True,Yamato Transport
+183,Laos到Singapore国际物流 - SF Express,international,8,5,7,12,7.14 SGD,True,SF Express
+184,Myanmar海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,9,9,1,2,635.48 MMK,True,Tokopedia Fulfillment
+185,Myanmar本地国内快递 - J&T Express Myanmar,domestic,9,9,1,7,1635.94 MMK,True,J&T Express Myanmar
+186,Brunei海外仓一件代发 - Amazon FBA,overseas_warehouse,10,10,2,5,1.17 BND,True,Amazon FBA
+187,Cambodia-Thailand特快专递 - SF Express,express,7,2,1,3,113.77 THB,True,SF Express
+188,Laos海外仓一件代发 - EasyParcel,overseas_warehouse,8,8,2,5,2661.84 LAK,True,EasyParcel
+189,Myanmar到Laos国际物流 - Yamato Transport,cross_border,9,8,11,19,23369.04 LAK,True,Yamato Transport
+190,Laos到Malaysia国际物流 - Yamato Transport,international,8,4,7,21,51.63 MYR,True,Yamato Transport
+191,Brunei本地国内快递 - Brunei Post,domestic,10,10,1,6,2.79 BND,True,Brunei Post
+192,Indonesia到Brunei国际物流 - CJ Logistics,international,1,10,6,9,25.8 BND,True,CJ Logistics
+193,Cambodia到Singapore国际物流 - CJ Logistics,international,7,5,6,20,5.46 SGD,True,CJ Logistics
+194,Indonesia到Laos国际物流 - CJ Logistics,international,1,8,4,18,42016.56 LAK,True,CJ Logistics
+195,Indonesia-Thailand经济物流 - CJ Logistics,economy,1,2,8,11,95.47 THB,True,CJ Logistics
+196,Malaysia本地国内快递 - Ninja Van Malaysia,domestic,4,4,2,3,14.4 MYR,True,Ninja Van Malaysia
+197,Brunei本地国内快递 - J&T Express Brunei,domestic,10,10,2,5,2.88 BND,True,J&T Express Brunei
+198,Cambodia到Brunei国际物流 - Yamato Transport,international,7,10,6,21,12.98 BND,True,Yamato Transport
+199,Myanmar到South Korea国际物流 - DHL,international,9,14,3,19,14154.06 KRW,True,DHL
+200,Thailand到Brunei国际物流 - SF Express,international,2,10,5,20,11.94 BND,True,SF Express
+201,Malaysia到Brunei国际物流 - CJ Logistics,international,4,10,4,21,10.45 BND,True,CJ Logistics
+202,Brunei到Cambodia国际物流 - Yamato Transport,international,10,7,3,10,26060.83 KHR,True,Yamato Transport
+203,Cambodia-Laos特快专递 - SF Express,express,7,8,1,4,30715.92 LAK,True,SF Express
+204,Japan-Laos经济物流 - Aramex,economy,13,8,5,23,13048.32 LAK,True,Aramex
+205,Singapore到Vietnam国际物流 - Kerry Logistics,international,5,3,6,14,399.26 VND,True,Kerry Logistics
+206,Malaysia到Indonesia国际物流 - SF Express,international,4,1,4,18,219138.0 IDR,True,SF Express
+207,UK到Malaysia国际物流 - DHL,cross_border,17,4,9,26,53.46 MYR,True,DHL
+208,China-Philippines经济物流 - ePacket,economy,11,6,7,22,183.41 PHP,False,ePacket
+209,Thailand到Myanmar国际物流 - CJ Logistics,cross_border,2,9,13,29,4870.77 MMK,True,CJ Logistics
+210,Laos-Malaysia经济物流 - Yamato Transport,economy,8,4,8,28,20.99 MYR,True,Yamato Transport
+211,Japan到Myanmar国际物流 - TNT,cross_border,13,9,11,31,4454.24 MMK,True,TNT
+212,Brunei到Myanmar国际物流 - CJ Logistics,cross_border,10,9,10,22,5413.42 MMK,True,CJ Logistics
+213,Brunei海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,10,10,2,4,0.72 BND,True,Shopee Fulfillment
+214,Vietnam-UK特快专递 - FedEx,express,3,17,1,2,6.79 GBP,True,FedEx
+215,Cambodia-Indonesia特快专递 - Yamato Transport,express,7,1,1,3,120418.0 IDR,True,Yamato Transport
+216,Malaysia到Myanmar国际物流 - SF Express,international,4,9,4,7,2856.78 MMK,True,SF Express
+217,Myanmar海外仓一件代发 - Janio,overseas_warehouse,9,9,1,2,266.61 MMK,True,Janio
+218,Myanmar海外仓一件代发 - Janio,overseas_warehouse,9,9,2,4,319.18 MMK,True,Janio
+219,Singapore海外仓一件代发 - EasyParcel,overseas_warehouse,5,5,2,5,1.54 SGD,True,EasyParcel
+220,Germany到Singapore国际物流 - Aramex,international,16,5,7,18,19.8 SGD,True,Aramex
+221,USA到Singapore国际物流 - Aramex,international,12,5,4,10,23.98 SGD,True,Aramex
+222,Malaysia到USA国际物流 - DHL,international,4,12,5,8,16.73 USD,True,DHL
+223,Laos-Philippines经济物流 - Yamato Transport,economy,8,6,8,15,190.93 PHP,True,Yamato Transport
+224,Philippines海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,6,6,2,2,21.06 PHP,True,Shopee Fulfillment
+225,Philippines本地国内快递 - Entrego,domestic,6,6,1,5,165.3 PHP,True,Entrego
+226,Australia到Malaysia国际物流 - Aramex,international,15,4,4,9,32.02 MYR,True,Aramex
+227,Cambodia-Malaysia特快专递 - Yamato Transport,express,7,4,1,2,30.87 MYR,True,Yamato Transport
+228,Philippines海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,6,6,2,5,63.85 PHP,True,Tokopedia Fulfillment
+229,Singapore到China国际物流 - 4PX,cross_border,5,11,11,22,73.46 CNY,True,4PX
+230,Philippines到Brunei国际物流 - Kerry Logistics,cross_border,6,10,14,35,18.11 BND,True,Kerry Logistics
+231,Laos海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,8,8,2,5,3786.96 LAK,True,Shopee Fulfillment
+232,Thailand本地国内快递 - Flash Express,domestic,2,2,3,7,91.6 THB,True,Flash Express
+233,Thailand到Laos国际物流 - CJ Logistics,international,2,8,4,10,69779.28 LAK,True,CJ Logistics
+234,Vietnam海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,3,3,1,2,26.47 VND,True,Shopee Fulfillment
+235,Japan到Thailand国际物流 - TNT,international,13,2,3,16,219.67 THB,True,TNT
+236,Vietnam到Indonesia国际物流 - Yamato Transport,international,3,1,7,11,201708.0 IDR,True,Yamato Transport
+237,Singapore-Philippines特快专递 - Kerry Logistics,express,5,6,1,4,400.88 PHP,True,Kerry Logistics
+238,USA到Myanmar国际物流 - DHL,cross_border,12,9,14,33,3437.12 MMK,True,DHL
+239,Japan-Singapore特快专递 - UPS,express,13,5,1,4,9.46 SGD,True,UPS
+240,Vietnam本地国内快递 - GrabExpress,domestic,3,3,1,3,29.33 VND,True,GrabExpress
+241,Thailand到Indonesia国际物流 - Kerry Logistics,cross_border,2,1,9,14,155693.0 IDR,True,Kerry Logistics
+242,Malaysia-South Korea特快专递 - Aramex,express,4,14,2,2,5511.12 KRW,True,Aramex
+243,Brunei本地国内快递 - DHL Brunei,domestic,10,10,1,7,1.44 BND,True,DHL Brunei
+244,Myanmar到Laos国际物流 - CJ Logistics,cross_border,9,8,11,33,41422.32 LAK,True,CJ Logistics
+245,Malaysia海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,4,4,2,5,4.96 MYR,True,Shopee Fulfillment
+246,Laos-Brunei经济物流 - SF Express,economy,8,10,5,28,4.18 BND,True,SF Express
+247,Thailand-Singapore特快专递 - Yamato Transport,express,2,5,2,3,6.34 SGD,True,Yamato Transport
+248,Indonesia本地国内快递 - J&T Express,domestic,1,1,2,3,20375.0 IDR,True,J&T Express
+249,Indonesia本地国内快递 - SiCepat,domestic,1,1,1,3,22180.0 IDR,True,SiCepat
+250,Malaysia-Singapore经济物流 - SF Express,economy,4,5,8,20,2.68 SGD,True,SF Express
+251,Thailand海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,2,2,1,4,24.13 THB,True,Tokopedia Fulfillment
+252,Philippines-Thailand特快专递 - CJ Logistics,express,6,2,1,3,117.09 THB,False,CJ Logistics
+253,South Korea-Indonesia经济物流 - FedEx,economy,14,1,9,29,33362.0 IDR,True,FedEx
+254,Malaysia到Philippines国际物流 - CJ Logistics,cross_border,4,6,7,28,246.94 PHP,True,CJ Logistics
+255,Laos本地国内快递 - Lao Post,domestic,8,8,2,6,2776.08 LAK,False,Lao Post
+256,Singapore本地国内快递 - Ninja Van Singapore,domestic,5,5,3,4,1.86 SGD,True,Ninja Van Singapore
+257,Cambodia本地国内快递 - EMS Cambodia,domestic,7,7,2,3,1863.88 KHR,True,EMS Cambodia
+258,Malaysia-Germany特快专递 - Aramex,express,4,16,2,4,4.4 EUR,True,Aramex
+259,Vietnam-Philippines特快专递 - Yamato Transport,express,3,6,1,2,488.75 PHP,True,Yamato Transport
+260,Brunei到Indonesia国际物流 - Kerry Logistics,cross_border,10,1,13,35,137306.0 IDR,True,Kerry Logistics
+261,USA-Thailand特快专递 - UPS,express,12,2,2,4,127.09 THB,True,UPS
+262,China-Malaysia特快专递 - Cainiao,express,11,4,1,3,13.11 MYR,True,Cainiao
+263,Vietnam到Singapore国际物流 - SF Express,international,3,5,7,20,22.95 SGD,True,SF Express
+264,Cambodia-Myanmar经济物流 - Yamato Transport,economy,7,9,5,24,1929.25 MMK,True,Yamato Transport
+265,Vietnam-Malaysia特快专递 - Kerry Logistics,express,3,4,1,4,17.72 MYR,True,Kerry Logistics
+266,Vietnam海外仓一件代发 - Janio,overseas_warehouse,3,3,1,2,22.52 VND,True,Janio
+267,South Korea到Laos国际物流 - TNT,cross_border,14,8,11,25,31981.68 LAK,True,TNT
+268,Malaysia本地国内快递 - GDEX,domestic,4,4,2,7,11.13 MYR,True,GDEX
+269,Thailand-USA经济物流 - Aramex,economy,2,12,10,24,2.86 USD,False,Aramex
+270,Thailand到Indonesia国际物流 - Kerry Logistics,international,2,1,6,16,74954.0 IDR,True,Kerry Logistics
+271,Singapore本地国内快递 - Ninja Van Singapore,domestic,5,5,1,7,0.99 SGD,True,Ninja Van Singapore
+272,UK-Vietnam经济物流 - FedEx,economy,17,3,6,10,59.47 VND,False,FedEx
+273,Philippines本地国内快递 - Entrego,domestic,6,6,1,4,60.34 PHP,True,Entrego
+274,Philippines-UK特快专递 - TNT,express,6,17,2,3,5.29 GBP,True,TNT
+275,Malaysia到Laos国际物流 - CJ Logistics,international,4,8,3,12,55594.56 LAK,True,CJ Logistics
+276,Thailand到Brunei国际物流 - Yamato Transport,international,2,10,4,16,14.41 BND,True,Yamato Transport
+277,USA-Laos经济物流 - DHL,economy,12,8,9,11,17934.72 LAK,True,DHL
+278,Laos海外仓一件代发 - Janio,overseas_warehouse,8,8,1,5,3452.4 LAK,True,Janio
+279,Philippines本地国内快递 - LBC Express,domestic,6,6,2,3,184.75 PHP,True,LBC Express
+280,Malaysia本地国内快递 - J&T Express Malaysia,domestic,4,4,1,5,10.33 MYR,True,J&T Express Malaysia
+281,Cambodia海外仓一件代发 - Janio,overseas_warehouse,7,7,2,5,1585.42 KHR,True,Janio
+282,Malaysia到South Korea国际物流 - DHL,cross_border,4,14,12,22,3259.72 KRW,True,DHL
+283,Cambodia-Indonesia经济物流 - Kerry Logistics,economy,7,1,6,22,31319.0 IDR,True,Kerry Logistics
+284,Malaysia本地国内快递 - GDEX,domestic,4,4,3,3,11.66 MYR,True,GDEX
+285,Cambodia到UK国际物流 - Aramex,cross_border,7,17,12,14,8.12 GBP,False,Aramex
+286,Malaysia-USA经济物流 - UPS,economy,4,12,8,28,2.16 USD,True,UPS
+287,Laos本地国内快递 - J&T Express Laos,domestic,8,8,2,7,10116.72 LAK,True,J&T Express Laos
+288,Vietnam-South Korea特快专递 - UPS,express,3,14,2,3,9881.72 KRW,True,UPS
+289,Germany-Singapore经济物流 - UPS,economy,16,5,6,17,5.93 SGD,True,UPS
+290,Singapore本地国内快递 - Qxpress,domestic,5,5,1,5,3.8 SGD,True,Qxpress
+291,Brunei-Laos特快专递 - SF Express,express,10,8,1,2,32183.52 LAK,True,SF Express
+292,Laos-Thailand特快专递 - CJ Logistics,express,8,2,1,3,274.24 THB,True,CJ Logistics
+293,Indonesia海外仓一件代发 - EasyParcel,overseas_warehouse,1,1,2,2,12191.0 IDR,True,EasyParcel
+294,Cambodia本地国内快递 - EMS Cambodia,domestic,7,7,2,5,4209.03 KHR,True,EMS Cambodia
+295,Cambodia到Japan国际物流 - UPS,international,7,13,4,12,2046.74 JPY,True,UPS
+296,Malaysia本地国内快递 - City-Link,domestic,4,4,3,6,8.81 MYR,True,City-Link
+297,Indonesia海外仓一件代发 - Anchanto,overseas_warehouse,1,1,1,5,19633.0 IDR,True,Anchanto
+298,USA到Singapore国际物流 - UPS,cross_border,12,5,10,21,6.78 SGD,True,UPS
+299,Myanmar-Australia经济物流 - UPS,economy,9,15,8,11,7.13 AUD,False,UPS
+300,Singapore本地国内快递 - Park & Parcel,domestic,5,5,3,4,2.58 SGD,True,Park & Parcel
+301,USA-Malaysia特快专递 - UPS,express,12,4,2,2,24.47 MYR,True,UPS
+302,Indonesia本地国内快递 - Anteraja,domestic,1,1,3,6,40343.0 IDR,True,Anteraja
+303,Indonesia-Vietnam特快专递 - CJ Logistics,express,1,3,2,2,103.8 VND,True,CJ Logistics
+304,Singapore海外仓一件代发 - EasyParcel,overseas_warehouse,5,5,2,3,1.36 SGD,True,EasyParcel
+305,Brunei-Vietnam特快专递 - CJ Logistics,express,10,3,1,3,200.76 VND,True,CJ Logistics
+306,Malaysia到Myanmar国际物流 - Kerry Logistics,cross_border,4,9,11,35,6035.2 MMK,True,Kerry Logistics
+307,Vietnam-Cambodia特快专递 - CJ Logistics,express,3,7,2,2,18559.58 KHR,True,CJ Logistics
+308,Malaysia本地国内快递 - J&T Express Malaysia,domestic,4,4,1,7,5.47 MYR,True,J&T Express Malaysia
+309,Myanmar本地国内快递 - J&T Express Myanmar,domestic,9,9,2,7,386.96 MMK,True,J&T Express Myanmar
+310,Singapore到Thailand国际物流 - Kerry Logistics,cross_border,5,2,10,35,381.7 THB,False,Kerry Logistics
+311,Vietnam本地国内快递 - Giao hàng nhanh,domestic,3,3,1,5,40.18 VND,True,Giao hàng nhanh
+312,Indonesia到Brunei国际物流 - Yamato Transport,international,1,10,7,12,17.63 BND,True,Yamato Transport
+313,China到Cambodia国际物流 - SunYou,international,11,7,4,21,19356.03 KHR,True,SunYou
+314,Vietnam-Singapore特快专递 - SF Express,express,3,5,1,3,8.45 SGD,True,SF Express
+315,Myanmar-Thailand经济物流 - SF Express,economy,9,2,9,12,154.07 THB,False,SF Express
+316,Germany到Laos国际物流 - Aramex,cross_border,16,8,13,18,38739.6 LAK,True,Aramex
+317,Malaysia到Laos国际物流 - CJ Logistics,international,4,8,5,9,37410.0 LAK,True,CJ Logistics
+318,Thailand-Japan经济物流 - Aramex,economy,2,13,7,20,228.59 JPY,True,Aramex
+319,Vietnam本地国内快递 - VNPost,domestic,3,3,2,5,63.55 VND,True,VNPost
+320,Malaysia到Thailand国际物流 - SF Express,international,4,2,5,7,205.67 THB,True,SF Express
+321,China到Laos国际物流 - Yanwen,international,11,8,5,12,28497.36 LAK,True,Yanwen
+322,Brunei本地国内快递 - J&T Express Brunei,domestic,10,10,3,3,2.35 BND,True,J&T Express Brunei
+323,Singapore到Philippines国际物流 - CJ Logistics,cross_border,5,6,8,22,523.95 PHP,True,CJ Logistics
+324,Laos到Singapore国际物流 - SF Express,cross_border,8,5,11,15,16.37 SGD,True,SF Express
+325,Malaysia海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,4,4,2,4,2.24 MYR,True,Tokopedia Fulfillment
+326,Vietnam本地国内快递 - Viettel Post,domestic,3,3,1,6,37.61 VND,True,Viettel Post
+327,Malaysia本地国内快递 - J&T Express Malaysia,domestic,4,4,2,3,10.41 MYR,True,J&T Express Malaysia
+328,Philippines到Laos国际物流 - Kerry Logistics,cross_border,6,8,10,16,17245.44 LAK,False,Kerry Logistics
+329,Myanmar-Brunei经济物流 - CJ Logistics,economy,9,10,6,12,5.89 BND,True,CJ Logistics
+330,China-Indonesia特快专递 - 4PX,express,11,1,1,3,101287.0 IDR,True,4PX
+331,Myanmar-Philippines特快专递 - SF Express,express,9,6,1,2,208.89 PHP,True,SF Express
+332,USA-Laos特快专递 - Aramex,express,12,8,1,3,33668.16 LAK,True,Aramex
+333,Singapore到Thailand国际物流 - CJ Logistics,cross_border,5,2,7,18,146.26 THB,True,CJ Logistics
+334,Indonesia到Vietnam国际物流 - Yamato Transport,international,1,3,7,16,415.23 VND,True,Yamato Transport
+335,Vietnam海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,3,3,1,5,15.67 VND,True,Shopee Fulfillment
+336,South Korea-USA经济物流 - FedEx,economy,14,12,6,17,3.09 USD,True,FedEx
+337,Malaysia海外仓一件代发 - Amazon FBA,overseas_warehouse,4,4,1,2,5.75 MYR,True,Amazon FBA
+338,Philippines到Vietnam国际物流 - SF Express,international,6,3,3,19,296.29 VND,True,SF Express
+339,Malaysia海外仓一件代发 - Amazon FBA,overseas_warehouse,4,4,1,4,4.53 MYR,True,Amazon FBA
+340,Laos到Brunei国际物流 - SF Express,international,8,10,6,12,12.96 BND,True,SF Express
+341,Singapore本地国内快递 - J&T Express Singapore,domestic,5,5,2,7,1.83 SGD,True,J&T Express Singapore
+342,Brunei-Laos特快专递 - Kerry Logistics,express,10,8,1,3,27426.0 LAK,True,Kerry Logistics
+343,Philippines本地国内快递 - Ninja Van Philippines,domestic,6,6,2,3,61.84 PHP,True,Ninja Van Philippines
+344,Brunei到Singapore国际物流 - Yamato Transport,cross_border,10,5,10,29,4.6 SGD,True,Yamato Transport
+345,Brunei海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,10,10,2,4,1.79 BND,True,Lazada Fulfillment
+346,Indonesia本地国内快递 - SiCepat,domestic,1,1,3,3,40337.0 IDR,True,SiCepat
+347,Myanmar到Cambodia国际物流 - CJ Logistics,cross_border,9,7,10,26,20965.59 KHR,True,CJ Logistics
+348,Myanmar海外仓一件代发 - Janio,overseas_warehouse,9,9,2,4,169.62 MMK,True,Janio
+349,Laos到South Korea国际物流 - DHL,cross_border,8,14,10,30,4004.38 KRW,True,DHL
+350,USA-Singapore特快专递 - TNT,express,12,5,1,2,7.24 SGD,True,TNT
+351,Indonesia海外仓一件代发 - Amazon FBA,overseas_warehouse,1,1,2,2,18844.0 IDR,True,Amazon FBA
+352,Myanmar-Vietnam经济物流 - CJ Logistics,economy,9,3,10,26,43.81 VND,True,CJ Logistics
+353,Brunei到Thailand国际物流 - Yamato Transport,international,10,2,5,11,579.25 THB,True,Yamato Transport
+354,Thailand海外仓一件代发 - EasyParcel,overseas_warehouse,2,2,2,3,39.06 THB,True,EasyParcel
+355,Thailand到Vietnam国际物流 - SF Express,international,2,3,7,9,161.16 VND,True,SF Express
+356,South Korea-Myanmar经济物流 - Aramex,economy,14,9,8,12,1694.02 MMK,True,Aramex
+357,Laos海外仓一件代发 - Amazon FBA,overseas_warehouse,8,8,1,3,3717.12 LAK,True,Amazon FBA
+358,Vietnam到Cambodia国际物流 - CJ Logistics,cross_border,3,7,10,28,31545.88 KHR,True,CJ Logistics
+359,Cambodia到Philippines国际物流 - SF Express,international,7,6,7,7,581.1 PHP,True,SF Express
+360,Laos到Malaysia国际物流 - Yamato Transport,cross_border,8,4,12,22,41.54 MYR,False,Yamato Transport
+361,Indonesia海外仓一件代发 - EasyParcel,overseas_warehouse,1,1,2,5,5218.0 IDR,True,EasyParcel
+362,Vietnam-Philippines经济物流 - Kerry Logistics,economy,3,6,7,27,138.87 PHP,True,Kerry Logistics
+363,Myanmar到Indonesia国际物流 - CJ Logistics,cross_border,9,1,14,20,191889.0 IDR,True,CJ Logistics
+364,USA-Indonesia特快专递 - UPS,express,12,1,2,4,86718.0 IDR,True,UPS
+365,Singapore-Cambodia经济物流 - Kerry Logistics,economy,5,7,9,12,4354.38 KHR,True,Kerry Logistics
+366,Laos-China经济物流 - SunYou,economy,8,11,8,15,14.89 CNY,True,SunYou
+367,Australia到Vietnam国际物流 - FedEx,cross_border,15,3,12,29,241.33 VND,True,FedEx
+368,Brunei-Myanmar特快专递 - Kerry Logistics,express,10,9,2,3,2653.07 MMK,True,Kerry Logistics
+369,Philippines海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,6,6,1,3,59.88 PHP,True,Shopee Fulfillment
+370,Indonesia到Brunei国际物流 - CJ Logistics,cross_border,1,10,13,33,10.46 BND,True,CJ Logistics
+371,Vietnam本地国内快递 - VNPost,domestic,3,3,2,6,33.1 VND,True,VNPost
+372,Japan到Vietnam国际物流 - Aramex,international,13,3,7,11,384.91 VND,False,Aramex
+373,Indonesia本地国内快递 - GrabExpress,domestic,1,1,2,6,42162.0 IDR,True,GrabExpress
+374,Philippines海外仓一件代发 - Anchanto,overseas_warehouse,6,6,2,3,60.58 PHP,True,Anchanto
+375,Singapore-Laos特快专递 - Kerry Logistics,express,5,8,2,3,24319.44 LAK,True,Kerry Logistics
+376,UK-Thailand特快专递 - Aramex,express,17,2,1,2,228.25 THB,True,Aramex
+377,Brunei本地国内快递 - DHL Brunei,domestic,10,10,1,4,3.21 BND,True,DHL Brunei
+378,Brunei到Philippines国际物流 - CJ Logistics,cross_border,10,6,7,34,573.18 PHP,True,CJ Logistics
+379,Philippines到Thailand国际物流 - Kerry Logistics,cross_border,6,2,13,34,216.08 THB,True,Kerry Logistics
+380,Philippines-Myanmar经济物流 - Yamato Transport,economy,6,9,5,11,2262.08 MMK,True,Yamato Transport
+381,Philippines-UK经济物流 - DHL,economy,6,17,8,13,1.82 GBP,False,DHL
+382,Malaysia-Vietnam经济物流 - Kerry Logistics,economy,4,3,9,20,115.97 VND,True,Kerry Logistics
+383,USA到Myanmar国际物流 - DHL,international,12,9,5,8,8986.2 MMK,True,DHL
+384,China到Myanmar国际物流 - SunYou,international,11,9,5,13,3037.32 MMK,True,SunYou
+385,Thailand-Singapore经济物流 - CJ Logistics,economy,2,5,5,13,3.71 SGD,True,CJ Logistics
+386,Brunei到Singapore国际物流 - SF Express,international,10,5,6,11,20.56 SGD,True,SF Express
+387,Singapore-Vietnam特快专递 - Kerry Logistics,express,5,3,2,2,224.46 VND,True,Kerry Logistics
+388,Malaysia-Vietnam特快专递 - Yamato Transport,express,4,3,1,4,160.97 VND,True,Yamato Transport
+389,Brunei到Indonesia国际物流 - SF Express,cross_border,10,1,10,25,77617.0 IDR,True,SF Express
+390,UK-Philippines特快专递 - DHL,express,17,6,2,2,317.93 PHP,True,DHL
+391,Malaysia到Indonesia国际物流 - CJ Logistics,cross_border,4,1,7,19,113351.0 IDR,True,CJ Logistics
+392,Singapore-Japan经济物流 - TNT,economy,5,13,7,17,377.53 JPY,True,TNT
+393,Singapore-Thailand特快专递 - CJ Logistics,express,5,2,2,4,136.19 THB,True,CJ Logistics
+394,Singapore海外仓一件代发 - Amazon FBA,overseas_warehouse,5,5,2,5,1.31 SGD,True,Amazon FBA
+395,Laos-Vietnam经济物流 - Yamato Transport,economy,8,3,10,29,80.71 VND,True,Yamato Transport
+396,Vietnam本地国内快递 - J&T Express Vietnam,domestic,3,3,2,6,15.07 VND,True,J&T Express Vietnam
+397,Indonesia海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,1,1,2,4,9633.0 IDR,True,Shopee Fulfillment
+398,Vietnam-Cambodia特快专递 - Yamato Transport,express,3,7,1,2,15139.52 KHR,True,Yamato Transport
+399,Thailand本地国内快递 - Kerry Express,domestic,2,2,3,4,43.78 THB,True,Kerry Express
+400,Laos-South Korea经济物流 - Aramex,economy,8,14,8,29,1825.36 KRW,True,Aramex
+401,Myanmar-UK特快专递 - UPS,express,9,17,2,2,3.75 GBP,True,UPS
+402,Malaysia-Japan特快专递 - Aramex,express,4,13,2,3,537.3 JPY,True,Aramex
+403,Singapore到USA国际物流 - FedEx,international,5,12,5,20,8.17 USD,True,FedEx
+404,Thailand本地国内快递 - Kerry Express,domestic,2,2,3,3,26.13 THB,True,Kerry Express
+405,Myanmar-UK经济物流 - UPS,economy,9,17,7,19,3.57 GBP,True,UPS
+406,Australia到Cambodia国际物流 - UPS,international,15,7,5,21,31001.2 KHR,True,UPS
+407,Vietnam海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,3,3,1,4,18.97 VND,True,Lazada Fulfillment
+408,Laos到Myanmar国际物流 - SF Express,international,8,9,5,21,5923.5 MMK,True,SF Express
+409,Laos海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,8,8,1,5,3687.12 LAK,True,Lazada Fulfillment
+410,Cambodia海外仓一件代发 - Anchanto,overseas_warehouse,7,7,2,4,2615.28 KHR,True,Anchanto
+411,Cambodia到Philippines国际物流 - SF Express,international,7,6,6,20,191.66 PHP,True,SF Express
+412,Malaysia-Singapore特快专递 - SF Express,express,4,5,2,3,5.48 SGD,True,SF Express
+413,Brunei海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,10,10,1,2,0.62 BND,True,Lazada Fulfillment
+414,Germany-Cambodia特快专递 - DHL,express,16,7,2,2,18476.11 KHR,True,DHL
+415,Myanmar到Thailand国际物流 - CJ Logistics,international,9,2,6,15,602.45 THB,True,CJ Logistics
+416,Cambodia-Australia经济物流 - UPS,economy,7,15,9,25,7.6 AUD,True,UPS
+417,Philippines本地国内快递 - LBC Express,domestic,6,6,1,5,65.74 PHP,True,LBC Express
+418,Myanmar海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,9,9,1,4,563.18 MMK,True,Lazada Fulfillment
+419,Philippines到Singapore国际物流 - SF Express,international,6,5,3,10,22.06 SGD,True,SF Express
+420,USA到Japan国际物流 - UPS,cross_border,12,13,14,15,356.68 JPY,True,UPS
+421,Vietnam到Indonesia国际物流 - Yamato Transport,cross_border,3,1,12,24,77530.0 IDR,False,Yamato Transport
+422,Brunei-Philippines特快专递 - SF Express,express,10,6,1,2,365.78 PHP,True,SF Express
+423,China-Brunei特快专递 - Yanwen,express,11,10,2,4,13.03 BND,True,Yanwen
+424,South Korea-Philippines特快专递 - Aramex,express,14,6,1,4,356.47 PHP,True,Aramex
+425,Cambodia-Thailand经济物流 - SF Express,economy,7,2,8,14,43.84 THB,True,SF Express
+426,Philippines到Vietnam国际物流 - Kerry Logistics,cross_border,6,3,10,30,136.69 VND,True,Kerry Logistics
+427,Thailand到Myanmar国际物流 - CJ Logistics,international,2,9,6,18,4570.47 MMK,True,CJ Logistics
+428,USA-Indonesia经济物流 - TNT,economy,12,1,8,30,36031.0 IDR,True,TNT
+429,Japan-Myanmar特快专递 - Aramex,express,13,9,2,2,2682.11 MMK,True,Aramex
+430,Malaysia到Laos国际物流 - Kerry Logistics,cross_border,4,8,13,23,21233.28 LAK,True,Kerry Logistics
+431,Singapore-Philippines特快专递 - CJ Logistics,express,5,6,2,4,194.39 PHP,True,CJ Logistics
+432,Vietnam到Germany国际物流 - Aramex,cross_border,3,16,7,22,3.64 EUR,True,Aramex
+433,Philippines海外仓一件代发 - aCommerce,overseas_warehouse,6,6,2,3,51.18 PHP,True,aCommerce
+434,Indonesia本地国内快递 - GoSend,domestic,1,1,2,3,35453.0 IDR,True,GoSend
+435,Laos本地国内快递 - J&T Express Laos,domestic,8,8,3,3,10278.48 LAK,True,J&T Express Laos
+436,Thailand到Myanmar国际物流 - SF Express,cross_border,2,9,10,17,4678.08 MMK,True,SF Express
+437,Singapore海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,5,5,2,2,1.53 SGD,True,Lazada Fulfillment
+438,Cambodia海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,7,7,2,3,2817.58 KHR,True,Tokopedia Fulfillment
+439,China到Indonesia国际物流 - 4PX,international,11,1,3,13,186267.0 IDR,True,4PX
+440,Cambodia海外仓一件代发 - Tokopedia Fulfillment,overseas_warehouse,7,7,1,5,893.01 KHR,True,Tokopedia Fulfillment
+441,Laos-Vietnam经济物流 - Yamato Transport,economy,8,3,10,12,60.71 VND,False,Yamato Transport
+442,Cambodia本地国内快递 - Cambodia Post,domestic,7,7,2,7,3104.88 KHR,True,Cambodia Post
+443,Singapore-Indonesia特快专递 - CJ Logistics,express,5,1,2,3,138542.0 IDR,True,CJ Logistics
+444,Australia-Vietnam特快专递 - FedEx,express,15,3,2,2,177.44 VND,True,FedEx
+445,Indonesia海外仓一件代发 - EasyParcel,overseas_warehouse,1,1,1,2,19116.0 IDR,True,EasyParcel
+446,Indonesia海外仓一件代发 - Amazon FBA,overseas_warehouse,1,1,1,3,6773.0 IDR,True,Amazon FBA
+447,USA-Vietnam经济物流 - UPS,economy,12,3,7,20,111.96 VND,True,UPS
+448,Philippines海外仓一件代发 - Shopee Fulfillment,overseas_warehouse,6,6,1,5,52.91 PHP,True,Shopee Fulfillment
+449,USA到Malaysia国际物流 - TNT,cross_border,12,4,9,24,39.57 MYR,True,TNT
+450,Indonesia海外仓一件代发 - aCommerce,overseas_warehouse,1,1,2,5,6003.0 IDR,True,aCommerce
+451,Laos到Thailand国际物流 - CJ Logistics,cross_border,8,2,13,17,283.48 THB,True,CJ Logistics
+452,Indonesia海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,1,1,1,4,18948.0 IDR,True,Lazada Fulfillment
+453,Thailand-China经济物流 - Yanwen,economy,2,11,7,27,16.91 CNY,True,Yanwen
+454,Philippines本地国内快递 - LBC Express,domestic,6,6,2,7,38.72 PHP,False,LBC Express
+455,Myanmar到USA国际物流 - Aramex,international,9,12,3,10,11.78 USD,True,Aramex
+456,China到Thailand国际物流 - 4PX,international,11,2,7,13,500.32 THB,True,4PX
+457,Thailand-Malaysia特快专递 - CJ Logistics,express,2,4,1,4,39.87 MYR,True,CJ Logistics
+458,Vietnam本地国内快递 - Giao hàng nhanh,domestic,3,3,1,5,30.84 VND,True,Giao hàng nhanh
+459,Malaysia-Brunei特快专递 - Kerry Logistics,express,4,10,1,4,7.22 BND,True,Kerry Logistics
+460,China到Myanmar国际物流 - SunYou,international,11,9,4,9,2499.78 MMK,True,SunYou
+461,China-Vietnam经济物流 - Cainiao,economy,11,3,10,30,51.09 VND,True,Cainiao
+462,Singapore-Indonesia特快专递 - Yamato Transport,express,5,1,2,4,101528.0 IDR,True,Yamato Transport
+463,Laos本地国内快递 - J&T Express Laos,domestic,8,8,1,7,7860.72 LAK,True,J&T Express Laos
+464,Myanmar到Brunei国际物流 - SF Express,cross_border,9,10,11,14,7.54 BND,True,SF Express
+465,Thailand到Singapore国际物流 - SF Express,international,2,5,3,9,25.72 SGD,True,SF Express
+466,Cambodia到USA国际物流 - DHL,international,7,12,5,14,8.62 USD,True,DHL
+467,Indonesia本地国内快递 - JNE,domestic,1,1,3,4,33330.0 IDR,True,JNE
+468,Japan到Indonesia国际物流 - TNT,international,13,1,6,10,158075.0 IDR,True,TNT
+469,Philippines-Myanmar特快专递 - Yamato Transport,express,6,9,1,2,1965.74 MMK,True,Yamato Transport
+470,Laos-Japan经济物流 - UPS,economy,8,13,5,17,407.0 JPY,True,UPS
+471,Germany到Philippines国际物流 - Aramex,cross_border,16,6,9,25,325.01 PHP,False,Aramex
+472,Laos到Germany国际物流 - Aramex,international,8,16,5,14,9.79 EUR,True,Aramex
+473,Malaysia本地国内快递 - Pos Malaysia,domestic,4,4,1,5,13.18 MYR,True,Pos Malaysia
+474,Thailand-Laos特快专递 - Kerry Logistics,express,2,8,1,3,35240.4 LAK,True,Kerry Logistics
+475,Thailand本地国内快递 - Kerry Express,domestic,2,2,2,5,90.23 THB,True,Kerry Express
+476,Malaysia-Australia经济物流 - FedEx,economy,4,15,6,10,7.55 AUD,True,FedEx
+477,Vietnam到Cambodia国际物流 - Yamato Transport,international,3,7,3,10,38594.08 KHR,True,Yamato Transport
+478,Japan-Indonesia特快专递 - FedEx,express,13,1,1,3,81284.0 IDR,True,FedEx
+479,Thailand-Cambodia经济物流 - Kerry Logistics,economy,2,7,9,30,11111.71 KHR,True,Kerry Logistics
+480,Singapore海外仓一件代发 - Lazada Fulfillment,overseas_warehouse,5,5,2,5,1.42 SGD,True,Lazada Fulfillment
+481,Philippines-Indonesia经济物流 - Yamato Transport,economy,6,1,8,25,53084.0 IDR,True,Yamato Transport
+482,Japan-Myanmar特快专递 - FedEx,express,13,9,2,3,2653.93 MMK,True,FedEx
+483,Cambodia海外仓一件代发 - Anchanto,overseas_warehouse,7,7,2,4,3122.39 KHR,True,Anchanto
+484,China-Singapore特快专递 - Yanwen,express,11,5,2,2,8.98 SGD,True,Yanwen
+485,Australia-Germany特快专递 - DHL,express,15,16,1,3,6.4 EUR,True,DHL
+486,Cambodia到Thailand国际物流 - SF Express,cross_border,7,2,12,18,248.65 THB,True,SF Express
+487,Laos到Singapore国际物流 - Kerry Logistics,international,8,5,7,15,21.07 SGD,True,Kerry Logistics
+488,Laos到Myanmar国际物流 - Kerry Logistics,international,8,9,3,8,9478.33 MMK,True,Kerry Logistics
+489,UK-Myanmar特快专递 - UPS,express,17,9,1,4,4601.82 MMK,True,UPS
+490,Malaysia-Myanmar经济物流 - Yamato Transport,economy,4,9,9,27,1266.87 MMK,True,Yamato Transport
+491,Indonesia本地国内快递 - J&T Express,domestic,1,1,2,6,40413.0 IDR,True,J&T Express
+492,Brunei到Vietnam国际物流 - SF Express,cross_border,10,3,11,20,293.79 VND,True,SF Express
+493,Singapore本地国内快递 - Qxpress,domestic,5,5,2,7,1.45 SGD,True,Qxpress
+494,Laos本地国内快递 - DHL Laos,domestic,8,8,3,4,7992.96 LAK,True,DHL Laos
+495,Brunei到USA国际物流 - Aramex,international,10,12,3,18,5.84 USD,True,Aramex
+496,Philippines-Vietnam经济物流 - CJ Logistics,economy,6,3,8,19,71.93 VND,True,CJ Logistics
+497,Vietnam本地国内快递 - GrabExpress,domestic,3,3,1,5,72.6 VND,True,GrabExpress
+498,Cambodia-Brunei特快专递 - SF Express,express,7,10,1,4,10.39 BND,True,SF Express
+499,Germany到Indonesia国际物流 - Aramex,international,16,1,6,12,229264.0 IDR,True,Aramex
+500,Myanmar到Malaysia国际物流 - CJ Logistics,international,9,4,4,18,31.47 MYR,True,CJ Logistics

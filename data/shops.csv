@@ -1,0 +1,501 @@
+shop_id,external_shop_id,platform_id,country_id,shop_name,shop_rating,follower_count,response_rate,joined_date,is_official_mall,location_city
+1,tokopedia_857799,3,1,Auto Empire Balikpapan Vendor,4.5,322980,93.2,2020-12-05,False,Balikpapan
+2,qoo10_691142,15,5,Car Essentials Boutique,4.6,6454,93.7,2023-10-22,False,Singapore
+3,shopee_621588,1,5,Food Delights Store,4.1,69754,98.7,2019-08-22,False,Singapore
+4,qoo10_775024,15,5,Tech Innovators Official Store,4.7,47267,97.8,2022-11-12,True,Singapore
+5,tokopedia_708558,3,1,Fashion Trend Emporium,4.0,127571,99.0,2021-06-18,False,Bandung
+6,sendo_298065,9,3,Smart Solutions Outlet,4.1,139309,97.4,2024-08-02,False,Vung Tau
+7,shopee_philippines_411825,14,6,Smart Solutions Quezon City Emporium,4.4,89223,97.5,2022-01-09,False,Quezon City
+8,the_gioi_di_dong_684470,10,3,Vehicle World Boutique,4.4,97261,98.1,2023-08-29,False,Can Tho
+9,qoo10_439304,15,5,Tech Innovators Singapore Store,4.3,43324,90.1,2024-10-16,False,Singapore
+10,lazada_987882,2,6,Vehicle Parts Davao City Emporium,4.3,21425,94.7,2023-08-08,False,Davao City
+11,zalora_496779,11,3,TechGadget Official,4.7,174223,98.9,2022-10-30,True,Quy Nhon
+12,shopee_708495,1,4,Trendy Wear Alor Setar Collection,4.9,71607,95.9,2023-04-15,False,Alor Setar
+13,shopee_malaysia_203304,12,4,Foodie Finds Official Store,4.8,58069,98.2,2023-10-15,True,Kota Kinabalu
+14,qoo10_671082,15,5,Food Delights Singapore Boutique,4.7,17714,93.5,2022-06-11,False,Singapore
+15,shopee_889938,1,4,Future Tech Kuala Terengganu Shop,4.6,78972,94.3,2023-04-30,False,Kuala Terengganu
+16,shopee_thailand_698324,6,2,Gadget Pro Flagship Store,5.0,58847,98.5,2021-04-06,True,Nakhon Si Thammarat
+17,sendo_327449,9,3,Smart Devices Hanoi Market,4.7,60179,97.1,2023-08-25,False,Hanoi
+18,lazada_682466,2,6,Little Angels Flagship Store,4.7,43899,97.1,2023-01-26,True,Iloilo City
+19,qoo10_837866,15,5,Perfect Skin Market,4.2,34678,96.7,2022-01-16,False,Singapore
+20,bukalapak_367265,8,1,Trendsetters Yogyakarta Emporium,4.9,70797,96.4,2023-06-02,False,Yogyakarta
+21,shopee_549820,1,3,Home Collection Certified Store,4.9,92005,97.2,2024-09-18,True,Can Tho
+22,the_gioi_di_dong_752569,10,3,Asian Beauty Quy Nhon Merchant,4.2,47384,93.4,2020-11-05,False,Quy Nhon
+23,tiktok_shop_indonesia_381924,17,1,Mother & Baby Store,4.8,87161,91.0,2018-02-28,False,Balikpapan
+24,tokopedia_791610,3,1,Little Angels Bogor Outlet,4.8,94230,91.5,2022-05-25,False,Bogor
+25,tiktok_shop_indonesia_958525,17,1,Trendsetters Outlet,4.8,102020,90.8,2022-09-21,False,Bandung
+26,lazada_vietnam_562390,5,3,Tech Universe Nam Dinh Vendor,4.2,138169,92.4,2021-05-04,False,Nam Dinh
+27,shopee_malaysia_773149,12,4,Food Delights Store,4.4,80826,92.2,2022-01-20,False,Kuala Lumpur
+28,sendo_259539,9,3,Future Tech Nam Dinh Collection,4.0,31006,95.7,2019-09-11,False,Nam Dinh
+29,tiki_223708,4,3,Food Empire Certified Store,4.9,81711,98.8,2024-12-28,True,Hanoi
+30,lazada_vietnam_329466,5,3,Living Spaces Bien Hoa Collection,4.6,129581,96.9,2023-12-09,False,Bien Hoa
+31,amazonsg_565072,16,5,Home Living Certified Store,4.8,55226,98.3,2019-05-22,True,Singapore
+32,lazada_145403,2,5,Auto Gear Official Store,4.7,33244,98.3,2018-06-13,True,Singapore
+33,sendo_229785,9,3,Fashionista Shop,4.1,100455,90.5,2025-04-08,False,Can Tho
+34,the_gioi_di_dong_747081,10,3,Auto Innovations Nam Dinh Collection,4.7,97587,98.8,2024-05-03,False,Nam Dinh
+35,bukalapak_125933,8,1,Automotive Solutions Merchant,4.4,83770,90.1,2024-05-25,False,Denpasar
+36,qoo10_781610,15,5,Culinary Treasures Merchant,4.3,33389,92.8,2023-02-06,False,Singapore
+37,the_gioi_di_dong_170163,10,3,Auto Empire Official Retailer,5.0,106762,97.2,2022-09-21,True,Hanoi
+38,tiktok_shop_indonesia_272681,17,1,Auto Parts Pro Pekanbaru Vendor,4.2,45914,96.3,2019-06-01,False,Pekanbaru
+39,shopee_thailand_835214,6,2,Outdoor Adventures Official Store,4.9,49561,97.3,2024-11-04,True,Chiang Mai
+40,amazonsg_932321,16,5,Home Style Outlet,4.5,23952,93.7,2024-03-17,False,Singapore
+41,tiktok_shop_thailand_335574,18,2,Baby Care Samut Prakan Shop,4.7,129564,97.4,2023-08-09,False,Samut Prakan
+42,tiktok_shop_indonesia_306835,17,1,Asian Beauty Outlet,4.4,62636,91.2,2020-04-30,False,Pekanbaru
+43,lazada_vietnam_848966,5,3,Foodie Finds Boutique,4.2,37944,97.0,2020-01-23,False,Buon Ma Thuot
+44,the_gioi_di_dong_382158,10,3,Fashion Empire Thai Nguyen Store,4.8,28268,96.6,2020-02-21,False,Thai Nguyen
+45,carousell_644898,20,5,Fashionista Singapore Boutique,4.6,18330,90.3,2021-04-28,False,Singapore
+46,tiktok_shop_thailand_520641,18,2,Automotive Solutions Khon Kaen Emporium,4.1,124910,91.5,2022-04-11,False,Khon Kaen
+47,qoo10_864078,15,5,Perfect Skin Market,4.4,71082,97.1,2020-05-25,False,Singapore
+48,amazonsg_324563,16,5,Auto Innovations Singapore Store,4.7,57275,93.4,2021-12-27,False,Singapore
+49,shopee_thailand_604836,6,2,Outdoor Life Surat Thani Boutique,4.7,68543,92.7,2019-04-20,False,Surat Thani
+50,lazada_philippines_876218,13,6,Little Angels Vendor,4.2,82168,97.6,2023-09-28,False,Quezon City
+51,bukalapak_767619,8,1,Electronics Plus Certified Store,4.8,8970,99.5,2020-05-12,True,Jakarta
+52,blibli_333284,7,1,Car World Batam Trading,4.2,82634,97.2,2024-11-25,False,Batam
+53,tokopedia_823155,3,1,Fashion Hub Palembang Vendor,4.9,221897,90.9,2023-04-24,False,Palembang
+54,tokopedia_236482,3,1,Healthy Bites Merchant,4.9,176223,96.6,2025-05-10,False,Tangerang
+55,tiktok_shop_vietnam_847863,19,3,Chic Collection Certified Store,4.9,75247,99.1,2024-03-15,True,Hai Phong
+56,tokopedia_574072,3,1,Comfort Home Collection,4.3,259448,90.7,2019-02-22,False,Medan
+57,the_gioi_di_dong_934170,10,3,Delicious Finds Bien Hoa Market,4.8,86974,90.9,2022-07-27,False,Bien Hoa
+58,zalora_564382,11,2,Tech Universe Rayong Shop,4.3,92813,93.7,2024-11-03,False,Rayong
+59,shopee_507852,1,4,Beauty Paradise Brand Store,4.9,65956,99.8,2018-03-19,True,George Town
+60,zalora_307732,11,2,Gourmet Foods Collection,4.4,38039,93.9,2022-06-25,False,Bangkok
+61,shopee_thailand_657982,6,2,Car Care Shop,4.3,117372,91.4,2018-08-06,False,Bangkok
+62,tiki_532095,4,3,Gourmet Haven Da Nang Merchant,4.7,69775,94.9,2022-06-18,False,Da Nang
+63,lazada_philippines_623381,13,6,Sports World Boutique,4.6,18275,95.7,2018-01-06,False,Zamboanga City
+64,the_gioi_di_dong_140937,10,3,Home Essentials Emporium,4.4,70063,91.7,2021-03-25,False,Hanoi
+65,bukalapak_889292,8,1,House & Garden Depok Boutique,4.8,60478,90.4,2025-05-06,False,Depok
+66,qoo10_359670,15,5,Home Living Outlet,4.8,51078,98.6,2024-02-17,False,Singapore
+67,tiki_281437,4,3,Natural Beauty Official Retailer,4.6,93259,98.5,2024-05-01,True,Quy Nhon
+68,amazonsg_641300,16,5,Food Empire Authorized Store,4.7,4601,98.7,2020-04-11,True,Singapore
+69,the_gioi_di_dong_635493,10,3,Snack World Outlet,4.7,104250,98.1,2025-04-11,False,Thai Nguyen
+70,sendo_128983,9,3,Foodie Finds Buon Ma Thuot Vendor,4.2,65001,97.1,2023-08-13,False,Buon Ma Thuot
+71,tiktok_shop_thailand_661220,18,2,Smart Solutions Hat Yai Shop,4.3,93420,94.4,2023-10-14,False,Hat Yai
+72,zalora_907738,11,5,Active Wear Singapore Collection,4.5,64815,97.0,2018-12-19,False,Singapore
+73,tiki_636443,4,3,House & Garden Vendor,4.8,51354,97.6,2024-04-13,False,Nha Trang
+74,tiktok_shop_vietnam_587269,19,3,Asian Beauty Emporium,4.3,93661,93.4,2024-04-30,False,Hue
+75,tiki_784945,4,3,Smart Devices Certified Store,5.0,64677,99.7,2022-01-13,True,Ho Chi Minh City
+76,the_gioi_di_dong_422627,10,3,Asian Beauty Certified Store,4.6,85165,99.6,2022-02-13,True,Ha Long
+77,bukalapak_359337,8,1,Smart Solutions Tangerang Boutique,4.1,129208,91.4,2023-01-19,False,Tangerang
+78,carousell_773118,20,5,Style Haven Singapore Shop,4.2,45606,95.4,2024-06-01,False,Singapore
+79,shopee_philippines_676028,14,6,Modern Style Emporium,4.7,51316,90.8,2020-12-16,False,Quezon City
+80,lazada_vietnam_723924,5,3,Outdoor Adventures Ho Chi Minh City Market,4.0,54100,97.9,2025-01-22,False,Ho Chi Minh City
+81,carousell_717504,20,5,Automotive Pro Shop,4.7,29972,93.2,2024-11-16,False,Singapore
+82,tiktok_shop_vietnam_658972,19,3,Automotive Pro Outlet,4.7,143261,92.9,2019-12-25,False,Hai Phong
+83,tiktok_shop_vietnam_597402,19,3,Style Haven Store,4.8,56198,92.1,2023-03-07,False,Nha Trang
+84,lazada_vietnam_894415,5,3,Cosmic Beauty Authorized Store,5.0,69453,98.3,2023-05-09,True,Hai Phong
+85,zalora_822043,11,3,Cosmetics World Thai Nguyen Outlet,4.2,88554,91.5,2018-12-17,False,Thai Nguyen
+86,bukalapak_486389,8,1,Gourmet Haven Semarang Outlet,4.7,84797,92.8,2022-05-27,False,Semarang
+87,tiktok_shop_indonesia_174933,17,1,Foodie Finds Bekasi Boutique,4.1,27582,96.7,2021-08-10,False,Bekasi
+88,shopee_365039,1,2,Gadget Pro Official Store,4.8,38059,98.8,2024-12-08,True,Nakhon Si Thammarat
+89,amazonsg_344601,16,5,Vehicle Parts Official,4.9,36947,99.8,2021-07-16,True,Singapore
+90,tiki_102093,4,3,Food Empire Vendor,4.1,39433,96.5,2021-03-05,False,Nam Dinh
+91,tokopedia_281676,3,1,Future Tech Store,4.1,288114,90.7,2024-07-21,False,Bekasi
+92,lazada_philippines_190054,13,6,Outdoor Life Certified Store,4.8,43324,99.5,2020-02-08,True,Parañaque
+93,tiki_234802,4,3,TechGadget Official Retailer,4.6,76057,99.0,2022-04-27,True,Buon Ma Thuot
+94,sendo_378140,9,3,Food Paradise Official Retailer,4.8,124496,98.5,2020-09-12,True,Hai Phong
+95,lazada_philippines_516339,13,6,Baby Essentials Brand Store,4.8,18437,97.6,2022-01-23,True,Dasmarinas
+96,shopee_993084,1,6,Fashion Hub Cebu City Market,4.6,30894,94.1,2024-05-09,False,Cebu City
+97,lazada_philippines_149968,13,6,Delicious Finds Collection,4.4,41642,95.2,2024-02-19,False,Cebu City
+98,tokopedia_318048,3,1,Electronics Plus Authorized Store,4.9,74729,98.2,2025-08-16,True,Depok
+99,shopee_thailand_430088,6,2,Sporting Goods Outlet,4.6,22494,95.1,2021-10-13,False,Pattaya
+100,bukalapak_755153,8,1,Electro World Official Retailer,4.9,65423,99.2,2022-04-11,True,Medan
+101,bukalapak_111007,8,1,Home Sweet Home Emporium,4.3,15645,94.5,2022-11-29,False,Tangerang
+102,qoo10_888575,15,5,Perfect Skin Singapore Merchant,4.3,11510,95.1,2025-07-27,False,Singapore
+103,tiktok_shop_thailand_114997,18,2,Active Wear Certified Store,4.5,25996,97.5,2022-02-10,True,Bangkok
+104,tiki_831671,4,3,Fit & Healthy Outlet,4.7,36093,97.1,2021-11-13,False,Quy Nhon
+105,amazonsg_855559,16,5,Cosmetics World Singapore Emporium,4.8,46919,92.3,2020-09-08,False,Singapore
+106,zalora_455640,11,3,Little Ones Official Store,4.8,96349,97.7,2024-08-25,True,Hue
+107,shopee_249083,1,2,Foodie Finds Nakhon Si Thammarat Emporium,4.6,58797,92.2,2020-03-24,False,Nakhon Si Thammarat
+108,shopee_philippines_931055,14,6,Parenting Pro Market,4.6,15482,95.1,2025-09-11,False,Davao City
+109,tiki_302662,4,3,Car Essentials Official Store,4.8,70034,98.8,2022-12-03,True,Ho Chi Minh City
+110,qoo10_854575,15,5,Trendy Wear Certified Store,5.0,45398,97.4,2023-04-08,True,Singapore
+111,the_gioi_di_dong_131274,10,3,Fit & Healthy Nha Trang Outlet,4.1,127549,93.6,2024-02-13,False,Nha Trang
+112,lazada_vietnam_368044,5,3,Baby Love Merchant,4.8,102840,90.6,2021-05-13,False,Hue
+113,the_gioi_di_dong_871167,10,3,Electronics Plus Nam Dinh Boutique,4.6,149806,92.0,2022-03-16,False,Nam Dinh
+114,shopee_744923,1,1,Snack World Medan Market,4.2,195331,92.9,2022-04-11,False,Medan
+115,lazada_515884,2,2,Baby World Boutique,4.1,136895,91.0,2023-03-20,False,Bangkok
+116,shopee_646047,1,2,Car Accessories Brand Store,4.7,112425,99.9,2020-03-03,True,Hat Yai
+117,the_gioi_di_dong_239631,10,3,Urban Fashion Boutique,4.5,44207,96.8,2021-09-27,False,Nam Dinh
+118,tiktok_shop_thailand_234892,18,2,Smart Solutions Merchant,4.5,85620,91.4,2021-10-26,False,Samut Prakan
+119,shopee_philippines_742634,14,6,Baby Love Trading,4.5,24653,90.5,2024-01-10,False,Cagayan de Oro
+120,shopee_malaysia_707574,12,4,Tech Universe Kuala Terengganu Trading,4.3,62300,96.7,2020-01-11,False,Kuala Terengganu
+121,qoo10_261583,15,5,Car Essentials Singapore Vendor,4.4,36175,96.6,2021-10-12,False,Singapore
+122,lazada_philippines_408639,13,6,Fitness Hub Cebu City Market,4.7,58746,97.5,2024-06-05,False,Cebu City
+123,lazada_962982,2,3,Sporting Goods Nha Trang Vendor,4.4,16554,93.0,2025-04-06,False,Nha Trang
+124,tiktok_shop_indonesia_831896,17,1,Fashionista Pekanbaru Trading,4.6,66967,96.4,2023-12-03,False,Pekanbaru
+125,blibli_892131,7,1,Trendsetters Palembang Store,4.7,32866,94.6,2018-07-23,False,Palembang
+126,amazonsg_369503,16,5,Beauty Paradise Boutique,4.1,60571,92.6,2023-05-09,False,Singapore
+127,lazada_philippines_259756,13,6,Digital Hub Bacolod Merchant,4.5,14563,94.6,2019-12-09,False,Bacolod
+128,lazada_philippines_753133,13,6,Beauty Boutique Pasig Market,4.6,36568,92.5,2023-08-09,False,Pasig
+129,tiktok_shop_thailand_827356,18,2,Baby Haven Flagship Store,4.7,30815,98.5,2023-04-01,True,Rayong
+130,tiktok_shop_vietnam_656776,19,3,Sports World Official Store,4.9,143982,99.3,2023-03-09,True,Bien Hoa
+131,lazada_vietnam_611059,5,3,Makeup Empire Market,4.0,106731,90.4,2021-12-23,False,Hanoi
+132,qoo10_574388,15,5,Foodie Finds Singapore Boutique,4.4,10661,91.9,2021-09-15,False,Singapore
+133,qoo10_614785,15,5,Tech Universe Flagship Store,4.9,48918,97.1,2024-09-04,True,Singapore
+134,tiktok_shop_indonesia_112579,17,1,Home Style Brand Store,5.0,93705,99.2,2024-06-22,True,Malang
+135,amazonsg_924815,16,5,Sports Gear Merchant,4.1,37402,93.9,2023-11-10,False,Singapore
+136,qoo10_693600,15,5,Beauty Paradise Outlet,4.0,69783,92.9,2020-05-02,False,Singapore
+137,tiktok_shop_thailand_856461,18,2,Food Empire Brand Store,4.9,128545,99.9,2021-04-16,True,Phuket
+138,shopee_malaysia_217125,12,4,Vehicle Parts George Town Trading,4.3,63026,90.2,2023-06-27,False,George Town
+139,sendo_799290,9,3,Style Gallery Da Nang Shop,4.8,69722,96.2,2024-03-10,False,Da Nang
+140,lazada_104692,2,4,Fashion Empire Outlet,4.4,68119,95.3,2022-09-13,False,Kuala Terengganu
+141,sendo_158322,9,3,Electro World Ha Long Boutique,4.1,104662,95.5,2025-08-20,False,Ha Long
+142,qoo10_740320,15,5,Trendsetters Singapore Market,4.1,55708,96.8,2023-12-04,False,Singapore
+143,bukalapak_256166,8,1,Gourmet Haven Official Store,4.6,59031,97.3,2024-02-25,True,Yogyakarta
+144,shopee_philippines_860384,14,6,Living Comfort Dasmarinas Shop,4.5,20708,92.3,2023-02-22,False,Dasmarinas
+145,lazada_philippines_204491,13,6,Electronics Plus Dasmarinas Vendor,4.4,28200,91.0,2019-09-07,False,Dasmarinas
+146,tiktok_shop_thailand_584182,18,2,Trendsetters Shop,4.6,85361,97.8,2024-02-05,False,Khon Kaen
+147,shopee_706627,1,1,Snack World Official Store,4.6,327798,98.1,2025-11-18,True,Pekanbaru
+148,lazada_701816,2,3,Glow Beauty Boutique,4.6,85579,90.4,2020-04-18,False,Quy Nhon
+149,bukalapak_589497,8,1,Beauty Boutique Outlet,4.6,35976,90.9,2022-02-19,False,Bogor
+150,tiki_368281,4,3,Style Haven Boutique,4.3,121485,90.1,2022-11-27,False,Hanoi
+151,shopee_thailand_486852,6,2,Chic Collection Trading,4.8,120038,95.4,2024-11-12,False,Nakhon Ratchasima
+152,shopee_thailand_503504,6,2,Baby Care Emporium,4.5,22910,94.3,2024-08-03,False,Bangkok
+153,tiktok_shop_thailand_242004,18,2,Future Tech Merchant,4.4,106328,95.9,2025-08-09,False,Samut Prakan
+154,carousell_829014,20,5,Active Wear Singapore Collection,4.7,18614,92.3,2024-05-11,False,Singapore
+155,lazada_vietnam_566725,5,3,Active Life Official Store,4.6,92695,97.6,2019-02-17,True,Hai Phong
+156,shopee_thailand_163623,6,2,Fashion Empire Official,4.6,68272,97.0,2019-07-10,True,Udon Thani
+157,lazada_philippines_895210,13,6,Gadget Pro Antipolo Vendor,4.4,18121,90.0,2025-12-07,False,Antipolo
+158,tiktok_shop_vietnam_344509,19,3,Home Collection Vung Tau Store,4.2,51086,96.3,2020-08-11,False,Vung Tau
+159,bukalapak_612681,8,1,Car Care Official Retailer,4.6,23361,99.2,2024-06-20,True,Batam
+160,shopee_783285,1,3,Cosmetics World Brand Store,4.7,62453,97.5,2019-03-22,True,Quy Nhon
+161,lazada_philippines_143929,13,6,Skincare Haven Cagayan de Oro Market,4.4,97355,93.9,2025-08-10,False,Cagayan de Oro
+162,bukalapak_442754,8,1,Foodie Finds Emporium,4.8,46385,92.7,2025-02-14,False,Pekanbaru
+163,tiktok_shop_thailand_330808,18,2,Car Care Official Store,4.9,122083,97.8,2023-11-22,True,Bangkok
+164,tiki_213145,4,3,Home Essentials Can Tho Outlet,4.8,118096,92.8,2022-11-07,False,Can Tho
+165,tiktok_shop_thailand_115073,18,2,Parenting Pro Emporium,4.4,30604,91.3,2024-09-11,False,Chiang Mai
+166,amazonsg_745116,16,5,Electronics Plus Outlet,4.2,37416,95.2,2020-09-22,False,Singapore
+167,amazonsg_721159,16,5,Fashion Trend Singapore Shop,4.6,33578,94.2,2024-07-06,False,Singapore
+168,tiki_231498,4,3,Tiny Treasures Trading,4.8,52901,98.3,2021-04-28,False,Buon Ma Thuot
+169,tiki_501715,4,3,Culinary Treasures Market,4.3,100508,91.4,2021-04-18,False,Hai Phong
+170,blibli_638659,7,1,Little Angels Collection,4.9,102164,94.7,2025-02-22,False,Semarang
+171,lazada_philippines_429982,13,6,Domestic Bliss Cebu City Vendor,4.1,33040,90.2,2025-09-04,False,Cebu City
+172,tokopedia_461296,3,1,Style Haven Authorized Store,4.7,328601,97.3,2020-07-26,True,Bandung
+173,lazada_181303,2,6,Beauty Paradise Authorized Store,4.8,75513,99.7,2025-01-03,True,Quezon City
+174,shopee_malaysia_436958,12,4,Fitness Pro Market,4.2,116798,97.7,2022-04-17,False,Kuala Terengganu
+175,tiki_815023,4,3,Urban Fashion Flagship Store,4.9,71878,98.8,2024-04-07,True,Thai Nguyen
+176,zalora_917521,11,1,Baby Boutique Store,4.0,30253,96.6,2021-06-03,False,Yogyakarta
+177,shopee_thailand_260045,6,2,Auto Parts Pro Chiang Mai Merchant,4.2,52972,96.8,2018-03-31,False,Chiang Mai
+178,lazada_663414,2,3,Sports World Official,4.6,71741,98.5,2025-02-24,True,Vung Tau
+179,lazada_philippines_646357,13,6,Natural Beauty Market,4.2,31638,98.7,2024-02-23,False,Zamboanga City
+180,shopee_thailand_736253,6,2,Trendsetters Authorized Store,4.9,70756,99.4,2020-12-26,True,Nonthaburi
+181,tiki_922602,4,3,Gadget Pro Official Retailer,4.8,129084,98.3,2022-02-28,True,Buon Ma Thuot
+182,lazada_627202,2,6,Car Essentials Cagayan de Oro Trading,4.7,47967,94.9,2024-10-14,False,Cagayan de Oro
+183,shopee_philippines_302657,14,6,Foodie Finds Boutique,4.6,29411,97.3,2024-01-11,False,Quezon City
+184,shopee_653187,1,2,Gourmet Foods Official Retailer,4.5,153863,99.3,2019-10-23,True,Phuket
+185,shopee_philippines_752439,14,6,Tech Innovators Brand Store,4.7,72982,97.3,2023-06-21,True,Parañaque
+186,lazada_133704,2,6,Electronics Plus Flagship Store,4.8,17218,99.0,2024-04-30,True,Cagayan de Oro
+187,bukalapak_580935,8,1,Future Tech Market,4.2,20497,96.8,2021-06-18,False,Palembang
+188,lazada_vietnam_259660,5,3,Modern Living Official Retailer,4.9,72153,97.9,2022-07-15,True,Quy Nhon
+189,shopee_thailand_445966,6,2,Auto Parts Pro Certified Store,4.6,69338,99.5,2022-06-13,True,Phuket
+190,tiktok_shop_vietnam_105196,19,3,Little Ones Store,4.7,134083,99.0,2023-02-01,False,Hanoi
+191,bukalapak_894306,8,1,Vehicle World Makassar Emporium,4.5,31633,97.9,2021-05-12,False,Makassar
+192,lazada_philippines_460965,13,6,Luxury Cosmetics Boutique,4.8,26984,93.2,2021-01-19,False,Manila
+193,tiki_679892,4,3,Baby Love Quy Nhon Collection,4.5,63769,96.2,2024-04-19,False,Quy Nhon
+194,blibli_942933,7,1,Food Paradise Malang Emporium,4.2,47613,95.6,2025-03-19,False,Malang
+195,tiktok_shop_thailand_406454,18,2,Future Tech Emporium,4.4,98135,92.6,2022-12-25,False,Bangkok
+196,shopee_malaysia_263205,12,4,Gadget Pro Vendor,4.7,61224,90.4,2019-11-06,False,Seremban
+197,tokopedia_232773,3,1,Automotive Solutions Bandung Store,4.9,197001,97.8,2021-01-30,False,Bandung
+198,bukalapak_914226,8,1,Automotive Solutions Shop,4.2,27228,91.5,2022-10-15,False,Bandung
+199,sendo_714756,9,3,Future Tech Authorized Store,4.9,97372,98.6,2019-08-22,True,Ha Long
+200,lazada_philippines_757277,13,6,Home Decor Official Store,4.8,39089,97.8,2024-12-10,True,Taguig
+201,carousell_349700,20,5,Natural Beauty Singapore Shop,4.2,47365,98.1,2024-06-15,False,Singapore
+202,qoo10_584669,15,5,Outdoor Life Official,4.6,58440,97.8,2023-02-03,True,Singapore
+203,carousell_264317,20,5,Natural Beauty Shop,4.9,70399,95.0,2024-03-19,False,Singapore
+204,lazada_vietnam_697215,5,3,Food Empire Collection,4.6,31385,92.0,2025-10-06,False,Buon Ma Thuot
+205,shopee_thailand_827690,6,2,Gourmet Haven Official Retailer,4.6,36573,98.8,2022-07-24,True,Nakhon Ratchasima
+206,shopee_thailand_948207,6,2,Automotive Pro Official Store,4.5,88349,99.0,2024-05-18,True,Rayong
+207,bukalapak_896175,8,1,Skincare Haven Official Retailer,4.7,51267,98.7,2023-05-19,True,Surabaya
+208,shopee_720129,1,5,Beauty Paradise Boutique,4.5,69751,97.4,2021-12-29,False,Singapore
+209,bukalapak_584971,8,1,Baby Essentials Brand Store,4.8,48187,98.4,2021-07-07,True,Malang
+210,tiktok_shop_vietnam_350144,19,3,Home Collection Bien Hoa Trading,4.7,96626,96.9,2024-07-04,False,Bien Hoa
+211,shopee_philippines_370937,14,6,Style Gallery Emporium,4.8,48624,91.0,2019-05-27,False,Parañaque
+212,amazonsg_250198,16,5,Glow Beauty Boutique,4.2,20323,90.7,2021-09-18,False,Singapore
+213,tokopedia_954229,3,1,Tech Innovators Makassar Store,4.3,305949,97.2,2025-01-31,False,Makassar
+214,shopee_malaysia_590769,12,4,Baby Essentials Shop,4.7,72767,98.3,2024-02-10,False,Kuala Lumpur
+215,shopee_thailand_937764,6,2,Vehicle World Nakhon Si Thammarat Market,4.6,179646,90.1,2020-04-23,False,Nakhon Si Thammarat
+216,tiktok_shop_vietnam_529577,19,3,Home Sweet Home Official Retailer,4.6,144885,97.6,2022-09-23,True,Hue
+217,lazada_philippines_732771,13,6,Living Comfort Shop,4.3,19957,90.9,2025-06-02,False,Bacolod
+218,shopee_philippines_553845,14,6,Urban Fashion Merchant,4.6,27074,92.5,2021-08-30,False,Quezon City
+219,shopee_malaysia_648505,12,4,Fitness Hub Official Retailer,4.6,30040,99.8,2022-06-23,True,Ipoh
+220,amazonsg_270241,16,5,Auto Innovations Singapore Merchant,4.5,8638,95.7,2021-06-22,False,Singapore
+221,tiki_470503,4,3,Sports World Bien Hoa Merchant,4.3,136417,94.1,2023-05-27,False,Bien Hoa
+222,shopee_philippines_460810,14,6,Car Essentials Certified Store,5.0,13511,99.8,2022-06-02,True,Taguig
+223,lazada_781955,2,1,Fitness Hub Surabaya Shop,4.0,225743,94.8,2022-12-13,False,Surabaya
+224,the_gioi_di_dong_195029,10,3,Home Living Brand Store,4.7,41244,99.3,2020-01-15,True,Quy Nhon
+225,zalora_953117,11,1,Little Ones Vendor,4.5,61749,93.8,2020-09-24,False,Yogyakarta
+226,lazada_207822,2,1,Smart Devices Denpasar Emporium,4.2,184047,97.6,2025-08-14,False,Denpasar
+227,amazonsg_692963,16,5,Urban Fashion Collection,4.8,32848,91.1,2018-03-18,False,Singapore
+228,blibli_673127,7,1,Glow Beauty Boutique,4.3,26630,95.0,2022-06-17,False,Jakarta
+229,blibli_330350,7,1,Trendsetters Shop,4.2,64024,97.8,2022-05-17,False,Depok
+230,lazada_vietnam_833507,5,3,Tasty Treats Outlet,4.0,151905,93.5,2023-08-07,False,Da Nang
+231,amazonsg_569855,16,5,Cosmic Beauty Singapore Merchant,4.4,38768,92.9,2021-05-08,False,Singapore
+232,tiktok_shop_vietnam_679983,19,3,Baby Essentials Market,4.7,174788,91.4,2020-02-09,False,Hanoi
+233,shopee_thailand_937424,6,2,Beauty Essentials Boutique,4.7,26630,97.9,2018-02-01,False,Phuket
+234,tiktok_shop_indonesia_252790,17,1,Athletic Gear Balikpapan Outlet,4.1,18953,91.3,2023-02-15,False,Balikpapan
+235,tiktok_shop_indonesia_708748,17,1,Trendsetters Outlet,4.1,8980,97.8,2025-05-10,False,Palembang
+236,carousell_448482,20,5,Automotive Solutions Market,4.0,20437,92.1,2022-07-31,False,Singapore
+237,carousell_126440,20,5,Modern Style Singapore Merchant,4.3,15318,98.3,2023-05-15,False,Singapore
+238,tiktok_shop_thailand_734282,18,2,Asian Beauty Shop,4.2,66510,94.6,2019-01-24,False,Hat Yai
+239,shopee_philippines_513685,14,6,Tech Haven Manila Collection,4.5,5204,98.2,2025-09-27,False,Manila
+240,amazonsg_479304,16,5,Beauty Boutique Official,4.6,90194,97.2,2024-10-12,True,Singapore
+241,blibli_718919,7,1,Digital Hub Collection,4.3,35780,94.6,2019-12-28,False,Depok
+242,lazada_438178,2,4,Fashion Empire Official Store,4.6,137683,98.5,2024-03-27,True,Melaka
+243,tiktok_shop_vietnam_729729,19,3,Living Spaces Outlet,4.1,79196,91.0,2024-03-28,False,Can Tho
+244,tiktok_shop_thailand_251254,18,2,Baby Love Outlet,4.4,131823,96.7,2019-12-30,False,Nakhon Ratchasima
+245,qoo10_203076,15,5,Electro World Singapore Market,4.7,38227,97.4,2022-09-08,False,Singapore
+246,zalora_715445,11,1,Future Tech Official Retailer,4.6,80209,97.9,2022-07-15,True,Bandung
+247,blibli_668806,7,1,Tech Innovators Bekasi Boutique,4.1,52371,94.2,2019-07-01,False,Bekasi
+248,shopee_668244,1,5,Vehicle Parts Singapore Outlet,4.8,49344,96.2,2024-08-21,False,Singapore
+249,carousell_448737,20,5,Digital Hub Authorized Store,5.0,49230,97.4,2024-01-15,True,Singapore
+250,tiktok_shop_vietnam_864126,19,3,Smart Devices Can Tho Market,4.2,78639,97.1,2023-04-15,False,Can Tho
+251,tiktok_shop_indonesia_280105,17,1,Fashionista Authorized Store,4.7,45926,99.8,2022-01-27,True,Batam
+252,shopee_159690,1,3,Vehicle World Collection,4.1,37642,98.0,2019-08-30,False,Can Tho
+253,shopee_thailand_452115,6,2,Smart Devices Collection,4.7,58349,98.5,2018-10-20,False,Chiang Mai
+254,shopee_143497,1,6,Outdoor Life Boutique,4.2,89091,93.1,2025-03-26,False,Parañaque
+255,qoo10_568966,15,5,Luxury Cosmetics Brand Store,4.7,31155,98.3,2025-03-04,True,Singapore
+256,the_gioi_di_dong_966664,10,3,Active Life Collection,4.0,53597,96.3,2025-02-20,False,Bien Hoa
+257,shopee_917784,1,1,Car Essentials Emporium,4.4,95921,90.9,2025-05-27,False,Batam
+258,qoo10_875437,15,5,Food Delights Official,4.7,41172,97.7,2021-06-09,True,Singapore
+259,lazada_578733,2,5,Makeup Empire Trading,4.6,72477,90.6,2023-10-18,False,Singapore
+260,tiktok_shop_indonesia_318459,17,1,Fashionista Bekasi Store,4.9,23915,93.2,2023-02-02,False,Bekasi
+261,carousell_743561,20,5,Auto Gear Singapore Merchant,4.6,30917,91.8,2021-05-25,False,Singapore
+262,sendo_674278,9,3,Vehicle Parts Official Retailer,4.6,29238,99.5,2022-03-04,True,Quy Nhon
+263,sendo_133175,9,3,Fashion Empire Hai Phong Boutique,4.2,31028,98.5,2018-03-02,False,Hai Phong
+264,tiki_622496,4,3,Beauty Paradise Hue Collection,4.7,141632,92.9,2022-10-10,False,Hue
+265,shopee_philippines_242114,14,6,Sports Gear Bacolod Store,4.7,26186,96.4,2021-01-19,False,Bacolod
+266,lazada_philippines_900582,13,6,Trendy Wear Official Retailer,4.8,26356,98.7,2025-09-06,True,Dasmarinas
+267,qoo10_698035,15,5,Active Life Emporium,4.6,39317,93.7,2023-06-26,False,Singapore
+268,tiktok_shop_vietnam_576372,19,3,Active Wear Market,4.1,77068,91.8,2025-10-05,False,Bien Hoa
+269,tokopedia_966408,3,1,Home Decor Authorized Store,4.8,304627,98.8,2024-11-15,True,Malang
+270,the_gioi_di_dong_159652,10,3,Home Style Merchant,4.5,24515,91.7,2024-08-09,False,Thai Nguyen
+271,bukalapak_159545,8,1,Culinary Treasures Medan Store,4.2,79486,91.9,2025-03-01,False,Medan
+272,the_gioi_di_dong_150492,10,3,Kids Kingdom Certified Store,4.8,105503,97.0,2020-02-04,True,Hai Phong
+273,the_gioi_di_dong_990102,10,3,Tiny Treasures Merchant,4.6,52813,94.1,2019-03-16,False,Hue
+274,blibli_604918,7,1,Smart Solutions Shop,4.5,35807,95.9,2020-03-30,False,Malang
+275,shopee_malaysia_365179,12,4,Gadget Pro Trading,4.5,57293,93.0,2023-11-13,False,Kuala Terengganu
+276,qoo10_740136,15,5,Snack World Emporium,4.6,87643,97.4,2023-08-14,False,Singapore
+277,tiktok_shop_thailand_526225,18,2,House & Garden Boutique,4.5,112292,96.4,2021-06-28,False,Pattaya
+278,tiktok_shop_thailand_166034,18,2,Fitness Pro Official,4.6,48430,98.8,2019-01-16,True,Udon Thani
+279,tiktok_shop_vietnam_135613,19,3,Tiny Treasures Official Store,4.9,91037,97.9,2025-09-28,True,Ha Long
+280,shopee_853592,1,5,Athletic Gear Collection,4.9,13174,90.2,2022-07-09,False,Singapore
+281,carousell_937183,20,5,Little Angels Singapore Outlet,4.6,44022,97.6,2022-08-18,False,Singapore
+282,shopee_thailand_112326,6,2,Cosmic Beauty Store,4.1,173092,93.6,2025-06-02,False,Bangkok
+283,shopee_thailand_611310,6,2,Little Angels Udon Thani Boutique,4.7,58452,94.4,2021-08-30,False,Udon Thani
+284,the_gioi_di_dong_674608,10,3,Car Care Nha Trang Shop,4.7,28740,91.0,2021-02-22,False,Nha Trang
+285,the_gioi_di_dong_375481,10,3,Tiny Treasures Official,4.5,31740,99.1,2023-01-23,True,Vung Tau
+286,zalora_325303,11,2,TechGadget Bangkok Merchant,4.2,162789,98.7,2021-03-22,False,Bangkok
+287,shopee_philippines_439091,14,6,Glow Beauty Official,4.7,33019,99.2,2021-05-02,True,Quezon City
+288,zalora_168471,11,4,Home Style Collection,4.3,38249,98.8,2024-01-09,False,Kuala Terengganu
+289,shopee_764323,1,5,Electro World Store,4.7,72241,93.4,2023-09-18,False,Singapore
+290,shopee_philippines_303138,14,6,Baby Essentials Iloilo City Collection,4.6,71544,90.8,2022-11-27,False,Iloilo City
+291,tiki_689910,4,3,Baby Haven Boutique,4.2,89157,96.4,2022-07-31,False,Nha Trang
+292,the_gioi_di_dong_967145,10,3,Auto Parts Pro Official,4.9,28533,99.9,2024-06-03,True,Nha Trang
+293,carousell_119593,20,5,Delicious Finds Official,4.8,21224,97.9,2024-06-20,True,Singapore
+294,tiktok_shop_indonesia_209699,17,1,Home Style Store,4.7,54664,95.5,2021-01-29,False,Pekanbaru
+295,lazada_129769,2,2,Food Paradise Outlet,4.8,109351,94.6,2025-03-09,False,Samut Prakan
+296,shopee_philippines_653701,14,6,Auto Empire Boutique,4.3,26868,92.4,2021-02-21,False,Cagayan de Oro
+297,lazada_921877,2,4,Skincare Haven Flagship Store,4.8,97971,97.9,2022-07-12,True,George Town
+298,tiktok_shop_indonesia_569663,17,1,Outdoor Life Brand Store,4.7,87058,99.1,2020-03-04,True,Tangerang
+299,lazada_philippines_103478,13,6,Domestic Bliss Boutique,4.6,9302,95.9,2022-05-15,False,Davao City
+300,lazada_philippines_192867,13,6,Comfort Home Trading,4.3,58516,91.4,2024-05-03,False,Makati
+301,zalora_158380,11,3,Baby Boutique Nam Dinh Merchant,4.5,60279,98.9,2024-03-11,False,Nam Dinh
+302,the_gioi_di_dong_856587,10,3,Trendy Wear Hue Trading,4.8,151330,98.9,2022-03-04,False,Hue
+303,tiktok_shop_thailand_598970,18,2,Car Essentials Nakhon Si Thammarat Shop,4.2,140349,95.8,2022-01-19,False,Nakhon Si Thammarat
+304,tokopedia_613506,3,1,Gourmet Haven Official,4.9,245504,97.1,2024-06-04,True,Denpasar
+305,sendo_513602,9,3,Outdoor Life Vung Tau Emporium,4.3,38935,98.0,2020-02-22,False,Vung Tau
+306,sendo_250169,9,3,Beauty Paradise Vendor,4.7,150581,94.1,2024-11-02,False,Hue
+307,shopee_thailand_292439,6,2,Kids Kingdom Shop,4.3,85479,91.4,2024-07-17,False,Chiang Mai
+308,blibli_759906,7,1,Auto Parts Pro Certified Store,4.8,39431,99.3,2020-12-06,True,Pekanbaru
+309,lazada_vietnam_955930,5,3,Food Delights Hue Vendor,4.7,18422,96.0,2024-10-17,False,Hue
+310,tiktok_shop_thailand_955889,18,2,Baby World Official Store,5.0,26530,99.5,2024-01-19,True,Rayong
+311,blibli_992050,7,1,Athletic Gear Surabaya Market,4.5,114507,91.9,2018-07-13,False,Surabaya
+312,bukalapak_377345,8,1,Fashionista Makassar Trading,4.3,41189,98.4,2023-10-10,False,Makassar
+313,the_gioi_di_dong_943285,10,3,Sports Gear Store,4.9,46016,99.0,2025-06-30,False,Hue
+314,zalora_825162,11,6,Fashion Hub Official,4.9,14126,97.2,2023-03-08,True,Dasmarinas
+315,sendo_137719,9,3,Trendy Wear Da Nang Vendor,4.9,148225,97.3,2022-03-18,False,Da Nang
+316,lazada_vietnam_421746,5,3,Outdoor Life Collection,4.2,144770,96.4,2021-02-16,False,Thai Nguyen
+317,shopee_300855,1,5,Baby Care Singapore Shop,4.4,51734,92.8,2023-12-17,False,Singapore
+318,carousell_794519,20,5,Cosmetics World Merchant,4.8,17607,94.9,2019-08-14,False,Singapore
+319,tiktok_shop_indonesia_368282,17,1,Beauty Boutique Vendor,4.7,27071,97.9,2020-04-02,False,Makassar
+320,tokopedia_417135,3,1,Auto Empire Bandung Trading,4.1,179348,94.4,2024-06-12,False,Bandung
+321,tiktok_shop_vietnam_986765,19,3,Tech Haven Authorized Store,4.6,172320,99.8,2024-07-20,True,Ha Long
+322,shopee_413941,1,2,Parenting Pro Trading,4.4,22272,96.3,2023-01-04,False,Nonthaburi
+323,lazada_vietnam_650760,5,3,Auto Gear Bien Hoa Market,4.4,40870,94.3,2024-03-24,False,Bien Hoa
+324,qoo10_309441,15,5,Baby Haven Boutique,4.6,21003,96.9,2024-07-18,False,Singapore
+325,zalora_422625,11,2,Car Essentials Nakhon Si Thammarat Emporium,4.3,170508,91.2,2023-03-04,False,Nakhon Si Thammarat
+326,sendo_368319,9,3,Tech Innovators Nam Dinh Collection,4.6,64029,96.8,2020-10-24,False,Nam Dinh
+327,lazada_vietnam_839735,5,3,Gourmet Haven Emporium,4.3,49698,92.8,2024-04-12,False,Nha Trang
+328,amazonsg_906046,16,5,Auto Innovations Official,4.6,9355,98.1,2024-09-30,True,Singapore
+329,tiktok_shop_vietnam_633127,19,3,Athletic Gear Official,4.9,174218,98.7,2022-08-08,True,Thai Nguyen
+330,shopee_thailand_625437,6,2,TechGadget Vendor,4.2,71212,91.3,2019-04-23,False,Phuket
+331,shopee_638561,1,5,Comfort Home Official Store,4.7,32146,97.8,2019-10-13,True,Singapore
+332,qoo10_569923,15,5,Modern Style Singapore Merchant,4.6,42035,91.1,2024-12-08,False,Singapore
+333,sendo_200492,9,3,Home Essentials Vendor,4.7,48794,91.2,2024-03-01,False,Nam Dinh
+334,zalora_982306,11,5,Luxury Cosmetics Vendor,4.5,44251,94.5,2021-08-10,False,Singapore
+335,amazonsg_387976,16,5,Fashion Empire Official Retailer,4.9,6265,97.4,2022-02-07,True,Singapore
+336,tiktok_shop_thailand_960172,18,2,Tech Universe Authorized Store,4.5,38613,98.9,2023-03-25,True,Samut Prakan
+337,sendo_654103,9,3,Auto Empire Store,4.1,124798,98.8,2023-07-12,False,Ho Chi Minh City
+338,the_gioi_di_dong_876125,10,3,Style Gallery Trading,4.6,38943,97.3,2021-06-01,False,Buon Ma Thuot
+339,tiktok_shop_vietnam_110527,19,3,Makeup Empire Hai Phong Store,4.6,113370,98.5,2025-07-06,False,Hai Phong
+340,amazonsg_146636,16,5,Future Tech Singapore Collection,4.0,33100,95.9,2020-02-17,False,Singapore
+341,carousell_795469,20,5,Home Style Merchant,4.1,51214,91.0,2019-06-05,False,Singapore
+342,shopee_thailand_722946,6,2,Home Style Official,5.0,141379,97.5,2025-10-24,True,Surat Thani
+343,bukalapak_481371,8,1,Baby World Shop,4.4,76078,91.8,2020-12-14,False,Surabaya
+344,qoo10_783714,15,5,Mother & Baby Singapore Market,4.0,53305,93.2,2022-01-28,False,Singapore
+345,tiktok_shop_vietnam_137846,19,3,Trendy Wear Store,4.7,79317,98.1,2025-09-21,False,Nha Trang
+346,lazada_vietnam_849192,5,3,Comfort Home Authorized Store,4.6,60932,98.2,2024-10-02,True,Quy Nhon
+347,shopee_thailand_363200,6,2,Living Comfort Chiang Mai Trading,4.6,183354,98.7,2025-05-21,False,Chiang Mai
+348,shopee_malaysia_998740,12,4,Skincare Haven Collection,4.2,88415,93.5,2023-06-11,False,Ipoh
+349,the_gioi_di_dong_911042,10,3,Chic Collection Hai Phong Emporium,4.3,75636,93.7,2022-07-17,False,Hai Phong
+350,shopee_malaysia_178543,12,4,Smart Devices Authorized Store,4.8,37237,98.2,2023-10-17,True,Miri
+351,shopee_thailand_703519,6,2,Gourmet Foods Flagship Store,4.7,109654,98.4,2019-05-31,True,Surat Thani
+352,zalora_271128,11,3,Asian Beauty Official,4.8,154683,99.2,2019-11-25,True,Quy Nhon
+353,sendo_833682,9,3,Home Living Shop,4.0,87276,94.0,2022-10-05,False,Hue
+354,the_gioi_di_dong_388695,10,3,Smart Solutions Quy Nhon Emporium,4.5,137091,94.2,2019-05-07,False,Quy Nhon
+355,carousell_148001,20,5,Perfect Skin Singapore Outlet,4.6,71948,96.5,2025-09-04,False,Singapore
+356,carousell_700205,20,5,Home Living Official Retailer,4.8,11423,99.2,2022-04-12,True,Singapore
+357,bukalapak_385740,8,1,Parenting Pro Collection,4.2,22497,98.9,2023-03-21,False,Malang
+358,carousell_452045,20,5,Tech Haven Singapore Outlet,4.8,13572,95.9,2021-03-21,False,Singapore
+359,lazada_vietnam_753971,5,3,Mother & Baby Official Store,4.9,48742,98.3,2020-11-08,True,Da Nang
+360,lazada_vietnam_726459,5,3,Culinary Treasures Ho Chi Minh City Outlet,4.5,60068,90.1,2022-01-20,False,Ho Chi Minh City
+361,carousell_836440,20,5,Car Accessories Official Retailer,4.5,63551,99.8,2024-08-06,True,Singapore
+362,shopee_philippines_309745,14,6,Living Comfort Official,4.5,13326,98.8,2023-03-04,True,Bacolod
+363,blibli_200797,7,1,Living Spaces Brand Store,4.6,30822,97.2,2021-06-09,True,Balikpapan
+364,shopee_malaysia_514953,12,4,Beauty Essentials Merchant,4.0,164901,91.0,2022-05-21,False,Melaka
+365,tiki_711820,4,3,Sports Gear Authorized Store,4.9,105448,97.0,2022-06-18,True,Nam Dinh
+366,blibli_228657,7,1,Home Sweet Home Market,4.6,83294,92.2,2024-03-24,False,Semarang
+367,shopee_thailand_666378,6,2,Tasty Treats Nakhon Si Thammarat Shop,4.7,160482,91.4,2023-11-21,False,Nakhon Si Thammarat
+368,shopee_malaysia_418901,12,4,Modern Style Authorized Store,4.7,113103,98.4,2023-03-09,True,Kota Kinabalu
+369,lazada_vietnam_722959,5,3,Car Essentials Authorized Store,4.6,96055,98.1,2023-05-08,True,Hue
+370,bukalapak_132811,8,1,Automotive Solutions Jakarta Vendor,4.8,30155,90.6,2024-03-17,False,Jakarta
+371,tiktok_shop_thailand_847005,18,2,Cosmic Beauty Store,4.2,99591,93.9,2025-10-20,False,Chiang Mai
+372,carousell_862592,20,5,Gourmet Foods Singapore Shop,4.7,51067,97.1,2018-02-10,False,Singapore
+373,tiki_516954,4,3,Trendsetters Hanoi Store,4.6,88380,94.7,2024-08-13,False,Hanoi
+374,shopee_philippines_700055,14,6,Natural Beauty Brand Store,4.8,79067,99.5,2021-04-13,True,Cebu City
+375,tiktok_shop_indonesia_642681,17,1,Car Care Official Store,4.8,28610,98.1,2020-07-16,True,Semarang
+376,tiktok_shop_thailand_939406,18,2,Culinary Treasures Authorized Store,4.8,114059,97.5,2023-06-13,True,Hat Yai
+377,shopee_thailand_331098,6,2,Living Comfort Official,4.6,76649,99.2,2022-03-05,True,Chiang Mai
+378,sendo_201221,9,3,Glow Beauty Vendor,4.7,85313,96.4,2024-02-16,False,Hai Phong
+379,amazonsg_626735,16,5,Digital Hub Merchant,4.2,11306,94.7,2020-10-23,False,Singapore
+380,amazonsg_339971,16,5,Style Haven Emporium,4.2,39508,97.5,2024-02-19,False,Singapore
+381,tiki_443447,4,3,Comfort Home Vendor,4.5,35780,92.2,2022-01-26,False,Vung Tau
+382,amazonsg_866917,16,5,Urban Fashion Trading,4.0,33578,93.6,2024-08-11,False,Singapore
+383,qoo10_649420,15,5,Beauty Paradise Authorized Store,4.9,17781,97.3,2019-11-24,True,Singapore
+384,shopee_thailand_771347,6,2,Car Care Vendor,4.9,58527,92.1,2025-10-20,False,Hat Yai
+385,sendo_669442,9,3,Electro World Merchant,4.9,21485,95.3,2023-08-09,False,Vung Tau
+386,the_gioi_di_dong_502754,10,3,Food Empire Market,4.2,113963,96.9,2022-01-23,False,Ho Chi Minh City
+387,shopee_philippines_153416,14,6,Food Hub Vendor,4.1,35798,92.9,2023-03-17,False,Zamboanga City
+388,qoo10_901302,15,5,Fashionista Flagship Store,4.8,44233,99.4,2023-11-24,True,Singapore
+389,carousell_732778,20,5,Sports Empire Singapore Shop,4.5,38626,97.9,2023-02-05,False,Singapore
+390,tiktok_shop_vietnam_614352,19,3,Active Life Trading,4.9,101340,94.4,2018-06-22,False,Thai Nguyen
+391,bukalapak_948125,8,1,Automotive Solutions Collection,4.3,62030,97.9,2025-02-01,False,Depok
+392,tiktok_shop_indonesia_893511,17,1,Luxury Cosmetics Tangerang Shop,4.3,53801,95.1,2019-07-09,False,Tangerang
+393,blibli_330036,7,1,Gourmet Haven Certified Store,4.6,87101,98.1,2023-11-24,True,Balikpapan
+394,sendo_483580,9,3,Little Angels Vung Tau Vendor,4.1,91356,91.5,2023-12-10,False,Vung Tau
+395,qoo10_435504,15,5,Healthy Bites Singapore Market,4.3,69886,93.6,2019-04-27,False,Singapore
+396,lazada_philippines_901544,13,6,Automotive Pro Antipolo Boutique,4.2,38065,95.4,2021-09-22,False,Antipolo
+397,tokopedia_517824,3,1,Baby Essentials Store,4.2,209584,92.1,2023-07-11,False,Batam
+398,the_gioi_di_dong_625704,10,3,Automotive Solutions Collection,4.7,44139,92.4,2021-12-01,False,Da Nang
+399,the_gioi_di_dong_909036,10,3,Healthy Bites Official Store,5.0,93029,99.8,2024-06-22,True,Ha Long
+400,blibli_170712,7,1,Food Empire Semarang Trading,4.4,15399,93.0,2025-08-02,False,Semarang
+401,tiktok_shop_vietnam_807004,19,3,Vehicle World Market,4.4,72293,98.3,2018-05-24,False,Da Nang
+402,sendo_191008,9,3,Urban Fashion Ha Long Vendor,4.5,25539,98.9,2024-05-08,False,Ha Long
+403,lazada_vietnam_857457,5,3,Home Style Authorized Store,4.5,32712,97.7,2023-01-10,True,Da Nang
+404,lazada_philippines_694932,13,6,Style Gallery Outlet,4.0,30836,93.0,2023-01-16,False,Pasig
+405,lazada_philippines_974458,13,6,Auto Gear Official,4.7,44004,97.0,2023-12-08,True,Taguig
+406,lazada_vietnam_744886,5,3,Future Tech Nha Trang Vendor,4.8,109909,98.0,2025-10-10,False,Nha Trang
+407,amazonsg_644968,16,5,Vehicle World Market,4.4,52301,98.3,2024-09-03,False,Singapore
+408,the_gioi_di_dong_189437,10,3,House & Garden Flagship Store,4.8,37602,97.6,2020-04-11,True,Hanoi
+409,sendo_775146,9,3,Car Accessories Trading,4.0,22020,94.3,2018-05-01,False,Ho Chi Minh City
+410,tiktok_shop_indonesia_368257,17,1,Electronics Plus Bogor Collection,4.6,54908,96.9,2021-11-11,False,Bogor
+411,tiktok_shop_thailand_972710,18,2,Trendsetters Collection,4.7,40010,95.9,2023-11-20,False,Rayong
+412,tiktok_shop_vietnam_777596,19,3,Luxury Cosmetics Can Tho Trading,4.1,53461,90.5,2025-04-04,False,Can Tho
+413,shopee_malaysia_731821,12,4,Baby Love Flagship Store,4.6,112152,99.4,2023-10-15,True,Johor Bahru
+414,tiktok_shop_thailand_863536,18,2,Parenting Pro Vendor,4.9,54956,97.3,2022-02-16,False,Khon Kaen
+415,tiktok_shop_indonesia_694591,17,1,Baby Care Batam Merchant,4.5,113298,90.8,2023-05-01,False,Batam
+416,bukalapak_170654,8,1,Food Hub Official Retailer,4.5,73988,97.7,2022-01-22,True,Bogor
+417,qoo10_314304,15,5,Home Living Brand Store,4.7,23844,99.2,2023-04-25,True,Singapore
+418,bukalapak_992670,8,1,Kids Kingdom Malang Outlet,4.8,51746,97.6,2023-03-17,False,Malang
+419,shopee_malaysia_337918,12,4,Home Sweet Home Official,4.8,156473,99.6,2023-01-19,True,Kuching
+420,amazonsg_180205,16,5,Culinary Treasures Merchant,4.5,56394,94.5,2024-11-08,False,Singapore
+421,shopee_philippines_311102,14,6,Digital Empire Bacolod Collection,4.2,68342,98.1,2018-02-09,False,Bacolod
+422,tokopedia_230143,3,1,Makeup Empire Collection,4.2,116748,90.2,2022-03-29,False,Bekasi
+423,tiki_965114,4,3,Cosmic Beauty Collection,4.6,102904,92.0,2024-04-24,False,Thai Nguyen
+424,qoo10_106527,15,5,Outdoor Life Market,4.3,32284,94.8,2024-05-10,False,Singapore
+425,zalora_256179,11,6,Car World Iloilo City Merchant,4.1,40515,96.9,2024-06-25,False,Iloilo City
+426,bukalapak_431937,8,1,Culinary Treasures Certified Store,4.6,49318,97.6,2023-06-26,True,Batam
+427,tiktok_shop_thailand_116332,18,2,Modern Style Market,4.6,139968,91.6,2022-06-13,False,Pattaya
+428,tiktok_shop_vietnam_783831,19,3,Fashionista Merchant,4.5,88420,90.3,2021-06-25,False,Hue
+429,tiktok_shop_thailand_477860,18,2,Home Decor Certified Store,4.9,47429,97.2,2021-09-28,True,Chiang Mai
+430,amazonsg_920121,16,5,Athletic Gear Singapore Market,4.8,8785,96.3,2022-11-19,False,Singapore
+431,zalora_879125,11,5,Car Essentials Official Retailer,4.9,71211,98.1,2019-02-27,True,Singapore
+432,shopee_thailand_632954,6,2,Sports Gear Pattaya Collection,4.7,58912,95.5,2023-11-17,False,Pattaya
+433,shopee_thailand_744073,6,2,Fashion Trend Hat Yai Shop,4.8,118207,90.8,2023-03-17,False,Hat Yai
+434,tiktok_shop_indonesia_689507,17,1,Outdoor Adventures Yogyakarta Market,4.2,20828,95.1,2021-12-29,False,Yogyakarta
+435,tiktok_shop_indonesia_446159,17,1,Car Essentials Merchant,4.0,14121,91.5,2019-09-22,False,Surabaya
+436,shopee_thailand_222357,6,2,Natural Beauty Boutique,4.6,72227,97.3,2024-02-28,False,Chiang Mai
+437,amazonsg_574165,16,5,Modern Style Trading,4.4,85904,97.6,2024-09-27,False,Singapore
+438,amazonsg_321433,16,5,Snack World Merchant,4.1,83619,97.3,2020-12-03,False,Singapore
+439,shopee_malaysia_726213,12,4,Future Tech Outlet,4.7,33447,97.8,2022-03-31,False,Kota Kinabalu
+440,bukalapak_458692,8,1,Healthy Bites Palembang Shop,4.0,58129,98.1,2020-10-15,False,Palembang
+441,lazada_525661,2,4,Fashionista Johor Bahru Merchant,4.2,82441,93.0,2025-02-20,False,Johor Bahru
+442,shopee_philippines_764667,14,6,Sports Empire Authorized Store,4.6,36787,97.0,2019-01-16,True,Bacolod
+443,lazada_vietnam_655546,5,3,Cosmetics World Official Store,4.9,24653,99.4,2023-08-19,True,Da Nang
+444,tiktok_shop_vietnam_484896,19,3,Food Delights Emporium,4.8,129016,92.7,2024-09-20,False,Ha Long
+445,shopee_758445,1,2,Electronics Plus Rayong Outlet,4.8,19891,93.3,2024-05-17,False,Rayong
+446,tiktok_shop_thailand_204021,18,2,Trendy Wear Official Retailer,4.8,87501,99.0,2022-08-16,True,Surat Thani
+447,tiktok_shop_vietnam_546001,19,3,Living Spaces Hue Boutique,4.5,64822,92.9,2021-11-03,False,Hue
+448,shopee_philippines_638954,14,6,Electro World Trading,4.2,34319,97.7,2023-01-03,False,Makati
+449,tokopedia_335597,3,1,Baby Care Boutique,4.6,205040,95.6,2020-05-30,False,Bogor
+450,the_gioi_di_dong_521893,10,3,Gourmet Haven Official Retailer,4.8,148940,98.4,2022-01-21,True,Buon Ma Thuot
+451,tokopedia_810777,3,1,Athletic Gear Palembang Trading,4.3,168672,98.1,2023-01-31,False,Palembang
+452,blibli_269902,7,1,Outdoor Adventures Medan Vendor,4.7,63467,95.2,2021-05-12,False,Medan
+453,tiktok_shop_thailand_598748,18,2,Food Hub Official Retailer,4.8,61445,97.8,2023-04-20,True,Nakhon Ratchasima
+454,amazonsg_346091,16,5,Home Living Boutique,4.7,90421,97.8,2023-12-14,False,Singapore
+455,sendo_188686,9,3,Asian Beauty Flagship Store,4.7,54576,98.5,2025-04-10,True,Ho Chi Minh City
+456,the_gioi_di_dong_765366,10,3,Healthy Bites Can Tho Vendor,4.8,97499,96.6,2019-05-30,False,Can Tho
+457,shopee_philippines_830768,14,6,Active Wear Official,4.5,44432,99.2,2020-03-09,True,Antipolo
+458,qoo10_389474,15,5,Fashion Trend Trading,4.6,14445,98.5,2023-11-30,False,Singapore
+459,shopee_thailand_960031,6,2,Home Sweet Home Certified Store,4.7,101736,97.5,2025-01-11,True,Udon Thani
+460,shopee_thailand_846308,6,2,Active Life Khon Kaen Shop,4.3,144110,93.3,2024-07-01,False,Khon Kaen
+461,qoo10_946254,15,5,Domestic Bliss Official Retailer,4.6,5759,98.8,2021-11-20,True,Singapore
+462,shopee_thailand_479506,6,2,Food Delights Trading,4.4,47347,91.8,2020-07-26,False,Nakhon Si Thammarat
+463,lazada_philippines_156624,13,6,Auto Innovations Pasig Emporium,4.3,42105,96.4,2023-02-11,False,Pasig
+464,bukalapak_176991,8,1,Sports Gear Brand Store,4.5,57923,98.1,2023-05-27,True,Pekanbaru
+465,zalora_640698,11,3,Trendy Wear Official Retailer,4.8,30435,97.2,2022-02-13,True,Ha Long
+466,tokopedia_134782,3,1,Fitness Pro Batam Boutique,4.8,143474,92.0,2023-01-23,False,Batam
+467,qoo10_224652,15,5,Food Hub Shop,4.7,5758,95.6,2024-02-29,False,Singapore
+468,tiktok_shop_indonesia_836124,17,1,Home Collection Trading,4.6,28220,92.3,2024-12-05,False,Malang
+469,shopee_philippines_461584,14,6,Living Comfort Emporium,4.8,72975,94.0,2024-04-21,False,Pasig
+470,tiki_743498,4,3,Sporting Goods Collection,4.6,110410,96.2,2021-01-14,False,Ho Chi Minh City
+471,zalora_371914,11,4,Trendy Wear Shah Alam Collection,4.7,182453,96.9,2023-05-28,False,Shah Alam
+472,zalora_342344,11,2,Auto Parts Pro Official Store,4.8,91942,97.4,2020-02-28,True,Nonthaburi
+473,blibli_633542,7,1,Snack World Store,4.9,90140,92.1,2025-11-26,False,Palembang
+474,lazada_438914,2,4,Glow Beauty Collection,4.6,73916,92.6,2021-07-09,False,Kuala Lumpur
+475,shopee_618075,1,1,House & Garden Palembang Merchant,4.9,267590,91.2,2020-01-16,False,Palembang
+476,lazada_585452,2,1,Cosmetics World Certified Store,4.6,264445,97.2,2021-03-25,True,Jakarta
+477,shopee_malaysia_346657,12,4,Little Angels Boutique,4.5,160269,98.1,2023-06-13,False,Kuching
+478,tiktok_shop_indonesia_312908,17,1,Healthy Bites Official Store,4.6,26355,99.4,2024-11-11,True,Semarang
+479,qoo10_664873,15,5,Beauty Boutique Official,4.6,78615,98.1,2023-12-08,True,Singapore
+480,blibli_586837,7,1,Baby Love Surabaya Emporium,4.3,42511,90.5,2022-03-11,False,Surabaya
+481,shopee_philippines_989208,14,6,Foodie Finds Official Retailer,4.8,10104,97.2,2025-11-05,True,Taguig
+482,amazonsg_657601,16,5,Home Decor Certified Store,4.6,47297,97.2,2021-05-13,True,Singapore
+483,lazada_philippines_448815,13,6,Sports Gear Vendor,4.7,7037,92.3,2024-03-16,False,Iloilo City
+484,zalora_201379,11,5,Auto Parts Pro Trading,4.3,37951,91.6,2021-01-18,False,Singapore
+485,bukalapak_951595,8,1,Food Hub Tangerang Shop,4.5,88604,96.8,2023-09-19,False,Tangerang
+486,sendo_882617,9,3,Sports Gear Brand Store,4.8,166709,97.2,2018-06-19,True,Bien Hoa
+487,shopee_malaysia_699291,12,4,Kids Kingdom Outlet,4.5,36315,90.2,2023-10-07,False,Seremban
+488,tiktok_shop_indonesia_162245,17,1,Beauty Essentials Depok Market,4.6,71404,95.5,2024-08-14,False,Depok
+489,tiki_561190,4,3,Asian Beauty Hanoi Emporium,4.1,62270,91.3,2021-06-03,False,Hanoi
+490,tokopedia_717209,3,1,Athletic Gear Store,4.4,214064,96.6,2024-04-11,False,Depok
+491,bukalapak_367015,8,1,Sports World Bekasi Outlet,4.7,18002,98.1,2025-12-01,False,Bekasi
+492,shopee_malaysia_158489,12,4,Fitness Hub Brand Store,4.7,95051,97.6,2021-05-27,True,Petaling Jaya
+493,tiktok_shop_vietnam_689943,19,3,Fitness Hub Certified Store,4.8,35133,98.2,2024-07-03,True,Nha Trang
+494,lazada_278796,2,4,Gourmet Haven Shah Alam Boutique,4.2,85653,93.1,2024-04-14,False,Shah Alam
+495,tiktok_shop_indonesia_860225,17,1,Fashion Empire Malang Outlet,4.2,13620,91.2,2023-08-29,False,Malang
+496,zalora_536218,11,1,TechGadget Surabaya Emporium,4.4,28636,96.6,2024-11-20,False,Surabaya
+497,qoo10_351070,15,5,Mother & Baby Singapore Merchant,4.4,10357,94.4,2022-07-01,False,Singapore
+498,bukalapak_781503,8,1,Food Paradise Flagship Store,4.7,42118,98.1,2020-12-26,True,Pekanbaru
+499,amazonsg_435734,16,5,House & Garden Shop,4.9,31135,93.5,2024-08-16,False,Singapore
+500,lazada_philippines_914651,13,6,Tiny Treasures Zamboanga City Emporium,4.0,39892,95.1,2023-07-20,False,Zamboanga City

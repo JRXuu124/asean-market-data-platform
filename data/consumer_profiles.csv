@@ -1,0 +1,501 @@
+profile_id,country_id,segment_name,age_range,income_level,city_tier,preferred_categories,average_order_value,top_payment_methods,sample_size,report_date
+1,3,都市Z世代-越南,18-24,middle,tier1,"[1, 2, 3, 11, 12, 23]",494954-824185 VND,"['vnpay', 'bank_transfer']",1459,2023-04-30
+2,2,都市Z世代-泰国,18-24,middle,tier1,"[1, 2, 3, 11, 12]",1269-2478 THB,"['true_money', 'credit_card', 'bank_transfer', 'promptpay']",3455,2023-01-28
+3,2,都市Z世代-泰国,18-24,middle,tier1,"[1, 2, 3, 11, 12, 15]",1609-2744 THB,"['bank_transfer', 'promptpay', 'cash_on_delivery']",2688,2024-10-15
+4,2,校园新势力-泰国,18-22,low,tier1,"[2, 6, 10, 17, 18]",1299-2065 THB,"['credit_card', 'cash_on_delivery', 'promptpay']",4294,2023-11-30
+5,3,职场新人-越南,22-28,middle,tier1,"[1, 2, 3, 39, 40, 17, 20]",488717-732137 VND,"['cash_on_delivery', 'momo_ewallet']",4500,2024-04-28
+6,6,职场新人-菲律宾,22-28,middle,tier1,"[1, 2, 3, 35, 34, 17, 20]",1868-2233 PHP,"['gcash', 'maya', 'cash_on_delivery']",809,2024-01-15
+7,1,数字原住民-印尼,18-26,middle,tier2,"[3, 25, 26, 28, 29]",236566-299109 IDR,"['gopay_ewallet', 'cash_on_delivery', 'dana_ewallet']",1503,2023-11-30
+8,7,数字原住民-柬埔寨,18-26,middle,tier2,"[3, 25, 26, 28, 29]",40066-75061 KHR,"['wing', 'bank_transfer', 'credit_card']",2885,2023-08-28
+9,6,潮流博主粉丝-菲律宾,16-25,middle,tier1,"[1, 2, 12, 19, 20, 29, 30]",2231-2637 PHP,"['maya', 'credit_card', 'cash_on_delivery']",2405,2023-04-30
+10,6,潮流博主粉丝-菲律宾,16-25,middle,tier1,"[1, 2, 12, 13, 19, 20, 26]",523-1589 PHP,"['bank_transfer', 'credit_card']",3787,2023-02-30
+11,5,潮流博主粉丝-新加坡,16-25,middle,tier1,"[1, 2, 12, 50, 19, 20]",54-76 SGD,"['bank_transfer', 'grabpay']",2199,2024-12-28
+12,5,潮流博主粉丝-新加坡,16-25,middle,tier1,"[1, 2, 38, 12, 13, 19, 20]",66-99 SGD,"['grabpay', 'credit_card', 'bank_transfer']",1666,2023-02-15
+13,2,潮流博主粉丝-泰国,16-25,middle,tier1,"[1, 2, 12, 19, 20]",1738-3046 THB,"['promptpay', 'credit_card', 'bank_transfer']",4123,2023-10-15
+14,2,潮流博主粉丝-泰国,16-25,middle,tier1,"[1, 2, 12, 19, 20]",1738-2466 THB,"['cash_on_delivery', 'promptpay']",4995,2023-09-15
+15,4,电竞爱好者-马来西亚,18-30,middle,tier1,"[3, 47, 25, 26, 29, 30]",204-377 MYR,"['bank_transfer', 'credit_card']",3575,2024-10-28
+16,5,二次元文化迷-新加坡,16-24,low,tier1,"[2, 6, 8, 10, 15, 20, 22]",138-225 SGD,"['paynow', 'grabpay', 'bank_transfer']",4588,2024-09-30
+17,5,二次元文化迷-新加坡,16-24,low,tier1,"[2, 8, 10, 20, 22, 28]",121-167 SGD,"['paylah', 'grabpay', 'bank_transfer']",4007,2024-03-28
+18,2,二次元文化迷-泰国,16-24,low,tier1,"[2, 8, 10, 20, 22]",663-1830 THB,"['promptpay', 'bank_transfer', 'credit_card']",4004,2023-10-28
+19,2,二次元文化迷-泰国,16-24,low,tier1,"[2, 8, 10, 20, 22]",731-1565 THB,"['true_money', 'promptpay']",1198,2024-12-28
+20,1,运动健身新手-印尼,20-30,middle,tier2,"[37, 5, 38, 7, 8, 13, 15]",342599-465723 IDR,"['credit_card', 'cash_on_delivery']",819,2024-08-30
+21,4,运动健身新手-马来西亚,20-30,middle,tier2,"[37, 5, 38, 7, 15]",63-124 MYR,"['boost', 'credit_card', 'tng_ewallet']",3069,2023-12-28
+22,4,运动健身新手-马来西亚,20-30,middle,tier2,"[37, 5, 38, 7, 15, 50]",87-145 MYR,"['boost', 'bank_transfer', 'tng_ewallet', 'credit_card']",2668,2024-07-28
+23,1,美妆爱好者-印尼,18-28,middle,tier1,"[1, 11, 12, 13, 14]",281028-553201 IDR,"['bank_transfer', 'ovo_ewallet', 'cash_on_delivery', 'dana_ewallet']",3146,2023-06-28
+24,1,美妆爱好者-印尼,18-28,middle,tier1,"[1, 11, 12, 13, 14, 26, 29]",275807-439548 IDR,"['ovo_ewallet', 'gopay_ewallet', 'bank_transfer', 'dana_ewallet']",3304,2023-08-30
+25,6,街头文化青年-菲律宾,18-25,middle,tier1,"[2, 10, 17, 18, 19, 20]",1603-3141 PHP,"['gcash', 'cash_on_delivery', 'bank_transfer', 'maya']",2931,2023-07-15
+26,6,都市精英白领-菲律宾,25-35,high,tier1,"[2, 3, 9, 14, 20]",2371-3138 PHP,"['maya', 'credit_card', 'bank_transfer']",4779,2023-03-28
+27,3,都市精英白领-越南,25-35,high,tier1,"[2, 3, 9, 14, 20]",225773-421421 VND,"['momo_ewallet', 'zalo_pay', 'bank_transfer']",2917,2023-10-15
+28,7,都市精英白领-柬埔寨,25-35,high,tier1,"[2, 3, 9, 14, 20]",72787-137606 KHR,"['cash_on_delivery', 'wing', 'credit_card']",1668,2024-11-15
+29,7,都市精英白领-柬埔寨,25-35,high,tier1,"[2, 3, 9, 14, 20, 30]",83817-103473 KHR,"['cash_on_delivery', 'credit_card', 'aba_pay']",4653,2023-05-15
+30,4,中产家庭主理人-马来西亚,30-45,middle,tier2,"[4, 6, 7, 10, 50, 22]",242-327 MYR,"['grabpay', 'tng_ewallet', 'bank_transfer']",4091,2023-08-28
+31,5,中产家庭主理人-新加坡,30-45,middle,tier2,"[4, 6, 7, 10, 50, 22]",114-171 SGD,"['paylah', 'paynow', 'grabpay']",3196,2023-07-15
+32,5,中产家庭主理人-新加坡,30-45,middle,tier2,"[4, 6, 7, 10, 22]",49-86 SGD,"['credit_card', 'paylah', 'grabpay', 'paynow']",4116,2024-08-15
+33,3,科技行业从业者-越南,25-40,high,tier1,"[3, 52, 21, 23, 24, 27]",484568-614249 VND,"['vnpay', 'cash_on_delivery', 'bank_transfer', 'zalo_pay']",923,2023-12-30
+34,3,科技行业从业者-越南,25-40,high,tier1,"[3, 49, 21, 23, 24, 27]",458468-834146 VND,"['vnpay', 'bank_transfer', 'zalo_pay']",2525,2024-08-30
+35,7,金融从业者-柬埔寨,28-45,high,tier1,"[2, 3, 34, 9, 14, 15, 20]",72717-129498 KHR,"['cash_on_delivery', 'bank_transfer', 'credit_card', 'wing']",3627,2023-09-15
+36,1,金融从业者-印尼,28-45,high,tier1,"[2, 3, 9, 41, 43, 14, 20]",393475-531322 IDR,"['dana_ewallet', 'ovo_ewallet', 'bank_transfer', 'credit_card']",3364,2023-03-28
+37,1,金融从业者-印尼,28-45,high,tier1,"[2, 3, 37, 9, 14, 20]",238712-309993 IDR,"['gopay_ewallet', 'dana_ewallet']",3828,2023-03-28
+38,5,金融从业者-新加坡,28-45,high,tier1,"[32, 2, 3, 9, 14, 20]",148-189 SGD,"['bank_transfer', 'paynow', 'paylah', 'credit_card']",2892,2023-10-30
+39,5,金融从业者-新加坡,28-45,high,tier1,"[2, 3, 9, 14, 20]",106-176 SGD,"['grabpay', 'paylah', 'bank_transfer', 'credit_card']",1059,2024-08-15
+40,6,外企员工-菲律宾,25-40,high,tier1,"[1, 3, 4, 5, 10]",1882-2241 PHP,"['maya', 'credit_card', 'cash_on_delivery']",2015,2023-01-15
+41,6,外企员工-菲律宾,25-40,high,tier1,"[1, 3, 4, 5, 10, 45]",972-2074 PHP,"['gcash', 'cash_on_delivery', 'bank_transfer']",4992,2024-11-30
+42,7,外企员工-柬埔寨,25-40,high,tier1,"[1, 3, 4, 5, 6, 9, 10]",92879-168525 KHR,"['credit_card', 'wing', 'aba_pay', 'bank_transfer']",533,2024-02-28
+43,4,外企员工-马来西亚,25-40,high,tier1,"[1, 3, 4, 5, 10]",107-295 MYR,"['cash_on_delivery', 'credit_card']",4320,2024-08-15
+44,1,创意工作者-印尼,25-38,middle,tier1,"[1, 2, 4, 41, 10, 20, 31]",276504-454919 IDR,"['dana_ewallet', 'credit_card', 'cash_on_delivery']",3124,2023-04-15
+45,1,教育工作者-印尼,28-50,middle,tier2,"[4, 6, 7, 10, 13, 50, 22]",277178-449740 IDR,"['dana_ewallet', 'gopay_ewallet', 'bank_transfer']",1273,2023-12-28
+46,1,教育工作者-印尼,28-50,middle,tier2,"[4, 6, 7, 10, 22]",200141-492979 IDR,"['bank_transfer', 'credit_card']",4297,2023-02-30
+47,4,教育工作者-马来西亚,28-50,middle,tier2,"[4, 6, 7, 10, 19, 22]",102-164 MYR,"['tng_ewallet', 'cash_on_delivery', 'grabpay', 'credit_card']",3397,2023-06-15
+48,4,教育工作者-马来西亚,28-50,middle,tier2,"[4, 6, 7, 10, 20, 22]",157-331 MYR,"['tng_ewallet', 'credit_card', 'bank_transfer', 'boost']",3202,2023-09-28
+49,3,教育工作者-越南,28-50,middle,tier2,"[4, 6, 7, 9, 10, 22]",467867-800620 VND,"['cash_on_delivery', 'zalo_pay', 'vnpay']",1356,2024-03-28
+50,3,教育工作者-越南,28-50,middle,tier2,"[4, 6, 7, 10, 14, 22]",290192-490975 VND,"['momo_ewallet', 'bank_transfer']",2368,2023-06-28
+51,6,医疗从业者-菲律宾,30-50,high,tier1,"[1, 7, 39, 45, 46, 47]",1578-2393 PHP,"['cash_on_delivery', 'credit_card', 'gcash', 'maya']",2923,2023-03-30
+52,6,医疗从业者-菲律宾,30-50,high,tier1,"[1, 7, 45, 46, 47]",758-1621 PHP,"['cash_on_delivery', 'credit_card', 'bank_transfer']",4682,2023-02-28
+53,7,律师会计师-柬埔寨,30-55,high,tier1,"[1, 2, 3, 4, 9, 20]",98636-144518 KHR,"['wing', 'credit_card', 'bank_transfer', 'cash_on_delivery']",3416,2024-11-15
+54,7,律师会计师-柬埔寨,30-55,high,tier1,"[2, 3, 4, 9, 20, 22]",88429-142160 KHR,"['wing', 'aba_pay', 'bank_transfer', 'credit_card']",3338,2023-09-30
+55,5,律师会计师-新加坡,30-55,high,tier1,"[32, 2, 3, 4, 9, 20]",77-138 SGD,"['bank_transfer', 'credit_card', 'paynow']",3477,2023-10-28
+56,5,律师会计师-新加坡,30-55,high,tier1,"[32, 2, 3, 4, 9, 20, 23]",150-243 SGD,"['paynow', 'bank_transfer']",3749,2024-06-28
+57,4,律师会计师-马来西亚,30-55,high,tier1,"[2, 3, 4, 9, 20, 24]",181-228 MYR,"['cash_on_delivery', 'bank_transfer']",3725,2024-08-30
+58,2,中小企业主-泰国,35-55,high,tier2,"[34, 3, 4, 9, 10, 43, 27]",1874-2389 THB,"['credit_card', 'true_money']",3578,2023-06-15
+59,4,新手父母-马来西亚,25-35,middle,tier2,"[4, 6, 7, 15, 22]",166-218 MYR,"['bank_transfer', 'cash_on_delivery', 'boost', 'grabpay']",2375,2023-01-15
+60,4,新手父母-马来西亚,25-35,middle,tier2,"[4, 6, 7, 11, 15, 22]",141-280 MYR,"['cash_on_delivery', 'boost', 'tng_ewallet', 'credit_card']",4891,2024-04-30
+61,3,新手父母-越南,25-35,middle,tier2,"[4, 6, 7, 15, 17, 22]",379296-574182 VND,"['momo_ewallet', 'cash_on_delivery', 'vnpay']",1642,2024-04-28
+62,5,新手父母-新加坡,25-35,middle,tier2,"[4, 6, 7, 15, 22]",65-96 SGD,"['grabpay', 'paylah', 'credit_card']",3907,2023-04-30
+63,7,多孩家庭-柬埔寨,30-45,middle,tier3,"[2, 4, 6, 7, 21, 22, 28]",84280-125523 KHR,"['credit_card', 'cash_on_delivery', 'bank_transfer', 'aba_pay']",1770,2024-11-15
+64,4,多孩家庭-马来西亚,30-45,middle,tier3,"[2, 4, 6, 7, 22, 30]",233-289 MYR,"['grabpay', 'cash_on_delivery', 'tng_ewallet', 'boost']",4292,2023-09-28
+65,4,多孩家庭-马来西亚,30-45,middle,tier3,"[2, 4, 36, 6, 7, 22, 30]",94-136 MYR,"['grabpay', 'bank_transfer', 'credit_card', 'tng_ewallet']",4014,2024-09-15
+66,7,三代同堂-柬埔寨,40-60,middle,tier3,"[2, 4, 6, 7, 10]",82754-157085 KHR,"['aba_pay', 'credit_card', 'bank_transfer', 'cash_on_delivery']",1016,2024-08-30
+67,5,单亲家庭-新加坡,28-45,middle,tier2,"[2, 4, 6, 7, 22]",93-118 SGD,"['grabpay', 'credit_card', 'bank_transfer']",790,2024-10-15
+68,4,宠物家庭-马来西亚,25-45,middle,tier2,"[33, 2, 4, 6, 7, 46, 23]",199-259 MYR,"['cash_on_delivery', 'credit_card', 'grabpay', 'tng_ewallet']",1039,2024-03-15
+69,6,宠物家庭-菲律宾,25-45,middle,tier2,"[33, 2, 1, 4, 6, 7]",1566-2470 PHP,"['maya', 'cash_on_delivery', 'gcash', 'credit_card']",4355,2024-01-15
+70,7,家庭主妇-柬埔寨,30-50,middle,tier2,"[2, 4, 6, 7, 15]",37906-77437 KHR,"['aba_pay', 'cash_on_delivery']",1761,2023-07-28
+71,7,家庭主妇-柬埔寨,30-50,middle,tier2,"[2, 4, 6, 7, 15]",39258-75337 KHR,"['aba_pay', 'cash_on_delivery']",4617,2023-11-30
+72,2,退休老人-泰国,55-70,middle,tier3,"[4, 5, 6, 7, 10, 50]",1410-2342 THB,"['bank_transfer', 'cash_on_delivery', 'true_money']",1610,2023-03-28
+73,1,空巢老人-印尼,60-75,middle,tier2,"[3, 4, 6, 7, 10, 19]",225234-377825 IDR,"['credit_card', 'cash_on_delivery', 'dana_ewallet', 'bank_transfer']",2037,2024-05-15
+74,7,空巢老人-柬埔寨,60-75,middle,tier2,"[3, 4, 36, 6, 7, 10, 42]",54573-110229 KHR,"['bank_transfer', 'cash_on_delivery']",3442,2023-06-15
+75,7,空巢老人-柬埔寨,60-75,middle,tier2,"[3, 4, 6, 7, 10]",57478-111810 KHR,"['bank_transfer', 'wing', 'cash_on_delivery']",2224,2023-11-28
+76,4,空巢老人-马来西亚,60-75,middle,tier2,"[3, 4, 6, 7, 10, 17, 28]",149-181 MYR,"['grabpay', 'boost', 'tng_ewallet']",3368,2024-06-15
+77,6,准新婚夫妇-菲律宾,25-35,middle,tier1,"[1, 2, 4, 14, 51, 20, 28]",1728-2777 PHP,"['maya', 'cash_on_delivery', 'credit_card', 'gcash']",689,2024-03-30
+78,1,丁克家庭-印尼,30-45,high,tier1,"[1, 2, 3, 5, 9, 20]",216341-294205 IDR,"['bank_transfer', 'cash_on_delivery']",4377,2023-09-15
+79,5,丁克家庭-新加坡,30-45,high,tier1,"[2, 3, 5, 9, 20]",140-168 SGD,"['paylah', 'paynow']",821,2024-09-30
+80,6,丁克家庭-菲律宾,30-45,high,tier1,"[2, 3, 5, 9, 12, 20]",1442-2313 PHP,"['credit_card', 'bank_transfer', 'gcash']",2711,2024-01-28
+81,6,丁克家庭-菲律宾,30-45,high,tier1,"[2, 3, 5, 37, 9, 20]",631-2071 PHP,"['credit_card', 'cash_on_delivery', 'maya']",1766,2023-02-30
+82,6,户外探险者-菲律宾,25-45,middle,tier2,"[2, 5, 38, 39, 40]",1661-2383 PHP,"['cash_on_delivery', 'maya']",4200,2024-01-15
+83,6,户外探险者-菲律宾,25-45,middle,tier2,"[1, 2, 5, 38, 39, 40, 43]",587-2549 PHP,"['cash_on_delivery', 'credit_card']",3849,2024-02-30
+84,1,汽车发烧友-印尼,25-50,high,tier1,"[3, 9, 15, 50, 51, 27]",388296-477542 IDR,"['dana_ewallet', 'gopay_ewallet', 'bank_transfer']",504,2024-03-28
+85,7,汽车发烧友-柬埔寨,25-50,high,tier1,"[3, 38, 9, 50, 51, 26, 27]",27722-59744 KHR,"['aba_pay', 'wing']",1876,2024-07-15
+86,2,汽车发烧友-泰国,25-50,high,tier1,"[3, 9, 50, 51, 27]",644-2126 THB,"['promptpay', 'cash_on_delivery', 'bank_transfer']",2578,2024-05-30
+87,2,汽车发烧友-泰国,25-50,high,tier1,"[34, 3, 9, 50, 51, 27]",1709-2326 THB,"['cash_on_delivery', 'bank_transfer', 'promptpay', 'true_money']",2345,2024-04-15
+88,1,摄影爱好者-印尼,28-50,middle,tier1,"[3, 10, 20, 24, 29]",242612-391857 IDR,"['cash_on_delivery', 'gopay_ewallet']",2847,2024-09-15
+89,1,摄影爱好者-印尼,28-50,middle,tier1,"[34, 3, 10, 20, 24, 29]",322607-405097 IDR,"['gopay_ewallet', 'bank_transfer', 'ovo_ewallet', 'credit_card']",3947,2023-07-28
+90,3,音乐爱好者-越南,18-40,middle,tier2,"[1, 2, 10, 20, 28]",218003-491882 VND,"['zalo_pay', 'momo_ewallet', 'bank_transfer']",1152,2023-08-30
+91,3,音乐爱好者-越南,18-40,middle,tier2,"[1, 2, 10, 20, 28]",436201-608953 VND,"['zalo_pay', 'vnpay', 'bank_transfer']",1734,2024-07-15
+92,1,音乐爱好者-印尼,18-40,middle,tier2,"[32, 1, 2, 10, 20, 27, 28]",186524-271473 IDR,"['bank_transfer', 'cash_on_delivery', 'gopay_ewallet']",4064,2023-09-30
+93,1,音乐爱好者-印尼,18-40,middle,tier2,"[1, 2, 10, 20, 28]",191648-330627 IDR,"['credit_card', 'ovo_ewallet']",545,2024-03-15
+94,5,手工艺爱好者-新加坡,25-55,middle,tier2,"[2, 4, 8, 10, 20, 23]",53-148 SGD,"['credit_card', 'paynow']",3057,2023-08-30
+95,1,手工艺爱好者-印尼,25-55,middle,tier2,"[33, 2, 4, 8, 10, 46, 20]",394500-460179 IDR,"['cash_on_delivery', 'bank_transfer']",2720,2023-07-28
+96,1,手工艺爱好者-印尼,25-55,middle,tier2,"[2, 4, 8, 10, 20]",220744-450027 IDR,"['cash_on_delivery', 'bank_transfer']",2443,2023-07-15
+97,1,美食家-印尼,30-50,middle,tier1,"[33, 1, 4, 6, 44]",319041-485447 IDR,"['credit_card', 'gopay_ewallet', 'cash_on_delivery']",1291,2023-09-28
+98,2,美食家-泰国,30-50,middle,tier1,"[33, 1, 4, 6, 44, 18]",720-1861 THB,"['true_money', 'bank_transfer', 'promptpay', 'credit_card']",946,2024-05-28
+99,5,茶文化爱好者-新加坡,35-60,middle,tier2,"[1, 4, 6, 42, 10, 23]",35-66 SGD,"['credit_card', 'paylah']",526,2024-09-30
+100,1,茶文化爱好者-印尼,35-60,middle,tier2,"[1, 2, 4, 6, 42, 10]",331976-609298 IDR,"['bank_transfer', 'cash_on_delivery', 'ovo_ewallet']",660,2024-01-30
+101,7,茶文化爱好者-柬埔寨,35-60,middle,tier2,"[1, 4, 6, 42, 10]",42093-64297 KHR,"['aba_pay', 'wing', 'cash_on_delivery']",4908,2024-04-15
+102,3,咖啡爱好者-越南,25-45,middle,tier1,"[3, 4, 6, 42, 20, 26, 27]",451327-570052 VND,"['cash_on_delivery', 'zalo_pay']",2852,2023-01-15
+103,5,咖啡爱好者-新加坡,25-45,middle,tier1,"[3, 4, 6, 42, 27]",120-142 SGD,"['paylah', 'bank_transfer', 'credit_card', 'grabpay']",1238,2024-10-30
+104,2,咖啡爱好者-泰国,25-45,middle,tier1,"[3, 4, 6, 42, 10, 49, 27]",1538-1882 THB,"['bank_transfer', 'true_money', 'credit_card']",4330,2024-12-15
+105,2,咖啡爱好者-泰国,25-45,middle,tier1,"[3, 4, 6, 42, 27]",1777-2275 THB,"['bank_transfer', 'cash_on_delivery']",2651,2023-01-30
+106,4,酒类收藏者-马来西亚,30-55,high,tier1,"[4, 6, 42, 14, 20, 24, 31]",117-297 MYR,"['cash_on_delivery', 'bank_transfer', 'tng_ewallet']",2487,2023-04-30
+107,4,酒类收藏者-马来西亚,30-55,high,tier1,"[4, 6, 42, 14, 20]",226-366 MYR,"['bank_transfer', 'credit_card']",1678,2023-11-28
+108,2,酒类收藏者-泰国,30-55,high,tier1,"[4, 6, 42, 14, 20]",1451-2245 THB,"['credit_card', 'true_money', 'bank_transfer']",3437,2024-06-28
+109,6,酒类收藏者-菲律宾,30-55,high,tier1,"[4, 6, 42, 14, 51, 20, 28]",1374-1737 PHP,"['maya', 'credit_card', 'bank_transfer', 'gcash']",3206,2023-08-28
+110,6,酒类收藏者-菲律宾,30-55,high,tier1,"[1, 4, 6, 42, 14, 20]",1819-2949 PHP,"['credit_card', 'maya', 'gcash', 'bank_transfer']",535,2023-06-30
+111,5,园艺爱好者-新加坡,40-65,middle,tier3,"[2, 36, 4, 6, 8, 10, 25]",124-199 SGD,"['bank_transfer', 'paynow', 'credit_card', 'paylah']",587,2024-04-30
+112,3,园艺爱好者-越南,40-65,middle,tier3,"[2, 36, 4, 6, 10, 44, 31]",525292-691887 VND,"['bank_transfer', 'zalo_pay']",3944,2024-02-15
+113,1,环保主义者-印尼,25-45,middle,tier1,"[2, 4, 36, 6, 7, 10]",244422-504850 IDR,"['bank_transfer', 'cash_on_delivery', 'dana_ewallet']",2660,2023-08-30
+114,5,环保主义者-新加坡,25-45,middle,tier1,"[2, 4, 6, 7, 10, 51]",94-149 SGD,"['paynow', 'paylah', 'credit_card', 'bank_transfer']",4889,2024-09-15
+115,5,环保主义者-新加坡,25-45,middle,tier1,"[2, 3, 4, 6, 7, 10]",64-130 SGD,"['paynow', 'bank_transfer', 'paylah']",874,2024-08-28
+116,2,环保主义者-泰国,25-45,middle,tier1,"[2, 4, 6, 7, 10, 51]",1781-2674 THB,"['true_money', 'credit_card', 'bank_transfer', 'cash_on_delivery']",3746,2023-07-28
+117,1,有机生活者-印尼,30-50,high,tier1,"[1, 4, 6, 7, 15]",289052-377752 IDR,"['dana_ewallet', 'cash_on_delivery', 'ovo_ewallet', 'gopay_ewallet']",4786,2024-01-28
+118,6,有机生活者-菲律宾,30-50,high,tier1,"[1, 4, 6, 7, 15]",1004-2176 PHP,"['gcash', 'cash_on_delivery', 'maya', 'credit_card']",4268,2024-10-30
+119,6,有机生活者-菲律宾,30-50,high,tier1,"[1, 4, 6, 7, 15, 18]",2244-4230 PHP,"['cash_on_delivery', 'gcash']",4625,2024-11-28
+120,7,有机生活者-柬埔寨,30-50,high,tier1,"[1, 4, 6, 7, 15]",40508-66117 KHR,"['wing', 'bank_transfer']",1917,2024-04-28
+121,7,有机生活者-柬埔寨,30-50,high,tier1,"[1, 4, 6, 7, 15]",59272-119972 KHR,"['cash_on_delivery', 'credit_card', 'wing', 'bank_transfer']",2620,2024-01-30
+122,7,素食主义者-柬埔寨,20-45,middle,tier2,"[1, 4, 6, 7, 10, 27]",67659-94061 KHR,"['credit_card', 'bank_transfer', 'aba_pay']",1346,2024-05-15
+123,7,极简主义者-柬埔寨,25-45,middle,tier1,"[2, 3, 4, 10, 15, 20]",90377-116505 KHR,"['bank_transfer', 'credit_card', 'wing']",2055,2023-01-28
+124,6,国货支持者-菲律宾,30-55,middle,tier2,"[1, 2, 3, 4, 6, 15]",1885-3603 PHP,"['bank_transfer', 'credit_card', 'cash_on_delivery']",1253,2024-05-30
+125,2,国货支持者-泰国,30-55,middle,tier2,"[1, 2, 3, 4, 6, 46]",1087-1552 THB,"['promptpay', 'cash_on_delivery']",3610,2023-04-28
+126,2,国货支持者-泰国,30-55,middle,tier2,"[1, 2, 3, 4, 6]",1586-2172 THB,"['credit_card', 'cash_on_delivery', 'promptpay', 'bank_transfer']",4395,2023-03-28
+127,4,国货支持者-马来西亚,30-55,middle,tier2,"[1, 2, 3, 4, 6]",188-354 MYR,"['tng_ewallet', 'grabpay', 'boost', 'cash_on_delivery']",4916,2024-02-30
+128,4,国货支持者-马来西亚,30-55,middle,tier2,"[1, 2, 3, 4, 6]",220-410 MYR,"['grabpay', 'bank_transfer', 'tng_ewallet']",543,2024-05-15
+129,7,进口商品爱好者-柬埔寨,25-45,high,tier1,"[1, 3, 6, 10, 14, 47, 20]",89879-128410 KHR,"['cash_on_delivery', 'aba_pay', 'bank_transfer', 'wing']",704,2023-06-30
+130,7,进口商品爱好者-柬埔寨,25-45,high,tier1,"[1, 3, 6, 14, 20, 21]",49311-93512 KHR,"['cash_on_delivery', 'bank_transfer', 'credit_card', 'aba_pay']",1324,2023-08-15
+131,1,进口商品爱好者-印尼,25-45,high,tier1,"[1, 3, 36, 6, 14, 20, 24]",259533-486775 IDR,"['cash_on_delivery', 'bank_transfer', 'ovo_ewallet']",3903,2023-05-30
+132,3,进口商品爱好者-越南,25-45,high,tier1,"[1, 3, 6, 14, 20]",571380-868483 VND,"['bank_transfer', 'zalo_pay']",3958,2024-05-15
+133,3,进口商品爱好者-越南,25-45,high,tier1,"[1, 3, 6, 14, 20]",444368-588662 VND,"['momo_ewallet', 'vnpay']",2361,2023-08-28
+134,5,跨境购物达人-新加坡,25-40,middle,tier1,"[1, 2, 3, 14, 20, 31]",126-191 SGD,"['credit_card', 'grabpay']",716,2024-03-15
+135,5,跨境购物达人-新加坡,25-40,middle,tier1,"[1, 2, 3, 39, 14, 20]",136-195 SGD,"['grabpay', 'paylah', 'bank_transfer']",2706,2023-11-15
+136,4,跨境购物达人-马来西亚,25-40,middle,tier1,"[1, 2, 3, 33, 14, 20, 25]",124-247 MYR,"['tng_ewallet', 'grabpay', 'cash_on_delivery']",858,2023-04-30
+137,4,跨境购物达人-马来西亚,25-40,middle,tier1,"[1, 2, 3, 14, 46, 20, 24]",109-234 MYR,"['bank_transfer', 'cash_on_delivery', 'grabpay', 'tng_ewallet']",3352,2023-08-30
+138,2,跨境购物达人-泰国,25-40,middle,tier1,"[1, 2, 3, 14, 20, 24]",984-1350 THB,"['cash_on_delivery', 'credit_card', 'promptpay', 'bank_transfer']",4253,2023-06-30
+139,1,二手交易爱好者-印尼,20-35,low,tier1,"[2, 3, 4, 10, 20, 29]",165870-294784 IDR,"['credit_card', 'cash_on_delivery', 'dana_ewallet', 'ovo_ewallet']",4907,2023-03-30
+140,2,二手交易爱好者-泰国,20-35,low,tier1,"[2, 3, 4, 10, 20]",718-1403 THB,"['bank_transfer', 'cash_on_delivery']",3851,2024-03-28
+141,2,二手交易爱好者-泰国,20-35,low,tier1,"[1, 2, 3, 4, 10, 20]",1999-3269 THB,"['credit_card', 'cash_on_delivery', 'true_money', 'bank_transfer']",4360,2023-05-15
+142,7,二手交易爱好者-柬埔寨,20-35,low,tier1,"[2, 3, 4, 10, 20]",98127-169404 KHR,"['wing', 'bank_transfer', 'credit_card']",4509,2023-05-30
+143,6,奢侈品收藏家-菲律宾,35-60,high,tier1,"[2, 3, 14, 19, 20]",1336-3061 PHP,"['cash_on_delivery', 'bank_transfer', 'maya']",1302,2024-06-28
+144,6,奢侈品收藏家-菲律宾,35-60,high,tier1,"[2, 3, 14, 19, 20]",1258-1877 PHP,"['cash_on_delivery', 'gcash', 'bank_transfer']",1221,2023-01-15
+145,3,奢侈品收藏家-越南,35-60,high,tier1,"[2, 3, 14, 19, 20]",475092-774438 VND,"['bank_transfer', 'vnpay', 'momo_ewallet', 'zalo_pay']",2271,2024-08-28
+146,3,奢侈品收藏家-越南,35-60,high,tier1,"[2, 3, 13, 14, 19, 20, 22]",479686-745981 VND,"['cash_on_delivery', 'bank_transfer']",2800,2023-05-30
+147,1,奢侈品收藏家-印尼,35-60,high,tier1,"[2, 3, 14, 19, 20, 51]",299881-446728 IDR,"['gopay_ewallet', 'credit_card', 'ovo_ewallet']",1784,2024-01-28
+148,1,奢侈品收藏家-印尼,35-60,high,tier1,"[2, 3, 14, 19, 20]",153479-317257 IDR,"['credit_card', 'bank_transfer', 'gopay_ewallet']",4205,2023-05-28
+149,7,智能家居先锋-柬埔寨,30-50,high,tier1,"[32, 33, 3, 47, 27, 30, 31]",98192-117797 KHR,"['aba_pay', 'bank_transfer', 'cash_on_delivery', 'wing']",3698,2023-02-15
+150,2,智能家居先锋-泰国,30-50,high,tier1,"[32, 33, 3, 19, 27, 31]",1595-2300 THB,"['promptpay', 'bank_transfer', 'true_money', 'cash_on_delivery']",2344,2023-06-28
+151,2,手工艺爱好者-泰国V1,25-55,middle,tier2,"[10, 4, 8, 20, 2]",874-1436 THB,"['true_money', 'cash_on_delivery', 'credit_card', 'promptpay']",3037,2024-04-10
+152,6,家庭主妇-菲律宾V2,30-50,middle,tier2,"[4, 6, 7, 15, 30]",608-1323 PHP,"['maya', 'gcash', 'cash_on_delivery', 'credit_card']",2474,2023-04-15
+153,5,数字原住民-新加坡V1,18-26,middle,tier2,"[25, 28, 29, 21, 43]",82-129 SGD,"['bank_transfer', 'paynow', 'credit_card', 'paylah']",451,2023-03-20
+154,6,家庭主妇-菲律宾V1,30-50,middle,tier2,"[4, 6, 2, 7, 15]",962-1751 PHP,"['bank_transfer', 'gcash', 'credit_card', 'maya']",322,2023-09-20
+155,3,美妆爱好者-越南V1,18-28,low,tier1,"[1, 12, 13, 14, 32]",505101-621785 VND,"['momo_ewallet', 'bank_transfer']",1761,2024-11-30
+156,5,美食家-新加坡V1,30-50,middle,tier1,"[6, 33, 1, 40]",49-82 SGD,"['credit_card', 'paynow', 'grabpay']",2366,2023-03-10
+157,4,手工艺爱好者-马来西亚V3,25-34,middle,tier2,"[10, 4, 8, 20, 2]",205-277 MYR,"['bank_transfer', 'tng_ewallet', 'grabpay']",3295,2023-06-25
+158,7,户外探险者-柬埔寨V1,25-45,low,tier2,"[5, 39, 40, 38, 2]",24234-59907 KHR,"['credit_card', 'aba_pay', 'wing', 'cash_on_delivery']",1371,2024-03-25
+159,1,都市Z世代-印尼V2,18-24,middle,tier1,"[2, 3, 11, 12, 30, 37]",322865-424662 IDR,"['ovo_ewallet', 'cash_on_delivery', 'gopay_ewallet']",3661,2023-06-10
+160,5,户外探险者-新加坡V3,25-45,middle,tier2,"[5, 39, 40, 38, 2]",37-61 SGD,"['bank_transfer', 'paynow', 'credit_card']",1905,2024-09-20
+161,5,职场新人-新加坡V1,18-24,middle,tier1,"[1, 2, 3, 17, 20]",86-156 SGD,"['grabpay', 'credit_card', 'paylah', 'paynow']",2775,2023-11-30
+162,6,酒类收藏者-菲律宾V2,25-34,high,tier1,"[6, 42, 14, 20, 4]",688-1247 PHP,"['credit_card', 'gcash']",1090,2023-07-28
+163,5,退休老人-新加坡V3,55-70,middle,tier3,"[7, 4, 6, 10, 5]",92-155 SGD,"['paylah', 'credit_card']",1777,2023-03-30
+164,5,汽车发烧友-新加坡V2,25-50,high,tier1,"[9, 51, 3, 27]",82-114 SGD,"['bank_transfer', 'paynow', 'paylah', 'credit_card']",2476,2024-12-28
+165,7,新手父母-柬埔寨V2,25-35,middle,tier2,"[22, 4, 15, 40]",38494-81820 KHR,"['bank_transfer', 'cash_on_delivery']",2306,2023-09-15
+166,1,校园新势力-印尼V3,18-22,high,tier1,"[2, 6, 10, 18, 43]",108933-357302 IDR,"['dana_ewallet', 'credit_card']",840,2023-04-15
+167,4,街头文化青年-马来西亚V3,35-44,middle,tier1,"[2, 17, 19, 20, 28]",137-165 MYR,"['credit_card', 'boost']",1617,2023-06-10
+168,3,中小企业主-越南V2,35-55,high,tier2,"[3, 9, 4, 27, 14, 24]",451011-742820 VND,"['vnpay', 'bank_transfer', 'cash_on_delivery']",1002,2023-02-30
+169,4,单亲家庭-马来西亚V2,28-45,low,tier2,"[4, 7, 22, 44]",207-371 MYR,"['cash_on_delivery', 'credit_card']",2281,2023-01-15
+170,7,极简主义者-柬埔寨V3,25-34,middle,tier1,"[4, 2, 3, 10, 20]",43438-54005 KHR,"['bank_transfer', 'cash_on_delivery', 'credit_card']",3178,2023-09-30
+171,7,智能家居先锋-柬埔寨V1,30-50,high,tier1,"[3, 27, 31, 32]",21537-58466 KHR,"['credit_card', 'cash_on_delivery']",1862,2023-05-28
+172,2,三代同堂-泰国V3,25-34,middle,tier3,"[4, 2, 10, 35, 16]",1136-1505 THB,"['true_money', 'promptpay']",969,2024-08-25
+173,2,摄影爱好者-泰国V1,28-50,middle,tier1,"[29, 24, 3, 10, 20, 9, 7]",758-1077 THB,"['true_money', 'bank_transfer']",2522,2024-07-25
+174,5,奢侈品收藏家-新加坡V2,45-54,middle,tier1,"[14, 20, 2, 19, 3]",80-153 SGD,"['grabpay', 'paynow', 'credit_card']",3988,2024-02-10
+175,3,摄影爱好者-越南V2,28-50,middle,tier1,"[29, 24, 3, 10, 20]",308388-417725 VND,"['vnpay', 'zalo_pay']",3060,2024-05-28
+176,3,奢侈品收藏家-越南V3,35-60,low,tier1,"[14, 20, 2, 19, 3]",232114-466473 VND,"['cash_on_delivery', 'momo_ewallet', 'bank_transfer', 'zalo_pay']",3232,2024-01-15
+177,3,新手父母-越南V2,25-35,middle,tier2,"[22, 4, 7, 15, 23]",448546-765245 VND,"['bank_transfer', 'momo_ewallet', 'vnpay']",1564,2024-10-15
+178,2,都市精英白领-泰国V3,25-35,high,tier1,"[2, 9, 20, 36, 34]",527-1519 THB,"['true_money', 'credit_card', 'cash_on_delivery', 'promptpay']",591,2024-06-10
+179,6,有机生活者-菲律宾V2,30-50,high,tier1,"[7, 4, 15]",650-1890 PHP,"['gcash', 'credit_card', 'maya']",3077,2023-10-28
+180,5,茶文化爱好者-新加坡V1,35-44,middle,tier2,"[6, 42, 4, 1, 29, 20]",45-120 SGD,"['bank_transfer', 'grabpay', 'paynow']",844,2024-11-30
+181,5,家庭主妇-新加坡V1,30-50,middle,tier2,"[4, 6, 2, 7, 15, 24, 30]",117-159 SGD,"['bank_transfer', 'paynow', 'credit_card', 'paylah']",1486,2024-12-10
+182,5,街头文化青年-新加坡V2,18-24,middle,tier1,"[2, 17, 18, 20, 3]",43-72 SGD,"['grabpay', 'bank_transfer', 'paynow', 'paylah']",2607,2023-03-30
+183,2,教育工作者-泰国V2,28-50,middle,tier2,"[10, 4, 7, 6, 22]",686-1731 THB,"['bank_transfer', 'cash_on_delivery']",2475,2023-12-10
+184,4,极简主义者-马来西亚V3,55+,middle,tier1,"[4, 2, 3, 10, 20]",142-311 MYR,"['tng_ewallet', 'grabpay']",1984,2023-11-25
+185,5,准新婚夫妇-新加坡V2,55+,middle,tier1,"[4, 2, 20, 1, 33]",102-121 SGD,"['paynow', 'bank_transfer', 'grabpay']",1087,2023-07-28
+186,2,职场新人-泰国V1,22-28,low,tier1,"[2, 3, 17]",1370-1890 THB,"['promptpay', 'cash_on_delivery', 'true_money']",852,2024-06-10
+187,7,多孩家庭-柬埔寨V1,45-54,low,tier3,"[6, 4, 7, 22, 2]",84717-148721 KHR,"['bank_transfer', 'aba_pay']",2033,2024-02-28
+188,3,手工艺爱好者-越南V1,25-55,middle,tier2,"[10, 4, 8, 20, 2, 15]",216103-401969 VND,"['vnpay', 'momo_ewallet', 'zalo_pay']",369,2024-11-10
+189,2,环保主义者-泰国V1,25-34,middle,tier1,"[4, 6, 2, 7, 10]",1722-2544 THB,"['promptpay', 'bank_transfer', 'credit_card']",2691,2023-01-10
+190,5,律师会计师-新加坡V3,45-54,high,tier1,"[3, 9, 2, 4, 20]",38-110 SGD,"['grabpay', 'bank_transfer', 'paynow', 'paylah']",1136,2023-07-30
+191,7,美妆爱好者-柬埔寨V3,18-28,middle,tier1,"[1, 12, 13, 14, 33]",24048-38619 KHR,"['cash_on_delivery', 'credit_card']",3859,2024-11-20
+192,6,摄影爱好者-菲律宾V1,25-34,middle,tier1,"[29, 24, 3, 28, 16]",535-2087 PHP,"['maya', 'credit_card', 'gcash']",379,2024-03-20
+193,6,潮流博主粉丝-菲律宾V2,16-25,middle,tier1,"[1, 2, 19, 20, 12]",896-1322 PHP,"['credit_card', 'gcash', 'maya']",1301,2024-07-28
+194,1,丁克家庭-印尼V3,35-44,high,tier1,"[3, 2, 5, 9, 51]",231154-412457 IDR,"['credit_card', 'dana_ewallet', 'bank_transfer', 'cash_on_delivery']",2885,2024-06-15
+195,6,素食主义者-菲律宾V3,20-45,middle,tier2,"[6, 7, 4, 10, 1, 34]",2018-3165 PHP,"['cash_on_delivery', 'gcash', 'bank_transfer']",2065,2023-02-30
+196,5,街头文化青年-新加坡V3,18-25,middle,tier1,"[2, 17, 19, 20]",110-125 SGD,"['credit_card', 'paynow', 'paylah']",3183,2024-11-20
+197,5,二手交易爱好者-新加坡V3,25-34,low,tier1,"[2, 4, 10, 20]",51-103 SGD,"['bank_transfer', 'paynow']",981,2024-12-20
+198,1,潮流博主粉丝-印尼V1,16-25,middle,tier1,"[1, 2, 19, 20, 12]",140608-276108 IDR,"['credit_card', 'bank_transfer', 'cash_on_delivery']",1989,2024-01-25
+199,7,单亲家庭-柬埔寨V3,28-45,middle,tier2,"[4, 2, 22, 48]",20401-63681 KHR,"['bank_transfer', 'credit_card']",819,2024-08-28
+200,6,外企员工-菲律宾V3,25-40,low,tier1,"[1, 3, 5, 52]",1622-3179 PHP,"['bank_transfer', 'gcash', 'cash_on_delivery']",2531,2024-06-28
+201,4,素食主义者-马来西亚V3,55+,middle,tier2,"[6, 7, 4, 10, 1, 18, 45]",175-203 MYR,"['cash_on_delivery', 'tng_ewallet', 'credit_card', 'bank_transfer']",2051,2023-06-25
+202,7,智能家居先锋-柬埔寨V2,30-50,high,tier1,"[3, 27, 31, 32, 33]",27765-57324 KHR,"['wing', 'aba_pay']",3274,2024-06-20
+203,6,新手父母-菲律宾V1,55+,middle,tier2,"[22, 4, 7, 6, 15]",1155-2148 PHP,"['bank_transfer', 'gcash', 'credit_card', 'maya']",2392,2023-06-20
+204,2,跨境购物达人-泰国V2,55+,high,tier1,"[1, 3, 2, 14, 20]",421-981 THB,"['bank_transfer', 'credit_card', 'true_money', 'cash_on_delivery']",1180,2023-10-25
+205,4,茶文化爱好者-马来西亚V2,35-60,middle,tier2,"[6, 42, 4, 10, 1, 36, 50]",124-291 MYR,"['cash_on_delivery', 'tng_ewallet', 'boost']",1389,2024-09-25
+206,7,摄影爱好者-柬埔寨V3,28-50,middle,tier1,"[29, 24, 3, 10, 20]",34618-66526 KHR,"['cash_on_delivery', 'credit_card', 'bank_transfer']",488,2023-05-15
+207,4,家庭主妇-马来西亚V1,30-50,middle,tier2,"[4, 6, 2, 7, 15]",135-218 MYR,"['grabpay', 'cash_on_delivery']",1117,2023-12-20
+208,4,校园新势力-马来西亚V1,18-22,low,tier1,"[2, 6, 10, 17, 18, 36]",150-206 MYR,"['credit_card', 'grabpay']",3882,2024-08-10
+209,4,街头文化青年-马来西亚V1,45-54,middle,tier1,"[2, 17, 18, 19, 20]",51-118 MYR,"['bank_transfer', 'boost', 'grabpay', 'tng_ewallet']",2914,2024-05-15
+210,4,咖啡爱好者-马来西亚V1,25-45,low,tier1,"[6, 42, 4, 27, 3]",178-354 MYR,"['credit_card', 'grabpay', 'boost']",1620,2024-09-30
+211,7,多孩家庭-柬埔寨V2,55+,middle,tier3,"[6, 7, 2]",43248-58997 KHR,"['bank_transfer', 'wing']",3925,2024-10-15
+212,1,丁克家庭-印尼V1,35-44,high,tier1,"[3, 2, 5, 9, 20, 50]",245880-381882 IDR,"['ovo_ewallet', 'cash_on_delivery']",866,2024-01-30
+213,2,智能家居先锋-泰国V3,30-50,high,tier1,"[3, 27, 32]",885-1286 THB,"['cash_on_delivery', 'promptpay']",3864,2024-05-30
+214,5,家庭主妇-新加坡V3,25-34,middle,tier2,"[6, 2, 7, 15, 8]",110-182 SGD,"['paynow', 'grabpay', 'bank_transfer', 'paylah']",921,2023-02-10
+215,3,美妆爱好者-越南V3,18-28,middle,tier1,"[1, 11, 12, 13, 14]",321718-599026 VND,"['momo_ewallet', 'cash_on_delivery']",2323,2024-08-20
+216,6,美食家-菲律宾V2,55+,middle,tier1,"[6, 44, 33, 4, 1]",1530-2660 PHP,"['credit_card', 'cash_on_delivery']",2561,2024-02-28
+217,7,单亲家庭-柬埔寨V1,28-45,middle,tier2,"[6, 2, 7, 22, 14, 30]",39913-99640 KHR,"['cash_on_delivery', 'bank_transfer', 'credit_card']",381,2024-03-28
+218,5,多孩家庭-新加坡V1,30-45,middle,tier3,"[6, 4, 7, 22, 50, 11]",73-88 SGD,"['paylah', 'paynow', 'bank_transfer', 'credit_card']",3818,2023-06-30
+219,2,校园新势力-泰国V3,18-22,low,tier1,"[2, 6, 10, 17, 18]",1135-2163 THB,"['cash_on_delivery', 'bank_transfer', 'promptpay']",947,2023-09-20
+220,7,职场新人-柬埔寨V1,35-44,middle,tier1,"[1, 2, 3, 17, 20]",84484-150539 KHR,"['cash_on_delivery', 'credit_card', 'wing']",1958,2024-08-10
+221,2,宠物家庭-泰国V2,25-34,middle,tier2,"[33, 7, 2, 37, 44]",1641-2236 THB,"['cash_on_delivery', 'bank_transfer']",2697,2024-11-20
+222,7,跨境购物达人-柬埔寨V2,25-40,high,tier1,"[1, 3, 2, 14, 20]",80077-129774 KHR,"['aba_pay', 'credit_card', 'cash_on_delivery', 'bank_transfer']",726,2023-11-20
+223,7,退休老人-柬埔寨V2,55-70,middle,tier3,"[6, 10, 5, 28]",67292-97165 KHR,"['wing', 'aba_pay']",791,2024-09-20
+224,7,潮流博主粉丝-柬埔寨V2,25-34,middle,tier1,"[2, 19, 20, 12, 7]",38632-56881 KHR,"['credit_card', 'cash_on_delivery']",709,2024-05-15
+225,7,丁克家庭-柬埔寨V3,30-45,high,tier1,"[3, 2, 5, 9, 20]",32407-101067 KHR,"['cash_on_delivery', 'bank_transfer', 'aba_pay', 'wing']",946,2024-06-10
+226,1,外企员工-印尼V2,25-40,low,tier1,"[1, 3, 4, 5, 10, 52]",283668-436482 IDR,"['cash_on_delivery', 'ovo_ewallet', 'bank_transfer', 'dana_ewallet']",3428,2024-07-20
+227,5,汽车发烧友-新加坡V1,25-50,high,tier1,"[9, 50, 51, 3, 27]",67-117 SGD,"['paylah', 'paynow', 'bank_transfer', 'grabpay']",3459,2024-05-20
+228,4,国货支持者-马来西亚V1,55+,high,tier2,"[1, 2, 4, 6]",137-280 MYR,"['grabpay', 'credit_card', 'tng_ewallet', 'boost']",449,2023-05-30
+229,4,户外探险者-马来西亚V3,18-24,middle,tier2,"[5, 39, 40, 38, 2, 7]",80-229 MYR,"['boost', 'grabpay']",3922,2024-01-25
+230,5,中小企业主-新加坡V1,35-55,high,tier2,"[3, 9, 10, 4, 27]",96-125 SGD,"['bank_transfer', 'grabpay', 'paynow']",1557,2023-01-25
+231,3,进口商品爱好者-越南V2,25-45,high,tier1,"[3, 6, 14, 20]",332705-541773 VND,"['vnpay', 'zalo_pay']",1328,2024-05-15
+232,7,多孩家庭-柬埔寨V3,30-45,middle,tier3,"[7, 22, 2, 46]",24425-71525 KHR,"['wing', 'credit_card']",2300,2024-06-30
+233,7,都市Z世代-柬埔寨V1,18-24,middle,tier1,"[1, 2, 3, 11, 12]",77819-135042 KHR,"['cash_on_delivery', 'credit_card']",764,2024-04-28
+234,1,手工艺爱好者-印尼V3,25-55,low,tier2,"[10, 8, 20]",122741-213536 IDR,"['credit_card', 'cash_on_delivery', 'dana_ewallet']",3463,2024-04-28
+235,5,都市精英白领-新加坡V1,25-35,high,tier1,"[3, 2, 9, 14, 20]",113-161 SGD,"['paynow', 'credit_card', 'grabpay', 'paylah']",2965,2023-05-20
+236,3,素食主义者-越南V2,20-45,middle,tier2,"[6, 7, 4, 10, 1]",239843-498876 VND,"['bank_transfer', 'vnpay', 'momo_ewallet']",2246,2024-01-25
+237,2,多孩家庭-泰国V1,35-44,low,tier3,"[6, 4, 7, 22, 2, 1]",1245-1506 THB,"['bank_transfer', 'promptpay', 'cash_on_delivery']",1182,2024-01-28
+238,6,街头文化青年-菲律宾V3,18-25,middle,tier1,"[2, 18, 19, 20]",2165-3955 PHP,"['gcash', 'maya', 'credit_card', 'bank_transfer']",825,2024-01-15
+239,7,电竞爱好者-柬埔寨V3,45-54,middle,tier1,"[3, 30, 25, 26, 41]",58102-86597 KHR,"['credit_card', 'wing', 'aba_pay', 'cash_on_delivery']",2323,2023-03-25
+240,3,素食主义者-越南V1,20-45,middle,tier2,"[6, 7, 4, 10, 1]",454648-783270 VND,"['vnpay', 'momo_ewallet']",3078,2023-11-10
+241,5,园艺爱好者-新加坡V3,40-65,middle,tier3,"[36, 4, 6, 10, 2]",28-69 SGD,"['paynow', 'credit_card']",917,2023-01-28
+242,3,咖啡爱好者-越南V2,18-24,low,tier1,"[6, 42, 4, 27, 3]",226934-535568 VND,"['momo_ewallet', 'vnpay']",1262,2024-06-10
+243,7,丁克家庭-柬埔寨V2,30-45,high,tier1,"[3, 5, 20, 10, 45]",44960-68369 KHR,"['aba_pay', 'wing', 'bank_transfer', 'credit_card']",2175,2023-11-20
+244,2,潮流博主粉丝-泰国V1,35-44,middle,tier1,"[1, 19, 12]",1179-2095 THB,"['bank_transfer', 'promptpay', 'cash_on_delivery', 'true_money']",1155,2024-12-28
+245,6,运动健身新手-菲律宾V2,25-34,middle,tier2,"[5, 37, 38, 7, 15]",1606-2283 PHP,"['gcash', 'credit_card']",2010,2023-02-30
+246,7,茶文化爱好者-柬埔寨V3,35-60,middle,tier2,"[6, 42, 4, 10]",78480-98383 KHR,"['cash_on_delivery', 'wing']",2766,2024-11-20
+247,7,金融从业者-柬埔寨V1,28-45,high,tier1,"[2, 3, 9, 20, 14]",47765-72612 KHR,"['credit_card', 'bank_transfer']",3146,2024-08-30
+248,2,单亲家庭-泰国V1,28-45,middle,tier2,"[4, 2, 7, 22, 47, 26]",1763-2642 THB,"['bank_transfer', 'true_money', 'promptpay', 'cash_on_delivery']",846,2023-01-25
+249,4,咖啡爱好者-马来西亚V1,25-45,middle,tier1,"[4, 27, 3, 45]",119-216 MYR,"['tng_ewallet', 'boost', 'grabpay']",561,2023-01-20
+250,5,咖啡爱好者-新加坡V2,25-45,high,tier1,"[42, 4, 27, 3, 49]",86-139 SGD,"['paylah', 'bank_transfer']",3943,2023-09-15
+251,1,有机生活者-印尼V3,30-50,middle,tier1,"[6, 7, 15, 38]",282151-378922 IDR,"['gopay_ewallet', 'dana_ewallet', 'ovo_ewallet', 'credit_card']",2363,2024-06-25
+252,2,中产家庭主理人-泰国V2,45-54,middle,tier2,"[4, 6, 7, 22, 10, 18]",1438-2182 THB,"['cash_on_delivery', 'credit_card', 'true_money']",1651,2023-06-28
+253,5,校园新势力-新加坡V2,18-22,low,tier1,"[2, 6, 10, 17, 18]",80-103 SGD,"['bank_transfer', 'paylah', 'credit_card', 'paynow']",948,2024-09-30
+254,2,茶文化爱好者-泰国V3,35-60,middle,tier2,"[6, 42, 4, 1, 40, 48]",604-928 THB,"['bank_transfer', 'true_money']",1313,2024-11-30
+255,2,美妆爱好者-泰国V3,18-28,high,tier1,"[1, 12, 14, 24]",629-1804 THB,"['credit_card', 'true_money', 'promptpay', 'cash_on_delivery']",2838,2023-08-15
+256,7,跨境购物达人-柬埔寨V1,25-40,middle,tier1,"[1, 3, 2, 14, 20, 50, 16]",68327-99014 KHR,"['bank_transfer', 'credit_card']",3677,2023-04-25
+257,7,单亲家庭-柬埔寨V3,28-45,middle,tier2,"[4, 2, 7, 22, 36, 32]",40478-70119 KHR,"['wing', 'bank_transfer', 'credit_card']",2580,2023-08-25
+258,6,空巢老人-菲律宾V1,25-34,low,tier2,"[4, 6, 3, 10, 11, 25]",842-2160 PHP,"['cash_on_delivery', 'credit_card', 'bank_transfer', 'maya']",1953,2023-12-20
+259,2,运动健身新手-泰国V3,20-30,low,tier2,"[5, 37, 7, 15, 38, 31]",1651-2669 THB,"['true_money', 'promptpay', 'bank_transfer']",3075,2024-10-25
+260,2,单亲家庭-泰国V1,28-45,low,tier2,"[6, 4, 7, 22, 45, 39]",911-1504 THB,"['bank_transfer', 'credit_card', 'cash_on_delivery', 'true_money']",3632,2023-03-28
+261,1,中小企业主-印尼V3,45-54,low,tier2,"[3, 9, 10, 27]",195621-430349 IDR,"['cash_on_delivery', 'bank_transfer']",755,2023-10-10
+262,3,宠物家庭-越南V3,25-45,middle,tier2,"[33, 6, 7, 2]",507285-804433 VND,"['bank_transfer', 'vnpay', 'momo_ewallet']",1034,2023-03-28
+263,4,教育工作者-马来西亚V1,18-24,middle,tier2,"[4, 7, 6, 22]",152-182 MYR,"['grabpay', 'cash_on_delivery', 'credit_card']",2994,2023-08-25
+264,2,电竞爱好者-泰国V3,18-30,middle,tier1,"[3, 30, 25, 26, 29, 51, 40]",1319-2335 THB,"['true_money', 'credit_card']",3997,2023-11-28
+265,7,准新婚夫妇-柬埔寨V3,18-24,middle,tier1,"[4, 2, 20, 1]",27940-86620 KHR,"['cash_on_delivery', 'wing', 'credit_card']",877,2024-07-10
+266,6,酒类收藏者-菲律宾V2,30-55,high,tier1,"[6, 42, 14, 20, 4, 28, 47]",1727-2301 PHP,"['credit_card', 'cash_on_delivery', 'bank_transfer', 'maya']",3553,2023-05-28
+267,1,家庭主妇-印尼V2,30-50,middle,tier2,"[4, 6, 2, 7, 15]",345220-530891 IDR,"['cash_on_delivery', 'credit_card']",2034,2024-06-15
+268,6,退休老人-菲律宾V3,55-70,middle,tier3,"[7, 4, 6, 10, 5, 36, 47]",1152-2550 PHP,"['cash_on_delivery', 'gcash', 'bank_transfer', 'credit_card']",923,2024-07-30
+269,7,创意工作者-柬埔寨V1,25-38,low,tier1,"[4, 20, 2, 10, 1]",62335-127014 KHR,"['aba_pay', 'cash_on_delivery', 'wing', 'bank_transfer']",3507,2024-08-10
+270,5,退休老人-新加坡V3,55-70,middle,tier3,"[4, 6, 10]",89-135 SGD,"['grabpay', 'paynow', 'credit_card', 'paylah']",705,2023-12-25
+271,4,教育工作者-马来西亚V2,28-50,middle,tier2,"[10, 4, 7, 6, 22, 27, 50]",69-225 MYR,"['cash_on_delivery', 'grabpay', 'tng_ewallet', 'boost']",3265,2023-11-25
+272,5,医疗从业者-新加坡V2,30-50,high,tier1,"[7, 45, 46, 47, 1, 49, 29]",90-162 SGD,"['credit_card', 'bank_transfer', 'grabpay']",3092,2024-05-10
+273,2,空巢老人-泰国V2,55+,high,tier2,"[7, 4, 6, 3, 10]",662-1468 THB,"['credit_card', 'bank_transfer']",2118,2024-04-28
+274,6,茶文化爱好者-菲律宾V1,45-54,middle,tier2,"[6, 42, 4, 10, 1]",781-1398 PHP,"['maya', 'bank_transfer', 'gcash']",3532,2023-03-28
+275,3,咖啡爱好者-越南V3,25-45,middle,tier1,"[6, 42, 27, 3, 46]",458408-666002 VND,"['bank_transfer', 'cash_on_delivery', 'momo_ewallet']",3108,2023-01-30
+276,6,潮流博主粉丝-菲律宾V2,45-54,middle,tier1,"[1, 2, 19, 20, 12]",2026-3063 PHP,"['maya', 'bank_transfer']",1034,2023-01-30
+277,4,都市Z世代-马来西亚V1,18-24,middle,tier1,"[2, 11, 12, 22]",149-200 MYR,"['boost', 'credit_card']",1758,2024-03-25
+278,3,医疗从业者-越南V3,25-34,high,tier1,"[45, 46, 47]",193234-297004 VND,"['zalo_pay', 'bank_transfer']",638,2023-04-20
+279,4,中小企业主-马来西亚V3,35-55,high,tier2,"[3, 9, 10, 27, 16]",140-170 MYR,"['cash_on_delivery', 'bank_transfer']",1735,2023-07-28
+280,4,二手交易爱好者-马来西亚V3,20-35,low,tier1,"[2, 3, 4, 20, 10]",63-114 MYR,"['tng_ewallet', 'bank_transfer']",2823,2023-12-20
+281,4,新手父母-马来西亚V3,25-35,middle,tier2,"[22, 4, 6, 27]",188-307 MYR,"['cash_on_delivery', 'grabpay', 'boost', 'bank_transfer']",1932,2023-05-20
+282,1,教育工作者-印尼V3,35-44,middle,tier2,"[10, 4, 7, 6, 22, 40, 49]",143487-361412 IDR,"['gopay_ewallet', 'cash_on_delivery', 'bank_transfer']",1796,2024-02-30
+283,7,咖啡爱好者-柬埔寨V3,25-45,middle,tier1,"[6, 4, 27, 3, 5, 45]",73804-103375 KHR,"['aba_pay', 'credit_card', 'cash_on_delivery', 'wing']",843,2024-09-20
+284,7,奢侈品收藏家-柬埔寨V2,35-60,middle,tier1,"[20, 2, 19, 3, 45]",76812-110830 KHR,"['wing', 'bank_transfer']",2948,2024-05-15
+285,1,空巢老人-印尼V2,18-24,low,tier2,"[7, 4, 10, 12, 39]",279929-455713 IDR,"['bank_transfer', 'cash_on_delivery', 'credit_card', 'dana_ewallet']",3358,2023-09-10
+286,4,园艺爱好者-马来西亚V3,40-65,middle,tier3,"[36, 4, 6, 10, 2]",135-254 MYR,"['grabpay', 'cash_on_delivery']",1544,2024-06-15
+287,3,茶文化爱好者-越南V2,35-60,middle,tier2,"[6, 4, 10, 28, 25]",247253-440962 VND,"['vnpay', 'zalo_pay', 'cash_on_delivery']",1530,2023-12-25
+288,4,跨境购物达人-马来西亚V3,25-40,middle,tier1,"[1, 2, 20, 25, 17]",116-211 MYR,"['bank_transfer', 'grabpay']",1438,2024-03-20
+289,2,创意工作者-泰国V3,25-38,middle,tier1,"[20, 2, 1, 38, 18]",1056-1277 THB,"['credit_card', 'cash_on_delivery']",3609,2023-12-15
+290,4,退休老人-马来西亚V3,55-70,middle,tier3,"[7, 4, 6, 25, 41]",120-220 MYR,"['credit_card', 'cash_on_delivery', 'tng_ewallet', 'bank_transfer']",2055,2024-09-28
+291,6,茶文化爱好者-菲律宾V1,35-60,middle,tier2,"[6, 42, 4, 10, 1]",960-2404 PHP,"['gcash', 'cash_on_delivery']",1624,2023-01-25
+292,3,美食家-越南V1,30-50,middle,tier1,"[6, 44, 33]",525575-701710 VND,"['bank_transfer', 'momo_ewallet', 'cash_on_delivery']",1748,2024-01-15
+293,7,电竞爱好者-柬埔寨V3,18-30,middle,tier1,"[3, 30, 29, 21]",22462-64607 KHR,"['aba_pay', 'cash_on_delivery', 'bank_transfer']",2942,2024-05-20
+294,3,音乐爱好者-越南V2,18-40,middle,tier2,"[28, 10, 2, 20, 1, 40, 45]",344227-491212 VND,"['momo_ewallet', 'vnpay']",3728,2023-10-28
+295,5,准新婚夫妇-新加坡V3,25-35,middle,tier1,"[4, 2, 20, 14, 1]",80-109 SGD,"['paylah', 'grabpay', 'paynow', 'bank_transfer']",3544,2024-10-10
+296,3,单亲家庭-越南V2,35-44,middle,tier2,"[6, 4, 2, 7, 22]",487325-679274 VND,"['vnpay', 'cash_on_delivery']",3514,2024-08-30
+297,5,摄影爱好者-新加坡V3,28-50,middle,tier1,"[29, 24, 20, 23, 43]",64-84 SGD,"['grabpay', 'bank_transfer']",2818,2023-07-28
+298,2,智能家居先锋-泰国V3,30-50,high,tier1,"[3, 27, 31, 32, 33, 24, 21]",657-1113 THB,"['cash_on_delivery', 'credit_card']",2966,2024-07-15
+299,6,多孩家庭-菲律宾V3,30-45,middle,tier3,"[6, 7, 22, 2]",1979-3072 PHP,"['maya', 'credit_card']",3643,2023-12-15
+300,3,校园新势力-越南V1,18-22,low,tier1,"[2, 6, 10, 17, 18]",198218-421319 VND,"['vnpay', 'momo_ewallet']",1555,2023-05-25
+301,2,丁克家庭-泰国V3,30-45,low,tier1,"[3, 2, 5, 9, 20, 52, 23]",969-1203 THB,"['bank_transfer', 'credit_card', 'true_money']",3651,2023-08-25
+302,4,金融从业者-马来西亚V1,28-45,high,tier1,"[2, 3, 9, 20, 14, 18, 32]",65-181 MYR,"['boost', 'credit_card', 'grabpay']",2179,2024-04-20
+303,6,奢侈品收藏家-菲律宾V1,35-60,high,tier1,"[14, 20, 2, 3]",1113-1787 PHP,"['credit_card', 'maya']",2464,2024-12-30
+304,3,电竞爱好者-越南V1,18-30,low,tier1,"[3, 25, 29]",433167-750686 VND,"['bank_transfer', 'vnpay', 'cash_on_delivery', 'zalo_pay']",834,2023-10-30
+305,5,都市Z世代-新加坡V1,25-34,middle,tier1,"[1, 2, 3, 11, 12]",51-113 SGD,"['paylah', 'grabpay', 'paynow', 'credit_card']",2193,2024-01-25
+306,6,素食主义者-菲律宾V2,20-45,middle,tier2,"[6, 7, 4, 10, 1]",848-1989 PHP,"['gcash', 'cash_on_delivery', 'maya', 'bank_transfer']",2716,2023-07-10
+307,7,多孩家庭-柬埔寨V1,30-45,middle,tier3,"[6, 7, 22, 2]",77543-142364 KHR,"['bank_transfer', 'aba_pay']",914,2023-02-25
+308,3,新手父母-越南V2,25-35,middle,tier2,"[22, 4, 6, 40, 33]",307934-629299 VND,"['cash_on_delivery', 'vnpay', 'momo_ewallet']",3195,2023-05-28
+309,4,单亲家庭-马来西亚V2,25-34,low,tier2,"[6, 4, 2, 7, 22]",75-146 MYR,"['cash_on_delivery', 'credit_card', 'bank_transfer', 'grabpay']",2601,2023-06-20
+310,7,多孩家庭-柬埔寨V2,30-45,middle,tier3,"[6, 4, 7, 2, 38, 27]",24536-37664 KHR,"['wing', 'bank_transfer', 'credit_card']",552,2023-06-10
+311,2,多孩家庭-泰国V2,30-45,middle,tier3,"[6, 4, 22, 2]",846-1193 THB,"['credit_card', 'true_money', 'cash_on_delivery']",3183,2024-10-30
+312,3,街头文化青年-越南V1,35-44,middle,tier1,"[2, 18, 19, 20]",506949-742403 VND,"['bank_transfer', 'zalo_pay', 'cash_on_delivery', 'momo_ewallet']",3106,2024-03-15
+313,3,音乐爱好者-越南V3,18-40,middle,tier2,"[28, 10, 2, 1, 13]",207151-543773 VND,"['bank_transfer', 'vnpay']",3941,2024-02-20
+314,2,都市精英白领-泰国V1,25-35,high,tier1,"[3, 2, 9, 14, 20]",1438-2562 THB,"['cash_on_delivery', 'credit_card', 'true_money', 'promptpay']",3944,2023-09-15
+315,7,新手父母-柬埔寨V3,25-35,middle,tier2,"[22, 4, 7, 6, 15, 41, 2]",42526-93416 KHR,"['aba_pay', 'credit_card', 'cash_on_delivery']",2290,2024-07-28
+316,3,汽车发烧友-越南V3,25-50,high,tier1,"[9, 51, 27]",181527-329751 VND,"['vnpay', 'zalo_pay', 'momo_ewallet']",730,2024-11-20
+317,6,中小企业主-菲律宾V1,35-55,high,tier2,"[3, 9, 10, 4, 27]",1661-2685 PHP,"['cash_on_delivery', 'bank_transfer']",3527,2024-04-15
+318,4,都市Z世代-马来西亚V3,18-24,middle,tier1,"[1, 3, 11, 12, 47, 8]",87-248 MYR,"['bank_transfer', 'cash_on_delivery', 'grabpay']",936,2024-05-15
+319,7,奢侈品收藏家-柬埔寨V3,35-60,high,tier1,"[20, 2, 3, 15]",42524-51654 KHR,"['bank_transfer', 'wing', 'aba_pay', 'cash_on_delivery']",3967,2023-01-15
+320,4,科技行业从业者-马来西亚V3,25-40,low,tier1,"[3, 21, 23, 24, 27]",80-126 MYR,"['bank_transfer', 'grabpay']",1073,2024-07-15
+321,1,多孩家庭-印尼V3,30-45,middle,tier3,"[4, 22, 2, 21, 9]",264136-424271 IDR,"['credit_card', 'gopay_ewallet', 'ovo_ewallet']",3975,2024-04-10
+322,2,汽车发烧友-泰国V3,35-44,high,tier1,"[9, 50, 51, 3, 27]",645-1213 THB,"['cash_on_delivery', 'bank_transfer']",3077,2024-08-10
+323,5,咖啡爱好者-新加坡V3,18-24,middle,tier1,"[6, 42, 4, 27, 3]",35-77 SGD,"['bank_transfer', 'grabpay', 'credit_card']",812,2023-10-15
+324,3,创意工作者-越南V3,25-38,middle,tier1,"[4, 20, 2, 10, 1]",333357-458956 VND,"['cash_on_delivery', 'momo_ewallet']",3518,2023-07-25
+325,3,有机生活者-越南V1,25-34,high,tier1,"[6, 7, 4, 1, 15]",187606-361585 VND,"['cash_on_delivery', 'bank_transfer', 'momo_ewallet', 'vnpay']",3732,2024-05-25
+326,3,新手父母-越南V3,25-34,low,tier2,"[22, 4, 7, 6, 15]",210087-362019 VND,"['zalo_pay', 'momo_ewallet']",320,2023-09-20
+327,5,校园新势力-新加坡V3,18-22,low,tier1,"[2, 6, 10, 17, 18, 41, 44]",25-61 SGD,"['grabpay', 'credit_card', 'paynow']",2292,2023-01-30
+328,6,有机生活者-菲律宾V3,30-50,high,tier1,"[6, 4, 1]",712-1362 PHP,"['credit_card', 'maya', 'cash_on_delivery', 'bank_transfer']",1567,2024-01-10
+329,6,运动健身新手-菲律宾V1,35-44,middle,tier2,"[5, 38, 7, 15]",1729-3244 PHP,"['credit_card', 'bank_transfer']",986,2024-03-30
+330,7,运动健身新手-柬埔寨V3,20-30,middle,tier2,"[5, 37, 38, 7, 15]",67363-92603 KHR,"['wing', 'credit_card', 'bank_transfer', 'aba_pay']",2993,2024-01-25
+331,2,茶文化爱好者-泰国V1,35-60,middle,tier2,"[6, 42, 4, 1, 51, 29]",1140-2063 THB,"['true_money', 'bank_transfer', 'cash_on_delivery', 'promptpay']",991,2024-03-25
+332,3,律师会计师-越南V1,45-54,high,tier1,"[3, 9, 2, 20, 28]",486457-834397 VND,"['momo_ewallet', 'bank_transfer']",1365,2024-03-30
+333,6,进口商品爱好者-菲律宾V2,18-24,high,tier1,"[1, 3, 6, 14, 20, 2, 24]",936-2393 PHP,"['credit_card', 'cash_on_delivery', 'bank_transfer', 'maya']",2793,2023-03-15
+334,7,丁克家庭-柬埔寨V1,30-45,middle,tier1,"[3, 2, 5, 9, 20]",52456-91429 KHR,"['bank_transfer', 'cash_on_delivery', 'wing']",3412,2024-12-10
+335,5,多孩家庭-新加坡V3,30-45,low,tier3,"[6, 4, 7, 22, 2, 30]",58-129 SGD,"['grabpay', 'paylah']",316,2024-06-25
+336,1,宠物家庭-印尼V3,25-45,middle,tier2,"[33, 6, 4, 2]",338229-567681 IDR,"['bank_transfer', 'dana_ewallet']",2618,2023-03-30
+337,5,中小企业主-新加坡V1,35-55,high,tier2,"[3, 9, 4, 27]",47-115 SGD,"['credit_card', 'paynow']",3289,2024-09-25
+338,1,金融从业者-印尼V3,28-45,middle,tier1,"[2, 3, 9, 20, 14]",230062-364794 IDR,"['bank_transfer', 'credit_card']",3291,2023-12-30
+339,4,二手交易爱好者-马来西亚V2,55+,low,tier1,"[2, 20, 10, 25, 39]",181-335 MYR,"['bank_transfer', 'cash_on_delivery', 'boost']",1017,2023-03-20
+340,6,家庭主妇-菲律宾V1,35-44,middle,tier2,"[4, 2, 15, 18]",792-1472 PHP,"['credit_card', 'gcash']",1976,2023-04-28
+341,3,准新婚夫妇-越南V1,18-24,middle,tier1,"[4, 2, 1, 48]",419979-638925 VND,"['momo_ewallet', 'vnpay']",3883,2024-10-25
+342,5,家庭主妇-新加坡V1,30-50,middle,tier2,"[4, 7, 15, 33, 52]",110-151 SGD,"['paylah', 'paynow', 'grabpay']",1315,2024-06-20
+343,7,律师会计师-柬埔寨V3,30-55,high,tier1,"[3, 9, 4, 20, 18, 21]",89793-136404 KHR,"['aba_pay', 'cash_on_delivery', 'bank_transfer', 'credit_card']",1606,2023-08-10
+344,1,进口商品爱好者-印尼V3,25-45,high,tier1,"[1, 6, 20, 16]",287426-503158 IDR,"['gopay_ewallet', 'credit_card']",2694,2023-06-15
+345,6,音乐爱好者-菲律宾V3,18-40,middle,tier2,"[28, 20, 1]",1957-2656 PHP,"['bank_transfer', 'cash_on_delivery', 'gcash', 'credit_card']",2538,2024-12-30
+346,6,宠物家庭-菲律宾V2,55+,middle,tier2,"[33, 6, 4, 7, 2]",1392-3126 PHP,"['credit_card', 'maya']",2592,2024-08-25
+347,4,科技行业从业者-马来西亚V2,25-40,high,tier1,"[3, 21, 23, 24, 27, 40]",105-184 MYR,"['boost', 'credit_card', 'tng_ewallet', 'grabpay']",1912,2023-03-10
+348,4,跨境购物达人-马来西亚V2,25-40,high,tier1,"[1, 3, 2, 14, 20]",94-231 MYR,"['grabpay', 'tng_ewallet']",1198,2023-11-30
+349,2,美妆爱好者-泰国V1,18-28,middle,tier1,"[1, 11, 12, 13, 14]",865-1121 THB,"['promptpay', 'cash_on_delivery', 'credit_card', 'bank_transfer']",3289,2024-03-25
+350,5,三代同堂-新加坡V2,45-54,middle,tier3,"[7, 4, 6, 2, 10]",102-176 SGD,"['grabpay', 'paynow']",1871,2023-12-30
+351,7,街头文化青年-柬埔寨V3,18-25,high,tier1,"[2, 17, 18, 19, 20, 31, 49]",49574-76699 KHR,"['credit_card', 'cash_on_delivery']",2942,2023-08-20
+352,7,中产家庭主理人-柬埔寨V1,30-45,middle,tier2,"[4, 6, 7, 22, 10]",75748-138694 KHR,"['bank_transfer', 'wing', 'credit_card', 'cash_on_delivery']",573,2023-10-15
+353,5,中小企业主-新加坡V3,25-34,high,tier2,"[3, 9, 10, 4, 27]",94-162 SGD,"['paylah', 'grabpay', 'bank_transfer', 'paynow']",3000,2024-12-20
+354,5,潮流博主粉丝-新加坡V3,16-25,middle,tier1,"[1, 2, 19, 20, 12]",32-66 SGD,"['bank_transfer', 'paynow', 'credit_card']",1328,2023-11-28
+355,1,单亲家庭-印尼V3,28-45,high,tier2,"[6, 4, 2, 7, 22, 49, 27]",161537-353015 IDR,"['gopay_ewallet', 'cash_on_delivery', 'dana_ewallet']",334,2023-01-20
+356,3,二次元文化迷-越南V3,55+,low,tier1,"[8, 10, 2, 20, 22]",345008-450597 VND,"['momo_ewallet', 'cash_on_delivery', 'bank_transfer']",2231,2024-12-10
+357,3,潮流博主粉丝-越南V1,16-25,middle,tier1,"[1, 2, 19, 20, 12, 7, 13]",384778-658733 VND,"['zalo_pay', 'bank_transfer', 'momo_ewallet', 'vnpay']",3095,2024-12-10
+358,3,科技行业从业者-越南V1,25-40,high,tier1,"[3, 21, 23, 24, 27, 14, 43]",259161-600361 VND,"['vnpay', 'bank_transfer', 'zalo_pay', 'cash_on_delivery']",2501,2023-03-30
+359,3,退休老人-越南V2,35-44,low,tier3,"[7, 6, 10, 5]",211079-447568 VND,"['bank_transfer', 'cash_on_delivery']",1739,2024-11-10
+360,2,中小企业主-泰国V3,35-55,high,tier2,"[3, 9, 10, 4, 27]",1262-1652 THB,"['promptpay', 'credit_card', 'cash_on_delivery']",555,2023-12-30
+361,7,有机生活者-柬埔寨V1,18-24,high,tier1,"[6, 7, 4, 1, 15]",76023-133969 KHR,"['credit_card', 'bank_transfer', 'cash_on_delivery']",1908,2024-04-10
+362,2,创意工作者-泰国V2,25-38,middle,tier1,"[4, 2, 10, 1]",1371-2310 THB,"['credit_card', 'true_money', 'promptpay']",1902,2024-02-15
+363,6,律师会计师-菲律宾V1,55+,high,tier1,"[3, 9, 2, 4, 20, 14]",513-789 PHP,"['cash_on_delivery', 'bank_transfer', 'credit_card']",1608,2023-03-20
+364,2,美食家-泰国V1,30-50,low,tier1,"[6, 44, 33, 1]",1246-1629 THB,"['credit_card', 'cash_on_delivery', 'promptpay', 'bank_transfer']",877,2023-01-30
+365,4,奢侈品收藏家-马来西亚V1,35-60,high,tier1,"[14, 20, 2, 19, 3]",59-216 MYR,"['boost', 'grabpay', 'bank_transfer']",1718,2024-12-30
+366,7,摄影爱好者-柬埔寨V2,28-50,middle,tier1,"[24, 3, 20]",28553-97383 KHR,"['wing', 'credit_card']",2016,2023-11-25
+367,3,校园新势力-越南V2,45-54,high,tier1,"[2, 6, 10, 17, 18, 9]",525866-708174 VND,"['cash_on_delivery', 'momo_ewallet']",3729,2023-07-20
+368,7,美食家-柬埔寨V3,30-50,low,tier1,"[6, 44, 33]",54343-97656 KHR,"['cash_on_delivery', 'bank_transfer', 'aba_pay', 'credit_card']",3898,2024-08-10
+369,4,丁克家庭-马来西亚V3,30-45,middle,tier1,"[3, 2, 5, 9, 20]",126-236 MYR,"['boost', 'grabpay', 'bank_transfer', 'cash_on_delivery']",2314,2023-02-25
+370,7,汽车发烧友-柬埔寨V2,55+,high,tier1,"[9, 50, 51, 3, 27]",39458-108517 KHR,"['credit_card', 'aba_pay', 'bank_transfer']",1333,2023-08-28
+371,3,素食主义者-越南V3,20-45,middle,tier2,"[6, 7, 4, 10, 32]",302251-494687 VND,"['zalo_pay', 'momo_ewallet']",2987,2024-01-28
+372,7,潮流博主粉丝-柬埔寨V2,55+,middle,tier1,"[1, 19, 12]",25597-61548 KHR,"['cash_on_delivery', 'bank_transfer', 'credit_card', 'aba_pay']",1706,2024-10-15
+373,7,二次元文化迷-柬埔寨V3,16-24,low,tier1,"[8, 10, 2, 20, 22]",79932-107779 KHR,"['aba_pay', 'bank_transfer', 'credit_card', 'wing']",1627,2023-04-20
+374,1,三代同堂-印尼V3,40-60,middle,tier3,"[7, 4, 6, 2, 10]",180692-422098 IDR,"['gopay_ewallet', 'cash_on_delivery', 'dana_ewallet']",3067,2023-10-30
+375,3,金融从业者-越南V3,18-24,middle,tier1,"[2, 3, 20, 21, 30]",303940-489904 VND,"['zalo_pay', 'bank_transfer', 'vnpay', 'cash_on_delivery']",3397,2024-10-25
+376,6,运动健身新手-菲律宾V3,55+,middle,tier2,"[5, 37, 7, 3]",2109-3317 PHP,"['bank_transfer', 'maya']",1795,2023-03-15
+377,4,街头文化青年-马来西亚V1,55+,middle,tier1,"[2, 18, 20, 4, 14]",110-290 MYR,"['cash_on_delivery', 'grabpay', 'boost', 'credit_card']",2704,2024-02-28
+378,1,二手交易爱好者-印尼V3,20-35,low,tier1,"[2, 3, 20, 10, 23]",161360-349387 IDR,"['ovo_ewallet', 'dana_ewallet', 'cash_on_delivery', 'gopay_ewallet']",645,2023-12-15
+379,6,国货支持者-菲律宾V2,30-55,middle,tier2,"[2, 3, 4, 6, 21, 44]",943-2065 PHP,"['cash_on_delivery', 'gcash', 'credit_card', 'maya']",349,2024-08-15
+380,1,摄影爱好者-印尼V2,28-50,middle,tier1,"[29, 3, 20, 36]",137121-304615 IDR,"['gopay_ewallet', 'dana_ewallet', 'credit_card', 'bank_transfer']",1062,2023-07-28
+381,1,摄影爱好者-印尼V3,28-50,middle,tier1,"[29, 24, 3, 20, 25]",326036-455694 IDR,"['gopay_ewallet', 'credit_card', 'dana_ewallet']",2941,2024-04-30
+382,4,医疗从业者-马来西亚V1,55+,high,tier1,"[7, 47, 1, 2, 22]",68-154 MYR,"['grabpay', 'credit_card', 'cash_on_delivery']",1090,2023-03-15
+383,3,宠物家庭-越南V2,25-45,middle,tier2,"[33, 6, 4, 7, 2, 5]",313986-634349 VND,"['cash_on_delivery', 'momo_ewallet', 'vnpay']",320,2024-03-30
+384,6,电竞爱好者-菲律宾V1,18-24,middle,tier1,"[3, 30, 25, 26, 29]",1555-3222 PHP,"['gcash', 'maya', 'bank_transfer', 'cash_on_delivery']",2514,2024-05-30
+385,6,跨境购物达人-菲律宾V2,18-24,middle,tier1,"[1, 3, 2, 14, 20]",538-1403 PHP,"['cash_on_delivery', 'maya', 'bank_transfer']",308,2023-07-28
+386,4,校园新势力-马来西亚V3,18-22,low,tier1,"[2, 6, 10, 17, 18, 8, 13]",167-205 MYR,"['grabpay', 'tng_ewallet', 'cash_on_delivery', 'credit_card']",3979,2023-09-25
+387,6,单亲家庭-菲律宾V3,28-45,middle,tier2,"[6, 4, 7, 15, 52]",1444-1911 PHP,"['credit_card', 'gcash', 'bank_transfer', 'maya']",3013,2023-06-20
+388,1,环保主义者-印尼V1,25-45,low,tier1,"[4, 6, 7, 14]",244228-299481 IDR,"['cash_on_delivery', 'ovo_ewallet', 'dana_ewallet', 'credit_card']",1875,2024-12-20
+389,3,运动健身新手-越南V1,20-30,middle,tier2,"[5, 37, 38, 15]",514896-776380 VND,"['vnpay', 'cash_on_delivery']",3727,2024-11-30
+390,2,街头文化青年-泰国V3,18-25,middle,tier1,"[2, 17, 18, 19, 8]",1720-1956 THB,"['true_money', 'credit_card']",873,2024-11-10
+391,7,二手交易爱好者-柬埔寨V1,20-35,low,tier1,"[2, 3, 20, 39, 34]",33286-56690 KHR,"['aba_pay', 'wing']",1891,2023-07-25
+392,4,有机生活者-马来西亚V2,30-50,low,tier1,"[6, 7, 4, 1, 15]",53-117 MYR,"['boost', 'tng_ewallet', 'grabpay', 'credit_card']",664,2024-03-20
+393,2,准新婚夫妇-泰国V1,25-35,middle,tier1,"[4, 2, 20, 14, 1]",518-1342 THB,"['promptpay', 'bank_transfer']",3780,2024-11-20
+394,1,都市Z世代-印尼V3,45-54,middle,tier1,"[1, 2, 3, 11, 14, 16]",198335-277910 IDR,"['cash_on_delivery', 'credit_card']",3690,2023-09-15
+395,4,茶文化爱好者-马来西亚V1,35-60,middle,tier2,"[6, 4, 1, 49]",131-307 MYR,"['bank_transfer', 'tng_ewallet', 'grabpay']",2092,2024-07-20
+396,2,户外探险者-泰国V2,45-54,low,tier2,"[39, 40, 2, 29, 47]",1641-2600 THB,"['promptpay', 'bank_transfer', 'credit_card']",3658,2024-09-28
+397,5,街头文化青年-新加坡V2,18-25,middle,tier1,"[2, 17, 18, 19, 20]",111-157 SGD,"['paynow', 'credit_card']",3505,2023-09-25
+398,3,户外探险者-越南V3,25-45,low,tier2,"[5, 39, 40, 38, 2]",487912-615878 VND,"['zalo_pay', 'bank_transfer', 'vnpay']",320,2023-03-30
+399,6,二次元文化迷-菲律宾V2,16-24,low,tier1,"[8, 2, 20, 22, 19, 46]",1085-1988 PHP,"['maya', 'gcash', 'cash_on_delivery', 'credit_card']",1747,2024-03-30
+400,6,极简主义者-菲律宾V1,25-45,middle,tier1,"[4, 2, 3, 10, 20]",692-1608 PHP,"['credit_card', 'maya']",2118,2024-10-15
+401,1,校园新势力-印尼V2,18-22,low,tier1,"[2, 6, 10, 17, 18]",124634-324578 IDR,"['gopay_ewallet', 'ovo_ewallet', 'cash_on_delivery', 'bank_transfer']",3513,2024-02-28
+402,5,数字原住民-新加坡V3,18-26,middle,tier2,"[3, 25, 26, 28, 29]",92-124 SGD,"['paynow', 'bank_transfer']",2043,2023-02-20
+403,4,咖啡爱好者-马来西亚V3,35-44,middle,tier1,"[42, 4, 27, 3, 9, 22]",206-287 MYR,"['tng_ewallet', 'boost', 'cash_on_delivery']",3979,2023-10-30
+404,1,都市精英白领-印尼V2,25-35,high,tier1,"[3, 2, 9, 20]",255636-464600 IDR,"['gopay_ewallet', 'dana_ewallet', 'credit_card']",2562,2023-11-28
+405,1,多孩家庭-印尼V2,30-45,low,tier3,"[6, 4, 7, 22, 16, 35]",233354-360286 IDR,"['ovo_ewallet', 'cash_on_delivery']",3928,2024-03-20
+406,5,都市精英白领-新加坡V2,25-35,high,tier1,"[3, 2, 9, 14, 20]",80-98 SGD,"['bank_transfer', 'grabpay', 'credit_card', 'paylah']",774,2023-08-25
+407,4,素食主义者-马来西亚V1,20-45,middle,tier2,"[7, 4, 10, 1, 47]",115-284 MYR,"['bank_transfer', 'cash_on_delivery']",2896,2023-04-10
+408,3,奢侈品收藏家-越南V3,35-60,high,tier1,"[14, 20, 2, 19, 3]",373889-593429 VND,"['vnpay', 'cash_on_delivery']",1720,2023-05-15
+409,4,手工艺爱好者-马来西亚V1,25-55,low,tier2,"[10, 4, 20, 2, 23]",69-170 MYR,"['bank_transfer', 'credit_card', 'cash_on_delivery', 'tng_ewallet']",2896,2023-10-10
+410,4,有机生活者-马来西亚V2,30-50,high,tier1,"[6, 4, 1, 15, 33]",138-209 MYR,"['cash_on_delivery', 'bank_transfer', 'credit_card']",3648,2024-11-10
+411,3,奢侈品收藏家-越南V1,35-44,high,tier1,"[20, 2, 19, 3, 28, 23]",251951-394807 VND,"['cash_on_delivery', 'momo_ewallet']",1120,2024-03-15
+412,2,跨境购物达人-泰国V1,25-40,high,tier1,"[1, 3, 2, 14, 20, 51]",1422-2006 THB,"['promptpay', 'true_money', 'cash_on_delivery', 'credit_card']",1674,2024-06-28
+413,4,手工艺爱好者-马来西亚V1,25-55,middle,tier2,"[10, 4, 8, 20, 2, 14]",150-268 MYR,"['bank_transfer', 'boost', 'credit_card']",957,2023-10-28
+414,2,跨境购物达人-泰国V1,25-40,middle,tier1,"[1, 3, 2, 14, 20, 21, 32]",405-962 THB,"['cash_on_delivery', 'bank_transfer']",1455,2024-01-15
+415,4,街头文化青年-马来西亚V2,18-25,middle,tier1,"[17, 18, 19, 20]",142-201 MYR,"['grabpay', 'tng_ewallet', 'boost', 'bank_transfer']",1847,2023-07-25
+416,6,外企员工-菲律宾V2,25-40,high,tier1,"[1, 3, 4, 5, 10]",630-2198 PHP,"['gcash', 'bank_transfer', 'cash_on_delivery']",3404,2024-03-30
+417,7,退休老人-柬埔寨V2,55-70,middle,tier3,"[7, 4, 6, 10, 5, 11, 32]",34444-96011 KHR,"['cash_on_delivery', 'bank_transfer', 'wing', 'aba_pay']",2499,2024-04-10
+418,5,运动健身新手-新加坡V2,25-34,high,tier2,"[37, 7, 15, 20]",64-131 SGD,"['grabpay', 'credit_card']",2003,2024-12-15
+419,4,潮流博主粉丝-马来西亚V1,45-54,middle,tier1,"[1, 2, 19, 20, 12]",175-351 MYR,"['bank_transfer', 'tng_ewallet', 'grabpay', 'boost']",3297,2024-09-28
+420,7,单亲家庭-柬埔寨V1,28-45,middle,tier2,"[2, 7, 22]",38190-87072 KHR,"['cash_on_delivery', 'aba_pay', 'credit_card']",888,2024-10-20
+421,4,退休老人-马来西亚V1,55-70,low,tier3,"[7, 4, 6, 10, 5]",213-247 MYR,"['cash_on_delivery', 'boost', 'credit_card']",2128,2023-04-15
+422,6,二次元文化迷-菲律宾V3,16-24,low,tier1,"[8, 10, 2, 20, 22]",1533-3014 PHP,"['credit_card', 'maya']",394,2023-02-15
+423,2,智能家居先锋-泰国V1,30-50,high,tier1,"[3, 27, 31, 32, 33]",840-1075 THB,"['promptpay', 'true_money']",2671,2024-05-28
+424,5,素食主义者-新加坡V2,18-24,middle,tier2,"[6, 7, 4, 10, 1]",61-81 SGD,"['bank_transfer', 'grabpay', 'paylah']",3434,2023-02-25
+425,2,二次元文化迷-泰国V1,16-24,low,tier1,"[8, 10, 2, 20, 22]",1635-2087 THB,"['promptpay', 'cash_on_delivery', 'credit_card']",1985,2024-05-28
+426,3,中产家庭主理人-越南V2,30-45,middle,tier2,"[4, 6, 7, 22, 10, 29, 20]",396543-496428 VND,"['cash_on_delivery', 'momo_ewallet']",3425,2024-11-20
+427,7,创意工作者-柬埔寨V2,35-44,middle,tier1,"[20, 2, 10, 21]",83989-106546 KHR,"['cash_on_delivery', 'aba_pay', 'credit_card', 'bank_transfer']",1020,2024-03-30
+428,7,进口商品爱好者-柬埔寨V1,25-45,high,tier1,"[1, 3, 6, 14, 20, 5, 51]",34246-71168 KHR,"['credit_card', 'aba_pay']",3638,2024-08-28
+429,7,退休老人-柬埔寨V2,55-70,middle,tier3,"[7, 4, 6, 10, 5]",23178-86736 KHR,"['aba_pay', 'wing', 'bank_transfer']",1408,2024-11-28
+430,5,新手父母-新加坡V3,25-35,high,tier2,"[22, 4, 7, 6, 15]",110-132 SGD,"['paynow', 'bank_transfer', 'paylah', 'grabpay']",2394,2023-01-20
+431,2,宠物家庭-泰国V2,25-45,middle,tier2,"[33, 6, 4, 5, 16]",1400-2030 THB,"['credit_card', 'promptpay', 'true_money', 'cash_on_delivery']",3613,2023-08-30
+432,1,医疗从业者-印尼V1,30-50,high,tier1,"[7, 45, 46, 47, 1]",213597-326431 IDR,"['gopay_ewallet', 'credit_card', 'cash_on_delivery', 'dana_ewallet']",2897,2024-12-30
+433,7,律师会计师-柬埔寨V1,18-24,high,tier1,"[3, 9, 2, 4, 20, 26]",40370-69904 KHR,"['bank_transfer', 'wing', 'cash_on_delivery', 'credit_card']",3687,2024-06-15
+434,1,极简主义者-印尼V2,25-45,middle,tier1,"[3, 10, 20, 17]",215884-442288 IDR,"['credit_card', 'bank_transfer', 'cash_on_delivery']",789,2023-07-10
+435,7,律师会计师-柬埔寨V3,30-55,high,tier1,"[3, 9, 2, 4, 20]",69837-101869 KHR,"['credit_card', 'wing', 'bank_transfer']",2710,2023-10-25
+436,3,二次元文化迷-越南V1,35-44,low,tier1,"[8, 10, 2, 20, 22]",446096-604352 VND,"['bank_transfer', 'cash_on_delivery', 'zalo_pay']",3349,2024-11-25
+437,4,手工艺爱好者-马来西亚V3,25-55,middle,tier2,"[10, 4, 8, 20]",195-346 MYR,"['boost', 'cash_on_delivery', 'credit_card', 'tng_ewallet']",2550,2024-04-28
+438,4,都市Z世代-马来西亚V2,35-44,middle,tier1,"[1, 2, 3, 12]",117-168 MYR,"['tng_ewallet', 'cash_on_delivery', 'grabpay', 'boost']",3252,2024-12-15
+439,4,音乐爱好者-马来西亚V2,18-40,middle,tier2,"[28, 10, 2, 20, 1, 45, 16]",177-274 MYR,"['grabpay', 'bank_transfer', 'boost']",1968,2023-12-28
+440,6,新手父母-菲律宾V2,25-35,middle,tier2,"[7, 6, 15]",556-1506 PHP,"['bank_transfer', 'gcash', 'cash_on_delivery']",3312,2023-12-10
+441,3,国货支持者-越南V2,55+,low,tier2,"[1, 3, 4, 6]",323452-515821 VND,"['vnpay', 'momo_ewallet']",2271,2023-07-15
+442,3,科技行业从业者-越南V1,25-40,high,tier1,"[3, 21, 23, 24, 27]",210971-499072 VND,"['zalo_pay', 'momo_ewallet']",2797,2024-06-28
+443,4,宠物家庭-马来西亚V1,25-45,middle,tier2,"[33, 6, 4, 2, 5, 13]",184-247 MYR,"['credit_card', 'grabpay']",1171,2024-02-28
+444,2,汽车发烧友-泰国V2,25-50,high,tier1,"[9, 50, 51, 27, 16]",1396-2148 THB,"['promptpay', 'cash_on_delivery', 'true_money']",2837,2023-12-15
+445,3,宠物家庭-越南V3,35-44,middle,tier2,"[33, 6, 4, 7, 51]",383697-687286 VND,"['zalo_pay', 'bank_transfer']",1957,2024-08-30
+446,6,极简主义者-菲律宾V3,25-34,middle,tier1,"[4, 2, 3, 10, 20]",1325-1593 PHP,"['gcash', 'credit_card', 'cash_on_delivery']",3582,2023-11-28
+447,6,准新婚夫妇-菲律宾V2,25-35,low,tier1,"[4, 2, 20, 1, 44]",2040-2645 PHP,"['cash_on_delivery', 'bank_transfer']",1257,2024-11-30
+448,3,进口商品爱好者-越南V3,25-45,high,tier1,"[1, 3, 6, 14, 20]",419892-594176 VND,"['zalo_pay', 'vnpay']",569,2023-08-10
+449,2,街头文化青年-泰国V3,45-54,middle,tier1,"[2, 17, 18, 19, 20, 14, 39]",1264-1470 THB,"['bank_transfer', 'credit_card', 'true_money']",345,2023-08-20
+450,4,音乐爱好者-马来西亚V3,45-54,middle,tier2,"[28, 10, 2, 20, 1, 25, 47]",134-290 MYR,"['grabpay', 'bank_transfer']",2107,2023-09-30
+451,7,摄影爱好者-柬埔寨V3,28-50,middle,tier1,"[24, 3, 20, 32, 35]",62085-75207 KHR,"['wing', 'bank_transfer', 'cash_on_delivery']",2823,2023-02-30
+452,3,校园新势力-越南V3,18-22,middle,tier1,"[2, 17, 18]",388693-589981 VND,"['momo_ewallet', 'cash_on_delivery', 'bank_transfer']",1671,2023-02-15
+453,6,国货支持者-菲律宾V1,30-55,middle,tier2,"[1, 2, 3, 6, 11, 36]",2192-3117 PHP,"['credit_card', 'cash_on_delivery', 'gcash', 'maya']",2216,2023-03-25
+454,6,教育工作者-菲律宾V2,28-50,middle,tier2,"[4, 7, 22]",1014-1825 PHP,"['cash_on_delivery', 'gcash']",3583,2024-03-20
+455,4,校园新势力-马来西亚V3,18-22,high,tier1,"[2, 6, 10, 17, 18]",141-181 MYR,"['tng_ewallet', 'credit_card', 'boost', 'grabpay']",793,2023-10-25
+456,2,摄影爱好者-泰国V1,55+,middle,tier1,"[29, 24, 3, 10, 20, 2, 18]",1023-1337 THB,"['credit_card', 'cash_on_delivery', 'bank_transfer']",2993,2024-01-30
+457,5,家庭主妇-新加坡V3,30-50,middle,tier2,"[4, 6, 2, 7, 15]",64-121 SGD,"['credit_card', 'paylah', 'grabpay']",1194,2023-01-15
+458,6,多孩家庭-菲律宾V2,55+,high,tier3,"[6, 4, 22, 45]",2143-2510 PHP,"['maya', 'bank_transfer', 'cash_on_delivery']",2229,2024-05-30
+459,4,美食家-马来西亚V1,25-34,low,tier1,"[6, 44, 33, 4, 1]",139-302 MYR,"['bank_transfer', 'boost']",499,2023-12-15
+460,4,职场新人-马来西亚V3,22-28,middle,tier1,"[1, 2, 3, 17, 20, 47]",71-215 MYR,"['tng_ewallet', 'bank_transfer', 'boost']",3520,2024-05-30
+461,1,素食主义者-印尼V2,20-45,middle,tier2,"[7, 10, 1, 36, 35]",313478-496957 IDR,"['dana_ewallet', 'bank_transfer', 'gopay_ewallet', 'credit_card']",2236,2023-06-25
+462,4,创意工作者-马来西亚V1,25-38,middle,tier1,"[4, 20, 2, 10, 1]",218-348 MYR,"['credit_card', 'tng_ewallet']",380,2024-04-20
+463,2,跨境购物达人-泰国V3,35-44,middle,tier1,"[1, 3, 14, 20, 45]",935-1992 THB,"['cash_on_delivery', 'credit_card']",1303,2023-09-20
+464,2,退休老人-泰国V2,55-70,middle,tier3,"[7, 4, 6, 10, 5]",1385-1625 THB,"['true_money', 'promptpay', 'credit_card', 'bank_transfer']",1807,2024-09-30
+465,7,退休老人-柬埔寨V3,55-70,middle,tier3,"[7, 4, 6, 10, 5]",56792-78274 KHR,"['cash_on_delivery', 'aba_pay', 'credit_card']",1339,2023-10-25
+466,5,教育工作者-新加坡V3,35-44,middle,tier2,"[10, 4, 7, 6, 22]",116-163 SGD,"['paylah', 'credit_card', 'grabpay']",3417,2024-07-28
+467,6,空巢老人-菲律宾V3,45-54,high,tier2,"[7, 4, 3, 10, 22, 9]",1532-2157 PHP,"['gcash', 'bank_transfer']",2492,2024-08-28
+468,1,进口商品爱好者-印尼V1,25-45,low,tier1,"[1, 6, 14, 42]",326033-530564 IDR,"['credit_card', 'ovo_ewallet', 'dana_ewallet']",1964,2023-10-28
+469,3,创意工作者-越南V1,25-38,middle,tier1,"[4, 20, 2, 10, 1, 45, 24]",264983-475193 VND,"['cash_on_delivery', 'bank_transfer', 'momo_ewallet']",309,2024-11-10
+470,3,运动健身新手-越南V2,20-30,high,tier2,"[5, 37, 38, 7, 13, 47]",474108-698863 VND,"['vnpay', 'cash_on_delivery', 'zalo_pay']",1858,2023-01-28
+471,5,有机生活者-新加坡V3,30-50,high,tier1,"[7, 1, 15]",65-139 SGD,"['paylah', 'credit_card', 'paynow', 'grabpay']",3575,2023-06-28
+472,7,单亲家庭-柬埔寨V1,28-45,middle,tier2,"[4, 7, 22]",21013-43923 KHR,"['wing', 'aba_pay', 'cash_on_delivery']",1283,2024-01-15
+473,2,准新婚夫妇-泰国V2,55+,middle,tier1,"[4, 2, 20, 14, 1]",841-1583 THB,"['credit_card', 'promptpay', 'bank_transfer', 'cash_on_delivery']",1377,2023-02-20
+474,6,电竞爱好者-菲律宾V3,18-30,high,tier1,"[3, 30, 25, 26, 29, 9]",1745-2794 PHP,"['maya', 'bank_transfer']",2257,2024-08-15
+475,2,退休老人-泰国V3,55-70,middle,tier3,"[7, 4, 6, 10, 5, 32, 37]",1545-2543 THB,"['bank_transfer', 'promptpay', 'cash_on_delivery', 'true_money']",2373,2024-12-28
+476,2,咖啡爱好者-泰国V2,25-45,middle,tier1,"[6, 42, 4, 27, 3]",847-1523 THB,"['true_money', 'bank_transfer', 'promptpay']",3383,2023-04-10
+477,7,环保主义者-柬埔寨V3,25-34,middle,tier1,"[4, 6, 2, 7, 10]",72355-87639 KHR,"['aba_pay', 'wing']",1563,2023-04-10
+478,1,医疗从业者-印尼V1,55+,high,tier1,"[7, 45, 46, 47, 1]",229431-280428 IDR,"['credit_card', 'gopay_ewallet', 'cash_on_delivery']",1775,2024-07-28
+479,6,丁克家庭-菲律宾V3,30-45,high,tier1,"[3, 2, 5, 9, 20]",1212-1508 PHP,"['maya', 'gcash']",1868,2024-07-28
+480,3,酒类收藏者-越南V3,45-54,high,tier1,"[6, 14, 20]",457896-625632 VND,"['zalo_pay', 'bank_transfer', 'vnpay', 'momo_ewallet']",1978,2024-03-15
+481,6,创意工作者-菲律宾V1,25-38,middle,tier1,"[4, 20, 2, 10, 1]",1219-1596 PHP,"['maya', 'cash_on_delivery', 'credit_card']",2378,2023-04-25
+482,2,都市Z世代-泰国V2,55+,middle,tier1,"[1, 2, 3, 11, 12]",898-1176 THB,"['true_money', 'bank_transfer', 'cash_on_delivery', 'promptpay']",1196,2023-08-10
+483,1,空巢老人-印尼V1,60-75,middle,tier2,"[4, 6, 3, 10, 47]",217877-361662 IDR,"['dana_ewallet', 'cash_on_delivery', 'gopay_ewallet', 'credit_card']",2561,2024-06-28
+484,7,素食主义者-柬埔寨V2,45-54,middle,tier2,"[6, 4, 10, 1]",36155-99664 KHR,"['cash_on_delivery', 'aba_pay']",1737,2024-11-28
+485,1,校园新势力-印尼V3,25-34,low,tier1,"[2, 10, 17, 18, 21]",117071-307591 IDR,"['gopay_ewallet', 'bank_transfer', 'cash_on_delivery', 'dana_ewallet']",868,2023-02-28
+486,2,进口商品爱好者-泰国V2,25-34,low,tier1,"[1, 3, 6, 14, 20, 36, 8]",768-1893 THB,"['cash_on_delivery', 'bank_transfer', 'credit_card']",381,2023-06-20
+487,4,音乐爱好者-马来西亚V1,18-40,middle,tier2,"[28, 10, 2, 20, 1]",183-320 MYR,"['cash_on_delivery', 'credit_card', 'tng_ewallet']",1303,2024-09-25
+488,7,三代同堂-柬埔寨V1,25-34,high,tier3,"[7, 6, 2, 10, 11]",37033-86933 KHR,"['aba_pay', 'bank_transfer', 'wing', 'credit_card']",3507,2023-02-25
+489,1,美食家-印尼V3,30-50,middle,tier1,"[6, 44, 33, 4, 1]",216942-352306 IDR,"['cash_on_delivery', 'credit_card']",2427,2023-06-15
+490,6,酒类收藏者-菲律宾V2,55+,high,tier1,"[6, 42, 14, 20, 4, 36]",2006-2386 PHP,"['credit_card', 'cash_on_delivery', 'maya', 'gcash']",663,2023-10-10
+491,5,国货支持者-新加坡V1,18-24,middle,tier2,"[1, 2, 3, 4, 6]",75-151 SGD,"['paylah', 'bank_transfer']",1743,2023-11-30
+492,3,中小企业主-越南V3,35-55,high,tier2,"[3, 9, 10, 4, 45]",466210-793601 VND,"['cash_on_delivery', 'zalo_pay']",3033,2023-04-20
+493,5,户外探险者-新加坡V3,25-45,high,tier2,"[5, 39, 38, 36]",89-153 SGD,"['credit_card', 'paynow', 'paylah', 'bank_transfer']",2655,2023-05-25
+494,2,单亲家庭-泰国V2,28-45,middle,tier2,"[6, 4, 2, 7, 22]",1305-1662 THB,"['cash_on_delivery', 'bank_transfer']",322,2024-04-10
+495,1,跨境购物达人-印尼V3,25-40,middle,tier1,"[1, 3, 2, 14, 20]",174441-299408 IDR,"['bank_transfer', 'credit_card']",3719,2024-05-10
+496,2,都市Z世代-泰国V3,18-24,middle,tier1,"[2, 3, 12]",984-1214 THB,"['bank_transfer', 'true_money']",3298,2024-03-25
+497,2,酒类收藏者-泰国V3,30-55,high,tier1,"[6, 42, 14, 20, 4]",844-1764 THB,"['true_money', 'credit_card', 'promptpay', 'cash_on_delivery']",2936,2024-04-10
+498,3,家庭主妇-越南V2,30-50,high,tier2,"[4, 6, 2, 7, 15, 42]",399127-716523 VND,"['momo_ewallet', 'cash_on_delivery', 'zalo_pay']",2268,2024-05-10
+499,5,医疗从业者-新加坡V1,30-50,high,tier1,"[7, 45, 46, 47, 1]",58-96 SGD,"['bank_transfer', 'paylah', 'credit_card', 'paynow']",2795,2024-05-30
+500,5,校园新势力-新加坡V3,18-22,high,tier1,"[2, 6, 10, 17, 18]",115-146 SGD,"['paynow', 'credit_card', 'paylah']",2807,2023-10-30

@@ -1,0 +1,1001 @@
+log_id,data_source,data_type,country_id,update_range_start,update_range_end,records_updated,status,run_at
+1,E-commerce Report,market_report,1,,,8,success,2023-01-01 09:04:33
+2,E-commerce Report,market_report,10,,,0,failed,2023-01-01 09:06:24
+3,E-commerce Report,market_report,5,,,5,success,2023-01-01 09:23:57
+4,E-commerce Report,market_report,6,,,0,success,2023-01-01 09:28:56
+5,E-commerce Report,market_report,5,,,5,success,2023-01-01 09:54:27
+6,E-commerce Report,market_report,,,,5,success,2023-01-01 10:00:23
+7,E-commerce Report,market_report,4,,,4,success,2023-01-01 10:06:27
+8,E-commerce Report,market_report,8,,,0,failed,2023-01-01 10:17:10
+9,E-commerce Report,market_report,2,,,3,success,2023-01-01 10:27:19
+10,E-commerce Report,market_report,9,,,1,partial,2023-01-01 10:36:53
+11,Shopee API,product_snapshot,,2023-01-02 00:00:00,2023-01-02 23:59:59,242616,success,2023-01-02 04:05:02
+12,Tiki API,product_snapshot,3,2022-12-28 00:00:00,2022-12-28 23:59:59,67843,partial,2023-01-02 08:07:50
+13,Shopee API,product_snapshot,2,2023-01-03 00:00:00,2023-01-03 23:59:59,218292,success,2023-01-04 05:34:57
+14,Lazada API,shop_info,6,,,35142,success,2023-01-06 07:28:25
+15,Lazada API,product_snapshot,,2023-01-07 00:00:00,2023-01-07 23:59:59,96719,success,2023-01-07 04:08:00
+16,Tiki API,product_snapshot,3,2023-01-07 00:00:00,2023-01-07 23:59:59,115388,success,2023-01-07 06:47:53
+17,Shopee API,shop_info,3,,,20383,success,2023-01-09 06:51:00
+18,Tokopedia API,product_snapshot,,2023-01-07 00:00:00,2023-01-07 23:59:59,195099,success,2023-01-10 05:30:17
+19,Lazada API,sales_data,1,2023-01-10 00:00:00,2023-01-10 23:59:59,83437,success,2023-01-10 07:28:00
+20,Lazada API,shop_info,,,,0,failed,2023-01-11 04:08:31
+21,Shopee API,product_snapshot,3,2023-01-12 00:00:00,2023-01-12 23:59:59,112925,success,2023-01-12 06:38:46
+22,Lazada API,sales_data,7,2023-01-14 00:00:00,2023-01-14 23:59:59,29513,partial,2023-01-14 07:17:50
+23,World Bank API,economic_indicator,,,,21,success,2023-01-15 01:29:29
+24,IMF Database,economic_indicator,10,,,36,partial,2023-01-15 02:13:48
+25,Tokopedia API,shop_info,1,,,2481,partial,2023-01-15 08:36:20
+26,Shopee API,product_snapshot,3,2023-01-13 00:00:00,2023-01-13 23:59:59,0,failed,2023-01-16 03:52:41
+27,Lazada API,product_snapshot,,2023-01-18 00:00:00,2023-01-18 23:59:59,238751,success,2023-01-18 04:13:40
+28,Lazada API,shop_info,4,,,11339,success,2023-01-19 05:36:45
+29,Tokopedia API,shop_info,1,,,30546,success,2023-01-19 07:25:41
+30,Lazada API,shop_info,6,,,7445,partial,2023-01-25 05:24:30
+31,Shopee API,campaign_data,5,2023-01-24 00:00:00,2023-01-24 23:59:59,0,failed,2023-01-25 05:52:24
+32,Lazada API,shop_info,,,,5945,success,2023-01-25 06:00:51
+33,Lazada API,product_snapshot,9,2023-01-25 00:00:00,2023-01-25 23:59:59,82585,success,2023-01-26 04:38:43
+34,Lazada API,product_snapshot,,2023-01-20 00:00:00,2023-01-20 23:59:59,109098,success,2023-01-27 04:15:32
+35,Tokopedia API,shop_info,1,,,9476,success,2023-01-27 05:48:45
+36,Lazada API,shop_info,7,,,24117,success,2023-01-27 07:50:15
+37,Shopee API,shop_info,7,,,17909,success,2023-01-28 03:12:28
+38,Shopee API,product_snapshot,9,2023-01-22 00:00:00,2023-01-22 23:59:59,197662,success,2023-01-28 04:51:39
+39,Tokopedia API,shop_info,1,,,27167,success,2023-01-28 06:53:32
+40,Tiki API,shop_info,3,,,45762,success,2023-01-28 07:45:17
+41,Tiki API,product_snapshot,3,2023-01-27 00:00:00,2023-01-27 23:59:59,95277,success,2023-02-01 06:20:59
+42,Tokopedia API,shop_info,1,,,52883,success,2023-02-02 07:30:20
+43,Shopee API,product_snapshot,3,2023-02-03 00:00:00,2023-02-03 23:59:59,285497,success,2023-02-03 06:36:52
+44,Google Trends API,search_trend,5,2023-02-03 00:00:00,2023-02-03 23:59:59,19419,success,2023-02-03 07:15:03
+45,Google Trends API,search_trend,7,2023-02-03 00:00:00,2023-02-03 23:59:59,10007,partial,2023-02-03 08:30:49
+46,Tiki API,shop_info,3,,,30830,success,2023-02-04 08:53:05
+47,Customs Database,tariff_data,8,,,674,success,2023-02-06 01:45:46
+48,Customs Database,tariff_data,2,,,411,success,2023-02-06 01:49:49
+49,Tiki API,shop_info,,,,36699,success,2023-02-08 06:39:12
+50,Tokopedia API,product_snapshot,1,2023-02-10 00:00:00,2023-02-10 23:59:59,98808,success,2023-02-10 05:09:25
+51,Shopee API,campaign_data,5,2023-02-10 00:00:00,2023-02-10 23:59:59,4342,partial,2023-02-10 05:50:15
+52,Shopee API,shop_info,10,,,27816,success,2023-02-12 04:53:21
+53,Shopee API,campaign_data,1,2023-02-12 00:00:00,2023-02-12 23:59:59,6763,success,2023-02-12 05:35:20
+54,Shopee API,shop_info,,,,2993,success,2023-02-14 06:19:15
+55,World Bank API,economic_indicator,5,,,44,success,2023-02-15 02:12:44
+56,IMF Database,economic_indicator,,,,48,partial,2023-02-15 02:38:28
+57,Lazada API,product_snapshot,1,2023-02-14 00:00:00,2023-02-14 23:59:59,72029,success,2023-02-15 05:16:32
+58,Shopee API,campaign_data,6,2023-02-16 00:00:00,2023-02-16 23:59:59,1691,success,2023-02-16 05:49:04
+59,Lazada API,sales_data,6,2023-02-15 00:00:00,2023-02-15 23:59:59,41047,partial,2023-02-17 04:23:19
+60,Shopee API,product_snapshot,6,2023-02-17 00:00:00,2023-02-17 23:59:59,0,failed,2023-02-17 06:52:47
+61,Shopee API,campaign_data,9,2023-02-18 00:00:00,2023-02-18 23:59:59,6909,success,2023-02-18 03:14:44
+62,Tiki API,shop_info,3,,,5823,success,2023-02-20 06:18:09
+63,Tiki API,shop_info,,,,9509,success,2023-02-20 06:33:41
+64,Shopee API,product_snapshot,7,2023-02-21 00:00:00,2023-02-21 23:59:59,233683,success,2023-02-21 03:26:17
+65,Tokopedia API,shop_info,1,,,18680,partial,2023-02-23 06:43:02
+66,Tiki API,product_snapshot,3,2023-02-22 00:00:00,2023-02-22 23:59:59,35852,partial,2023-02-24 07:02:56
+67,Tokopedia API,shop_info,1,,,25963,success,2023-02-27 06:55:52
+68,Google Trends API,search_trend,7,2023-02-27 00:00:00,2023-02-27 23:59:59,15690,partial,2023-02-27 08:31:19
+69,Shopee API,shop_info,8,,,33364,success,2023-02-28 04:13:21
+70,World Bank API,economic_indicator,2,,,78,success,2023-03-01 01:01:19
+71,IMF Database,economic_indicator,,,,28,partial,2023-03-01 02:37:59
+72,World Bank API,economic_indicator,9,,,51,partial,2023-03-01 02:54:38
+73,Tiki API,shop_info,3,,,4108,success,2023-03-01 07:33:46
+74,Tokopedia API,product_snapshot,1,2023-03-02 00:00:00,2023-03-02 23:59:59,221178,success,2023-03-02 06:19:52
+75,Google Trends API,search_trend,,2023-03-02 00:00:00,2023-03-02 23:59:59,48604,success,2023-03-02 08:37:10
+76,Lazada API,shop_info,2,,,4344,partial,2023-03-03 05:50:00
+77,Tiki API,product_snapshot,3,2023-03-04 00:00:00,2023-03-04 23:59:59,59748,success,2023-03-04 09:59:13
+78,Customs Database,tariff_data,2,,,301,success,2023-03-06 00:33:16
+79,Customs Database,tariff_data,3,,,193,success,2023-03-06 00:52:52
+80,Lazada API,shop_info,4,,,26878,success,2023-03-07 05:31:55
+81,Lazada API,sales_data,7,2023-03-08 00:00:00,2023-03-08 23:59:59,22778,partial,2023-03-08 04:00:09
+82,Shopee API,shop_info,6,,,0,failed,2023-03-10 03:59:07
+83,Shopee API,product_snapshot,7,2023-03-13 00:00:00,2023-03-13 23:59:59,165656,success,2023-03-13 03:08:35
+84,Tokopedia API,shop_info,1,,,28655,success,2023-03-13 08:35:16
+85,Tokopedia API,shop_info,1,,,37934,success,2023-03-14 08:42:33
+86,World Bank API,economic_indicator,1,,,93,success,2023-03-15 01:49:39
+87,IMF Database,economic_indicator,1,,,39,success,2023-03-15 02:03:40
+88,IMF Database,economic_indicator,,,,67,success,2023-03-15 02:12:06
+89,World Bank API,economic_indicator,7,,,49,partial,2023-03-15 02:40:36
+90,IMF Database,economic_indicator,5,,,33,success,2023-03-15 02:56:46
+91,Shopee API,campaign_data,5,2023-03-15 00:00:00,2023-03-15 23:59:59,4207,success,2023-03-15 03:07:40
+92,Lazada API,product_snapshot,3,2023-03-17 00:00:00,2023-03-17 23:59:59,142468,success,2023-03-17 05:53:56
+93,Google Trends API,search_trend,6,2023-03-17 00:00:00,2023-03-17 23:59:59,0,failed,2023-03-17 07:14:49
+94,Shopee API,campaign_data,9,2023-03-20 00:00:00,2023-03-20 23:59:59,8869,success,2023-03-20 05:21:07
+95,Lazada API,product_snapshot,3,2023-03-20 00:00:00,2023-03-20 23:59:59,88152,success,2023-03-20 07:28:22
+96,Tiki API,shop_info,3,,,0,failed,2023-03-20 07:31:26
+97,Tiki API,shop_info,,,,55679,success,2023-03-21 06:16:00
+98,Shopee API,campaign_data,2,2023-03-24 00:00:00,2023-03-24 23:59:59,3358,success,2023-03-24 06:44:58
+99,Shopee API,campaign_data,6,2023-03-27 00:00:00,2023-03-27 23:59:59,0,failed,2023-03-27 04:44:21
+100,Tokopedia API,shop_info,1,,,11935,success,2023-03-27 05:00:51
+101,Shopee API,campaign_data,9,2023-03-27 00:00:00,2023-03-27 23:59:59,0,failed,2023-03-27 06:22:11
+102,Lazada API,shop_info,9,,,0,failed,2023-03-27 06:31:56
+103,Tokopedia API,product_snapshot,1,2023-03-20 00:00:00,2023-03-20 23:59:59,221991,success,2023-03-27 06:40:54
+104,Lazada API,sales_data,1,2023-03-27 00:00:00,2023-03-27 23:59:59,86698,success,2023-03-27 07:50:16
+105,IMF Database,economic_indicator,,,,50,success,2023-04-01 02:40:50
+106,IMF Database,economic_indicator,3,,,86,success,2023-04-01 03:04:50
+107,Lazada API,product_snapshot,5,2023-04-01 00:00:00,2023-04-01 23:59:59,110108,partial,2023-04-01 04:56:01
+108,Lazada API,product_snapshot,,2023-04-01 00:00:00,2023-04-01 23:59:59,65745,partial,2023-04-01 06:10:32
+109,Lazada API,sales_data,9,2023-03-26 00:00:00,2023-03-26 23:59:59,35877,partial,2023-04-01 07:30:24
+110,E-commerce Report,market_report,,,,1,partial,2023-04-01 09:04:19
+111,E-commerce Report,market_report,,,,4,success,2023-04-01 09:09:52
+112,E-commerce Report,market_report,1,,,2,success,2023-04-01 09:12:53
+113,E-commerce Report,market_report,5,,,7,success,2023-04-01 09:17:43
+114,E-commerce Report,market_report,9,,,2,success,2023-04-01 09:49:37
+115,E-commerce Report,market_report,7,,,7,success,2023-04-01 10:21:30
+116,E-commerce Report,market_report,3,,,5,success,2023-04-01 10:52:06
+117,Tokopedia API,product_snapshot,1,2023-04-02 00:00:00,2023-04-02 23:59:59,206347,success,2023-04-02 06:33:06
+118,Customs Database,tariff_data,1,,,918,success,2023-04-03 01:01:24
+119,Lazada API,sales_data,10,2023-04-03 00:00:00,2023-04-03 23:59:59,0,failed,2023-04-03 06:26:11
+120,Shopee API,shop_info,6,,,28788,success,2023-04-05 04:59:15
+121,Shopee API,product_snapshot,,2023-03-31 00:00:00,2023-03-31 23:59:59,0,failed,2023-04-05 05:25:38
+122,Shopee API,product_snapshot,5,2023-04-06 00:00:00,2023-04-06 23:59:59,211254,success,2023-04-06 03:53:50
+123,Tokopedia API,shop_info,1,,,0,failed,2023-04-06 05:11:38
+124,Lazada API,product_snapshot,9,2023-04-07 00:00:00,2023-04-07 23:59:59,102884,partial,2023-04-07 06:10:23
+125,Tiki API,shop_info,3,,,42618,success,2023-04-07 06:22:20
+126,Shopee API,campaign_data,8,2023-04-03 00:00:00,2023-04-03 23:59:59,2583,success,2023-04-09 05:11:50
+127,Lazada API,product_snapshot,,2023-04-03 00:00:00,2023-04-03 23:59:59,159447,success,2023-04-09 07:51:26
+128,Shopee API,product_snapshot,8,2023-04-11 00:00:00,2023-04-11 23:59:59,88337,success,2023-04-12 04:27:51
+129,World Bank API,economic_indicator,,,,64,success,2023-04-15 02:33:44
+130,IMF Database,economic_indicator,,,,12,success,2023-04-15 02:57:36
+131,Shopee API,campaign_data,,2023-04-16 00:00:00,2023-04-16 23:59:59,3898,partial,2023-04-16 04:21:32
+132,Lazada API,product_snapshot,4,2023-04-20 00:00:00,2023-04-20 23:59:59,139147,partial,2023-04-20 05:35:17
+133,Shopee API,shop_info,,,,7998,success,2023-04-20 05:58:43
+134,Tiki API,product_snapshot,,2023-04-20 00:00:00,2023-04-20 23:59:59,222050,success,2023-04-20 07:27:49
+135,Shopee API,shop_info,3,,,31416,success,2023-04-22 03:33:58
+136,Lazada API,product_snapshot,3,2023-04-16 00:00:00,2023-04-16 23:59:59,93972,partial,2023-04-22 07:01:47
+137,Tokopedia API,product_snapshot,1,2023-04-18 00:00:00,2023-04-18 23:59:59,0,failed,2023-04-23 05:47:15
+138,Lazada API,product_snapshot,3,2023-04-26 00:00:00,2023-04-26 23:59:59,0,failed,2023-04-26 07:25:43
+139,Lazada API,sales_data,,2023-04-27 00:00:00,2023-04-27 23:59:59,82359,success,2023-04-27 06:43:36
+140,Google Trends API,search_trend,9,2023-04-28 00:00:00,2023-04-28 23:59:59,9417,success,2023-04-28 07:26:00
+141,Customs Database,tariff_data,,,,0,failed,2023-05-01 00:34:15
+142,IMF Database,economic_indicator,,,,32,success,2023-05-01 03:44:22
+143,Shopee API,product_snapshot,4,2023-05-02 00:00:00,2023-05-02 23:59:59,65505,success,2023-05-02 04:30:13
+144,Lazada API,product_snapshot,,2023-05-05 00:00:00,2023-05-05 23:59:59,70685,success,2023-05-05 07:48:19
+145,Tiki API,product_snapshot,3,2023-05-02 00:00:00,2023-05-02 23:59:59,67965,success,2023-05-05 08:25:09
+146,Tokopedia API,shop_info,1,,,50480,success,2023-05-05 08:46:11
+147,Shopee API,product_snapshot,2,2023-05-06 00:00:00,2023-05-06 23:59:59,177757,success,2023-05-06 04:48:05
+148,Lazada API,product_snapshot,8,2023-05-08 00:00:00,2023-05-08 23:59:59,205306,success,2023-05-08 07:41:31
+149,Google Trends API,search_trend,4,2023-05-11 00:00:00,2023-05-11 23:59:59,11744,success,2023-05-11 08:17:33
+150,Google Trends API,search_trend,,2023-05-12 00:00:00,2023-05-12 23:59:59,31557,success,2023-05-12 07:55:39
+151,World Bank API,economic_indicator,10,,,17,partial,2023-05-15 01:50:42
+152,IMF Database,economic_indicator,2,,,87,success,2023-05-15 02:16:05
+153,IMF Database,economic_indicator,3,,,50,success,2023-05-15 02:58:30
+154,IMF Database,economic_indicator,6,,,84,success,2023-05-15 03:15:23
+155,Lazada API,product_snapshot,,2023-05-15 00:00:00,2023-05-15 23:59:59,33795,partial,2023-05-15 07:02:22
+156,Tokopedia API,product_snapshot,1,2023-05-15 00:00:00,2023-05-15 23:59:59,0,failed,2023-05-15 08:40:39
+157,Shopee API,campaign_data,7,2023-05-16 00:00:00,2023-05-16 23:59:59,6205,success,2023-05-16 04:12:55
+158,Tiki API,product_snapshot,3,2023-05-17 00:00:00,2023-05-17 23:59:59,73013,partial,2023-05-17 07:40:58
+159,Tokopedia API,shop_info,1,,,12923,success,2023-05-19 05:02:27
+160,Shopee API,campaign_data,7,2023-05-19 00:00:00,2023-05-19 23:59:59,5664,success,2023-05-19 06:55:20
+161,Tokopedia API,shop_info,1,,,47968,success,2023-05-25 07:41:45
+162,Tokopedia API,shop_info,1,,,0,failed,2023-05-25 08:59:11
+163,Shopee API,product_snapshot,5,2023-05-27 00:00:00,2023-05-27 23:59:59,291783,success,2023-05-27 04:35:49
+164,Tokopedia API,product_snapshot,1,2023-05-27 00:00:00,2023-05-27 23:59:59,0,failed,2023-05-27 05:47:47
+165,Lazada API,sales_data,1,2023-05-28 00:00:00,2023-05-28 23:59:59,99609,success,2023-05-28 04:32:41
+166,World Bank API,economic_indicator,,,,58,success,2023-06-01 01:01:59
+167,IMF Database,economic_indicator,8,,,61,partial,2023-06-01 03:58:56
+168,Shopee API,product_snapshot,,2023-06-02 00:00:00,2023-06-02 23:59:59,67914,success,2023-06-02 04:57:42
+169,Tokopedia API,shop_info,1,,,0,failed,2023-06-02 05:11:46
+170,Tokopedia API,shop_info,1,,,30969,success,2023-06-02 05:57:01
+171,Lazada API,product_snapshot,,2023-06-04 00:00:00,2023-06-04 23:59:59,252480,success,2023-06-04 06:59:54
+172,Tokopedia API,shop_info,1,,,4570,success,2023-06-04 08:11:47
+173,Customs Database,tariff_data,9,,,84,partial,2023-06-05 00:54:57
+174,Customs Database,tariff_data,1,,,0,failed,2023-06-05 01:37:07
+175,Customs Database,tariff_data,2,,,795,success,2023-06-05 01:44:03
+176,Shopee API,product_snapshot,10,2023-06-05 00:00:00,2023-06-05 23:59:59,82124,partial,2023-06-05 05:22:05
+177,Tiki API,product_snapshot,3,2023-06-05 00:00:00,2023-06-05 23:59:59,126677,success,2023-06-05 08:34:42
+178,Lazada API,shop_info,9,,,15780,success,2023-06-06 04:12:47
+179,Tiki API,product_snapshot,3,2023-06-07 00:00:00,2023-06-07 23:59:59,0,failed,2023-06-07 07:10:29
+180,Tiki API,product_snapshot,3,2023-06-10 00:00:00,2023-06-10 23:59:59,161444,success,2023-06-10 06:28:35
+181,Tokopedia API,shop_info,1,,,47672,success,2023-06-10 07:38:19
+182,Google Trends API,search_trend,9,2023-06-10 00:00:00,2023-06-10 23:59:59,34328,success,2023-06-10 07:56:57
+183,Tokopedia API,shop_info,1,,,24820,success,2023-06-10 08:46:04
+184,Tiki API,product_snapshot,,2023-06-14 00:00:00,2023-06-14 23:59:59,119526,success,2023-06-14 07:20:57
+185,Tiki API,product_snapshot,3,2023-06-14 00:00:00,2023-06-14 23:59:59,117589,success,2023-06-14 09:55:21
+186,World Bank API,economic_indicator,2,,,40,partial,2023-06-15 01:31:11
+187,Shopee API,campaign_data,3,2023-06-13 00:00:00,2023-06-13 23:59:59,1876,success,2023-06-15 04:38:35
+188,Tokopedia API,shop_info,1,,,3458,success,2023-06-16 08:20:18
+189,Tokopedia API,product_snapshot,,2023-06-18 00:00:00,2023-06-18 23:59:59,125834,success,2023-06-18 05:01:05
+190,Lazada API,shop_info,1,,,19242,success,2023-06-20 06:35:12
+191,Shopee API,campaign_data,10,2023-06-22 00:00:00,2023-06-22 23:59:59,7021,success,2023-06-22 05:05:06
+192,Tokopedia API,product_snapshot,1,2023-06-23 00:00:00,2023-06-23 23:59:59,0,failed,2023-06-23 08:06:08
+193,Lazada API,product_snapshot,7,2023-06-22 00:00:00,2023-06-22 23:59:59,166258,success,2023-06-24 05:29:53
+194,Tokopedia API,shop_info,1,,,20364,success,2023-06-24 05:52:06
+195,Tiki API,shop_info,3,,,0,failed,2023-06-24 08:55:54
+196,Google Trends API,search_trend,2,2023-06-21 00:00:00,2023-06-21 23:59:59,16786,success,2023-06-25 08:21:40
+197,Tiki API,product_snapshot,3,2023-06-27 00:00:00,2023-06-27 23:59:59,159696,success,2023-06-27 08:14:28
+198,World Bank API,economic_indicator,6,,,0,failed,2023-07-01 01:13:42
+199,World Bank API,economic_indicator,,,,44,partial,2023-07-01 02:52:24
+200,IMF Database,economic_indicator,10,,,34,success,2023-07-01 03:43:49
+201,E-commerce Report,market_report,3,,,7,success,2023-07-01 10:07:19
+202,E-commerce Report,market_report,7,,,9,success,2023-07-01 10:21:08
+203,E-commerce Report,market_report,2,,,3,success,2023-07-01 10:26:37
+204,Shopee API,shop_info,,,,5613,success,2023-07-02 04:05:57
+205,Shopee API,shop_info,4,,,15341,success,2023-07-03 06:11:35
+206,Tiki API,shop_info,,,,918,success,2023-07-03 07:39:07
+207,Tiki API,shop_info,3,,,22714,success,2023-07-03 08:10:20
+208,Tokopedia API,shop_info,1,,,11584,success,2023-07-03 08:10:27
+209,Google Trends API,search_trend,,2023-07-05 00:00:00,2023-07-05 23:59:59,29604,success,2023-07-05 07:19:22
+210,Shopee API,product_snapshot,8,2023-07-06 00:00:00,2023-07-06 23:59:59,202766,success,2023-07-06 04:45:42
+211,Lazada API,sales_data,9,2023-07-08 00:00:00,2023-07-08 23:59:59,60301,success,2023-07-08 07:12:33
+212,Shopee API,shop_info,,,,13704,success,2023-07-10 03:28:01
+213,Tokopedia API,product_snapshot,1,2023-07-10 00:00:00,2023-07-10 23:59:59,324416,success,2023-07-10 05:00:08
+214,Lazada API,shop_info,8,,,24121,success,2023-07-12 06:57:53
+215,Lazada API,sales_data,4,2023-07-12 00:00:00,2023-07-12 23:59:59,47923,success,2023-07-12 07:52:38
+216,World Bank API,economic_indicator,9,,,90,success,2023-07-15 01:39:50
+217,Tokopedia API,shop_info,1,,,47593,success,2023-07-16 05:10:43
+218,Google Trends API,search_trend,8,2023-07-16 00:00:00,2023-07-16 23:59:59,41543,success,2023-07-16 07:21:26
+219,Shopee API,product_snapshot,4,2023-07-18 00:00:00,2023-07-18 23:59:59,0,failed,2023-07-18 05:47:58
+220,Tiki API,shop_info,3,,,30659,success,2023-07-18 09:07:09
+221,Lazada API,shop_info,2,,,52551,success,2023-07-21 06:18:01
+222,Shopee API,campaign_data,9,2023-07-22 00:00:00,2023-07-22 23:59:59,4410,success,2023-07-22 03:36:09
+223,Tokopedia API,product_snapshot,1,2023-07-22 00:00:00,2023-07-22 23:59:59,65135,partial,2023-07-22 06:08:41
+224,Tokopedia API,product_snapshot,,2023-07-23 00:00:00,2023-07-23 23:59:59,197590,success,2023-07-23 05:07:41
+225,Lazada API,product_snapshot,1,2023-07-24 00:00:00,2023-07-24 23:59:59,204189,success,2023-07-24 06:24:41
+226,Lazada API,shop_info,7,,,23808,success,2023-07-25 04:22:15
+227,Lazada API,shop_info,5,,,50531,success,2023-07-26 06:49:55
+228,Lazada API,product_snapshot,9,2023-07-23 00:00:00,2023-07-23 23:59:59,175650,success,2023-07-28 04:40:41
+229,Lazada API,sales_data,7,2023-07-28 00:00:00,2023-07-28 23:59:59,48571,success,2023-07-28 06:10:41
+230,World Bank API,economic_indicator,9,,,44,success,2023-08-01 01:55:08
+231,Google Trends API,search_trend,,2023-07-31 00:00:00,2023-07-31 23:59:59,20237,success,2023-08-03 08:45:10
+232,Shopee API,campaign_data,9,2023-07-31 00:00:00,2023-07-31 23:59:59,0,failed,2023-08-04 06:08:50
+233,Customs Database,tariff_data,,,,904,success,2023-08-07 01:57:42
+234,Tiki API,product_snapshot,,2023-08-07 00:00:00,2023-08-07 23:59:59,285905,success,2023-08-07 07:30:41
+235,Lazada API,product_snapshot,5,2023-08-09 00:00:00,2023-08-09 23:59:59,0,failed,2023-08-09 04:03:21
+236,Lazada API,sales_data,,2023-08-11 00:00:00,2023-08-11 23:59:59,11313,partial,2023-08-11 04:07:44
+237,Shopee API,shop_info,7,,,30415,success,2023-08-11 05:32:50
+238,Tokopedia API,product_snapshot,1,2023-08-09 00:00:00,2023-08-09 23:59:59,92403,success,2023-08-11 06:37:50
+239,Google Trends API,search_trend,3,2023-08-08 00:00:00,2023-08-08 23:59:59,23952,success,2023-08-11 07:04:23
+240,Google Trends API,search_trend,3,2023-08-08 00:00:00,2023-08-08 23:59:59,0,failed,2023-08-13 08:23:39
+241,Tiki API,shop_info,3,,,0,failed,2023-08-14 07:21:54
+242,IMF Database,economic_indicator,,,,0,failed,2023-08-15 02:10:30
+243,World Bank API,economic_indicator,9,,,79,success,2023-08-15 02:54:10
+244,Lazada API,product_snapshot,1,2023-08-17 00:00:00,2023-08-17 23:59:59,91849,success,2023-08-17 06:16:45
+245,Lazada API,product_snapshot,10,2023-08-14 00:00:00,2023-08-14 23:59:59,44585,partial,2023-08-17 06:58:17
+246,Tiki API,product_snapshot,3,2023-08-17 00:00:00,2023-08-17 23:59:59,0,failed,2023-08-17 09:33:58
+247,Shopee API,campaign_data,9,2023-08-18 00:00:00,2023-08-18 23:59:59,1703,success,2023-08-18 04:24:23
+248,Tiki API,product_snapshot,3,2023-08-16 00:00:00,2023-08-16 23:59:59,34397,partial,2023-08-18 08:32:05
+249,Shopee API,shop_info,5,,,16038,partial,2023-08-19 03:37:46
+250,Google Trends API,search_trend,9,2023-08-19 00:00:00,2023-08-19 23:59:59,0,failed,2023-08-19 08:04:05
+251,Tiki API,shop_info,3,,,3525,success,2023-08-19 09:37:05
+252,Shopee API,campaign_data,,2023-08-21 00:00:00,2023-08-21 23:59:59,2667,success,2023-08-21 06:25:24
+253,Shopee API,product_snapshot,4,2023-08-22 00:00:00,2023-08-22 23:59:59,81829,success,2023-08-22 04:53:53
+254,Lazada API,sales_data,,2023-08-22 00:00:00,2023-08-22 23:59:59,15935,success,2023-08-22 06:02:47
+255,Shopee API,product_snapshot,7,2023-08-22 00:00:00,2023-08-22 23:59:59,87705,success,2023-08-22 06:52:47
+256,Google Trends API,search_trend,,2023-08-15 00:00:00,2023-08-15 23:59:59,27873,partial,2023-08-22 07:35:32
+257,Tiki API,shop_info,3,,,25117,success,2023-08-24 09:12:25
+258,Tokopedia API,shop_info,,,,40782,success,2023-08-25 07:01:58
+259,Google Trends API,search_trend,,2023-08-25 00:00:00,2023-08-25 23:59:59,28771,success,2023-08-25 07:33:20
+260,Shopee API,campaign_data,4,2023-08-27 00:00:00,2023-08-27 23:59:59,2958,success,2023-08-27 05:34:24
+261,World Bank API,economic_indicator,4,,,85,success,2023-09-01 02:11:49
+262,World Bank API,economic_indicator,6,,,26,success,2023-09-01 02:15:32
+263,IMF Database,economic_indicator,2,,,25,success,2023-09-01 03:53:08
+264,Tiki API,product_snapshot,3,2023-09-01 00:00:00,2023-09-01 23:59:59,208665,success,2023-09-02 09:08:59
+265,Google Trends API,search_trend,3,2023-09-03 00:00:00,2023-09-03 23:59:59,40661,success,2023-09-03 07:53:33
+266,Customs Database,tariff_data,7,,,825,success,2023-09-04 00:42:02
+267,Tiki API,product_snapshot,3,2023-09-04 00:00:00,2023-09-04 23:59:59,274878,success,2023-09-04 07:43:10
+268,Tokopedia API,product_snapshot,1,2023-09-03 00:00:00,2023-09-03 23:59:59,355821,success,2023-09-06 05:05:50
+269,Lazada API,product_snapshot,6,2023-09-04 00:00:00,2023-09-04 23:59:59,29028,partial,2023-09-07 04:29:43
+270,Google Trends API,search_trend,8,2023-09-08 00:00:00,2023-09-08 23:59:59,50398,success,2023-09-08 08:18:53
+271,Lazada API,sales_data,4,2023-09-10 00:00:00,2023-09-10 23:59:59,20928,success,2023-09-10 07:19:31
+272,Lazada API,product_snapshot,1,2023-09-12 00:00:00,2023-09-12 23:59:59,52606,partial,2023-09-12 07:59:18
+273,Google Trends API,search_trend,,2023-09-12 00:00:00,2023-09-12 23:59:59,37623,success,2023-09-12 08:40:23
+274,Google Trends API,search_trend,1,2023-09-13 00:00:00,2023-09-13 23:59:59,37640,success,2023-09-13 07:13:34
+275,Google Trends API,search_trend,8,2023-09-11 00:00:00,2023-09-11 23:59:59,7216,partial,2023-09-13 08:11:51
+276,IMF Database,economic_indicator,8,,,0,failed,2023-09-15 02:02:56
+277,Tokopedia API,product_snapshot,1,2023-09-15 00:00:00,2023-09-15 23:59:59,220789,success,2023-09-17 06:59:35
+278,Tiki API,product_snapshot,3,2023-09-17 00:00:00,2023-09-17 23:59:59,0,failed,2023-09-17 09:07:30
+279,Shopee API,shop_info,1,,,30434,success,2023-09-20 05:41:54
+280,Lazada API,product_snapshot,1,2023-09-22 00:00:00,2023-09-22 23:59:59,69140,success,2023-09-22 07:43:58
+281,Shopee API,campaign_data,,2023-09-23 00:00:00,2023-09-23 23:59:59,3869,success,2023-09-23 03:21:00
+282,Shopee API,product_snapshot,9,2023-09-22 00:00:00,2023-09-22 23:59:59,148322,partial,2023-09-24 06:28:43
+283,Shopee API,shop_info,7,,,0,failed,2023-09-25 03:44:21
+284,Shopee API,product_snapshot,,2023-09-28 00:00:00,2023-09-28 23:59:59,0,failed,2023-09-28 06:35:43
+285,IMF Database,economic_indicator,4,,,15,partial,2023-10-01 03:09:19
+286,Lazada API,sales_data,5,2023-10-01 00:00:00,2023-10-01 23:59:59,11770,partial,2023-10-01 04:14:49
+287,Shopee API,product_snapshot,,2023-09-27 00:00:00,2023-09-27 23:59:59,114175,success,2023-10-01 04:49:20
+288,E-commerce Report,market_report,5,,,5,partial,2023-10-01 09:26:39
+289,Customs Database,tariff_data,,,,799,success,2023-10-02 00:02:24
+290,Customs Database,tariff_data,2,,,396,success,2023-10-02 00:26:12
+291,Customs Database,tariff_data,7,,,385,success,2023-10-02 01:12:15
+292,Customs Database,tariff_data,5,,,735,success,2023-10-02 01:46:24
+293,Shopee API,product_snapshot,7,2023-10-05 00:00:00,2023-10-05 23:59:59,36458,partial,2023-10-05 04:34:57
+294,Shopee API,shop_info,,,,12844,partial,2023-10-05 06:27:51
+295,Shopee API,campaign_data,6,2023-10-06 00:00:00,2023-10-06 23:59:59,9125,success,2023-10-06 05:05:02
+296,Google Trends API,search_trend,9,2023-10-03 00:00:00,2023-10-03 23:59:59,7344,success,2023-10-06 08:25:06
+297,Lazada API,product_snapshot,8,2023-10-08 00:00:00,2023-10-08 23:59:59,172700,success,2023-10-09 05:07:49
+298,Shopee API,product_snapshot,10,2023-10-10 00:00:00,2023-10-10 23:59:59,189828,success,2023-10-10 05:04:42
+299,Shopee API,product_snapshot,10,2023-10-13 00:00:00,2023-10-13 23:59:59,321691,success,2023-10-13 03:39:36
+300,Tokopedia API,shop_info,1,,,27826,success,2023-10-13 07:54:20
+301,Lazada API,shop_info,2,,,8013,success,2023-10-14 05:29:15
+302,Lazada API,shop_info,,,,34056,success,2023-10-14 06:31:39
+303,World Bank API,economic_indicator,4,,,91,success,2023-10-15 01:47:06
+304,IMF Database,economic_indicator,1,,,0,failed,2023-10-15 02:37:00
+305,IMF Database,economic_indicator,8,,,82,success,2023-10-15 02:41:23
+306,World Bank API,economic_indicator,,,,41,success,2023-10-15 02:46:55
+307,Shopee API,campaign_data,10,2023-10-17 00:00:00,2023-10-17 23:59:59,4916,success,2023-10-17 05:37:49
+308,Google Trends API,search_trend,,2023-10-18 00:00:00,2023-10-18 23:59:59,9548,success,2023-10-18 08:26:15
+309,Lazada API,product_snapshot,5,2023-10-21 00:00:00,2023-10-21 23:59:59,197159,success,2023-10-21 05:27:03
+310,Tiki API,shop_info,,,,2115,success,2023-10-22 07:02:55
+311,Tiki API,shop_info,3,,,10593,success,2023-10-23 07:44:28
+312,Lazada API,shop_info,7,,,33880,success,2023-10-26 06:44:11
+313,IMF Database,economic_indicator,,,,8,partial,2023-11-01 02:33:14
+314,Lazada API,shop_info,6,,,19484,success,2023-11-01 06:40:19
+315,Shopee API,campaign_data,7,2023-11-02 00:00:00,2023-11-02 23:59:59,0,failed,2023-11-02 05:11:17
+316,Tokopedia API,product_snapshot,1,2023-10-31 00:00:00,2023-10-31 23:59:59,69884,success,2023-11-03 06:31:55
+317,Shopee API,shop_info,10,,,29384,success,2023-11-04 05:32:47
+318,Tokopedia API,product_snapshot,1,2023-11-04 00:00:00,2023-11-04 23:59:59,298792,success,2023-11-04 07:20:28
+319,Customs Database,tariff_data,10,,,0,failed,2023-11-06 01:42:42
+320,Customs Database,tariff_data,9,,,328,success,2023-11-06 01:42:58
+321,Shopee API,product_snapshot,1,2023-11-05 00:00:00,2023-11-05 23:59:59,0,failed,2023-11-06 06:04:39
+322,World Bank API,economic_indicator,,,,74,success,2023-11-15 02:09:45
+323,Tokopedia API,shop_info,1,,,0,failed,2023-11-16 07:19:59
+324,Tokopedia API,shop_info,1,,,29048,success,2023-11-17 08:36:17
+325,Tokopedia API,shop_info,1,,,1148,partial,2023-11-18 05:30:01
+326,Tokopedia API,product_snapshot,1,2023-11-18 00:00:00,2023-11-18 23:59:59,82257,partial,2023-11-18 05:44:09
+327,Tokopedia API,shop_info,1,,,0,failed,2023-11-18 08:57:57
+328,Tokopedia API,product_snapshot,1,2023-11-21 00:00:00,2023-11-21 23:59:59,37591,partial,2023-11-21 06:36:41
+329,Google Trends API,search_trend,1,2023-11-24 00:00:00,2023-11-24 23:59:59,22728,success,2023-11-24 08:23:24
+330,Shopee API,shop_info,10,,,5509,partial,2023-11-26 03:01:43
+331,Tokopedia API,product_snapshot,,2023-11-27 00:00:00,2023-11-27 23:59:59,209018,success,2023-11-27 05:13:57
+332,Tiki API,shop_info,3,,,11388,success,2023-11-28 08:33:59
+333,IMF Database,economic_indicator,4,,,11,success,2023-12-01 02:08:12
+334,World Bank API,economic_indicator,,,,14,success,2023-12-01 02:13:58
+335,Tiki API,product_snapshot,,2023-11-26 00:00:00,2023-11-26 23:59:59,247974,success,2023-12-02 06:08:12
+336,Tokopedia API,shop_info,1,,,27761,success,2023-12-02 08:50:19
+337,Customs Database,tariff_data,3,,,260,success,2023-12-04 01:32:24
+338,Lazada API,sales_data,9,2023-12-01 00:00:00,2023-12-01 23:59:59,45229,success,2023-12-05 06:40:30
+339,Tokopedia API,product_snapshot,1,2023-12-01 00:00:00,2023-12-01 23:59:59,201091,success,2023-12-07 08:42:17
+340,Shopee API,campaign_data,7,2023-12-03 00:00:00,2023-12-03 23:59:59,5986,success,2023-12-08 06:57:19
+341,Lazada API,sales_data,,2023-12-09 00:00:00,2023-12-09 23:59:59,96963,success,2023-12-09 07:32:19
+342,Google Trends API,search_trend,5,2023-12-11 00:00:00,2023-12-11 23:59:59,20622,partial,2023-12-11 07:20:19
+343,Tiki API,shop_info,3,,,16406,success,2023-12-12 07:34:59
+344,Shopee API,product_snapshot,,2023-12-10 00:00:00,2023-12-10 23:59:59,0,failed,2023-12-14 04:48:56
+345,World Bank API,economic_indicator,,,,52,success,2023-12-15 01:09:11
+346,World Bank API,economic_indicator,5,,,24,partial,2023-12-15 01:10:55
+347,World Bank API,economic_indicator,1,,,71,success,2023-12-15 02:31:43
+348,Lazada API,product_snapshot,4,2023-12-16 00:00:00,2023-12-16 23:59:59,0,failed,2023-12-16 04:46:47
+349,Lazada API,product_snapshot,8,2023-12-16 00:00:00,2023-12-16 23:59:59,147518,success,2023-12-17 05:37:54
+350,Tiki API,shop_info,3,,,22222,success,2023-12-18 08:00:31
+351,Shopee API,campaign_data,,2023-12-19 00:00:00,2023-12-19 23:59:59,2597,partial,2023-12-19 05:00:17
+352,Shopee API,campaign_data,3,2023-12-20 00:00:00,2023-12-20 23:59:59,1623,success,2023-12-20 05:49:20
+353,Shopee API,product_snapshot,1,2023-12-21 00:00:00,2023-12-21 23:59:59,270264,success,2023-12-21 06:18:43
+354,Tiki API,shop_info,3,,,29865,success,2023-12-23 06:38:00
+355,Shopee API,campaign_data,2,2023-12-25 00:00:00,2023-12-25 23:59:59,1145,success,2023-12-25 03:22:28
+356,Tiki API,product_snapshot,3,2023-12-21 00:00:00,2023-12-21 23:59:59,153990,success,2023-12-25 07:31:13
+357,Lazada API,sales_data,,2023-12-22 00:00:00,2023-12-22 23:59:59,0,failed,2023-12-26 04:48:48
+358,Shopee API,campaign_data,8,2023-12-28 00:00:00,2023-12-28 23:59:59,0,failed,2023-12-28 06:44:30
+359,Customs Database,tariff_data,8,,,599,success,2024-01-01 00:39:08
+360,World Bank API,economic_indicator,9,,,7,partial,2024-01-01 01:25:26
+361,Customs Database,tariff_data,,,,0,failed,2024-01-01 01:42:10
+362,IMF Database,economic_indicator,8,,,0,failed,2024-01-01 03:36:34
+363,Lazada API,shop_info,7,,,7605,success,2024-01-01 05:54:10
+364,E-commerce Report,market_report,5,,,7,success,2024-01-01 09:21:33
+365,E-commerce Report,market_report,8,,,4,success,2024-01-01 09:23:25
+366,E-commerce Report,market_report,7,,,1,partial,2024-01-01 09:28:19
+367,E-commerce Report,market_report,1,,,7,success,2024-01-01 09:45:53
+368,E-commerce Report,market_report,3,,,0,failed,2024-01-01 10:00:18
+369,E-commerce Report,market_report,1,,,2,success,2024-01-01 10:35:54
+370,E-commerce Report,market_report,,,,2,partial,2024-01-01 10:49:46
+371,Shopee API,campaign_data,3,2023-12-30 00:00:00,2023-12-30 23:59:59,6980,success,2024-01-03 05:17:49
+372,Shopee API,product_snapshot,3,2024-01-04 00:00:00,2024-01-04 23:59:59,267397,success,2024-01-04 04:02:51
+373,Tiki API,product_snapshot,,2024-01-04 00:00:00,2024-01-04 23:59:59,211578,success,2024-01-04 08:49:06
+374,Tokopedia API,shop_info,1,,,24735,success,2024-01-06 05:49:42
+375,Lazada API,shop_info,1,,,39150,success,2024-01-07 07:24:00
+376,Tiki API,shop_info,3,,,48992,success,2024-01-08 06:39:25
+377,Lazada API,sales_data,,2024-01-03 00:00:00,2024-01-03 23:59:59,26028,partial,2024-01-10 07:53:15
+378,Tiki API,shop_info,3,,,28650,success,2024-01-10 09:14:16
+379,Google Trends API,search_trend,7,2024-01-09 00:00:00,2024-01-09 23:59:59,13868,partial,2024-01-12 08:06:22
+380,Tokopedia API,shop_info,,,,13881,success,2024-01-13 05:57:57
+381,Tiki API,product_snapshot,3,2024-01-11 00:00:00,2024-01-11 23:59:59,55157,success,2024-01-13 08:03:20
+382,World Bank API,economic_indicator,10,,,75,success,2024-01-15 01:34:41
+383,World Bank API,economic_indicator,2,,,51,success,2024-01-15 01:50:21
+384,World Bank API,economic_indicator,,,,48,success,2024-01-15 02:07:01
+385,World Bank API,economic_indicator,1,,,42,success,2024-01-15 02:22:04
+386,Lazada API,sales_data,4,2024-01-13 00:00:00,2024-01-13 23:59:59,37869,success,2024-01-15 04:58:00
+387,Lazada API,shop_info,3,,,17478,success,2024-01-15 05:25:48
+388,Shopee API,shop_info,3,,,20907,success,2024-01-17 06:38:12
+389,Google Trends API,search_trend,9,2024-01-18 00:00:00,2024-01-18 23:59:59,28009,success,2024-01-18 07:56:08
+390,Shopee API,shop_info,,,,28421,success,2024-01-26 06:27:07
+391,Tiki API,shop_info,,,,1044,success,2024-01-28 07:31:08
+392,World Bank API,economic_indicator,5,,,44,success,2024-02-01 01:42:07
+393,World Bank API,economic_indicator,8,,,25,partial,2024-02-01 01:59:13
+394,IMF Database,economic_indicator,4,,,80,success,2024-02-01 03:04:03
+395,Customs Database,tariff_data,,,,416,success,2024-02-05 00:44:16
+396,Customs Database,tariff_data,,,,0,failed,2024-02-05 00:44:56
+397,Customs Database,tariff_data,2,,,301,success,2024-02-05 01:08:15
+398,Shopee API,shop_info,8,,,16833,success,2024-02-05 03:54:08
+399,Lazada API,shop_info,8,,,49868,success,2024-02-06 04:13:31
+400,Lazada API,shop_info,5,,,1522,success,2024-02-07 07:50:08
+401,Tiki API,shop_info,3,,,7990,success,2024-02-07 09:41:52
+402,Tiki API,shop_info,3,,,10504,success,2024-02-07 09:45:11
+403,Tiki API,product_snapshot,3,2024-02-11 00:00:00,2024-02-11 23:59:59,193209,success,2024-02-11 08:32:48
+404,Shopee API,shop_info,8,,,43590,success,2024-02-13 06:50:09
+405,World Bank API,economic_indicator,9,,,80,success,2024-02-15 01:49:27
+406,World Bank API,economic_indicator,7,,,18,success,2024-02-15 01:50:06
+407,World Bank API,economic_indicator,4,,,79,success,2024-02-15 02:46:30
+408,Shopee API,product_snapshot,,2024-02-14 00:00:00,2024-02-14 23:59:59,0,failed,2024-02-17 03:26:50
+409,Tiki API,shop_info,3,,,38007,success,2024-02-17 06:10:53
+410,Shopee API,campaign_data,3,2024-02-12 00:00:00,2024-02-12 23:59:59,3860,success,2024-02-19 04:22:34
+411,Tokopedia API,product_snapshot,1,2024-02-19 00:00:00,2024-02-19 23:59:59,193512,success,2024-02-19 05:27:28
+412,Google Trends API,search_trend,10,2024-02-22 00:00:00,2024-02-22 23:59:59,15826,success,2024-02-22 07:27:46
+413,Tiki API,shop_info,,,,27079,success,2024-02-23 06:23:01
+414,Google Trends API,search_trend,1,2024-02-24 00:00:00,2024-02-24 23:59:59,16834,success,2024-02-24 07:41:46
+415,Tokopedia API,shop_info,1,,,0,failed,2024-02-25 06:21:39
+416,Lazada API,product_snapshot,,2024-02-28 00:00:00,2024-02-28 23:59:59,249726,success,2024-02-28 06:10:12
+417,IMF Database,economic_indicator,4,,,99,success,2024-03-01 03:36:52
+418,Lazada API,product_snapshot,5,2024-03-02 00:00:00,2024-03-02 23:59:59,92121,partial,2024-03-02 05:40:30
+419,Shopee API,shop_info,5,,,37771,success,2024-03-03 06:28:58
+420,Tokopedia API,product_snapshot,1,2024-03-01 00:00:00,2024-03-01 23:59:59,256505,success,2024-03-03 08:57:32
+421,Customs Database,tariff_data,,,,330,success,2024-03-04 00:27:26
+422,Customs Database,tariff_data,8,,,400,partial,2024-03-04 01:45:53
+423,Customs Database,tariff_data,7,,,174,success,2024-03-04 01:59:01
+424,Shopee API,shop_info,,,,27477,success,2024-03-04 05:08:31
+425,Tiki API,shop_info,3,,,25193,success,2024-03-09 09:58:09
+426,Shopee API,campaign_data,8,2024-03-10 00:00:00,2024-03-10 23:59:59,1648,success,2024-03-10 03:32:57
+427,Tiki API,product_snapshot,3,2024-03-08 00:00:00,2024-03-08 23:59:59,174337,success,2024-03-10 09:20:47
+428,Google Trends API,search_trend,1,2024-03-11 00:00:00,2024-03-11 23:59:59,34669,success,2024-03-11 07:48:30
+429,Shopee API,product_snapshot,2,2024-03-13 00:00:00,2024-03-13 23:59:59,184170,success,2024-03-13 06:20:57
+430,Tokopedia API,product_snapshot,1,2024-03-14 00:00:00,2024-03-14 23:59:59,0,failed,2024-03-14 07:16:32
+431,Lazada API,sales_data,4,2024-03-14 00:00:00,2024-03-14 23:59:59,43702,success,2024-03-18 07:34:30
+432,Shopee API,campaign_data,,2024-03-16 00:00:00,2024-03-16 23:59:59,8618,success,2024-03-21 04:55:59
+433,World Bank API,economic_indicator,2,,,43,success,2024-04-01 01:54:18
+434,IMF Database,economic_indicator,,,,29,partial,2024-04-01 02:43:30
+435,IMF Database,economic_indicator,4,,,30,success,2024-04-01 03:16:23
+436,Shopee API,product_snapshot,,2024-04-01 00:00:00,2024-04-01 23:59:59,254842,success,2024-04-01 05:05:21
+437,E-commerce Report,market_report,7,,,3,success,2024-04-01 09:36:37
+438,E-commerce Report,market_report,,,,0,success,2024-04-01 10:17:19
+439,E-commerce Report,market_report,8,,,4,success,2024-04-01 10:18:29
+440,E-commerce Report,market_report,8,,,0,success,2024-04-01 10:31:12
+441,E-commerce Report,market_report,8,,,2,success,2024-04-01 10:52:41
+442,Tiki API,shop_info,,,,1394,partial,2024-04-02 07:27:17
+443,Shopee API,shop_info,,,,0,failed,2024-04-03 03:36:21
+444,Tokopedia API,shop_info,1,,,23082,success,2024-04-03 07:14:52
+445,Tiki API,product_snapshot,,2024-04-03 00:00:00,2024-04-03 23:59:59,144326,success,2024-04-03 07:53:50
+446,Tokopedia API,product_snapshot,1,2024-03-30 00:00:00,2024-03-30 23:59:59,114026,success,2024-04-04 07:52:17
+447,Tiki API,product_snapshot,3,2024-04-04 00:00:00,2024-04-04 23:59:59,177489,success,2024-04-04 08:01:59
+448,Google Trends API,search_trend,,2024-04-05 00:00:00,2024-04-05 23:59:59,2197,success,2024-04-05 07:09:07
+449,Shopee API,campaign_data,5,2024-04-04 00:00:00,2024-04-04 23:59:59,0,failed,2024-04-06 03:17:49
+450,Lazada API,shop_info,6,,,51326,success,2024-04-07 06:45:32
+451,Tiki API,product_snapshot,3,2024-04-08 00:00:00,2024-04-08 23:59:59,61636,success,2024-04-08 09:40:12
+452,Tiki API,product_snapshot,3,2024-04-09 00:00:00,2024-04-09 23:59:59,163412,success,2024-04-09 09:45:45
+453,Shopee API,campaign_data,4,2024-04-10 00:00:00,2024-04-10 23:59:59,8752,success,2024-04-10 03:29:25
+454,Tokopedia API,shop_info,,,,17631,success,2024-04-10 07:07:53
+455,Lazada API,shop_info,7,,,15242,success,2024-04-11 05:36:29
+456,Tokopedia API,shop_info,1,,,2597,success,2024-04-11 05:41:48
+457,Tokopedia API,product_snapshot,,2024-04-14 00:00:00,2024-04-14 23:59:59,0,failed,2024-04-14 08:18:25
+458,Tiki API,shop_info,3,,,17897,success,2024-04-14 08:59:25
+459,World Bank API,economic_indicator,,,,91,success,2024-04-15 01:13:07
+460,World Bank API,economic_indicator,10,,,60,success,2024-04-15 01:56:12
+461,World Bank API,economic_indicator,3,,,103,success,2024-04-15 02:51:03
+462,IMF Database,economic_indicator,6,,,18,success,2024-04-15 03:31:36
+463,Lazada API,shop_info,5,,,5714,success,2024-04-15 06:37:32
+464,Lazada API,product_snapshot,10,2024-04-15 00:00:00,2024-04-15 23:59:59,124093,partial,2024-04-15 07:55:06
+465,Lazada API,sales_data,7,2024-04-09 00:00:00,2024-04-09 23:59:59,0,failed,2024-04-16 04:22:23
+466,Google Trends API,search_trend,3,2024-04-13 00:00:00,2024-04-13 23:59:59,5875,success,2024-04-17 08:18:18
+467,Tokopedia API,shop_info,,,,30157,success,2024-04-18 07:29:11
+468,Lazada API,product_snapshot,7,2024-04-18 00:00:00,2024-04-18 23:59:59,135415,success,2024-04-18 07:53:14
+469,Tiki API,product_snapshot,3,2024-04-19 00:00:00,2024-04-19 23:59:59,138107,success,2024-04-20 06:07:16
+470,Tiki API,shop_info,3,,,21908,success,2024-04-20 08:45:20
+471,Tokopedia API,shop_info,1,,,30280,success,2024-04-23 06:32:57
+472,Lazada API,sales_data,,2024-04-18 00:00:00,2024-04-18 23:59:59,31587,success,2024-04-24 06:08:21
+473,Tiki API,product_snapshot,,2024-04-25 00:00:00,2024-04-25 23:59:59,0,failed,2024-04-25 07:36:09
+474,Lazada API,shop_info,3,,,7899,success,2024-04-27 04:09:34
+475,IMF Database,economic_indicator,3,,,84,success,2024-05-01 03:00:59
+476,Shopee API,product_snapshot,4,2024-04-29 00:00:00,2024-04-29 23:59:59,36820,partial,2024-05-02 06:07:31
+477,Shopee API,product_snapshot,1,2024-04-29 00:00:00,2024-04-29 23:59:59,73055,success,2024-05-03 05:38:21
+478,Shopee API,shop_info,9,,,27590,success,2024-05-04 04:43:27
+479,Tiki API,shop_info,3,,,33846,success,2024-05-05 09:32:20
+480,Customs Database,tariff_data,7,,,449,success,2024-05-06 00:29:24
+481,Customs Database,tariff_data,,,,467,success,2024-05-06 00:39:39
+482,Customs Database,tariff_data,7,,,1020,success,2024-05-06 00:48:56
+483,Customs Database,tariff_data,,,,125,success,2024-05-06 01:15:23
+484,Shopee API,campaign_data,7,2024-05-01 00:00:00,2024-05-01 23:59:59,0,failed,2024-05-07 04:10:04
+485,Lazada API,shop_info,5,,,22756,partial,2024-05-08 04:23:53
+486,Lazada API,sales_data,7,2024-05-08 00:00:00,2024-05-08 23:59:59,0,failed,2024-05-08 05:42:39
+487,Tokopedia API,shop_info,1,,,30527,success,2024-05-08 08:42:50
+488,Tokopedia API,shop_info,1,,,22235,success,2024-05-09 06:51:21
+489,Tokopedia API,product_snapshot,,2024-05-08 00:00:00,2024-05-08 23:59:59,241458,success,2024-05-11 06:48:00
+490,Google Trends API,search_trend,1,2024-05-11 00:00:00,2024-05-11 23:59:59,13898,success,2024-05-11 08:49:49
+491,Tokopedia API,shop_info,1,,,0,failed,2024-05-14 07:04:57
+492,IMF Database,economic_indicator,10,,,78,success,2024-05-15 02:59:06
+493,IMF Database,economic_indicator,5,,,15,success,2024-05-15 03:19:09
+494,IMF Database,economic_indicator,10,,,25,success,2024-05-15 03:59:37
+495,Shopee API,campaign_data,10,2024-05-14 00:00:00,2024-05-14 23:59:59,8787,success,2024-05-17 03:37:27
+496,Tiki API,product_snapshot,,2024-05-15 00:00:00,2024-05-15 23:59:59,159995,partial,2024-05-17 07:55:51
+497,Tiki API,shop_info,3,,,4872,partial,2024-05-17 08:44:10
+498,Shopee API,campaign_data,,2024-05-18 00:00:00,2024-05-18 23:59:59,5660,success,2024-05-18 04:28:08
+499,Tiki API,product_snapshot,3,2024-05-12 00:00:00,2024-05-12 23:59:59,93555,success,2024-05-19 09:49:51
+500,Tiki API,shop_info,3,,,23729,success,2024-05-20 06:31:43
+501,Lazada API,product_snapshot,6,2024-05-21 00:00:00,2024-05-21 23:59:59,0,failed,2024-05-22 04:53:22
+502,Tokopedia API,shop_info,,,,12998,success,2024-05-28 05:05:55
+503,Lazada API,product_snapshot,7,2024-05-28 00:00:00,2024-05-28 23:59:59,0,failed,2024-05-28 06:41:35
+504,World Bank API,economic_indicator,7,,,40,success,2024-06-01 01:35:36
+505,IMF Database,economic_indicator,1,,,40,success,2024-06-01 02:13:03
+506,World Bank API,economic_indicator,2,,,86,success,2024-06-01 02:26:38
+507,Google Trends API,search_trend,9,2024-06-01 00:00:00,2024-06-01 23:59:59,30593,success,2024-06-01 08:06:36
+508,Tiki API,shop_info,,,,20242,success,2024-06-01 08:14:51
+509,Customs Database,tariff_data,,,,123,success,2024-06-03 00:16:27
+510,Customs Database,tariff_data,6,,,590,success,2024-06-03 01:02:52
+511,Lazada API,product_snapshot,3,2024-06-01 00:00:00,2024-06-01 23:59:59,93221,success,2024-06-04 07:22:29
+512,Lazada API,shop_info,9,,,33864,success,2024-06-06 05:29:44
+513,Lazada API,sales_data,6,2024-06-06 00:00:00,2024-06-06 23:59:59,25389,success,2024-06-06 06:21:10
+514,Tiki API,shop_info,3,,,2410,partial,2024-06-08 09:58:27
+515,Tokopedia API,shop_info,1,,,13495,partial,2024-06-09 07:39:05
+516,Lazada API,shop_info,8,,,24829,success,2024-06-10 07:30:01
+517,Tokopedia API,product_snapshot,1,2024-06-12 00:00:00,2024-06-12 23:59:59,0,failed,2024-06-12 06:53:58
+518,World Bank API,economic_indicator,7,,,39,success,2024-06-15 02:13:48
+519,Google Trends API,search_trend,,2024-06-16 00:00:00,2024-06-16 23:59:59,0,failed,2024-06-16 07:25:12
+520,Shopee API,product_snapshot,1,2024-06-17 00:00:00,2024-06-17 23:59:59,73501,success,2024-06-17 03:11:18
+521,Tokopedia API,product_snapshot,1,2024-06-19 00:00:00,2024-06-19 23:59:59,135977,success,2024-06-19 08:06:45
+522,Google Trends API,search_trend,6,2024-06-12 00:00:00,2024-06-12 23:59:59,9088,success,2024-06-19 08:22:26
+523,Google Trends API,search_trend,2,2024-06-19 00:00:00,2024-06-19 23:59:59,30825,success,2024-06-19 08:35:53
+524,Tiki API,shop_info,3,,,28324,success,2024-06-20 06:28:04
+525,Shopee API,shop_info,10,,,10685,success,2024-06-22 04:32:27
+526,Shopee API,shop_info,8,,,52976,success,2024-06-27 03:09:50
+527,Lazada API,product_snapshot,1,2024-06-27 00:00:00,2024-06-27 23:59:59,256708,success,2024-06-27 06:52:19
+528,Shopee API,shop_info,5,,,2903,success,2024-06-28 05:14:03
+529,Google Trends API,search_trend,4,2024-06-28 00:00:00,2024-06-28 23:59:59,0,failed,2024-06-28 08:08:24
+530,Customs Database,tariff_data,5,,,427,success,2024-07-01 00:12:31
+531,Customs Database,tariff_data,10,,,854,success,2024-07-01 01:27:39
+532,IMF Database,economic_indicator,5,,,17,success,2024-07-01 02:06:47
+533,Shopee API,product_snapshot,1,2024-07-01 00:00:00,2024-07-01 23:59:59,65261,success,2024-07-01 06:33:16
+534,E-commerce Report,market_report,10,,,2,success,2024-07-01 09:02:35
+535,E-commerce Report,market_report,3,,,6,success,2024-07-01 09:36:01
+536,E-commerce Report,market_report,,,,2,success,2024-07-01 09:47:49
+537,E-commerce Report,market_report,,,,0,success,2024-07-01 10:15:11
+538,E-commerce Report,market_report,10,,,3,success,2024-07-01 10:16:13
+539,E-commerce Report,market_report,,,,0,failed,2024-07-01 10:41:31
+540,E-commerce Report,market_report,4,,,4,success,2024-07-01 10:49:49
+541,Lazada API,sales_data,3,2024-07-01 00:00:00,2024-07-01 23:59:59,35842,success,2024-07-02 05:35:22
+542,Shopee API,shop_info,8,,,30913,partial,2024-07-03 03:34:16
+543,Tokopedia API,product_snapshot,1,2024-07-03 00:00:00,2024-07-03 23:59:59,111918,success,2024-07-03 08:58:43
+544,Shopee API,product_snapshot,,2024-07-05 00:00:00,2024-07-05 23:59:59,54966,partial,2024-07-05 06:33:24
+545,Shopee API,product_snapshot,6,2024-07-07 00:00:00,2024-07-07 23:59:59,0,failed,2024-07-07 05:14:33
+546,Shopee API,campaign_data,10,2024-07-08 00:00:00,2024-07-08 23:59:59,7259,success,2024-07-08 03:27:22
+547,Tokopedia API,product_snapshot,1,2024-07-09 00:00:00,2024-07-09 23:59:59,251121,success,2024-07-09 07:07:26
+548,Tiki API,product_snapshot,3,2024-07-09 00:00:00,2024-07-09 23:59:59,149887,success,2024-07-09 08:46:11
+549,Lazada API,sales_data,1,2024-07-11 00:00:00,2024-07-11 23:59:59,71228,success,2024-07-14 06:54:34
+550,World Bank API,economic_indicator,,,,98,success,2024-07-15 02:06:32
+551,Tiki API,product_snapshot,3,2024-07-15 00:00:00,2024-07-15 23:59:59,276266,success,2024-07-15 06:19:08
+552,Tokopedia API,product_snapshot,1,2024-07-15 00:00:00,2024-07-15 23:59:59,161516,success,2024-07-15 07:38:00
+553,Shopee API,product_snapshot,5,2024-07-16 00:00:00,2024-07-16 23:59:59,220731,success,2024-07-16 03:07:30
+554,Shopee API,campaign_data,10,2024-07-16 00:00:00,2024-07-16 23:59:59,2801,success,2024-07-16 03:43:02
+555,Google Trends API,search_trend,3,2024-07-14 00:00:00,2024-07-14 23:59:59,36727,success,2024-07-17 07:23:13
+556,Lazada API,product_snapshot,9,2024-07-20 00:00:00,2024-07-20 23:59:59,246544,success,2024-07-20 07:34:13
+557,Lazada API,shop_info,5,,,24671,success,2024-07-21 04:00:14
+558,Tiki API,shop_info,3,,,32392,success,2024-07-21 09:25:47
+559,Shopee API,campaign_data,9,2024-07-25 00:00:00,2024-07-25 23:59:59,8029,success,2024-07-25 03:05:58
+560,Shopee API,campaign_data,1,2024-07-22 00:00:00,2024-07-22 23:59:59,3014,success,2024-07-25 05:44:41
+561,Shopee API,campaign_data,9,2024-07-26 00:00:00,2024-07-26 23:59:59,10308,success,2024-07-26 03:23:21
+562,Shopee API,campaign_data,,2024-08-01 00:00:00,2024-08-01 23:59:59,3812,partial,2024-08-01 03:50:36
+563,Tiki API,product_snapshot,3,2024-08-01 00:00:00,2024-08-01 23:59:59,88466,success,2024-08-01 09:51:48
+564,Tiki API,shop_info,3,,,12020,partial,2024-08-03 07:22:56
+565,Lazada API,product_snapshot,5,2024-08-03 00:00:00,2024-08-03 23:59:59,35570,partial,2024-08-03 07:34:57
+566,Lazada API,shop_info,4,,,2937,partial,2024-08-05 04:18:20
+567,Tiki API,product_snapshot,3,2024-08-05 00:00:00,2024-08-05 23:59:59,175670,success,2024-08-05 06:54:44
+568,Tokopedia API,product_snapshot,1,2024-08-06 00:00:00,2024-08-06 23:59:59,260347,success,2024-08-06 05:10:14
+569,Tiki API,shop_info,3,,,11223,success,2024-08-06 08:20:40
+570,Tiki API,product_snapshot,3,2024-08-03 00:00:00,2024-08-03 23:59:59,163504,success,2024-08-07 09:47:19
+571,Tokopedia API,shop_info,1,,,12518,partial,2024-08-08 07:43:50
+572,Lazada API,shop_info,1,,,33674,success,2024-08-09 06:36:57
+573,Shopee API,shop_info,7,,,23396,partial,2024-08-10 05:05:23
+574,Shopee API,shop_info,6,,,37064,success,2024-08-11 04:00:00
+575,Lazada API,sales_data,5,2024-08-11 00:00:00,2024-08-11 23:59:59,15617,success,2024-08-11 05:05:44
+576,Tiki API,shop_info,,,,16335,success,2024-08-13 06:18:52
+577,Google Trends API,search_trend,8,2024-08-07 00:00:00,2024-08-07 23:59:59,0,failed,2024-08-14 08:47:05
+578,IMF Database,economic_indicator,6,,,30,success,2024-08-15 02:49:13
+579,Tokopedia API,shop_info,1,,,0,failed,2024-08-16 07:22:26
+580,Tiki API,product_snapshot,3,2024-08-18 00:00:00,2024-08-18 23:59:59,0,failed,2024-08-18 07:24:36
+581,Lazada API,sales_data,1,2024-08-20 00:00:00,2024-08-20 23:59:59,25847,success,2024-08-20 06:51:51
+582,Google Trends API,search_trend,5,2024-08-22 00:00:00,2024-08-22 23:59:59,34869,success,2024-08-22 08:35:26
+583,Tokopedia API,product_snapshot,,2024-08-27 00:00:00,2024-08-27 23:59:59,84758,partial,2024-08-27 05:15:54
+584,Lazada API,product_snapshot,8,2024-08-27 00:00:00,2024-08-27 23:59:59,220758,success,2024-08-27 05:35:14
+585,IMF Database,economic_indicator,6,,,61,success,2024-09-01 02:04:31
+586,Lazada API,sales_data,6,2024-09-01 00:00:00,2024-09-01 23:59:59,6475,partial,2024-09-01 05:46:36
+587,Customs Database,tariff_data,6,,,714,success,2024-09-02 00:21:52
+588,Customs Database,tariff_data,10,,,151,success,2024-09-02 00:44:42
+589,Customs Database,tariff_data,2,,,303,success,2024-09-02 01:12:14
+590,Shopee API,shop_info,6,,,44483,success,2024-09-03 03:11:10
+591,Shopee API,shop_info,,,,45924,success,2024-09-03 04:35:29
+592,Lazada API,product_snapshot,4,2024-09-07 00:00:00,2024-09-07 23:59:59,0,failed,2024-09-07 06:19:53
+593,Tokopedia API,product_snapshot,1,2024-09-06 00:00:00,2024-09-06 23:59:59,178306,success,2024-09-09 06:32:05
+594,Lazada API,sales_data,,2024-09-10 00:00:00,2024-09-10 23:59:59,61467,success,2024-09-10 05:02:03
+595,Shopee API,shop_info,4,,,0,failed,2024-09-10 06:34:30
+596,Shopee API,shop_info,,,,33811,success,2024-09-13 05:14:52
+597,IMF Database,economic_indicator,6,,,57,success,2024-09-15 03:01:07
+598,Tiki API,shop_info,3,,,25298,success,2024-09-15 06:28:36
+599,Shopee API,product_snapshot,3,2024-09-13 00:00:00,2024-09-13 23:59:59,133801,success,2024-09-17 03:04:55
+600,Lazada API,shop_info,3,,,14869,success,2024-09-19 05:03:21
+601,Tokopedia API,shop_info,1,,,0,failed,2024-09-19 07:17:13
+602,Tokopedia API,shop_info,1,,,2521,partial,2024-09-20 07:22:50
+603,Tokopedia API,product_snapshot,1,2024-09-20 00:00:00,2024-09-20 23:59:59,0,failed,2024-09-20 08:02:09
+604,Shopee API,product_snapshot,4,2024-09-21 00:00:00,2024-09-21 23:59:59,0,failed,2024-09-21 04:10:48
+605,Shopee API,campaign_data,,2024-09-23 00:00:00,2024-09-23 23:59:59,3763,success,2024-09-23 04:01:37
+606,Lazada API,sales_data,3,2024-09-23 00:00:00,2024-09-23 23:59:59,0,failed,2024-09-23 06:43:23
+607,Google Trends API,search_trend,8,2024-09-23 00:00:00,2024-09-23 23:59:59,18415,partial,2024-09-23 07:40:10
+608,Shopee API,product_snapshot,1,2024-09-24 00:00:00,2024-09-24 23:59:59,203689,success,2024-09-24 04:14:47
+609,Shopee API,product_snapshot,,2024-09-25 00:00:00,2024-09-25 23:59:59,93920,partial,2024-09-25 04:12:22
+610,Shopee API,shop_info,6,,,21054,success,2024-09-25 04:53:00
+611,Lazada API,product_snapshot,,2024-09-26 00:00:00,2024-09-26 23:59:59,226049,success,2024-09-26 04:49:28
+612,Tokopedia API,product_snapshot,,2024-09-26 00:00:00,2024-09-26 23:59:59,0,failed,2024-09-27 05:36:08
+613,Google Trends API,search_trend,9,2024-09-23 00:00:00,2024-09-23 23:59:59,4023,partial,2024-09-28 07:21:11
+614,E-commerce Report,market_report,10,,,5,success,2024-10-01 09:14:24
+615,E-commerce Report,market_report,8,,,1,success,2024-10-01 10:19:26
+616,E-commerce Report,market_report,3,,,6,success,2024-10-01 10:35:54
+617,E-commerce Report,market_report,5,,,3,success,2024-10-01 10:47:34
+618,Lazada API,shop_info,4,,,4705,success,2024-10-03 05:14:54
+619,Shopee API,campaign_data,7,2024-10-03 00:00:00,2024-10-03 23:59:59,6121,success,2024-10-03 05:48:17
+620,Tiki API,product_snapshot,3,2024-10-03 00:00:00,2024-10-03 23:59:59,0,failed,2024-10-03 06:09:17
+621,Tiki API,product_snapshot,3,2024-10-06 00:00:00,2024-10-06 23:59:59,217574,success,2024-10-06 07:06:54
+622,Customs Database,tariff_data,6,,,390,success,2024-10-07 00:07:20
+623,Customs Database,tariff_data,,,,721,success,2024-10-07 00:21:59
+624,Customs Database,tariff_data,8,,,458,success,2024-10-07 00:30:26
+625,Customs Database,tariff_data,4,,,46,partial,2024-10-07 01:35:28
+626,Shopee API,shop_info,8,,,0,failed,2024-10-07 05:41:27
+627,Tiki API,shop_info,3,,,0,failed,2024-10-07 08:06:21
+628,Tiki API,product_snapshot,3,2024-10-09 00:00:00,2024-10-09 23:59:59,166070,success,2024-10-10 09:34:16
+629,Shopee API,shop_info,7,,,33982,success,2024-10-11 05:23:01
+630,Tokopedia API,shop_info,1,,,38185,success,2024-10-13 08:58:20
+631,Tiki API,product_snapshot,3,2024-10-14 00:00:00,2024-10-14 23:59:59,182400,success,2024-10-14 06:43:25
+632,Google Trends API,search_trend,3,2024-10-10 00:00:00,2024-10-10 23:59:59,36436,success,2024-10-14 08:59:55
+633,Lazada API,sales_data,10,2024-10-18 00:00:00,2024-10-18 23:59:59,7117,partial,2024-10-18 07:47:30
+634,Google Trends API,search_trend,5,2024-10-18 00:00:00,2024-10-18 23:59:59,26046,partial,2024-10-18 08:03:28
+635,Tiki API,shop_info,3,,,0,failed,2024-10-20 09:58:02
+636,Shopee API,campaign_data,10,2024-10-15 00:00:00,2024-10-15 23:59:59,8264,success,2024-10-21 05:49:57
+637,Lazada API,shop_info,1,,,13637,success,2024-10-21 07:06:01
+638,Lazada API,shop_info,5,,,31800,success,2024-10-21 07:20:39
+639,Lazada API,product_snapshot,3,2024-10-22 00:00:00,2024-10-22 23:59:59,209799,success,2024-10-22 07:47:50
+640,Lazada API,product_snapshot,2,2024-10-23 00:00:00,2024-10-23 23:59:59,128047,partial,2024-10-23 04:52:30
+641,Tiki API,shop_info,3,,,41068,success,2024-10-23 07:34:12
+642,Shopee API,product_snapshot,6,2024-10-21 00:00:00,2024-10-21 23:59:59,120366,success,2024-10-24 06:24:00
+643,Tiki API,product_snapshot,,2024-10-24 00:00:00,2024-10-24 23:59:59,256477,success,2024-10-24 06:44:21
+644,Lazada API,product_snapshot,7,2024-10-25 00:00:00,2024-10-25 23:59:59,0,failed,2024-10-27 07:38:46
+645,Tokopedia API,product_snapshot,1,2024-10-28 00:00:00,2024-10-28 23:59:59,275957,success,2024-10-28 07:32:31
+646,Google Trends API,search_trend,2,2024-10-28 00:00:00,2024-10-28 23:59:59,18290,success,2024-10-28 07:41:19
+647,Tokopedia API,product_snapshot,1,2024-10-28 00:00:00,2024-10-28 23:59:59,0,failed,2024-10-28 07:41:55
+648,IMF Database,economic_indicator,3,,,26,success,2024-11-01 02:16:03
+649,Google Trends API,search_trend,2,2024-11-01 00:00:00,2024-11-01 23:59:59,26348,success,2024-11-01 08:22:26
+650,Lazada API,sales_data,1,2024-11-02 00:00:00,2024-11-02 23:59:59,50388,success,2024-11-02 06:06:43
+651,Lazada API,product_snapshot,2,2024-11-02 00:00:00,2024-11-02 23:59:59,231326,success,2024-11-02 07:36:35
+652,Lazada API,shop_info,3,,,24722,success,2024-11-03 05:23:33
+653,Customs Database,tariff_data,7,,,861,success,2024-11-04 00:12:01
+654,Customs Database,tariff_data,9,,,440,success,2024-11-04 00:33:08
+655,Customs Database,tariff_data,2,,,89,success,2024-11-04 00:38:57
+656,Customs Database,tariff_data,6,,,356,success,2024-11-04 00:40:00
+657,Customs Database,tariff_data,,,,655,success,2024-11-04 01:20:23
+658,Lazada API,sales_data,,2024-11-04 00:00:00,2024-11-04 23:59:59,61314,success,2024-11-04 05:41:59
+659,Lazada API,shop_info,4,,,5583,success,2024-11-05 06:05:17
+660,Lazada API,product_snapshot,6,2024-11-05 00:00:00,2024-11-05 23:59:59,84275,success,2024-11-06 04:09:24
+661,Shopee API,campaign_data,7,2024-11-06 00:00:00,2024-11-06 23:59:59,5889,success,2024-11-06 06:48:35
+662,Tokopedia API,product_snapshot,1,2024-11-06 00:00:00,2024-11-06 23:59:59,189477,success,2024-11-06 08:31:23
+663,Tokopedia API,shop_info,1,,,7579,success,2024-11-07 06:17:32
+664,Shopee API,campaign_data,9,2024-11-08 00:00:00,2024-11-08 23:59:59,4629,partial,2024-11-10 03:08:25
+665,Shopee API,shop_info,,,,7082,success,2024-11-12 06:50:20
+666,Tiki API,product_snapshot,,2024-11-12 00:00:00,2024-11-12 23:59:59,127305,partial,2024-11-12 08:34:05
+667,Lazada API,product_snapshot,10,2024-11-13 00:00:00,2024-11-13 23:59:59,297977,success,2024-11-13 05:55:42
+668,World Bank API,economic_indicator,9,,,82,success,2024-11-15 02:06:54
+669,Lazada API,product_snapshot,2,2024-11-16 00:00:00,2024-11-16 23:59:59,237426,success,2024-11-16 05:16:14
+670,Google Trends API,search_trend,,2024-11-19 00:00:00,2024-11-19 23:59:59,5929,partial,2024-11-19 07:30:32
+671,Lazada API,product_snapshot,10,2024-11-16 00:00:00,2024-11-16 23:59:59,292152,success,2024-11-20 04:33:06
+672,Google Trends API,search_trend,7,2024-11-20 00:00:00,2024-11-20 23:59:59,20581,success,2024-11-20 07:16:01
+673,Shopee API,product_snapshot,,2024-11-23 00:00:00,2024-11-23 23:59:59,0,failed,2024-11-23 06:48:41
+674,Google Trends API,search_trend,,2024-11-27 00:00:00,2024-11-27 23:59:59,38857,success,2024-11-27 07:41:36
+675,Tokopedia API,shop_info,1,,,22058,success,2024-11-27 08:35:39
+676,Tokopedia API,product_snapshot,1,2024-11-28 00:00:00,2024-11-28 23:59:59,33468,partial,2024-11-28 05:49:52
+677,Customs Database,tariff_data,4,,,922,success,2024-12-02 00:39:06
+678,Customs Database,tariff_data,1,,,433,success,2024-12-02 00:46:32
+679,Tokopedia API,shop_info,,,,25153,success,2024-12-03 05:45:38
+680,Google Trends API,search_trend,3,2024-12-02 00:00:00,2024-12-02 23:59:59,48257,success,2024-12-06 07:01:18
+681,Tokopedia API,shop_info,,,,0,failed,2024-12-08 05:08:20
+682,Tiki API,product_snapshot,3,2024-12-09 00:00:00,2024-12-09 23:59:59,241044,success,2024-12-09 08:18:47
+683,Lazada API,sales_data,3,2024-12-12 00:00:00,2024-12-12 23:59:59,0,failed,2024-12-12 04:10:14
+684,World Bank API,economic_indicator,5,,,28,success,2024-12-15 01:57:05
+685,World Bank API,economic_indicator,1,,,19,success,2024-12-15 02:07:28
+686,World Bank API,economic_indicator,4,,,67,success,2024-12-15 02:36:08
+687,IMF Database,economic_indicator,7,,,29,success,2024-12-15 02:50:35
+688,Shopee API,product_snapshot,9,2024-12-13 00:00:00,2024-12-13 23:59:59,146511,success,2024-12-15 03:01:44
+689,Shopee API,product_snapshot,7,2024-12-17 00:00:00,2024-12-17 23:59:59,0,failed,2024-12-17 06:10:36
+690,Shopee API,campaign_data,8,2024-12-20 00:00:00,2024-12-20 23:59:59,5168,success,2024-12-20 03:36:30
+691,Tokopedia API,shop_info,1,,,20632,success,2024-12-20 07:24:34
+692,Tokopedia API,product_snapshot,1,2024-12-15 00:00:00,2024-12-15 23:59:59,155613,partial,2024-12-21 05:58:46
+693,Tiki API,shop_info,3,,,34560,success,2024-12-21 08:48:51
+694,Tokopedia API,shop_info,1,,,0,failed,2024-12-22 08:49:36
+695,Lazada API,product_snapshot,3,2024-12-24 00:00:00,2024-12-24 23:59:59,139551,success,2024-12-24 07:41:50
+696,Tokopedia API,shop_info,1,,,47647,success,2024-12-25 07:18:02
+697,Tokopedia API,product_snapshot,1,2024-12-25 00:00:00,2024-12-25 23:59:59,289831,success,2024-12-25 07:20:49
+698,Tiki API,product_snapshot,3,2024-12-25 00:00:00,2024-12-25 23:59:59,326968,success,2024-12-25 07:20:54
+699,Tokopedia API,shop_info,,,,8306,success,2024-12-27 08:30:50
+700,World Bank API,economic_indicator,1,,,64,success,2025-01-01 01:10:07
+701,IMF Database,economic_indicator,5,,,8,success,2025-01-01 02:04:26
+702,World Bank API,economic_indicator,3,,,87,success,2025-01-01 02:39:49
+703,Shopee API,campaign_data,10,2024-12-25 00:00:00,2024-12-25 23:59:59,4846,success,2025-01-01 03:48:49
+704,E-commerce Report,market_report,10,,,5,success,2025-01-01 09:30:15
+705,E-commerce Report,market_report,4,,,5,success,2025-01-01 09:53:33
+706,E-commerce Report,market_report,3,,,5,success,2025-01-01 09:58:57
+707,E-commerce Report,market_report,1,,,5,success,2025-01-01 10:02:34
+708,E-commerce Report,market_report,10,,,0,partial,2025-01-01 10:10:39
+709,E-commerce Report,market_report,8,,,3,success,2025-01-01 10:25:20
+710,E-commerce Report,market_report,6,,,7,success,2025-01-01 10:39:56
+711,Tokopedia API,shop_info,1,,,29655,success,2025-01-02 05:27:13
+712,Google Trends API,search_trend,6,2025-01-04 00:00:00,2025-01-04 23:59:59,3675,success,2025-01-04 07:56:01
+713,Tiki API,product_snapshot,3,2025-01-02 00:00:00,2025-01-02 23:59:59,247738,success,2025-01-04 08:16:56
+714,Shopee API,product_snapshot,2,2025-01-05 00:00:00,2025-01-05 23:59:59,290241,success,2025-01-05 05:04:19
+715,Google Trends API,search_trend,6,2025-01-05 00:00:00,2025-01-05 23:59:59,12587,success,2025-01-05 07:22:05
+716,Customs Database,tariff_data,9,,,761,success,2025-01-06 01:48:39
+717,Shopee API,campaign_data,10,2025-01-06 00:00:00,2025-01-06 23:59:59,2416,partial,2025-01-07 05:48:40
+718,Shopee API,product_snapshot,2,2025-01-05 00:00:00,2025-01-05 23:59:59,105938,success,2025-01-08 06:51:04
+719,Lazada API,product_snapshot,5,2025-01-08 00:00:00,2025-01-08 23:59:59,63651,success,2025-01-11 04:07:28
+720,Tokopedia API,product_snapshot,1,2025-01-11 00:00:00,2025-01-11 23:59:59,0,failed,2025-01-11 05:41:46
+721,Shopee API,product_snapshot,3,2025-01-14 00:00:00,2025-01-14 23:59:59,102437,success,2025-01-14 05:55:18
+722,World Bank API,economic_indicator,8,,,32,partial,2025-01-15 01:02:46
+723,IMF Database,economic_indicator,,,,53,success,2025-01-15 03:59:21
+724,Tokopedia API,shop_info,1,,,17464,success,2025-01-16 08:41:12
+725,Shopee API,product_snapshot,3,2025-01-18 00:00:00,2025-01-18 23:59:59,266518,success,2025-01-18 03:54:14
+726,Tokopedia API,shop_info,1,,,0,failed,2025-01-18 08:05:47
+727,Lazada API,shop_info,9,,,8834,partial,2025-01-22 04:10:06
+728,Tiki API,product_snapshot,3,2025-01-23 00:00:00,2025-01-23 23:59:59,244393,success,2025-01-23 09:30:31
+729,Shopee API,product_snapshot,4,2025-01-28 00:00:00,2025-01-28 23:59:59,198843,success,2025-01-28 04:36:18
+730,World Bank API,economic_indicator,,,,60,success,2025-02-01 01:00:45
+731,Customs Database,tariff_data,9,,,0,failed,2025-02-03 01:56:28
+732,Lazada API,sales_data,9,2025-01-30 00:00:00,2025-01-30 23:59:59,42870,partial,2025-02-03 05:37:44
+733,Lazada API,shop_info,8,,,45125,success,2025-02-06 06:01:33
+734,Shopee API,product_snapshot,9,2025-02-09 00:00:00,2025-02-09 23:59:59,205386,success,2025-02-09 06:22:39
+735,Tokopedia API,shop_info,,,,30693,success,2025-02-10 08:13:01
+736,Tokopedia API,product_snapshot,1,2025-02-15 00:00:00,2025-02-15 23:59:59,225510,success,2025-02-15 08:10:52
+737,Google Trends API,search_trend,,2025-02-15 00:00:00,2025-02-15 23:59:59,32357,success,2025-02-16 08:56:29
+738,Shopee API,shop_info,,,,35439,success,2025-02-18 03:34:01
+739,Tokopedia API,shop_info,1,,,1440,success,2025-02-19 06:12:42
+740,Shopee API,shop_info,1,,,36819,success,2025-02-20 04:36:30
+741,Lazada API,product_snapshot,10,2025-02-20 00:00:00,2025-02-20 23:59:59,131735,success,2025-02-20 05:07:45
+742,Lazada API,product_snapshot,2,2025-02-21 00:00:00,2025-02-21 23:59:59,280397,success,2025-02-21 04:59:01
+743,Shopee API,product_snapshot,1,2025-02-17 00:00:00,2025-02-17 23:59:59,29766,partial,2025-02-23 03:53:51
+744,Lazada API,sales_data,,2025-02-22 00:00:00,2025-02-22 23:59:59,48962,success,2025-02-23 04:00:56
+745,Lazada API,shop_info,,,,27374,success,2025-02-23 06:19:44
+746,Lazada API,shop_info,3,,,25599,success,2025-02-25 07:52:20
+747,IMF Database,economic_indicator,6,,,19,success,2025-03-01 03:20:30
+748,Lazada API,sales_data,2,2025-03-01 00:00:00,2025-03-01 23:59:59,77175,success,2025-03-01 06:16:17
+749,Shopee API,product_snapshot,2,2025-03-02 00:00:00,2025-03-02 23:59:59,121689,partial,2025-03-02 04:19:38
+750,Tokopedia API,product_snapshot,1,2025-03-02 00:00:00,2025-03-02 23:59:59,49128,success,2025-03-02 08:28:32
+751,Google Trends API,search_trend,5,2025-02-24 00:00:00,2025-02-24 23:59:59,22702,success,2025-03-02 08:38:54
+752,Customs Database,tariff_data,,,,723,success,2025-03-03 00:26:21
+753,Customs Database,tariff_data,2,,,489,partial,2025-03-03 01:47:02
+754,Customs Database,tariff_data,,,,402,success,2025-03-03 01:54:10
+755,Tiki API,product_snapshot,3,2025-03-04 00:00:00,2025-03-04 23:59:59,308622,success,2025-03-06 06:04:38
+756,Tiki API,product_snapshot,,2025-03-06 00:00:00,2025-03-06 23:59:59,134690,success,2025-03-06 06:11:39
+757,Google Trends API,search_trend,10,2025-03-09 00:00:00,2025-03-09 23:59:59,21036,success,2025-03-09 07:09:08
+758,Tiki API,shop_info,,,,0,failed,2025-03-09 08:35:43
+759,Tiki API,shop_info,3,,,22363,success,2025-03-10 08:24:02
+760,Tokopedia API,shop_info,1,,,55664,success,2025-03-11 06:29:36
+761,Tokopedia API,shop_info,1,,,13740,success,2025-03-13 05:15:29
+762,Google Trends API,search_trend,6,2025-03-13 00:00:00,2025-03-13 23:59:59,0,failed,2025-03-13 08:36:59
+763,World Bank API,economic_indicator,,,,107,success,2025-03-15 01:33:55
+764,IMF Database,economic_indicator,1,,,72,success,2025-03-15 03:27:05
+765,Tokopedia API,shop_info,1,,,39308,success,2025-03-16 05:14:33
+766,Lazada API,sales_data,2,2025-03-19 00:00:00,2025-03-19 23:59:59,16002,success,2025-03-19 05:48:07
+767,Shopee API,shop_info,7,,,4181,partial,2025-03-20 06:45:32
+768,Lazada API,product_snapshot,3,2025-03-18 00:00:00,2025-03-18 23:59:59,70009,success,2025-03-20 07:53:29
+769,Lazada API,shop_info,8,,,0,failed,2025-03-22 04:30:28
+770,World Bank API,economic_indicator,,,,38,success,2025-04-01 02:21:20
+771,IMF Database,economic_indicator,8,,,78,success,2025-04-01 03:01:55
+772,Google Trends API,search_trend,2,2025-04-01 00:00:00,2025-04-01 23:59:59,1937,success,2025-04-01 08:09:59
+773,E-commerce Report,market_report,6,,,0,failed,2025-04-01 09:00:08
+774,E-commerce Report,market_report,1,,,2,success,2025-04-01 09:38:49
+775,E-commerce Report,market_report,8,,,9,success,2025-04-01 09:43:44
+776,E-commerce Report,market_report,,,,0,failed,2025-04-01 09:57:56
+777,E-commerce Report,market_report,8,,,4,success,2025-04-01 10:24:09
+778,E-commerce Report,market_report,8,,,3,partial,2025-04-01 10:34:58
+779,E-commerce Report,market_report,10,,,9,success,2025-04-01 10:52:48
+780,Tokopedia API,shop_info,1,,,0,failed,2025-04-05 07:23:01
+781,Customs Database,tariff_data,10,,,586,success,2025-04-07 00:14:50
+782,Customs Database,tariff_data,10,,,659,partial,2025-04-07 00:41:45
+783,Shopee API,product_snapshot,,2025-04-07 00:00:00,2025-04-07 23:59:59,0,failed,2025-04-07 03:16:37
+784,Tokopedia API,shop_info,,,,25425,success,2025-04-07 08:11:35
+785,Lazada API,shop_info,,,,5603,success,2025-04-09 05:03:03
+786,Lazada API,product_snapshot,6,2025-04-12 00:00:00,2025-04-12 23:59:59,285229,success,2025-04-12 04:39:12
+787,Shopee API,shop_info,6,,,26782,success,2025-04-14 05:33:21
+788,Shopee API,campaign_data,,2025-04-14 00:00:00,2025-04-14 23:59:59,3176,success,2025-04-14 06:41:29
+789,Google Trends API,search_trend,7,2025-04-14 00:00:00,2025-04-14 23:59:59,20400,success,2025-04-14 07:39:46
+790,IMF Database,economic_indicator,1,,,83,success,2025-04-15 02:21:22
+791,IMF Database,economic_indicator,9,,,40,success,2025-04-15 03:12:09
+792,Google Trends API,search_trend,7,2025-04-16 00:00:00,2025-04-16 23:59:59,30918,success,2025-04-16 07:36:23
+793,Lazada API,product_snapshot,8,2025-04-18 00:00:00,2025-04-18 23:59:59,0,failed,2025-04-18 04:20:25
+794,Shopee API,product_snapshot,2,2025-04-13 00:00:00,2025-04-13 23:59:59,304219,success,2025-04-19 04:42:55
+795,Google Trends API,search_trend,,2025-04-20 00:00:00,2025-04-20 23:59:59,8588,success,2025-04-20 08:49:34
+796,Tiki API,product_snapshot,3,2025-04-23 00:00:00,2025-04-23 23:59:59,235192,success,2025-04-23 06:25:52
+797,Lazada API,shop_info,,,,6459,partial,2025-04-27 06:30:57
+798,Lazada API,product_snapshot,1,2025-04-28 00:00:00,2025-04-28 23:59:59,85126,success,2025-04-28 06:44:32
+799,World Bank API,economic_indicator,6,,,0,failed,2025-05-01 01:42:56
+800,World Bank API,economic_indicator,,,,13,partial,2025-05-01 02:09:52
+801,Customs Database,tariff_data,,,,410,partial,2025-05-05 00:59:26
+802,Customs Database,tariff_data,1,,,871,success,2025-05-05 01:30:48
+803,Customs Database,tariff_data,,,,151,partial,2025-05-05 01:42:04
+804,Customs Database,tariff_data,3,,,967,success,2025-05-05 01:51:49
+805,Shopee API,campaign_data,10,2025-05-01 00:00:00,2025-05-01 23:59:59,1832,success,2025-05-06 04:31:16
+806,Lazada API,product_snapshot,4,2025-05-07 00:00:00,2025-05-07 23:59:59,165902,success,2025-05-07 04:55:58
+807,Tiki API,product_snapshot,3,2025-05-08 00:00:00,2025-05-08 23:59:59,133962,success,2025-05-08 08:06:54
+808,Tokopedia API,shop_info,1,,,0,failed,2025-05-10 07:25:46
+809,Tiki API,shop_info,3,,,0,failed,2025-05-14 07:38:01
+810,Lazada API,shop_info,6,,,0,failed,2025-05-16 07:09:09
+811,Shopee API,shop_info,7,,,25440,success,2025-05-18 03:05:09
+812,Shopee API,campaign_data,10,2025-05-18 00:00:00,2025-05-18 23:59:59,0,failed,2025-05-18 05:18:44
+813,Lazada API,product_snapshot,,2025-05-19 00:00:00,2025-05-19 23:59:59,134146,success,2025-05-19 04:10:43
+814,Lazada API,product_snapshot,8,2025-05-21 00:00:00,2025-05-21 23:59:59,138997,success,2025-05-21 07:21:14
+815,Tokopedia API,product_snapshot,1,2025-05-25 00:00:00,2025-05-25 23:59:59,237207,success,2025-05-25 06:03:57
+816,Lazada API,sales_data,4,2025-05-25 00:00:00,2025-05-25 23:59:59,48059,success,2025-05-26 04:27:25
+817,Lazada API,shop_info,7,,,9163,partial,2025-05-27 04:03:55
+818,Shopee API,shop_info,8,,,46293,success,2025-05-28 03:32:14
+819,Lazada API,product_snapshot,7,2025-05-23 00:00:00,2025-05-23 23:59:59,218103,success,2025-05-28 07:43:51
+820,World Bank API,economic_indicator,8,,,12,success,2025-06-01 01:18:33
+821,Customs Database,tariff_data,9,,,888,success,2025-06-02 00:33:00
+822,Customs Database,tariff_data,9,,,180,success,2025-06-02 01:43:29
+823,Lazada API,product_snapshot,8,2025-06-05 00:00:00,2025-06-05 23:59:59,243687,success,2025-06-05 06:14:17
+824,Tokopedia API,shop_info,,,,22084,success,2025-06-05 07:40:45
+825,Lazada API,product_snapshot,3,2025-05-31 00:00:00,2025-05-31 23:59:59,120944,success,2025-06-06 05:44:02
+826,Tiki API,product_snapshot,3,2025-06-04 00:00:00,2025-06-04 23:59:59,0,failed,2025-06-06 09:14:02
+827,Lazada API,sales_data,,2025-06-07 00:00:00,2025-06-07 23:59:59,23840,success,2025-06-07 06:48:44
+828,Shopee API,shop_info,1,,,7184,success,2025-06-10 03:51:11
+829,Shopee API,shop_info,2,,,0,failed,2025-06-10 04:08:29
+830,Lazada API,shop_info,2,,,13367,success,2025-06-12 04:03:05
+831,Tiki API,product_snapshot,,2025-06-05 00:00:00,2025-06-05 23:59:59,95154,partial,2025-06-12 06:47:20
+832,Tiki API,shop_info,3,,,31740,success,2025-06-15 07:30:43
+833,Shopee API,campaign_data,,2025-06-16 00:00:00,2025-06-16 23:59:59,4619,success,2025-06-16 06:47:21
+834,Tiki API,product_snapshot,3,2025-06-17 00:00:00,2025-06-17 23:59:59,0,failed,2025-06-17 09:24:04
+835,Shopee API,shop_info,10,,,11445,partial,2025-06-18 04:53:08
+836,Shopee API,campaign_data,,2025-06-18 00:00:00,2025-06-18 23:59:59,0,failed,2025-06-18 06:08:56
+837,Google Trends API,search_trend,6,2025-06-20 00:00:00,2025-06-20 23:59:59,0,failed,2025-06-20 08:14:44
+838,Lazada API,shop_info,2,,,44992,success,2025-06-21 05:27:16
+839,Tiki API,product_snapshot,3,2025-06-15 00:00:00,2025-06-15 23:59:59,144506,success,2025-06-22 06:06:24
+840,Lazada API,shop_info,3,,,36885,success,2025-06-24 06:24:16
+841,Lazada API,shop_info,,,,1421,partial,2025-06-25 07:58:02
+842,Google Trends API,search_trend,1,2025-06-27 00:00:00,2025-06-27 23:59:59,42042,success,2025-06-27 07:58:05
+843,World Bank API,economic_indicator,2,,,35,success,2025-07-01 01:08:27
+844,E-commerce Report,market_report,9,,,6,success,2025-07-01 09:20:31
+845,E-commerce Report,market_report,1,,,0,failed,2025-07-01 09:36:24
+846,E-commerce Report,market_report,4,,,5,success,2025-07-01 10:36:52
+847,E-commerce Report,market_report,,,,0,partial,2025-07-01 10:49:40
+848,Google Trends API,search_trend,8,2025-07-03 00:00:00,2025-07-03 23:59:59,10949,success,2025-07-03 07:34:59
+849,Shopee API,shop_info,3,,,21863,success,2025-07-05 03:15:47
+850,Tokopedia API,shop_info,1,,,2603,success,2025-07-06 06:38:03
+851,Customs Database,tariff_data,1,,,1033,success,2025-07-07 01:03:33
+852,Customs Database,tariff_data,6,,,324,success,2025-07-07 01:33:45
+853,Lazada API,sales_data,3,2025-07-08 00:00:00,2025-07-08 23:59:59,41295,success,2025-07-08 05:29:05
+854,Shopee API,campaign_data,10,2025-07-08 00:00:00,2025-07-08 23:59:59,2255,success,2025-07-08 06:07:13
+855,Shopee API,shop_info,1,,,33365,success,2025-07-09 06:13:10
+856,Tiki API,product_snapshot,3,2025-07-10 00:00:00,2025-07-10 23:59:59,257933,success,2025-07-10 09:31:50
+857,Shopee API,shop_info,2,,,23867,success,2025-07-11 03:12:31
+858,IMF Database,economic_indicator,9,,,68,success,2025-07-15 02:24:45
+859,IMF Database,economic_indicator,2,,,66,success,2025-07-15 03:34:01
+860,Tokopedia API,product_snapshot,1,2025-07-17 00:00:00,2025-07-17 23:59:59,159586,success,2025-07-17 05:43:49
+861,World Bank API,economic_indicator,1,,,107,success,2025-08-01 01:19:19
+862,IMF Database,economic_indicator,,,,81,success,2025-08-01 02:05:37
+863,Tiki API,product_snapshot,3,2025-08-01 00:00:00,2025-08-01 23:59:59,269163,success,2025-08-01 08:28:43
+864,Tiki API,shop_info,3,,,16983,success,2025-08-02 06:44:46
+865,Tiki API,product_snapshot,3,2025-08-02 00:00:00,2025-08-02 23:59:59,36414,partial,2025-08-02 08:17:16
+866,Tokopedia API,product_snapshot,1,2025-08-03 00:00:00,2025-08-03 23:59:59,186817,success,2025-08-03 06:55:16
+867,Customs Database,tariff_data,2,,,0,failed,2025-08-04 00:46:22
+868,Customs Database,tariff_data,3,,,1039,success,2025-08-04 00:48:46
+869,Customs Database,tariff_data,1,,,366,success,2025-08-04 01:16:08
+870,Lazada API,product_snapshot,9,2025-08-04 00:00:00,2025-08-04 23:59:59,0,failed,2025-08-04 07:08:40
+871,Tokopedia API,product_snapshot,,2025-08-04 00:00:00,2025-08-04 23:59:59,44099,partial,2025-08-04 07:39:48
+872,Lazada API,product_snapshot,5,2025-08-05 00:00:00,2025-08-05 23:59:59,0,failed,2025-08-05 06:29:32
+873,Tokopedia API,shop_info,1,,,7255,success,2025-08-10 05:17:22
+874,Shopee API,campaign_data,,2025-08-10 00:00:00,2025-08-10 23:59:59,6277,success,2025-08-10 06:14:20
+875,Tiki API,product_snapshot,3,2025-08-04 00:00:00,2025-08-04 23:59:59,305640,success,2025-08-11 08:05:58
+876,Tiki API,product_snapshot,,2025-08-11 00:00:00,2025-08-11 23:59:59,23879,partial,2025-08-11 09:17:17
+877,Lazada API,sales_data,7,2025-08-14 00:00:00,2025-08-14 23:59:59,105756,success,2025-08-14 07:48:03
+878,World Bank API,economic_indicator,2,,,76,success,2025-08-15 01:27:29
+879,World Bank API,economic_indicator,,,,72,success,2025-08-15 02:26:08
+880,IMF Database,economic_indicator,,,,32,success,2025-08-15 02:51:24
+881,Shopee API,campaign_data,9,2025-08-16 00:00:00,2025-08-16 23:59:59,2478,partial,2025-08-16 04:58:19
+882,Tokopedia API,product_snapshot,1,2025-08-18 00:00:00,2025-08-18 23:59:59,0,failed,2025-08-18 08:42:41
+883,Lazada API,shop_info,7,,,42506,success,2025-08-20 06:55:09
+884,Tiki API,shop_info,3,,,0,failed,2025-08-21 09:20:04
+885,Shopee API,campaign_data,8,2025-08-23 00:00:00,2025-08-23 23:59:59,4235,success,2025-08-23 05:35:34
+886,Lazada API,shop_info,4,,,25380,partial,2025-08-23 06:04:31
+887,Google Trends API,search_trend,10,2025-08-25 00:00:00,2025-08-25 23:59:59,12452,success,2025-08-25 08:39:40
+888,Google Trends API,search_trend,2,2025-08-28 00:00:00,2025-08-28 23:59:59,8078,success,2025-08-28 08:22:35
+889,Customs Database,tariff_data,10,,,126,partial,2025-09-01 00:01:49
+890,IMF Database,economic_indicator,4,,,80,success,2025-09-01 02:07:37
+891,Google Trends API,search_trend,6,2025-09-01 00:00:00,2025-09-01 23:59:59,0,failed,2025-09-01 07:01:08
+892,Shopee API,shop_info,9,,,14703,success,2025-09-02 06:27:19
+893,Tiki API,shop_info,3,,,8312,partial,2025-09-02 09:14:36
+894,Shopee API,campaign_data,7,2025-09-03 00:00:00,2025-09-03 23:59:59,4607,success,2025-09-03 05:55:31
+895,Tokopedia API,shop_info,1,,,25073,success,2025-09-04 06:47:24
+896,Shopee API,campaign_data,6,2025-09-07 00:00:00,2025-09-07 23:59:59,8063,success,2025-09-09 03:09:45
+897,Tiki API,product_snapshot,3,2025-09-08 00:00:00,2025-09-08 23:59:59,207358,success,2025-09-09 09:36:32
+898,Lazada API,sales_data,10,2025-09-11 00:00:00,2025-09-11 23:59:59,20884,partial,2025-09-11 05:14:15
+899,Tiki API,product_snapshot,3,2025-09-13 00:00:00,2025-09-13 23:59:59,221925,success,2025-09-13 06:07:19
+900,Shopee API,shop_info,2,,,4235,partial,2025-09-14 04:20:27
+901,World Bank API,economic_indicator,7,,,46,partial,2025-09-15 02:16:38
+902,IMF Database,economic_indicator,10,,,11,success,2025-09-15 02:20:20
+903,World Bank API,economic_indicator,10,,,59,success,2025-09-15 02:38:38
+904,IMF Database,economic_indicator,,,,15,success,2025-09-15 03:43:41
+905,IMF Database,economic_indicator,10,,,84,success,2025-09-15 03:47:50
+906,Shopee API,shop_info,6,,,16848,success,2025-09-16 06:40:46
+907,Tokopedia API,shop_info,1,,,0,failed,2025-09-21 06:36:20
+908,Tokopedia API,shop_info,,,,38617,success,2025-09-24 06:06:23
+909,Lazada API,product_snapshot,6,2025-10-01 00:00:00,2025-10-01 23:59:59,153444,success,2025-10-01 07:12:31
+910,Tokopedia API,shop_info,1,,,16449,success,2025-10-01 08:10:23
+911,E-commerce Report,market_report,6,,,0,failed,2025-10-01 09:00:46
+912,E-commerce Report,market_report,10,,,3,success,2025-10-01 09:03:51
+913,E-commerce Report,market_report,5,,,5,partial,2025-10-01 09:07:35
+914,E-commerce Report,market_report,3,,,0,failed,2025-10-01 10:02:54
+915,E-commerce Report,market_report,5,,,6,success,2025-10-01 10:09:23
+916,E-commerce Report,market_report,,,,0,failed,2025-10-01 10:11:42
+917,E-commerce Report,market_report,9,,,1,success,2025-10-01 10:18:27
+918,E-commerce Report,market_report,,,,0,failed,2025-10-01 10:19:07
+919,E-commerce Report,market_report,7,,,7,success,2025-10-01 10:48:59
+920,E-commerce Report,market_report,10,,,0,failed,2025-10-01 10:51:27
+921,E-commerce Report,market_report,2,,,8,success,2025-10-01 10:57:58
+922,Tokopedia API,shop_info,1,,,11691,success,2025-10-02 05:09:45
+923,Google Trends API,search_trend,4,2025-10-03 00:00:00,2025-10-03 23:59:59,34449,success,2025-10-03 07:05:21
+924,Google Trends API,search_trend,2,2025-10-03 00:00:00,2025-10-03 23:59:59,25335,success,2025-10-03 07:23:00
+925,Lazada API,product_snapshot,1,2025-10-04 00:00:00,2025-10-04 23:59:59,112532,success,2025-10-04 05:12:49
+926,Shopee API,campaign_data,8,2025-09-29 00:00:00,2025-09-29 23:59:59,0,failed,2025-10-05 05:28:59
+927,Tiki API,shop_info,3,,,17900,success,2025-10-05 09:32:15
+928,Lazada API,sales_data,,2025-10-03 00:00:00,2025-10-03 23:59:59,101402,success,2025-10-08 04:05:22
+929,Shopee API,product_snapshot,6,2025-10-08 00:00:00,2025-10-08 23:59:59,66528,partial,2025-10-08 05:56:14
+930,Shopee API,campaign_data,9,2025-10-12 00:00:00,2025-10-12 23:59:59,10195,success,2025-10-12 04:16:11
+931,Tiki API,shop_info,,,,26645,success,2025-10-12 07:38:47
+932,Google Trends API,search_trend,7,2025-10-09 00:00:00,2025-10-09 23:59:59,0,failed,2025-10-13 07:09:53
+933,Lazada API,shop_info,2,,,12337,success,2025-10-14 04:15:45
+934,World Bank API,economic_indicator,6,,,67,success,2025-10-15 01:56:49
+935,Tokopedia API,shop_info,,,,8663,partial,2025-10-15 08:00:58
+936,Shopee API,product_snapshot,,2025-10-16 00:00:00,2025-10-16 23:59:59,221337,success,2025-10-16 06:05:53
+937,Shopee API,campaign_data,1,2025-10-15 00:00:00,2025-10-15 23:59:59,0,failed,2025-10-19 06:11:56
+938,Tokopedia API,shop_info,1,,,0,failed,2025-10-19 07:51:20
+939,Lazada API,sales_data,1,2025-10-20 00:00:00,2025-10-20 23:59:59,86955,success,2025-10-20 06:55:14
+940,Shopee API,campaign_data,3,2025-10-18 00:00:00,2025-10-18 23:59:59,2358,success,2025-10-21 05:03:37
+941,Lazada API,sales_data,5,2025-10-22 00:00:00,2025-10-22 23:59:59,33239,success,2025-10-22 04:51:18
+942,Shopee API,shop_info,,,,37739,success,2025-10-22 06:58:43
+943,Shopee API,campaign_data,5,2025-10-23 00:00:00,2025-10-23 23:59:59,2761,success,2025-10-23 03:58:22
+944,Lazada API,sales_data,1,2025-10-26 00:00:00,2025-10-26 23:59:59,26876,partial,2025-10-26 05:27:50
+945,Shopee API,product_snapshot,8,2025-10-27 00:00:00,2025-10-27 23:59:59,273523,success,2025-10-27 05:57:03
+946,Lazada API,sales_data,6,2025-10-28 00:00:00,2025-10-28 23:59:59,103687,success,2025-10-28 07:51:44
+947,IMF Database,economic_indicator,,,,10,success,2025-11-01 03:05:06
+948,Shopee API,product_snapshot,,2025-10-31 00:00:00,2025-10-31 23:59:59,120248,success,2025-11-01 03:32:04
+949,Tokopedia API,product_snapshot,1,2025-11-01 00:00:00,2025-11-01 23:59:59,203389,success,2025-11-01 06:32:56
+950,Google Trends API,search_trend,6,2025-11-01 00:00:00,2025-11-01 23:59:59,32392,success,2025-11-01 08:21:31
+951,Tokopedia API,shop_info,,,,40526,success,2025-11-02 08:54:08
+952,Customs Database,tariff_data,10,,,112,success,2025-11-03 00:19:39
+953,Customs Database,tariff_data,,,,127,partial,2025-11-03 00:21:32
+954,Customs Database,tariff_data,,,,590,success,2025-11-03 00:36:44
+955,Customs Database,tariff_data,,,,0,failed,2025-11-03 00:56:30
+956,Customs Database,tariff_data,,,,216,success,2025-11-03 01:16:20
+957,Customs Database,tariff_data,4,,,425,partial,2025-11-03 01:23:08
+958,Customs Database,tariff_data,,,,416,success,2025-11-03 01:35:21
+959,Tokopedia API,product_snapshot,,2025-11-03 00:00:00,2025-11-03 23:59:59,202096,success,2025-11-03 06:17:37
+960,Lazada API,sales_data,,2025-11-04 00:00:00,2025-11-04 23:59:59,38990,success,2025-11-04 07:56:17
+961,Tiki API,shop_info,3,,,26094,success,2025-11-04 08:36:12
+962,Tiki API,product_snapshot,3,2025-11-03 00:00:00,2025-11-03 23:59:59,300103,success,2025-11-05 08:06:27
+963,Shopee API,shop_info,4,,,7598,success,2025-11-06 06:49:44
+964,Google Trends API,search_trend,9,2025-11-07 00:00:00,2025-11-07 23:59:59,11589,partial,2025-11-07 07:02:34
+965,Shopee API,product_snapshot,,2025-11-08 00:00:00,2025-11-08 23:59:59,0,failed,2025-11-08 03:41:20
+966,Tokopedia API,product_snapshot,1,2025-11-09 00:00:00,2025-11-09 23:59:59,0,failed,2025-11-09 05:34:31
+967,Lazada API,sales_data,,2025-11-04 00:00:00,2025-11-04 23:59:59,17606,success,2025-11-09 07:57:24
+968,Tokopedia API,shop_info,1,,,30116,success,2025-11-10 08:50:13
+969,Lazada API,sales_data,8,2025-11-08 00:00:00,2025-11-08 23:59:59,14515,success,2025-11-12 06:05:55
+970,Tiki API,product_snapshot,,2025-11-12 00:00:00,2025-11-12 23:59:59,252036,success,2025-11-12 09:11:10
+971,Tokopedia API,product_snapshot,,2025-11-14 00:00:00,2025-11-14 23:59:59,271563,success,2025-11-14 05:26:12
+972,IMF Database,economic_indicator,4,,,19,success,2025-11-15 03:32:35
+973,Tiki API,shop_info,3,,,23786,success,2025-11-17 07:44:59
+974,Tokopedia API,product_snapshot,1,2025-11-19 00:00:00,2025-11-19 23:59:59,93250,success,2025-11-19 06:26:03
+975,Shopee API,product_snapshot,8,2025-11-16 00:00:00,2025-11-16 23:59:59,183419,success,2025-11-19 06:46:11
+976,Shopee API,campaign_data,10,2025-11-20 00:00:00,2025-11-20 23:59:59,7478,success,2025-11-20 04:36:27
+977,Tokopedia API,shop_info,1,,,5887,partial,2025-11-20 08:46:07
+978,Lazada API,shop_info,9,,,22694,success,2025-11-24 04:47:21
+979,Tokopedia API,shop_info,1,,,10516,partial,2025-11-28 06:32:22
+980,Customs Database,tariff_data,,,,463,success,2025-12-01 00:16:10
+981,Customs Database,tariff_data,8,,,167,partial,2025-12-01 00:42:54
+982,World Bank API,economic_indicator,6,,,94,success,2025-12-01 02:26:27
+983,IMF Database,economic_indicator,1,,,97,success,2025-12-01 03:07:10
+984,Shopee API,shop_info,,,,7790,success,2025-12-02 06:39:09
+985,Lazada API,sales_data,2,2025-12-02 00:00:00,2025-12-02 23:59:59,37825,partial,2025-12-02 07:27:00
+986,Lazada API,shop_info,7,,,0,failed,2025-12-03 07:26:11
+987,Shopee API,shop_info,6,,,0,failed,2025-12-04 04:23:31
+988,Shopee API,product_snapshot,6,2025-12-04 00:00:00,2025-12-04 23:59:59,62024,success,2025-12-04 04:39:07
+989,Lazada API,shop_info,,,,46019,success,2025-12-04 07:20:40
+990,Tiki API,shop_info,3,,,42591,success,2025-12-04 09:45:24
+991,Shopee API,product_snapshot,,2025-12-07 00:00:00,2025-12-07 23:59:59,300736,success,2025-12-07 04:59:31
+992,Lazada API,product_snapshot,3,2025-12-13 00:00:00,2025-12-13 23:59:59,161548,success,2025-12-13 04:22:24
+993,Lazada API,product_snapshot,,2025-12-06 00:00:00,2025-12-06 23:59:59,0,failed,2025-12-13 05:21:39
+994,Lazada API,sales_data,5,2025-12-14 00:00:00,2025-12-14 23:59:59,41727,success,2025-12-14 05:44:00
+995,World Bank API,economic_indicator,3,,,12,success,2025-12-15 02:15:29
+996,IMF Database,economic_indicator,6,,,99,success,2025-12-15 03:11:39
+997,Lazada API,sales_data,10,2025-12-16 00:00:00,2025-12-16 23:59:59,17431,success,2025-12-16 06:27:31
+998,Tokopedia API,shop_info,1,,,23455,success,2025-12-16 08:34:05
+999,Tokopedia API,product_snapshot,1,2025-12-17 00:00:00,2025-12-17 23:59:59,134190,success,2025-12-17 07:54:09
+1000,Tiki API,product_snapshot,3,2025-12-26 00:00:00,2025-12-26 23:59:59,0,failed,2025-12-26 08:42:40

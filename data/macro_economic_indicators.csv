@@ -1,0 +1,2029 @@
+indicator_id,country_id,year,quarter,indicator_type,indicator_value,unit,data_source,last_updated
+1,10,2020,1,fdi_inflow,842500000.0,USD,World Bank,2020-05-27
+2,9,2025,1,gdp_growth,7.1,percent,World Bank,2025-04-26
+3,2,2012,,internet_penetration,25.0,percent,Internet World Stats,2013-05-21
+4,5,2014,,population,5500000.0,people,UN Population Division,2015-04-21
+5,4,2022,2,consumer_confidence,105,index,Nielsen,2022-08-30
+6,2,2021,3,gdp_growth,5.5,percent,IMF,2021-12-03
+7,5,2016,,ecommerce_gmv,1700000000.0,USD,Bain & Company,2017-05-22
+8,7,2015,,population,16200000.0,people,National Statistical Office,2016-05-31
+9,5,2025,3,export_growth,16.3,percent,UNCTAD,2025-12-05
+10,9,2024,1,import_growth,16.1,percent,WTO,2024-06-04
+11,3,2024,,ecommerce_gmv,12800000000.0,USD,Statista,2025-04-04
+12,7,2021,1,unemployment,6.4,percent,World Bank,2021-04-26
+13,9,2025,3,fdi_inflow,3700000000.0,USD,ASEAN Secretariat,2025-11-28
+14,1,2023,,ecommerce_gmv,90900000000.0,USD,Google-Temasek,2024-04-27
+15,4,2008,,population,27000000.0,people,UN Population Division,2009-06-29
+16,2,2025,3,export_growth,7.8,percent,UNCTAD,2025-12-05
+17,10,2021,1,consumer_confidence,81,index,Conference Board,2021-05-12
+18,4,2020,2,consumer_confidence,55,index,Mastercard,2020-07-31
+19,6,2023,,population,111700000.0,people,UN Population Division,2024-06-01
+20,2,2018,,gdp_growth,7.7,percent,IMF,2019-05-10
+21,6,2023,2,import_growth,0.0,percent,World Bank,2023-09-12
+22,4,2024,4,retail_sales_growth,2.5,percent,Statista,2025-01-24
+23,2,2025,,ecommerce_gmv,8800000000.0,USD,Bain & Company,2026-04-26
+24,10,2022,1,import_growth,11.6,percent,UNCTAD,2022-05-23
+25,6,2018,,gdp,256400000000.0,USD,World Bank,2019-05-14
+26,2,2023,2,import_growth,8.1,percent,World Bank,2023-08-02
+27,7,2025,,gdp_growth,8.1,percent,ADB,2026-05-24
+28,8,2023,,internet_penetration,6.7,percent,ITU,2024-06-20
+29,7,2008,,population,14000000.0,people,National Statistical Office,2009-05-17
+30,3,2013,,ecommerce_gmv,737400000.0,USD,Bain & Company,2014-06-25
+31,6,2025,1,gdp_growth,5.0,percent,World Bank,2025-06-08
+32,2,2021,2,retail_sales_growth,5.6,percent,Euromonitor,2021-07-26
+33,9,2022,1,gdp_growth,3.8,percent,IMF,2022-04-19
+34,10,2022,,gdp,34900000000.0,USD,ADB,2023-05-24
+35,6,2022,,gdp,291900000000.0,USD,World Bank,2023-05-30
+36,10,2020,1,consumer_confidence,63,index,Mastercard,2020-06-05
+37,1,2020,1,consumer_confidence,66,index,National Statistics,2020-06-03
+38,10,2023,4,fdi_inflow,1300000000.0,USD,OECD,2024-01-26
+39,2,2021,2,unemployment,5.0,percent,ILO,2021-07-21
+40,10,2013,,ecommerce_gmv,77500000.0,USD,Statista,2014-04-17
+41,6,2012,,population,97200000.0,people,World Bank,2013-05-13
+42,1,2025,2,gdp_growth,2.8,percent,ADB,2025-08-23
+43,3,2020,4,unemployment,5.1,percent,National Statistics,2021-01-24
+44,4,2021,4,retail_sales_growth,11.0,percent,ASEANstats,2022-02-05
+45,8,2024,2,gdp_growth,7.0,percent,IMF,2024-07-29
+46,3,2014,,gdp_growth,6.4,percent,World Bank,2015-04-24
+47,5,2008,,gdp_per_capita,37500,USD,IMF,2009-04-12
+48,5,2022,2,import_growth,1.3,percent,World Bank,2022-08-13
+49,9,2021,2,import_growth,4.2,percent,WTO,2021-07-26
+50,6,2019,,gdp_growth,7.6,percent,IMF,2020-05-01
+51,7,2021,4,export_growth,6.7,percent,WTO,2022-02-05
+52,6,2011,,internet_penetration,21.3,percent,WeAreSocial,2012-04-20
+53,3,2024,3,retail_sales_growth,9.3,percent,National Statistics,2024-11-25
+54,8,2024,4,retail_sales_growth,12.4,percent,National Statistics,2025-02-14
+55,7,2023,2,gdp_growth,7.0,percent,World Bank,2023-07-25
+56,8,2020,,gdp_per_capita,1477,USD,World Bank,2021-04-16
+57,6,2016,,gdp,287800000000.0,USD,ADB,2017-06-17
+58,1,2020,2,export_growth,10.8,percent,UNCTAD,2020-08-14
+59,4,2013,,ecommerce_gmv,2000000000.0,USD,Bain & Company,2014-06-06
+60,3,2022,1,unemployment,5.5,percent,National Statistics,2022-05-20
+61,7,2019,,ecommerce_gmv,113600000.0,USD,e-Conomy SEA,2020-05-21
+62,5,2025,4,unemployment,7.9,percent,ILO,2026-01-18
+63,10,2020,2,import_growth,9.0,percent,UNCTAD,2020-08-20
+64,2,2018,,gdp,402700000000.0,USD,IMF,2019-04-27
+65,6,2025,1,import_growth,14.7,percent,UNCTAD,2025-06-07
+66,1,2013,,ecommerce_gmv,5100000000.0,USD,Google-Temasek,2014-04-22
+67,5,2021,4,inflation,4.2,percent,World Bank,2022-02-24
+68,3,2024,2,export_growth,15.5,percent,UNCTAD,2024-07-21
+69,4,2022,1,fdi_inflow,17000000000.0,USD,World Bank,2022-06-05
+70,9,2017,,population,55900000.0,people,National Statistical Office,2018-04-07
+71,10,2012,,ecommerce_gmv,78500000.0,USD,Bain & Company,2013-04-08
+72,3,2009,,gdp,96700000000.0,USD,ADB,2010-06-18
+73,9,2022,2,gdp_growth,4.3,percent,ADB,2022-09-03
+74,3,2025,3,retail_sales_growth,7.2,percent,Statista,2025-11-29
+75,7,2016,,gdp_per_capita,1072,USD,IMF,2017-06-01
+76,3,2021,1,gdp_growth,3.7,percent,IMF,2021-04-27
+77,5,2009,,ecommerce_gmv,520800000.0,USD,Statista,2010-05-13
+78,9,2021,3,gdp_growth,4.7,percent,IMF,2021-11-20
+79,5,2014,,gdp_per_capita,47983,USD,World Bank,2015-04-09
+80,2,2011,,gdp_per_capita,4732,USD,ADB,2012-06-07
+81,10,2025,3,unemployment,7.6,percent,National Statistics,2025-10-21
+82,5,2024,3,consumer_confidence,117,index,National Statistics,2024-11-08
+83,2,2011,,internet_penetration,23.4,percent,ITU,2012-04-11
+84,2,2011,,gdp_growth,6.6,percent,ADB,2012-04-20
+85,4,2014,,gdp_growth,4.2,percent,ADB,2015-05-22
+86,8,2025,3,export_growth,6.1,percent,UNCTAD,2025-11-15
+87,3,2022,2,retail_sales_growth,3.7,percent,National Statistics,2022-08-19
+88,4,2024,4,export_growth,4.1,percent,World Bank,2025-02-23
+89,2,2025,4,export_growth,9.0,percent,UNCTAD,2026-03-13
+90,1,2014,,population,257100000.0,people,National Statistical Office,2015-06-29
+91,8,2015,,population,7000000.0,people,UN Population Division,2016-04-20
+92,5,2024,4,unemployment,8.0,percent,ILO,2025-02-15
+93,1,2008,,ecommerce_gmv,1200000000.0,USD,Google-Temasek,2009-06-26
+94,10,2022,2,export_growth,-3.2,percent,WTO,2022-09-13
+95,8,2025,3,fdi_inflow,653300000.0,USD,ASEAN Secretariat,2025-11-07
+96,5,2013,,ecommerce_gmv,1200000000.0,USD,Google-Temasek,2014-04-17
+97,5,2025,1,retail_sales_growth,13.9,percent,National Statistics,2025-05-03
+98,6,2011,,gdp_per_capita,2019,USD,ADB,2012-05-22
+99,2,2022,4,fdi_inflow,8800000000.0,USD,UNCTAD,2023-01-19
+100,6,2023,1,unemployment,6.4,percent,ILO,2023-04-20
+101,1,2014,,internet_penetration,15.3,percent,ITU,2015-06-19
+102,1,2023,3,inflation,5.1,percent,World Bank,2023-11-25
+103,6,2009,,gdp,176100000000.0,USD,ADB,2010-04-11
+104,4,2011,,internet_penetration,81.0,percent,Internet World Stats,2012-04-29
+105,10,2015,,population,434909,people,National Statistical Office,2016-04-29
+106,9,2024,1,export_growth,0.4,percent,UNCTAD,2024-05-01
+107,5,2022,,ecommerce_gmv,4800000000.0,USD,Bain & Company,2023-06-05
+108,1,2022,2,inflation,6.1,percent,World Bank,2022-07-19
+109,10,2011,,gdp,15500000000.0,USD,ADB,2012-04-26
+110,2,2009,,ecommerce_gmv,1100000000.0,USD,e-Conomy SEA,2010-06-16
+111,4,2024,3,inflation,6.1,percent,National Bank,2024-11-27
+112,4,2025,,population,36700000.0,people,National Statistical Office,2026-04-16
+113,5,2023,4,gdp_growth,8.0,percent,IMF,2024-01-26
+114,2,2024,,gdp,472700000000.0,USD,World Bank,2025-06-04
+115,9,2018,,ecommerce_gmv,21200000.0,USD,e-Conomy SEA,2019-05-16
+116,8,2020,4,fdi_inflow,192800000.0,USD,World Bank,2021-02-21
+117,2,2025,,gdp_growth,4.1,percent,World Bank,2026-04-10
+118,10,2015,,ecommerce_gmv,142900000.0,USD,e-Conomy SEA,2016-05-01
+119,10,2020,,gdp,25500000000.0,USD,ADB,2021-05-28
+120,1,2022,4,import_growth,-8.1,percent,World Bank,2023-03-05
+121,7,2016,,ecommerce_gmv,56500000.0,USD,Statista,2017-06-18
+122,6,2024,,ecommerce_gmv,8000000000.0,USD,Bain & Company,2025-05-23
+123,1,2024,2,inflation,3.1,percent,National Bank,2024-09-11
+124,5,2022,3,retail_sales_growth,15.7,percent,Statista,2022-10-22
+125,2,2024,1,fdi_inflow,7800000000.0,USD,OECD,2024-05-05
+126,4,2022,4,inflation,5.5,percent,IMF,2023-03-11
+127,10,2024,2,unemployment,3.8,percent,World Bank,2024-08-22
+128,7,2012,,gdp_growth,7.9,percent,IMF,2013-04-11
+129,6,2015,,ecommerce_gmv,535400000.0,USD,Google-Temasek,2016-04-25
+130,1,2023,3,import_growth,16.9,percent,World Bank,2023-11-20
+131,3,2015,,gdp_per_capita,1313,USD,ADB,2016-03-30
+132,5,2024,3,unemployment,9.1,percent,National Statistics,2024-11-26
+133,5,2025,1,import_growth,8.2,percent,WTO,2025-05-24
+134,5,2025,3,retail_sales_growth,5.0,percent,Euromonitor,2025-11-27
+135,5,2021,4,consumer_confidence,111,index,National Statistics,2022-03-01
+136,1,2015,,gdp_per_capita,3236,USD,World Bank,2016-06-20
+137,8,2025,2,export_growth,-7.2,percent,WTO,2025-08-18
+138,8,2020,,gdp_growth,5.2,percent,IMF,2021-05-11
+139,6,2010,,ecommerce_gmv,286500000.0,USD,Bain & Company,2011-04-24
+140,7,2020,3,consumer_confidence,60,index,Mastercard,2020-10-18
+141,9,2014,,gdp_growth,6.7,percent,ADB,2015-06-28
+142,10,2017,,ecommerce_gmv,136000000.0,USD,Statista,2018-06-04
+143,3,2020,4,import_growth,5.5,percent,World Bank,2021-02-14
+144,10,2023,,internet_penetration,225.7,percent,Internet World Stats,2024-06-04
+145,6,2024,3,export_growth,12.1,percent,UNCTAD,2024-10-25
+146,10,2014,,internet_penetration,97.9,percent,ITU,2015-04-28
+147,1,2011,,population,238300000.0,people,National Statistical Office,2012-04-07
+148,3,2023,3,import_growth,15.2,percent,World Bank,2023-11-15
+149,4,2017,,internet_penetration,184.4,percent,Internet World Stats,2018-04-08
+150,4,2023,2,consumer_confidence,104,index,National Statistics,2023-08-16
+151,2,2023,3,import_growth,-0.9,percent,UNCTAD,2023-11-10
+152,5,2008,,population,4800000.0,people,World Bank,2009-05-13
+153,3,2020,2,unemployment,4.5,percent,ILO,2020-07-23
+154,1,2023,2,fdi_inflow,43200000000.0,USD,World Bank,2023-08-09
+155,9,2025,3,gdp_growth,3.1,percent,ADB,2025-11-13
+156,4,2022,,ecommerce_gmv,5400000000.0,USD,Statista,2023-06-27
+157,7,2008,,gdp_per_capita,714,USD,World Bank,2009-05-03
+158,2,2020,1,consumer_confidence,98,index,Nielsen,2020-05-07
+159,8,2009,,gdp_growth,3.9,percent,ADB,2010-05-24
+160,2,2025,2,unemployment,2.2,percent,ILO,2025-07-18
+161,5,2013,,internet_penetration,100.2,percent,ITU,2014-05-24
+162,8,2010,,gdp_per_capita,926,USD,ADB,2011-05-23
+163,10,2010,,internet_penetration,53.5,percent,ITU,2011-04-22
+164,1,2021,2,retail_sales_growth,2.5,percent,National Statistics,2021-08-29
+165,8,2021,1,import_growth,9.5,percent,WTO,2021-04-14
+166,2,2013,,population,72100000.0,people,UN Population Division,2014-06-11
+167,10,2020,1,retail_sales_growth,8.8,percent,Euromonitor,2020-04-25
+168,5,2022,2,consumer_confidence,96,index,Mastercard,2022-08-18
+169,10,2023,3,fdi_inflow,770400000.0,USD,OECD,2023-10-27
+170,5,2024,2,fdi_inflow,9600000000.0,USD,World Bank,2024-08-30
+171,8,2021,3,retail_sales_growth,8.4,percent,Statista,2021-11-22
+172,7,2024,1,inflation,5.1,percent,World Bank,2024-05-05
+173,4,2023,,gdp_per_capita,19321,USD,IMF,2024-05-12
+174,1,2022,,ecommerce_gmv,11500000000.0,USD,Statista,2023-05-11
+175,10,2018,,ecommerce_gmv,276300000.0,USD,e-Conomy SEA,2019-05-09
+176,3,2022,,gdp_per_capita,2344,USD,ADB,2023-05-15
+177,5,2024,1,export_growth,4.1,percent,UNCTAD,2024-05-17
+178,5,2017,,internet_penetration,192.4,percent,Internet World Stats,2018-05-29
+179,10,2017,,internet_penetration,93.5,percent,GSMA,2018-04-24
+180,2,2024,,gdp_per_capita,6708,USD,IMF,2025-06-26
+181,8,2023,,gdp,8700000000.0,USD,ADB,2024-06-10
+182,1,2011,,gdp_growth,4.9,percent,ADB,2012-04-29
+183,5,2011,,population,5100000.0,people,National Statistical Office,2012-05-19
+184,3,2021,2,retail_sales_growth,13.1,percent,ASEANstats,2021-09-09
+185,2,2014,,gdp,382800000000.0,USD,IMF,2015-06-12
+186,6,2020,3,consumer_confidence,47,index,Mastercard,2020-10-30
+187,10,2012,,gdp_growth,6.4,percent,ADB,2013-06-14
+188,10,2022,2,consumer_confidence,133,index,National Statistics,2022-09-12
+189,6,2025,2,fdi_inflow,18500000000.0,USD,OECD,2025-08-20
+190,7,2017,,ecommerce_gmv,116200000.0,USD,Bain & Company,2018-04-10
+191,5,2021,,internet_penetration,225.5,percent,Internet World Stats,2022-06-27
+192,2,2015,,gdp_growth,5.9,percent,World Bank,2016-05-14
+193,7,2010,,population,14600000.0,people,World Bank,2011-04-07
+194,1,2020,4,gdp_growth,2.5,percent,IMF,2021-03-15
+195,1,2023,2,unemployment,4.8,percent,National Statistics,2023-08-10
+196,10,2021,,gdp_per_capita,59658,USD,World Bank,2022-04-25
+197,8,2020,,ecommerce_gmv,42500000.0,USD,Google-Temasek,2021-05-18
+198,7,2021,,ecommerce_gmv,106300000.0,USD,Statista,2022-04-28
+199,5,2022,,gdp,281100000000.0,USD,National Statistics,2023-05-29
+200,10,2025,2,consumer_confidence,125,index,National Statistics,2025-08-22
+201,10,2015,,gdp_per_capita,45346,USD,IMF,2016-06-10
+202,4,2009,,internet_penetration,59.1,percent,GSMA,2010-06-05
+203,2,2012,,gdp_per_capita,4695,USD,IMF,2013-06-20
+204,5,2021,1,export_growth,13.9,percent,World Bank,2021-06-01
+205,5,2023,3,unemployment,3.6,percent,ILO,2023-10-30
+206,3,2024,3,fdi_inflow,3300000000.0,USD,ASEAN Secretariat,2024-11-27
+207,6,2022,2,retail_sales_growth,3.3,percent,ASEANstats,2022-08-09
+208,4,2022,2,import_growth,13.0,percent,UNCTAD,2022-08-18
+209,5,2021,2,export_growth,17.2,percent,UNCTAD,2021-07-22
+210,5,2025,4,gdp_growth,7.4,percent,IMF,2026-03-05
+211,8,2024,3,unemployment,4.2,percent,National Statistics,2024-11-14
+212,2,2021,4,export_growth,4.7,percent,World Bank,2022-03-11
+213,2,2021,,population,89900000.0,people,World Bank,2022-06-25
+214,8,2022,3,gdp_growth,8.6,percent,IMF,2022-12-13
+215,5,2025,1,fdi_inflow,20300000000.0,USD,ASEAN Secretariat,2025-05-15
+216,5,2010,,gdp_growth,3.7,percent,IMF,2011-05-13
+217,7,2024,1,consumer_confidence,80,index,Nielsen,2024-05-01
+218,8,2015,,internet_penetration,4.6,percent,GSMA,2016-03-30
+219,3,2011,,gdp_per_capita,1220,USD,World Bank,2012-05-20
+220,4,2025,2,fdi_inflow,19100000000.0,USD,ASEAN Secretariat,2025-08-16
+221,5,2021,,gdp_per_capita,49026,USD,ADB,2022-05-09
+222,4,2008,,gdp_per_capita,8148,USD,World Bank,2009-06-17
+223,6,2013,,gdp,223000000000.0,USD,IMF,2014-05-11
+224,9,2020,,population,66000000.0,people,World Bank,2021-04-04
+225,10,2023,2,unemployment,6.1,percent,World Bank,2023-07-19
+226,8,2021,2,import_growth,-10.2,percent,World Bank,2021-08-28
+227,8,2010,,gdp_growth,6.2,percent,ADB,2011-05-14
+228,6,2022,2,gdp_growth,6.4,percent,World Bank,2022-07-28
+229,5,2017,,gdp_growth,7.0,percent,IMF,2018-04-10
+230,6,2015,,gdp,258000000000.0,USD,ADB,2016-05-21
+231,6,2024,4,fdi_inflow,10500000000.0,USD,World Bank,2025-02-16
+232,2,2021,4,gdp_growth,3.1,percent,IMF,2022-01-30
+233,2,2023,2,unemployment,4.1,percent,World Bank,2023-08-13
+234,5,2024,3,import_growth,16.4,percent,UNCTAD,2024-12-07
+235,3,2020,2,export_growth,4.8,percent,World Bank,2020-09-07
+236,8,2022,,ecommerce_gmv,60700000.0,USD,Statista,2023-06-07
+237,2,2024,1,unemployment,5.4,percent,National Statistics,2024-06-10
+238,8,2014,,gdp,6900000000.0,USD,World Bank,2015-04-21
+239,5,2023,,gdp_per_capita,87857,USD,IMF,2024-06-04
+240,10,2024,2,retail_sales_growth,15.5,percent,National Statistics,2024-08-28
+241,8,2025,3,inflation,3.2,percent,National Bank,2025-11-20
+242,4,2025,2,inflation,5.9,percent,World Bank,2025-08-17
+243,4,2024,1,fdi_inflow,21700000000.0,USD,ASEAN Secretariat,2024-05-02
+244,7,2025,3,unemployment,3.5,percent,National Statistics,2025-11-27
+245,8,2022,2,import_growth,4.0,percent,WTO,2022-08-29
+246,3,2020,1,consumer_confidence,70,index,Conference Board,2020-05-12
+247,1,2025,1,export_growth,10.4,percent,WTO,2025-05-22
+248,2,2021,,gdp,575900000000.0,USD,IMF,2022-04-12
+249,1,2025,,internet_penetration,56.8,percent,Internet World Stats,2026-05-16
+250,9,2018,,gdp,49100000000.0,USD,IMF,2019-04-19
+251,7,2022,3,fdi_inflow,407400000.0,USD,World Bank,2022-11-11
+252,1,2022,4,unemployment,4.7,percent,World Bank,2023-02-23
+253,7,2023,2,unemployment,7.9,percent,ILO,2023-08-27
+254,3,2022,2,export_growth,23.2,percent,UNCTAD,2022-07-25
+255,2,2019,,gdp_growth,4.5,percent,IMF,2020-06-28
+256,10,2009,,ecommerce_gmv,35500000.0,USD,e-Conomy SEA,2010-05-12
+257,5,2015,,internet_penetration,174.3,percent,ITU,2016-04-05
+258,8,2008,,gdp,5400000000.0,USD,ADB,2009-05-20
+259,1,2020,1,gdp_growth,4.1,percent,IMF,2020-06-05
+260,4,2017,,ecommerce_gmv,3400000000.0,USD,Statista,2018-05-23
+261,10,2024,3,fdi_inflow,796400000.0,USD,World Bank,2024-10-21
+262,7,2022,4,consumer_confidence,81,index,Conference Board,2023-03-14
+263,6,2017,,gdp_per_capita,2359,USD,IMF,2018-05-19
+264,10,2024,1,consumer_confidence,128,index,Conference Board,2024-05-07
+265,10,2021,4,retail_sales_growth,1.7,percent,National Statistics,2022-01-27
+266,3,2014,,internet_penetration,55.1,percent,ITU,2015-05-21
+267,6,2022,3,retail_sales_growth,7.1,percent,Euromonitor,2022-10-26
+268,5,2009,,gdp,189800000000.0,USD,National Statistics,2010-06-24
+269,6,2008,,ecommerce_gmv,200000000.0,USD,Google-Temasek,2009-06-09
+270,9,2022,4,retail_sales_growth,5.5,percent,Euromonitor,2023-01-26
+271,4,2024,,ecommerce_gmv,6600000000.0,USD,Google-Temasek,2025-04-23
+272,6,2021,2,fdi_inflow,6900000000.0,USD,ASEAN Secretariat,2021-09-08
+273,3,2023,3,fdi_inflow,2000000000.0,USD,UNCTAD,2023-10-29
+274,6,2022,2,inflation,4.4,percent,World Bank,2022-08-22
+275,4,2015,,ecommerce_gmv,2700000000.0,USD,Google-Temasek,2016-05-11
+276,4,2009,,gdp_per_capita,8353,USD,IMF,2010-06-23
+277,3,2022,,population,104800000.0,people,National Statistical Office,2023-05-17
+278,5,2025,2,import_growth,6.3,percent,UNCTAD,2025-08-21
+279,9,2017,,ecommerce_gmv,9400000.0,USD,Bain & Company,2018-04-24
+280,3,2025,4,unemployment,2.2,percent,World Bank,2026-03-03
+281,2,2014,,population,72300000.0,people,National Statistical Office,2015-05-31
+282,8,2010,,gdp,6000000000.0,USD,National Statistics,2011-05-27
+283,9,2023,,ecommerce_gmv,22500000.0,USD,Google-Temasek,2024-04-24
+284,9,2022,4,import_growth,0.3,percent,WTO,2023-02-18
+285,4,2020,,ecommerce_gmv,8700000000.0,USD,Google-Temasek,2021-04-15
+286,4,2017,,gdp_growth,4.6,percent,IMF,2018-05-29
+287,2,2011,,ecommerce_gmv,1400000000.0,USD,Statista,2012-04-05
+288,2,2010,,gdp,301500000000.0,USD,World Bank,2011-06-04
+289,7,2025,,gdp_per_capita,1006,USD,IMF,2026-04-14
+290,5,2024,2,unemployment,4.4,percent,National Statistics,2024-08-14
+291,10,2017,,gdp_per_capita,44143,USD,IMF,2018-05-20
+292,7,2013,,gdp_growth,8.3,percent,ADB,2014-04-12
+293,10,2024,3,inflation,3.2,percent,National Bank,2024-11-29
+294,3,2013,,internet_penetration,40.4,percent,ITU,2014-06-11
+295,5,2016,,population,5600000.0,people,UN Population Division,2017-04-14
+296,1,2025,3,inflation,2.8,percent,National Bank,2025-12-02
+297,5,2022,1,gdp_growth,8.8,percent,World Bank,2022-05-20
+298,8,2014,,gdp_per_capita,1216,USD,World Bank,2015-04-19
+299,10,2023,,gdp_per_capita,78515,USD,World Bank,2024-06-22
+300,6,2023,2,consumer_confidence,140,index,Conference Board,2023-09-11
+301,6,2020,2,inflation,2.5,percent,National Bank,2020-09-08
+302,10,2024,2,import_growth,14.2,percent,UNCTAD,2024-07-29
+303,9,2025,,gdp,71800000000.0,USD,ADB,2026-05-08
+304,1,2014,,gdp,699700000000.0,USD,National Statistics,2015-05-10
+305,7,2022,,ecommerce_gmv,550700000.0,USD,Google-Temasek,2023-06-14
+306,4,2014,,gdp,282000000000.0,USD,World Bank,2015-04-09
+307,7,2023,1,fdi_inflow,433200000.0,USD,ASEAN Secretariat,2023-05-25
+308,7,2022,4,retail_sales_growth,10.6,percent,National Statistics,2023-02-23
+309,7,2020,4,retail_sales_growth,7.2,percent,ASEANstats,2021-03-06
+310,9,2022,1,fdi_inflow,2400000000.0,USD,ASEAN Secretariat,2022-04-15
+311,5,2024,,gdp_per_capita,75584,USD,IMF,2025-05-15
+312,10,2025,,ecommerce_gmv,2600000000.0,USD,Statista,2026-06-15
+313,6,2012,,gdp,214200000000.0,USD,ADB,2013-06-11
+314,3,2022,3,inflation,4.0,percent,IMF,2022-10-20
+315,10,2024,1,gdp_growth,6.1,percent,IMF,2024-05-06
+316,2,2016,,internet_penetration,57.7,percent,ITU,2017-05-21
+317,1,2024,2,gdp_growth,8.8,percent,ADB,2024-09-02
+318,10,2012,,population,427467,people,UN Population Division,2013-06-24
+319,10,2020,1,unemployment,3.4,percent,National Statistics,2020-05-01
+320,5,2022,,gdp_growth,4.8,percent,IMF,2023-06-15
+321,3,2018,,ecommerce_gmv,2100000000.0,USD,e-Conomy SEA,2019-05-27
+322,8,2025,2,fdi_inflow,503900000.0,USD,OECD,2025-08-31
+323,10,2009,,gdp_growth,4.7,percent,World Bank,2010-04-07
+324,6,2025,2,gdp_growth,5.1,percent,IMF,2025-08-26
+325,8,2023,3,unemployment,3.9,percent,World Bank,2023-11-27
+326,2,2008,,gdp_growth,5.1,percent,World Bank,2009-04-06
+327,5,2021,2,import_growth,-5.4,percent,UNCTAD,2021-09-09
+328,2,2024,2,consumer_confidence,134,index,Conference Board,2024-08-22
+329,4,2021,,population,33000000.0,people,UN Population Division,2022-06-01
+330,5,2016,,gdp_per_capita,48990,USD,ADB,2017-04-02
+331,5,2021,2,inflation,4.6,percent,IMF,2021-07-16
+332,5,2020,4,export_growth,-7.5,percent,WTO,2021-01-27
+333,6,2025,3,gdp_growth,4.2,percent,ADB,2025-11-26
+334,10,2021,,population,464574,people,UN Population Division,2022-04-20
+335,8,2017,,gdp_per_capita,1336,USD,World Bank,2018-05-30
+336,6,2013,,internet_penetration,24.0,percent,ITU,2014-05-20
+337,5,2021,2,gdp_growth,7.3,percent,World Bank,2021-09-03
+338,1,2025,3,consumer_confidence,121,index,Mastercard,2025-12-11
+339,9,2012,,internet_penetration,1.3,percent,WeAreSocial,2013-06-20
+340,8,2022,4,consumer_confidence,114,index,National Statistics,2023-03-14
+341,1,2019,,ecommerce_gmv,6500000000.0,USD,e-Conomy SEA,2020-06-11
+342,1,2021,1,consumer_confidence,134,index,Mastercard,2021-04-21
+343,2,2010,,population,68400000.0,people,National Statistical Office,2011-05-12
+344,6,2022,3,consumer_confidence,103,index,National Statistics,2022-11-28
+345,3,2020,2,gdp_growth,5.4,percent,ADB,2020-08-12
+346,6,2022,2,consumer_confidence,139,index,Conference Board,2022-08-10
+347,7,2022,1,fdi_inflow,299100000.0,USD,OECD,2022-05-28
+348,8,2022,2,gdp_growth,4.2,percent,IMF,2022-07-24
+349,4,2022,,internet_penetration,111.3,percent,Internet World Stats,2023-05-25
+350,7,2020,,gdp_growth,5.6,percent,World Bank,2021-06-04
+351,10,2022,2,unemployment,6.1,percent,National Statistics,2022-07-19
+352,2,2019,,internet_penetration,81.1,percent,ITU,2020-04-23
+353,7,2022,,population,18300000.0,people,UN Population Division,2023-04-07
+354,3,2014,,population,96300000.0,people,National Statistical Office,2015-04-23
+355,4,2011,,population,28100000.0,people,National Statistical Office,2012-05-19
+356,6,2020,3,unemployment,3.1,percent,ILO,2020-11-27
+357,10,2024,3,consumer_confidence,96,index,Conference Board,2024-12-08
+358,8,2018,,gdp_per_capita,1202,USD,IMF,2019-03-31
+359,3,2021,3,consumer_confidence,125,index,Nielsen,2021-12-11
+360,6,2023,4,inflation,2.1,percent,National Bank,2024-02-13
+361,2,2021,4,unemployment,3.3,percent,National Statistics,2022-02-07
+362,9,2020,,ecommerce_gmv,17500000.0,USD,Statista,2021-04-17
+363,3,2022,1,fdi_inflow,10800000000.0,USD,UNCTAD,2022-04-25
+364,7,2014,,gdp_growth,3.9,percent,World Bank,2015-04-29
+365,4,2017,,gdp,375400000000.0,USD,National Statistics,2018-05-11
+366,5,2020,4,retail_sales_growth,9.5,percent,National Statistics,2021-02-05
+367,5,2023,,internet_penetration,260.7,percent,Internet World Stats,2024-05-14
+368,7,2020,1,consumer_confidence,57,index,Conference Board,2020-05-07
+369,7,2017,,internet_penetration,4.1,percent,GSMA,2018-05-26
+370,10,2016,,gdp_per_capita,42693,USD,IMF,2017-04-16
+371,10,2020,,internet_penetration,86.5,percent,WeAreSocial,2021-04-06
+372,2,2025,1,import_growth,-0.1,percent,WTO,2025-06-08
+373,1,2024,4,retail_sales_growth,7.3,percent,Statista,2025-01-20
+374,4,2022,1,export_growth,-5.0,percent,WTO,2022-05-08
+375,8,2023,,population,8300000.0,people,UN Population Division,2024-05-26
+376,1,2009,,gdp,534700000000.0,USD,IMF,2010-04-23
+377,6,2025,,gdp_growth,7.6,percent,World Bank,2026-04-05
+378,3,2023,2,retail_sales_growth,6.3,percent,Statista,2023-08-02
+379,6,2020,3,gdp_growth,4.2,percent,World Bank,2020-10-22
+380,5,2025,,internet_penetration,188.6,percent,GSMA,2026-04-08
+381,2,2013,,gdp_per_capita,5341,USD,ADB,2014-05-01
+382,8,2022,3,export_growth,1.2,percent,WTO,2022-11-15
+383,3,2023,4,retail_sales_growth,3.6,percent,ASEANstats,2024-01-16
+384,9,2024,2,inflation,2.7,percent,National Bank,2024-09-08
+385,5,2023,4,export_growth,-3.3,percent,UNCTAD,2024-03-02
+386,8,2021,,population,7400000.0,people,National Statistical Office,2022-05-29
+387,9,2008,,gdp,35000000000.0,USD,National Statistics,2009-05-29
+388,7,2024,,internet_penetration,4.4,percent,GSMA,2025-06-07
+389,4,2025,,ecommerce_gmv,42500000000.0,USD,Statista,2026-05-16
+390,6,2025,2,retail_sales_growth,9.0,percent,ASEANstats,2025-08-31
+391,2,2025,,gdp_per_capita,6736,USD,World Bank,2026-04-01
+392,2,2020,3,export_growth,16.0,percent,WTO,2020-11-02
+393,4,2011,,gdp_growth,5.1,percent,IMF,2012-06-10
+394,9,2015,,gdp,49600000000.0,USD,ADB,2016-06-24
+395,10,2020,4,gdp_growth,6.2,percent,ADB,2021-01-15
+396,2,2016,,ecommerce_gmv,2500000000.0,USD,Bain & Company,2017-06-07
+397,8,2009,,gdp,5700000000.0,USD,World Bank,2010-06-01
+398,5,2020,,ecommerce_gmv,2200000000.0,USD,Google-Temasek,2021-04-20
+399,3,2009,,gdp_per_capita,1106,USD,World Bank,2010-04-10
+400,3,2014,,gdp_per_capita,1395,USD,ADB,2015-05-12
+401,8,2025,1,import_growth,15.5,percent,UNCTAD,2025-04-27
+402,4,2021,,internet_penetration,281.4,percent,WeAreSocial,2022-04-11
+403,5,2024,,gdp,514800000000.0,USD,ADB,2025-04-12
+404,8,2021,4,fdi_inflow,309400000.0,USD,ASEAN Secretariat,2022-01-21
+405,4,2020,2,export_growth,-5.6,percent,UNCTAD,2020-08-20
+406,8,2008,,population,6200000.0,people,UN Population Division,2009-04-01
+407,7,2020,2,inflation,2.3,percent,World Bank,2020-09-02
+408,1,2024,1,retail_sales_growth,17.5,percent,Statista,2024-05-18
+409,3,2015,,ecommerce_gmv,1100000000.0,USD,Google-Temasek,2016-03-31
+410,7,2021,4,inflation,4.6,percent,World Bank,2022-02-20
+411,9,2020,2,fdi_inflow,639100000.0,USD,UNCTAD,2020-09-03
+412,9,2012,,gdp,40000000000.0,USD,ADB,2013-06-16
+413,9,2020,1,retail_sales_growth,5.0,percent,ASEANstats,2020-05-06
+414,6,2011,,gdp,204500000000.0,USD,National Statistics,2012-06-17
+415,5,2020,,gdp_growth,3.4,percent,IMF,2021-04-04
+416,6,2024,,internet_penetration,47.9,percent,GSMA,2025-05-09
+417,4,2010,,population,27800000.0,people,National Statistical Office,2011-03-31
+418,3,2025,,ecommerce_gmv,10900000000.0,USD,e-Conomy SEA,2026-06-03
+419,9,2012,,ecommerce_gmv,5500000.0,USD,Google-Temasek,2013-06-14
+420,8,2024,,gdp_per_capita,1693,USD,ADB,2025-04-12
+421,8,2024,4,import_growth,5.2,percent,World Bank,2025-02-25
+422,3,2016,,population,93100000.0,people,UN Population Division,2017-05-29
+423,5,2023,3,export_growth,13.8,percent,World Bank,2023-11-15
+424,2,2025,4,gdp_growth,9.4,percent,World Bank,2026-01-28
+425,8,2024,,gdp,9000000000.0,USD,ADB,2025-06-22
+426,4,2021,1,inflation,5.1,percent,IMF,2021-05-08
+427,9,2025,4,inflation,5.9,percent,IMF,2026-01-21
+428,6,2023,,gdp_growth,7.0,percent,ADB,2024-04-28
+429,2,2022,,population,80300000.0,people,National Statistical Office,2023-06-04
+430,6,2022,,internet_penetration,65.1,percent,WeAreSocial,2023-05-03
+431,4,2023,,gdp,576100000000.0,USD,IMF,2024-05-16
+432,7,2011,,gdp_growth,4.5,percent,IMF,2012-05-01
+433,1,2015,,gdp_growth,7.2,percent,IMF,2016-05-19
+434,10,2022,3,import_growth,12.1,percent,World Bank,2022-11-18
+435,10,2019,,internet_penetration,112.2,percent,WeAreSocial,2020-06-15
+436,2,2008,,population,66000000.0,people,National Statistical Office,2009-06-16
+437,8,2020,4,export_growth,4.4,percent,UNCTAD,2021-02-17
+438,4,2025,2,gdp_growth,10.2,percent,World Bank,2025-09-03
+439,1,2019,,gdp_growth,5.9,percent,IMF,2020-05-04
+440,6,2020,,gdp_per_capita,2398,USD,IMF,2021-04-06
+441,2,2021,1,import_growth,9.7,percent,UNCTAD,2021-05-21
+442,6,2025,2,import_growth,-4.0,percent,World Bank,2025-08-29
+443,2,2019,,gdp_per_capita,7497,USD,IMF,2020-06-24
+444,9,2010,,population,52100000.0,people,World Bank,2011-04-19
+445,8,2023,,ecommerce_gmv,61700000.0,USD,Statista,2024-06-10
+446,2,2020,2,gdp_growth,2.7,percent,IMF,2020-09-06
+447,6,2017,,ecommerce_gmv,765400000.0,USD,Google-Temasek,2018-03-31
+448,5,2020,1,export_growth,-6.4,percent,World Bank,2020-05-15
+449,7,2021,4,import_growth,10.5,percent,UNCTAD,2022-02-11
+450,7,2010,,internet_penetration,1.5,percent,Internet World Stats,2011-04-09
+451,8,2015,,gdp_growth,5.8,percent,IMF,2016-05-02
+452,3,2020,3,inflation,2.6,percent,World Bank,2020-12-03
+453,9,2024,3,export_growth,25.6,percent,UNCTAD,2024-11-07
+454,7,2011,,gdp_per_capita,775,USD,ADB,2012-04-24
+455,1,2025,2,consumer_confidence,76,index,National Statistics,2025-08-03
+456,2,2025,2,fdi_inflow,21000000000.0,USD,OECD,2025-09-13
+457,10,2023,,gdp,24300000000.0,USD,ADB,2024-04-05
+458,6,2023,1,retail_sales_growth,18.3,percent,National Statistics,2023-06-10
+459,2,2020,,gdp_per_capita,5234,USD,IMF,2021-04-13
+460,1,2024,1,import_growth,-5.9,percent,WTO,2024-05-31
+461,9,2022,,gdp,53400000000.0,USD,National Statistics,2023-05-05
+462,6,2014,,gdp_growth,7.0,percent,IMF,2015-06-13
+463,6,2022,,gdp_per_capita,2569,USD,World Bank,2023-03-31
+464,6,2025,,gdp_per_capita,3116,USD,IMF,2026-05-06
+465,6,2025,1,retail_sales_growth,3.5,percent,Statista,2025-04-15
+466,3,2020,1,import_growth,-4.8,percent,UNCTAD,2020-06-08
+467,1,2016,,gdp_growth,4.8,percent,IMF,2017-06-14
+468,2,2019,,gdp,399600000000.0,USD,ADB,2020-05-06
+469,5,2015,,gdp,285400000000.0,USD,World Bank,2016-04-06
+470,2,2022,2,import_growth,15.7,percent,WTO,2022-08-11
+471,3,2025,2,inflation,7.0,percent,National Bank,2025-08-05
+472,1,2021,1,export_growth,14.1,percent,WTO,2021-04-27
+473,2,2025,3,gdp_growth,3.4,percent,ADB,2025-10-25
+474,9,2008,,ecommerce_gmv,2000000.0,USD,e-Conomy SEA,2009-03-31
+475,5,2020,2,inflation,3.1,percent,IMF,2020-08-04
+476,3,2022,,ecommerce_gmv,7500000000.0,USD,Google-Temasek,2023-04-07
+477,9,2023,,gdp_per_capita,1323,USD,IMF,2024-04-01
+478,7,2023,1,export_growth,23.1,percent,UNCTAD,2023-05-09
+479,4,2017,,population,32700000.0,people,National Statistical Office,2018-04-02
+480,2,2024,3,export_growth,-1.2,percent,World Bank,2024-11-01
+481,1,2009,,internet_penetration,11.5,percent,Internet World Stats,2010-04-30
+482,2,2023,3,retail_sales_growth,5.4,percent,Statista,2023-11-10
+483,3,2012,,internet_penetration,32.9,percent,ITU,2013-05-12
+484,5,2022,,internet_penetration,155.7,percent,WeAreSocial,2023-04-21
+485,1,2023,2,export_growth,-5.4,percent,UNCTAD,2023-08-24
+486,4,2024,4,import_growth,13.4,percent,UNCTAD,2025-01-15
+487,9,2024,4,consumer_confidence,149,index,Nielsen,2025-02-17
+488,3,2020,,ecommerce_gmv,4500000000.0,USD,Google-Temasek,2021-06-09
+489,3,2019,,internet_penetration,83.7,percent,ITU,2020-04-16
+490,5,2019,,internet_penetration,285.8,percent,Internet World Stats,2020-06-09
+491,9,2009,,gdp_per_capita,735,USD,World Bank,2010-06-17
+492,9,2021,2,inflation,4.8,percent,World Bank,2021-07-22
+493,2,2024,,gdp_growth,8.0,percent,IMF,2025-06-24
+494,4,2021,1,gdp_growth,6.1,percent,IMF,2021-05-04
+495,9,2012,,gdp_per_capita,829,USD,ADB,2013-05-28
+496,2,2023,1,gdp_growth,7.4,percent,IMF,2023-05-09
+497,3,2024,1,fdi_inflow,8100000000.0,USD,UNCTAD,2024-05-04
+498,10,2025,2,export_growth,-0.4,percent,UNCTAD,2025-07-18
+499,10,2016,,gdp_growth,5.8,percent,World Bank,2017-06-01
+500,3,2023,1,retail_sales_growth,6.0,percent,Euromonitor,2023-04-23
+501,4,2023,2,gdp_growth,10.2,percent,IMF,2023-07-21
+502,6,2018,,gdp_per_capita,2423,USD,World Bank,2019-05-31
+503,1,2012,,ecommerce_gmv,3100000000.0,USD,Google-Temasek,2013-06-06
+504,5,2025,,gdp_growth,6.9,percent,IMF,2026-04-11
+505,3,2023,1,gdp_growth,3.0,percent,World Bank,2023-04-21
+506,7,2015,,gdp_per_capita,982,USD,IMF,2016-05-20
+507,3,2020,4,retail_sales_growth,4.0,percent,ASEANstats,2021-03-15
+508,9,2020,2,unemployment,1.5,percent,ILO,2020-09-13
+509,8,2019,,gdp_growth,7.5,percent,World Bank,2020-04-27
+510,10,2008,,gdp_growth,2.3,percent,IMF,2009-05-05
+511,9,2024,2,retail_sales_growth,14.8,percent,ASEANstats,2024-07-21
+512,8,2024,1,import_growth,18.4,percent,WTO,2024-04-24
+513,10,2021,3,retail_sales_growth,9.7,percent,Euromonitor,2021-11-08
+514,3,2023,3,gdp_growth,3.6,percent,World Bank,2023-10-16
+515,10,2015,,gdp_growth,6.3,percent,World Bank,2016-06-22
+516,7,2017,,gdp_per_capita,1057,USD,World Bank,2018-06-23
+517,2,2023,,gdp_per_capita,8016,USD,World Bank,2024-04-22
+518,4,2023,,internet_penetration,297.4,percent,Internet World Stats,2024-05-31
+519,6,2025,3,retail_sales_growth,3.8,percent,Statista,2025-12-14
+520,8,2025,4,import_growth,-0.2,percent,UNCTAD,2026-01-19
+521,9,2021,1,export_growth,-2.9,percent,WTO,2021-06-03
+522,2,2013,,internet_penetration,29.7,percent,Internet World Stats,2014-04-17
+523,8,2023,1,fdi_inflow,331600000.0,USD,World Bank,2023-05-11
+524,8,2022,4,gdp_growth,8.0,percent,World Bank,2023-03-11
+525,9,2014,,ecommerce_gmv,4600000.0,USD,Statista,2015-05-22
+526,1,2019,,population,277600000.0,people,National Statistical Office,2020-04-09
+527,9,2024,2,import_growth,13.3,percent,World Bank,2024-07-17
+528,9,2021,3,export_growth,3.8,percent,WTO,2021-10-17
+529,7,2021,3,import_growth,7.9,percent,UNCTAD,2021-10-31
+530,6,2024,3,retail_sales_growth,14.5,percent,National Statistics,2024-12-14
+531,5,2008,,gdp_growth,2.3,percent,IMF,2009-04-29
+532,7,2012,,gdp,12200000000.0,USD,ADB,2013-06-12
+533,3,2025,,gdp_per_capita,2011,USD,ADB,2026-05-31
+534,7,2024,,population,20600000.0,people,National Statistical Office,2025-05-10
+535,9,2025,4,retail_sales_growth,14.5,percent,ASEANstats,2026-01-18
+536,8,2023,3,inflation,4.2,percent,IMF,2023-12-02
+537,3,2010,,gdp_per_capita,1196,USD,ADB,2011-05-15
+538,2,2021,3,fdi_inflow,9900000000.0,USD,ASEAN Secretariat,2021-11-09
+539,5,2020,,population,6100000.0,people,National Statistical Office,2021-06-29
+540,6,2010,,population,94400000.0,people,World Bank,2011-06-08
+541,7,2020,1,retail_sales_growth,6.8,percent,National Statistics,2020-06-07
+542,7,2015,,gdp_growth,6.4,percent,World Bank,2016-04-30
+543,1,2023,4,unemployment,3.6,percent,World Bank,2024-01-27
+544,10,2019,,gdp_growth,6.2,percent,IMF,2020-06-09
+545,9,2020,3,gdp_growth,4.3,percent,ADB,2020-10-30
+546,10,2013,,population,411841,people,National Statistical Office,2014-05-30
+547,2,2022,2,unemployment,7.1,percent,ILO,2022-07-27
+548,1,2022,1,export_growth,9.5,percent,WTO,2022-04-14
+549,9,2021,,gdp_per_capita,1298,USD,World Bank,2022-04-29
+550,3,2023,3,consumer_confidence,119,index,Nielsen,2023-12-01
+551,6,2023,1,inflation,4.9,percent,World Bank,2023-05-27
+552,3,2025,1,unemployment,7.8,percent,National Statistics,2025-05-13
+553,5,2009,,gdp_growth,2.5,percent,ADB,2010-05-07
+554,9,2013,,internet_penetration,1.6,percent,GSMA,2014-06-01
+555,2,2022,3,unemployment,4.5,percent,ILO,2022-11-26
+556,1,2022,,gdp_growth,3.6,percent,ADB,2023-04-18
+557,2,2020,,ecommerce_gmv,11900000000.0,USD,Google-Temasek,2021-05-25
+558,10,2024,,ecommerce_gmv,3000000000.0,USD,Bain & Company,2025-04-14
+559,8,2017,,gdp_growth,3.6,percent,World Bank,2018-04-27
+560,9,2010,,gdp_per_capita,767,USD,IMF,2011-06-14
+561,10,2024,4,fdi_inflow,1100000000.0,USD,OECD,2025-01-28
+562,6,2012,,internet_penetration,25.8,percent,GSMA,2013-05-14
+563,3,2023,2,inflation,4.0,percent,World Bank,2023-08-07
+564,7,2017,,gdp,13200000000.0,USD,IMF,2018-05-13
+565,10,2021,3,gdp_growth,4.5,percent,IMF,2021-10-22
+566,8,2023,2,export_growth,-3.5,percent,WTO,2023-07-26
+567,5,2020,2,retail_sales_growth,1.5,percent,National Statistics,2020-08-01
+568,1,2023,2,gdp_growth,3.6,percent,World Bank,2023-09-07
+569,8,2022,3,consumer_confidence,96,index,National Statistics,2022-12-01
+570,2,2020,,population,83300000.0,people,World Bank,2021-05-27
+571,1,2020,1,unemployment,3.4,percent,ILO,2020-05-23
+572,5,2014,,gdp,246000000000.0,USD,IMF,2015-06-28
+573,8,2021,1,gdp_growth,3.6,percent,IMF,2021-06-04
+574,6,2024,1,retail_sales_growth,16.2,percent,Euromonitor,2024-05-16
+575,10,2025,1,export_growth,19.6,percent,WTO,2025-05-16
+576,6,2024,4,retail_sales_growth,11.4,percent,ASEANstats,2025-01-29
+577,5,2021,,ecommerce_gmv,6800000000.0,USD,Statista,2022-05-15
+578,9,2012,,gdp_growth,8.1,percent,World Bank,2013-05-31
+579,9,2025,4,export_growth,-4.3,percent,WTO,2026-02-01
+580,7,2023,3,gdp_growth,7.7,percent,ADB,2023-11-07
+581,2,2025,4,unemployment,8.0,percent,National Statistics,2026-02-09
+582,1,2020,2,retail_sales_growth,3.5,percent,ASEANstats,2020-08-30
+583,3,2018,,internet_penetration,57.1,percent,GSMA,2019-05-22
+584,10,2019,,gdp_per_capita,47765,USD,World Bank,2020-05-20
+585,9,2023,,gdp,65300000000.0,USD,IMF,2024-04-09
+586,4,2018,,gdp,378000000000.0,USD,World Bank,2019-04-23
+587,9,2020,3,fdi_inflow,1600000000.0,USD,OECD,2020-11-13
+588,4,2022,4,export_growth,-5.2,percent,WTO,2023-03-10
+589,3,2025,1,export_growth,11.5,percent,World Bank,2025-06-05
+590,10,2022,2,retail_sales_growth,4.3,percent,ASEANstats,2022-07-30
+591,5,2011,,gdp,220400000000.0,USD,IMF,2012-04-28
+592,10,2025,4,consumer_confidence,116,index,National Statistics,2026-01-27
+593,8,2023,1,gdp_growth,3.6,percent,ADB,2023-04-21
+594,3,2020,,gdp,129800000000.0,USD,ADB,2021-03-31
+595,7,2024,3,consumer_confidence,101,index,National Statistics,2024-11-16
+596,4,2023,,population,39000000.0,people,National Statistical Office,2024-06-04
+597,9,2022,2,export_growth,-1.4,percent,World Bank,2022-07-30
+598,3,2022,3,gdp_growth,6.7,percent,IMF,2022-10-16
+599,4,2020,,gdp_growth,4.3,percent,IMF,2021-06-10
+600,9,2024,,ecommerce_gmv,119500000.0,USD,Bain & Company,2025-05-27
+601,1,2020,,gdp_per_capita,3931,USD,ADB,2021-04-30
+602,2,2022,4,export_growth,-0.7,percent,WTO,2023-02-13
+603,3,2024,4,gdp_growth,5.0,percent,ADB,2025-02-17
+604,6,2020,4,inflation,3.3,percent,World Bank,2021-02-10
+605,10,2022,,gdp_growth,9.6,percent,ADB,2023-05-31
+606,6,2024,,gdp_per_capita,3645,USD,World Bank,2025-05-31
+607,6,2014,,gdp,240500000000.0,USD,World Bank,2015-05-01
+608,3,2015,,population,100100000.0,people,World Bank,2016-04-01
+609,10,2009,,gdp,14900000000.0,USD,ADB,2010-04-03
+610,4,2018,,population,33700000.0,people,UN Population Division,2019-05-09
+611,10,2016,,population,451244,people,UN Population Division,2017-06-14
+612,7,2021,2,retail_sales_growth,12.7,percent,Statista,2021-07-22
+613,2,2024,3,import_growth,5.5,percent,WTO,2024-12-13
+614,3,2009,,gdp_growth,3.8,percent,IMF,2010-04-17
+615,3,2009,,ecommerce_gmv,387100000.0,USD,Statista,2010-04-05
+616,7,2024,4,import_growth,10.7,percent,WTO,2025-02-20
+617,9,2012,,population,53400000.0,people,World Bank,2013-06-26
+618,4,2021,,gdp_per_capita,12905,USD,World Bank,2022-04-11
+619,8,2024,1,export_growth,13.9,percent,UNCTAD,2024-05-08
+620,5,2020,,gdp_per_capita,54938,USD,World Bank,2021-06-25
+621,1,2022,1,import_growth,3.9,percent,UNCTAD,2022-04-28
+622,7,2025,1,retail_sales_growth,9.9,percent,National Statistics,2025-06-03
+623,1,2020,1,inflation,4.5,percent,IMF,2020-05-24
+624,3,2025,,population,114600000.0,people,World Bank,2026-05-06
+625,1,2020,2,fdi_inflow,39700000000.0,USD,World Bank,2020-09-08
+626,4,2021,2,export_growth,7.5,percent,World Bank,2021-08-05
+627,6,2025,4,export_growth,11.4,percent,WTO,2026-03-15
+628,4,2025,,internet_penetration,196.0,percent,ITU,2026-05-11
+629,4,2014,,population,30200000.0,people,World Bank,2015-04-05
+630,8,2025,,gdp,13600000000.0,USD,National Statistics,2026-04-14
+631,3,2021,4,export_growth,23.8,percent,World Bank,2022-02-15
+632,10,2025,4,fdi_inflow,962900000.0,USD,UNCTAD,2026-02-19
+633,8,2019,,ecommerce_gmv,29200000.0,USD,Statista,2020-05-18
+634,7,2010,,ecommerce_gmv,18000000.0,USD,Statista,2011-04-12
+635,5,2024,1,retail_sales_growth,1.2,percent,Statista,2024-05-31
+636,8,2020,1,unemployment,1.8,percent,ILO,2020-05-29
+637,8,2018,,ecommerce_gmv,52800000.0,USD,e-Conomy SEA,2019-04-21
+638,4,2025,3,fdi_inflow,26100000000.0,USD,ASEAN Secretariat,2025-10-15
+639,6,2024,4,import_growth,5.3,percent,World Bank,2025-03-11
+640,1,2015,,internet_penetration,25.2,percent,WeAreSocial,2016-05-12
+641,7,2022,2,inflation,2.2,percent,National Bank,2022-07-26
+642,2,2016,,gdp,436200000000.0,USD,IMF,2017-04-03
+643,8,2021,4,import_growth,8.3,percent,World Bank,2022-01-21
+644,10,2016,,ecommerce_gmv,239400000.0,USD,Statista,2017-06-06
+645,6,2024,3,fdi_inflow,9000000000.0,USD,World Bank,2024-11-20
+646,7,2009,,population,14300000.0,people,World Bank,2010-04-06
+647,5,2018,,internet_penetration,180.1,percent,WeAreSocial,2019-04-01
+648,7,2022,,gdp_per_capita,1518,USD,ADB,2023-05-14
+649,1,2015,,ecommerce_gmv,3800000000.0,USD,Statista,2016-04-21
+650,1,2010,,ecommerce_gmv,1800000000.0,USD,e-Conomy SEA,2011-04-01
+651,5,2021,4,unemployment,3.6,percent,World Bank,2022-02-12
+652,7,2024,1,gdp_growth,5.5,percent,World Bank,2024-04-17
+653,2,2024,,population,88100000.0,people,UN Population Division,2025-04-10
+654,1,2025,,population,282800000.0,people,National Statistical Office,2026-06-02
+655,8,2025,2,import_growth,16.2,percent,WTO,2025-08-31
+656,8,2024,,ecommerce_gmv,326900000.0,USD,Google-Temasek,2025-04-05
+657,5,2021,4,fdi_inflow,4100000000.0,USD,OECD,2022-02-01
+658,6,2009,,internet_penetration,20.6,percent,Internet World Stats,2010-04-12
+659,2,2012,,ecommerce_gmv,2000000000.0,USD,Statista,2013-06-12
+660,3,2018,,gdp_growth,8.0,percent,World Bank,2019-06-16
+661,5,2013,,gdp_per_capita,49001,USD,ADB,2014-05-23
+662,5,2022,1,export_growth,1.6,percent,WTO,2022-04-21
+663,4,2021,2,consumer_confidence,135,index,Mastercard,2021-08-03
+664,4,2023,2,inflation,4.1,percent,IMF,2023-07-18
+665,8,2009,,population,6300000.0,people,World Bank,2010-06-10
+666,1,2024,1,inflation,2.0,percent,National Bank,2024-05-03
+667,2,2021,3,unemployment,6.4,percent,World Bank,2021-11-28
+668,2,2013,,ecommerce_gmv,2800000000.0,USD,e-Conomy SEA,2014-06-11
+669,1,2025,,gdp,1588400000000.0,USD,National Statistics,2026-04-21
+670,8,2020,4,consumer_confidence,71,index,Conference Board,2021-02-11
+671,4,2025,3,gdp_growth,6.7,percent,World Bank,2025-11-28
+672,3,2024,3,inflation,2.3,percent,National Bank,2024-11-20
+673,10,2024,4,gdp_growth,5.4,percent,World Bank,2025-02-11
+674,10,2010,,gdp_per_capita,38649,USD,IMF,2011-05-13
+675,6,2021,,population,107000000.0,people,World Bank,2022-06-17
+676,8,2017,,ecommerce_gmv,59900000.0,USD,Bain & Company,2018-05-10
+677,2,2025,1,unemployment,3.8,percent,World Bank,2025-04-28
+678,3,2020,1,unemployment,4.2,percent,World Bank,2020-05-09
+679,8,2024,,population,7600000.0,people,UN Population Division,2025-06-04
+680,10,2021,,internet_penetration,114.8,percent,GSMA,2022-05-08
+681,9,2016,,internet_penetration,1.3,percent,ITU,2017-04-30
+682,4,2009,,gdp_growth,2.9,percent,ADB,2010-05-26
+683,9,2021,2,consumer_confidence,119,index,Conference Board,2021-08-21
+684,10,2023,2,export_growth,-11.5,percent,World Bank,2023-07-24
+685,9,2015,,population,58300000.0,people,National Statistical Office,2016-04-18
+686,3,2021,1,inflation,6.4,percent,World Bank,2021-05-22
+687,7,2020,1,gdp_growth,5.8,percent,IMF,2020-06-05
+688,4,2022,4,consumer_confidence,112,index,Mastercard,2023-02-18
+689,8,2020,,internet_penetration,3.7,percent,Internet World Stats,2021-04-14
+690,10,2010,,gdp,15400000000.0,USD,IMF,2011-05-19
+691,10,2018,,gdp_per_capita,43916,USD,World Bank,2019-05-14
+692,1,2022,2,consumer_confidence,93,index,Nielsen,2022-08-30
+693,5,2017,,gdp_per_capita,45832,USD,World Bank,2018-06-21
+694,6,2022,3,import_growth,3.4,percent,UNCTAD,2022-11-09
+695,7,2010,,gdp_growth,5.7,percent,World Bank,2011-05-08
+696,3,2021,3,unemployment,6.9,percent,National Statistics,2021-12-13
+697,9,2022,4,consumer_confidence,123,index,Mastercard,2023-03-08
+698,10,2019,,ecommerce_gmv,188000000.0,USD,Statista,2020-05-06
+699,8,2021,,gdp_per_capita,1250,USD,ADB,2022-05-30
+700,2,2015,,population,73300000.0,people,National Statistical Office,2016-04-11
+701,1,2023,2,retail_sales_growth,3.4,percent,Euromonitor,2023-08-26
+702,2,2025,1,export_growth,-11.5,percent,WTO,2025-04-29
+703,9,2019,,gdp,73100000000.0,USD,World Bank,2020-05-27
+704,6,2014,,ecommerce_gmv,1100000000.0,USD,e-Conomy SEA,2015-06-22
+705,1,2022,,gdp,1314300000000.0,USD,National Statistics,2023-06-26
+706,2,2009,,population,66800000.0,people,UN Population Division,2010-06-12
+707,10,2019,,population,508541,people,National Statistical Office,2020-04-17
+708,1,2021,,ecommerce_gmv,8700000000.0,USD,e-Conomy SEA,2022-06-23
+709,2,2023,1,export_growth,20.6,percent,WTO,2023-05-15
+710,1,2021,1,unemployment,4.9,percent,World Bank,2021-05-30
+711,5,2022,,population,6000000.0,people,World Bank,2023-04-19
+712,7,2024,,gdp_growth,4.3,percent,IMF,2025-05-05
+713,2,2019,,population,79600000.0,people,UN Population Division,2020-04-28
+714,1,2017,,ecommerce_gmv,12600000000.0,USD,Statista,2018-06-26
+715,9,2021,4,retail_sales_growth,11.5,percent,ASEANstats,2022-02-11
+716,4,2019,,gdp_per_capita,10590,USD,World Bank,2020-06-22
+717,5,2020,3,export_growth,11.3,percent,World Bank,2020-10-21
+718,10,2025,,internet_penetration,349.3,percent,GSMA,2026-04-07
+719,7,2018,,gdp_per_capita,1067,USD,ADB,2019-04-07
+720,7,2023,,gdp_growth,3.0,percent,World Bank,2024-06-13
+721,3,2022,,internet_penetration,127.1,percent,WeAreSocial,2023-06-13
+722,10,2022,4,import_growth,-0.9,percent,WTO,2023-02-02
+723,10,2023,1,gdp_growth,8.7,percent,World Bank,2023-05-20
+724,4,2022,,population,37900000.0,people,National Statistical Office,2023-06-20
+725,6,2022,1,gdp_growth,5.9,percent,ADB,2022-05-28
+726,7,2013,,population,15500000.0,people,National Statistical Office,2014-06-10
+727,1,2023,4,export_growth,5.9,percent,WTO,2024-02-01
+728,9,2023,2,consumer_confidence,118,index,Conference Board,2023-08-31
+729,5,2008,,gdp,180000000000.0,USD,National Statistics,2009-06-04
+730,5,2014,,ecommerce_gmv,2300000000.0,USD,e-Conomy SEA,2015-04-28
+731,6,2009,,gdp_growth,4.7,percent,IMF,2010-06-17
+732,1,2016,,population,253100000.0,people,UN Population Division,2017-05-30
+733,3,2023,,gdp,179200000000.0,USD,World Bank,2024-06-27
+734,10,2011,,internet_penetration,67.4,percent,WeAreSocial,2012-04-27
+735,5,2025,2,consumer_confidence,98,index,National Statistics,2025-09-03
+736,6,2024,3,inflation,5.2,percent,IMF,2024-11-30
+737,2,2017,,internet_penetration,58.3,percent,WeAreSocial,2018-05-11
+738,3,2024,3,gdp_growth,6.4,percent,World Bank,2024-10-17
+739,10,2022,3,export_growth,-4.0,percent,WTO,2022-10-17
+740,1,2020,,population,289800000.0,people,UN Population Division,2021-05-05
+741,5,2010,,internet_penetration,80.7,percent,WeAreSocial,2011-05-25
+742,10,2011,,ecommerce_gmv,59900000.0,USD,e-Conomy SEA,2012-05-21
+743,6,2025,4,retail_sales_growth,11.9,percent,National Statistics,2026-01-30
+744,7,2011,,population,14700000.0,people,World Bank,2012-05-23
+745,5,2021,2,fdi_inflow,4100000000.0,USD,World Bank,2021-07-27
+746,3,2025,3,inflation,2.2,percent,National Bank,2025-11-18
+747,5,2020,3,fdi_inflow,14900000000.0,USD,OECD,2020-11-25
+748,4,2008,,internet_penetration,55.6,percent,GSMA,2009-05-07
+749,8,2025,1,inflation,5.4,percent,IMF,2025-05-24
+750,1,2024,3,unemployment,3.4,percent,World Bank,2024-11-04
+751,7,2023,4,gdp_growth,7.2,percent,ADB,2024-02-19
+752,4,2008,,gdp,220000000000.0,USD,National Statistics,2009-05-05
+753,3,2016,,ecommerce_gmv,965100000.0,USD,Bain & Company,2017-04-23
+754,4,2010,,gdp_per_capita,8941,USD,ADB,2011-06-04
+755,5,2012,,internet_penetration,83.1,percent,ITU,2013-04-01
+756,8,2021,2,unemployment,7.5,percent,National Statistics,2021-09-02
+757,3,2021,,ecommerce_gmv,2300000000.0,USD,Statista,2022-06-11
+758,9,2018,,gdp_per_capita,1206,USD,ADB,2019-04-08
+759,10,2014,,gdp,18600000000.0,USD,ADB,2015-05-02
+760,3,2016,,gdp,150200000000.0,USD,ADB,2017-04-06
+761,10,2024,4,retail_sales_growth,16.0,percent,ASEANstats,2025-03-09
+762,3,2011,,gdp,108700000000.0,USD,World Bank,2012-05-01
+763,9,2011,,gdp_per_capita,809,USD,World Bank,2012-05-14
+764,2,2009,,gdp_per_capita,4264,USD,World Bank,2010-04-06
+765,5,2021,,population,6300000.0,people,National Statistical Office,2022-06-08
+766,3,2025,,internet_penetration,77.5,percent,Internet World Stats,2026-06-26
+767,3,2021,,gdp,203000000000.0,USD,National Statistics,2022-06-06
+768,2,2008,,ecommerce_gmv,800000000.0,USD,Google-Temasek,2009-04-15
+769,3,2021,2,consumer_confidence,106,index,Conference Board,2021-07-20
+770,7,2024,4,gdp_growth,6.1,percent,World Bank,2025-01-21
+771,4,2024,1,import_growth,16.5,percent,World Bank,2024-05-30
+772,9,2021,2,fdi_inflow,2100000000.0,USD,OECD,2021-07-18
+773,6,2021,1,consumer_confidence,105,index,Mastercard,2021-05-14
+774,6,2015,,gdp_growth,3.2,percent,IMF,2016-05-11
+775,5,2022,4,retail_sales_growth,6.4,percent,ASEANstats,2023-03-10
+776,4,2018,,internet_penetration,93.8,percent,ITU,2019-04-27
+777,8,2024,3,gdp_growth,4.1,percent,IMF,2024-11-11
+778,2,2025,2,gdp_growth,4.6,percent,IMF,2025-07-31
+779,5,2020,1,consumer_confidence,89,index,Mastercard,2020-05-07
+780,3,2009,,population,87100000.0,people,UN Population Division,2010-04-25
+781,6,2008,,internet_penetration,18.0,percent,ITU,2009-06-17
+782,5,2021,1,retail_sales_growth,12.6,percent,ASEANstats,2021-05-09
+783,9,2024,3,gdp_growth,7.4,percent,World Bank,2024-10-26
+784,4,2021,2,retail_sales_growth,14.2,percent,National Statistics,2021-07-15
+785,10,2021,3,unemployment,1.9,percent,World Bank,2021-12-13
+786,9,2017,,internet_penetration,2.1,percent,WeAreSocial,2018-06-07
+787,5,2019,,population,5700000.0,people,National Statistical Office,2020-05-01
+788,1,2011,,internet_penetration,15.1,percent,GSMA,2012-05-15
+789,2,2023,4,import_growth,3.3,percent,WTO,2024-02-15
+790,10,2008,,population,390000,people,National Statistical Office,2009-06-21
+791,1,2018,,gdp_growth,6.8,percent,World Bank,2019-05-27
+792,4,2020,1,retail_sales_growth,3.5,percent,Euromonitor,2020-04-15
+793,10,2023,4,retail_sales_growth,6.2,percent,Statista,2024-02-24
+794,8,2009,,gdp_per_capita,893,USD,IMF,2010-06-24
+795,6,2022,3,fdi_inflow,10600000000.0,USD,ASEAN Secretariat,2022-11-23
+796,6,2024,4,gdp_growth,6.8,percent,ADB,2025-02-12
+797,8,2023,1,unemployment,5.6,percent,World Bank,2023-05-18
+798,10,2022,2,fdi_inflow,1100000000.0,USD,OECD,2022-09-05
+799,3,2025,1,import_growth,-7.0,percent,World Bank,2025-06-11
+800,10,2025,,gdp_growth,5.2,percent,IMF,2026-04-28
+801,10,2023,3,gdp_growth,3.9,percent,World Bank,2023-11-05
+802,6,2024,2,export_growth,12.2,percent,WTO,2024-07-26
+803,8,2023,4,gdp_growth,3.2,percent,ADB,2024-02-11
+804,1,2008,,gdp_per_capita,2237,USD,World Bank,2009-05-08
+805,3,2022,2,import_growth,-8.2,percent,World Bank,2022-08-31
+806,10,2020,2,unemployment,3.1,percent,ILO,2020-08-26
+807,2,2023,,internet_penetration,112.0,percent,Internet World Stats,2024-06-11
+808,6,2008,,population,90000000.0,people,UN Population Division,2009-05-10
+809,9,2020,3,unemployment,3.2,percent,World Bank,2020-12-01
+810,8,2023,1,retail_sales_growth,7.7,percent,National Statistics,2023-04-21
+811,8,2025,,ecommerce_gmv,378700000.0,USD,Statista,2026-05-24
+812,2,2015,,gdp_per_capita,4961,USD,World Bank,2016-04-21
+813,10,2025,,gdp_per_capita,62845,USD,ADB,2026-04-11
+814,5,2023,3,consumer_confidence,88,index,National Statistics,2023-11-06
+815,10,2024,3,unemployment,1.9,percent,ILO,2024-12-04
+816,3,2013,,gdp,122000000000.0,USD,World Bank,2014-04-27
+817,4,2024,,gdp_growth,9.4,percent,World Bank,2025-04-18
+818,1,2022,1,gdp_growth,7.6,percent,IMF,2022-06-12
+819,4,2022,4,retail_sales_growth,8.0,percent,National Statistics,2023-01-22
+820,6,2024,1,gdp_growth,4.1,percent,ADB,2024-05-13
+821,4,2016,,gdp,313500000000.0,USD,National Statistics,2017-04-05
+822,7,2016,,gdp,13300000000.0,USD,World Bank,2017-05-07
+823,4,2022,,gdp_per_capita,13251,USD,IMF,2023-06-28
+824,2,2023,,gdp,470900000000.0,USD,National Statistics,2024-04-28
+825,4,2025,4,consumer_confidence,77,index,Nielsen,2026-01-20
+826,4,2020,1,import_growth,5.0,percent,WTO,2020-06-11
+827,9,2024,,gdp_per_capita,1208,USD,ADB,2025-04-07
+828,1,2019,,internet_penetration,23.8,percent,Internet World Stats,2020-04-25
+829,6,2010,,internet_penetration,23.6,percent,WeAreSocial,2011-05-05
+830,6,2023,1,gdp_growth,5.3,percent,IMF,2023-05-23
+831,10,2021,1,retail_sales_growth,3.3,percent,Euromonitor,2021-05-07
+832,2,2023,3,gdp_growth,7.4,percent,ADB,2023-12-04
+833,6,2009,,population,91300000.0,people,World Bank,2010-04-14
+834,8,2020,4,inflation,3.5,percent,World Bank,2021-01-19
+835,7,2014,,gdp,13100000000.0,USD,ADB,2015-05-10
+836,10,2023,3,unemployment,3.2,percent,National Statistics,2023-11-19
+837,10,2024,,gdp_per_capita,85713,USD,ADB,2025-05-05
+838,2,2012,,gdp_growth,5.1,percent,ADB,2013-05-08
+839,3,2010,,ecommerce_gmv,451100000.0,USD,e-Conomy SEA,2011-05-17
+840,9,2021,,gdp_growth,6.7,percent,ADB,2022-06-02
+841,2,2025,3,inflation,3.9,percent,IMF,2025-11-11
+842,7,2025,3,gdp_growth,6.9,percent,World Bank,2025-10-28
+843,1,2023,1,retail_sales_growth,7.3,percent,Euromonitor,2023-04-24
+844,8,2008,,gdp_per_capita,871,USD,IMF,2009-06-12
+845,6,2021,2,inflation,1.9,percent,IMF,2021-08-18
+846,7,2022,1,retail_sales_growth,9.2,percent,Euromonitor,2022-06-02
+847,2,2010,,ecommerce_gmv,1400000000.0,USD,Google-Temasek,2011-04-06
+848,2,2020,4,export_growth,0.1,percent,UNCTAD,2021-01-31
+849,6,2022,2,import_growth,16.1,percent,UNCTAD,2022-07-24
+850,9,2020,2,import_growth,11.3,percent,World Bank,2020-07-29
+851,5,2024,,population,6900000.0,people,World Bank,2025-06-19
+852,4,2011,,gdp_per_capita,8915,USD,ADB,2012-05-19
+853,9,2024,,internet_penetration,6.4,percent,ITU,2025-06-16
+854,9,2009,,population,50900000.0,people,UN Population Division,2010-06-04
+855,4,2022,2,fdi_inflow,17500000000.0,USD,UNCTAD,2022-07-18
+856,5,2025,2,unemployment,7.0,percent,ILO,2025-07-31
+857,8,2023,3,consumer_confidence,121,index,Mastercard,2023-11-11
+858,2,2022,,internet_penetration,48.8,percent,Internet World Stats,2023-05-30
+859,2,2020,3,consumer_confidence,72,index,Conference Board,2020-12-07
+860,10,2012,,gdp,15900000000.0,USD,IMF,2013-06-12
+861,10,2023,3,inflation,2.2,percent,National Bank,2023-10-19
+862,4,2025,2,consumer_confidence,87,index,National Statistics,2025-08-19
+863,1,2023,2,inflation,2.0,percent,World Bank,2023-08-18
+864,8,2024,3,fdi_inflow,291500000.0,USD,World Bank,2024-11-15
+865,4,2012,,internet_penetration,67.9,percent,GSMA,2013-04-18
+866,5,2020,,gdp,350300000000.0,USD,ADB,2021-04-26
+867,8,2023,2,inflation,3.0,percent,National Bank,2023-09-11
+868,3,2021,,gdp_growth,6.7,percent,ADB,2022-05-18
+869,8,2021,4,inflation,2.7,percent,World Bank,2022-02-14
+870,9,2025,2,gdp_growth,9.5,percent,World Bank,2025-07-22
+871,7,2009,,gdp_per_capita,757,USD,IMF,2010-06-02
+872,3,2010,,population,88000000.0,people,National Statistical Office,2011-06-04
+873,8,2020,,population,7900000.0,people,UN Population Division,2021-05-31
+874,9,2016,,gdp_per_capita,910,USD,World Bank,2017-05-12
+875,1,2024,1,consumer_confidence,128,index,National Statistics,2024-06-04
+876,10,2022,,internet_penetration,205.8,percent,WeAreSocial,2023-05-10
+877,3,2019,,gdp,161300000000.0,USD,World Bank,2020-04-04
+878,9,2020,3,export_growth,10.5,percent,World Bank,2020-12-04
+879,5,2022,1,import_growth,11.3,percent,WTO,2022-05-15
+880,1,2010,,gdp_per_capita,2384,USD,World Bank,2011-04-24
+881,7,2015,,ecommerce_gmv,33100000.0,USD,Statista,2016-05-25
+882,1,2024,,gdp_per_capita,5573,USD,IMF,2025-05-27
+883,2,2022,,ecommerce_gmv,13900000000.0,USD,Statista,2023-05-01
+884,8,2012,,gdp,6500000000.0,USD,ADB,2013-05-16
+885,9,2025,4,unemployment,6.1,percent,ILO,2026-02-25
+886,7,2020,1,export_growth,3.9,percent,WTO,2020-04-30
+887,3,2024,1,consumer_confidence,84,index,Conference Board,2024-05-30
+888,5,2024,,gdp_growth,5.5,percent,ADB,2025-04-23
+889,10,2008,,ecommerce_gmv,30000000.0,USD,Google-Temasek,2009-06-07
+890,10,2022,4,gdp_growth,6.7,percent,IMF,2023-02-10
+891,1,2024,2,unemployment,6.5,percent,ILO,2024-09-02
+892,1,2008,,gdp,510000000000.0,USD,World Bank,2009-03-31
+893,10,2023,,ecommerce_gmv,542200000.0,USD,Bain & Company,2024-06-24
+894,2,2020,1,export_growth,-3.2,percent,WTO,2020-04-20
+895,4,2024,2,retail_sales_growth,15.7,percent,ASEANstats,2024-07-24
+896,8,2025,,gdp_growth,5.1,percent,World Bank,2026-05-05
+897,2,2017,,gdp_per_capita,6316,USD,IMF,2018-04-06
+898,2,2024,2,export_growth,-6.5,percent,WTO,2024-08-12
+899,9,2009,,ecommerce_gmv,2300000.0,USD,e-Conomy SEA,2010-04-22
+900,10,2021,2,import_growth,7.7,percent,UNCTAD,2021-09-05
+901,10,2013,,gdp,18400000000.0,USD,ADB,2014-06-27
+902,3,2021,,population,105900000.0,people,World Bank,2022-04-11
+903,7,2022,2,export_growth,-7.9,percent,UNCTAD,2022-09-13
+904,3,2021,1,retail_sales_growth,1.9,percent,National Statistics,2021-05-14
+905,4,2024,4,consumer_confidence,132,index,Nielsen,2025-02-14
+906,9,2019,,gdp_growth,6.4,percent,ADB,2020-05-05
+907,2,2017,,ecommerce_gmv,4400000000.0,USD,Bain & Company,2018-06-05
+908,9,2025,,gdp_per_capita,1125,USD,World Bank,2026-04-08
+909,7,2009,,ecommerce_gmv,13100000.0,USD,Statista,2010-04-11
+910,1,2020,,internet_penetration,20.7,percent,GSMA,2021-05-02
+911,1,2023,3,fdi_inflow,41500000000.0,USD,OECD,2023-10-21
+912,5,2021,,gdp_growth,7.2,percent,IMF,2022-04-04
+913,3,2024,,gdp_growth,5.8,percent,IMF,2025-05-21
+914,6,2023,4,gdp_growth,6.5,percent,ADB,2024-02-29
+915,7,2025,1,consumer_confidence,151,index,Mastercard,2025-05-19
+916,9,2011,,ecommerce_gmv,3600000.0,USD,Bain & Company,2012-05-26
+917,9,2020,4,gdp_growth,6.4,percent,IMF,2021-01-28
+918,7,2021,3,fdi_inflow,378200000.0,USD,World Bank,2021-11-19
+919,1,2023,3,retail_sales_growth,5.3,percent,Statista,2023-11-04
+920,1,2024,3,export_growth,13.7,percent,WTO,2024-12-01
+921,10,2021,,gdp_growth,8.1,percent,ADB,2022-06-26
+922,1,2020,4,inflation,3.7,percent,World Bank,2021-01-16
+923,8,2012,,ecommerce_gmv,8700000.0,USD,Bain & Company,2013-06-19
+924,7,2011,,ecommerce_gmv,18600000.0,USD,e-Conomy SEA,2012-06-16
+925,2,2014,,gdp_growth,4.8,percent,IMF,2015-04-23
+926,6,2023,,gdp_per_capita,2703,USD,ADB,2024-04-15
+927,2,2010,,gdp_growth,4.7,percent,ADB,2011-04-17
+928,8,2019,,internet_penetration,5.6,percent,Internet World Stats,2020-03-30
+929,3,2020,,internet_penetration,56.0,percent,Internet World Stats,2021-04-09
+930,7,2019,,internet_penetration,2.2,percent,GSMA,2020-06-07
+931,6,2020,,population,106800000.0,people,UN Population Division,2021-04-25
+932,3,2025,3,fdi_inflow,9700000000.0,USD,OECD,2025-10-16
+933,7,2023,2,export_growth,-6.9,percent,World Bank,2023-08-19
+934,6,2018,,ecommerce_gmv,997500000.0,USD,Google-Temasek,2019-06-15
+935,10,2018,,gdp,27300000000.0,USD,National Statistics,2019-05-02
+936,1,2018,,internet_penetration,38.9,percent,ITU,2019-05-04
+937,5,2012,,gdp_per_capita,42224,USD,IMF,2013-05-15
+938,8,2024,4,fdi_inflow,440900000.0,USD,UNCTAD,2025-03-11
+939,3,2011,,gdp_growth,5.0,percent,ADB,2012-06-04
+940,8,2023,2,import_growth,10.0,percent,UNCTAD,2023-09-10
+941,3,2013,,population,90000000.0,people,UN Population Division,2014-04-07
+942,8,2018,,gdp,7300000000.0,USD,World Bank,2019-06-23
+943,1,2025,,gdp_growth,4.5,percent,IMF,2026-06-22
+944,3,2023,2,import_growth,7.1,percent,WTO,2023-07-24
+945,4,2020,1,unemployment,2.4,percent,World Bank,2020-06-09
+946,10,2020,2,inflation,1.6,percent,IMF,2020-08-01
+947,1,2021,1,import_growth,16.6,percent,World Bank,2021-05-29
+948,7,2014,,population,15600000.0,people,UN Population Division,2015-05-04
+949,1,2023,4,consumer_confidence,143,index,Mastercard,2024-03-05
+950,3,2024,2,consumer_confidence,81,index,Mastercard,2024-08-25
+951,8,2013,,population,6700000.0,people,National Statistical Office,2014-06-09
+952,2,2021,1,retail_sales_growth,5.8,percent,National Statistics,2021-05-05
+953,3,2008,,gdp,91000000000.0,USD,National Statistics,2009-04-29
+954,6,2022,1,import_growth,17.5,percent,UNCTAD,2022-05-06
+955,6,2024,,population,112800000.0,people,UN Population Division,2025-05-18
+956,3,2022,2,inflation,5.4,percent,IMF,2022-08-23
+957,7,2020,2,consumer_confidence,69,index,Mastercard,2020-08-05
+958,3,2015,,gdp,135100000000.0,USD,ADB,2016-06-08
+959,9,2014,,population,53700000.0,people,National Statistical Office,2015-04-16
+960,6,2018,,gdp_growth,4.2,percent,World Bank,2019-04-10
+961,10,2020,2,retail_sales_growth,6.2,percent,ASEANstats,2020-09-06
+962,1,2024,3,consumer_confidence,83,index,Mastercard,2024-10-26
+963,6,2022,,population,108900000.0,people,National Statistical Office,2023-06-15
+964,7,2020,,ecommerce_gmv,116700000.0,USD,e-Conomy SEA,2021-06-12
+965,2,2015,,ecommerce_gmv,2400000000.0,USD,Google-Temasek,2016-04-15
+966,10,2013,,gdp_growth,6.2,percent,World Bank,2014-06-10
+967,7,2023,3,import_growth,3.3,percent,World Bank,2023-10-29
+968,8,2022,1,gdp_growth,4.9,percent,World Bank,2022-06-04
+969,1,2020,,ecommerce_gmv,6600000000.0,USD,Bain & Company,2021-06-10
+970,2,2024,1,gdp_growth,9.5,percent,IMF,2024-05-20
+971,3,2025,3,consumer_confidence,109,index,Conference Board,2025-10-30
+972,2,2017,,population,73700000.0,people,World Bank,2018-06-22
+973,4,2017,,gdp_per_capita,13335,USD,IMF,2018-06-25
+974,1,2023,,population,301200000.0,people,UN Population Division,2024-06-17
+975,8,2011,,gdp_per_capita,979,USD,ADB,2012-04-09
+976,8,2025,2,retail_sales_growth,5.3,percent,Statista,2025-07-28
+977,5,2015,,gdp_per_capita,54344,USD,ADB,2016-05-22
+978,8,2021,,gdp_growth,6.1,percent,IMF,2022-06-09
+979,8,2019,,gdp_per_capita,1221,USD,World Bank,2020-05-04
+980,1,2021,4,inflation,3.0,percent,National Bank,2022-03-12
+981,5,2022,3,inflation,2.9,percent,National Bank,2022-11-30
+982,2,2022,,gdp_growth,8.2,percent,World Bank,2023-05-21
+983,2,2025,1,inflation,3.9,percent,World Bank,2025-05-10
+984,8,2024,4,consumer_confidence,91,index,Mastercard,2025-03-03
+985,4,2014,,gdp_per_capita,9637,USD,ADB,2015-04-23
+986,1,2021,,internet_penetration,60.0,percent,Internet World Stats,2022-06-17
+987,3,2020,3,export_growth,-5.6,percent,World Bank,2020-11-03
+988,8,2022,,gdp_growth,3.6,percent,IMF,2023-06-18
+989,4,2022,4,gdp_growth,5.4,percent,World Bank,2023-02-27
+990,3,2017,,gdp_per_capita,1378,USD,World Bank,2018-06-19
+991,8,2022,4,fdi_inflow,261300000.0,USD,OECD,2023-01-15
+992,7,2019,,gdp_per_capita,1232,USD,World Bank,2020-03-30
+993,6,2013,,gdp_growth,5.3,percent,IMF,2014-05-25
+994,2,2022,,gdp,525300000000.0,USD,National Statistics,2023-04-08
+995,7,2024,3,retail_sales_growth,10.2,percent,Euromonitor,2024-10-23
+996,2,2016,,gdp_per_capita,4955,USD,ADB,2017-04-27
+997,5,2023,,ecommerce_gmv,6000000000.0,USD,Bain & Company,2024-04-11
+998,2,2023,3,fdi_inflow,13000000000.0,USD,OECD,2023-10-21
+999,10,2008,,gdp_per_capita,35900,USD,IMF,2009-06-19
+1000,9,2010,,internet_penetration,0.9,percent,WeAreSocial,2011-04-10
+1001,7,2025,,gdp,29500000000.0,USD,IMF,2026-03-31
+1002,1,2024,2,retail_sales_growth,11.0,percent,ASEANstats,2024-07-30
+1003,1,2023,1,unemployment,3.6,percent,National Statistics,2023-04-20
+1004,4,2018,,gdp_per_capita,11898,USD,ADB,2019-05-20
+1005,1,2021,,gdp,1097600000000.0,USD,World Bank,2022-04-29
+1006,10,2015,,internet_penetration,88.3,percent,WeAreSocial,2016-06-26
+1007,3,2025,4,fdi_inflow,9300000000.0,USD,ASEAN Secretariat,2026-01-20
+1008,1,2013,,gdp,684000000000.0,USD,World Bank,2014-05-12
+1009,6,2025,1,fdi_inflow,18200000000.0,USD,ASEAN Secretariat,2025-05-06
+1010,2,2015,,internet_penetration,31.1,percent,WeAreSocial,2016-06-24
+1011,7,2013,,internet_penetration,1.6,percent,GSMA,2014-06-13
+1012,6,2013,,population,97900000.0,people,UN Population Division,2014-05-19
+1013,6,2008,,gdp,170000000000.0,USD,National Statistics,2009-04-02
+1014,8,2015,,gdp,7000000000.0,USD,IMF,2016-06-08
+1015,4,2024,4,unemployment,9.6,percent,National Statistics,2025-02-24
+1016,1,2022,3,fdi_inflow,54600000000.0,USD,World Bank,2022-12-13
+1017,1,2025,,gdp_per_capita,5309,USD,IMF,2026-04-09
+1018,7,2022,3,unemployment,3.3,percent,National Statistics,2022-12-14
+1019,1,2021,,gdp_growth,5.3,percent,IMF,2022-04-20
+1020,9,2022,1,import_growth,-0.9,percent,WTO,2022-05-21
+1021,3,2022,,gdp,178200000000.0,USD,World Bank,2023-04-16
+1022,3,2021,4,import_growth,-6.8,percent,UNCTAD,2022-02-06
+1023,1,2023,,gdp_per_capita,3998,USD,World Bank,2024-05-13
+1024,2,2025,4,import_growth,10.9,percent,World Bank,2026-03-06
+1025,9,2016,,gdp,56900000000.0,USD,ADB,2017-04-23
+1026,7,2023,,population,18100000.0,people,UN Population Division,2024-05-15
+1027,10,2020,3,unemployment,4.8,percent,ILO,2020-10-31
+1028,8,2021,1,retail_sales_growth,7.7,percent,Euromonitor,2021-05-21
+1029,5,2020,4,import_growth,0.8,percent,World Bank,2021-02-14
+1030,4,2012,,gdp_growth,4.0,percent,World Bank,2013-04-23
+1031,6,2024,2,import_growth,13.5,percent,WTO,2024-07-16
+1032,2,2008,,internet_penetration,20.1,percent,ITU,2009-06-15
+1033,10,2020,4,import_growth,0.2,percent,World Bank,2021-01-22
+1034,2,2025,1,retail_sales_growth,16.9,percent,ASEANstats,2025-05-22
+1035,6,2018,,internet_penetration,66.9,percent,ITU,2019-04-30
+1036,9,2023,1,export_growth,-7.0,percent,World Bank,2023-06-08
+1037,10,2017,,population,427734,people,UN Population Division,2018-06-07
+1038,7,2021,1,fdi_inflow,1100000000.0,USD,ASEAN Secretariat,2021-05-30
+1039,5,2015,,gdp_growth,6.6,percent,World Bank,2016-05-15
+1040,1,2016,,gdp_per_capita,3455,USD,World Bank,2017-05-13
+1041,1,2020,4,export_growth,-1.4,percent,UNCTAD,2021-02-25
+1042,2,2023,4,retail_sales_growth,6.4,percent,ASEANstats,2024-03-02
+1043,3,2008,,gdp_growth,4.2,percent,World Bank,2009-04-01
+1044,3,2014,,gdp,115300000000.0,USD,IMF,2015-04-27
+1045,8,2012,,internet_penetration,2.8,percent,WeAreSocial,2013-05-10
+1046,3,2024,1,retail_sales_growth,12.4,percent,Euromonitor,2024-05-21
+1047,1,2011,,ecommerce_gmv,2600000000.0,USD,Bain & Company,2012-06-02
+1048,8,2014,,gdp_growth,3.9,percent,World Bank,2015-06-03
+1049,1,2021,,population,293300000.0,people,UN Population Division,2022-04-30
+1050,3,2022,3,retail_sales_growth,5.1,percent,Euromonitor,2022-12-01
+1051,5,2013,,gdp,221100000000.0,USD,World Bank,2014-05-09
+1052,1,2025,2,inflation,3.4,percent,IMF,2025-07-18
+1053,9,2015,,ecommerce_gmv,11500000.0,USD,Statista,2016-04-08
+1054,8,2011,,gdp,6000000000.0,USD,World Bank,2012-04-07
+1055,2,2025,3,consumer_confidence,90,index,Mastercard,2025-12-02
+1056,7,2008,,gdp_growth,3.7,percent,IMF,2009-06-26
+1057,7,2021,1,import_growth,-7.1,percent,WTO,2021-05-31
+1058,5,2013,,gdp_growth,3.6,percent,IMF,2014-06-04
+1059,3,2018,,gdp,145100000000.0,USD,World Bank,2019-04-05
+1060,9,2011,,internet_penetration,1.0,percent,ITU,2012-06-28
+1061,10,2025,4,retail_sales_growth,8.5,percent,Euromonitor,2026-02-27
+1062,4,2024,4,fdi_inflow,27700000000.0,USD,ASEAN Secretariat,2025-01-19
+1063,5,2012,,gdp,233500000000.0,USD,ADB,2013-05-29
+1064,5,2015,,ecommerce_gmv,2200000000.0,USD,e-Conomy SEA,2016-06-13
+1065,10,2011,,gdp_growth,3.3,percent,ADB,2012-06-03
+1066,7,2024,,ecommerce_gmv,146900000.0,USD,Statista,2025-06-09
+1067,5,2024,3,fdi_inflow,8000000000.0,USD,UNCTAD,2024-11-04
+1068,10,2021,2,gdp_growth,6.2,percent,IMF,2021-08-08
+1069,10,2018,,internet_penetration,135.7,percent,ITU,2019-06-26
+1070,1,2021,1,inflation,2.2,percent,National Bank,2021-05-28
+1071,4,2024,2,fdi_inflow,16000000000.0,USD,UNCTAD,2024-07-24
+1072,1,2021,,gdp_per_capita,3775,USD,IMF,2022-05-21
+1073,8,2021,3,consumer_confidence,93,index,Mastercard,2021-12-01
+1074,3,2012,,gdp_per_capita,1193,USD,IMF,2013-06-04
+1075,3,2021,4,retail_sales_growth,4.5,percent,ASEANstats,2022-03-13
+1076,1,2020,3,gdp_growth,4.9,percent,IMF,2020-10-19
+1077,1,2010,,internet_penetration,12.3,percent,GSMA,2011-05-31
+1078,9,2020,4,inflation,2.3,percent,National Bank,2021-02-22
+1079,9,2021,2,unemployment,3.4,percent,World Bank,2021-07-17
+1080,4,2025,,gdp_per_capita,13239,USD,World Bank,2026-04-02
+1081,2,2023,3,unemployment,6.8,percent,World Bank,2023-11-27
+1082,10,2012,,internet_penetration,68.4,percent,Internet World Stats,2013-04-10
+1083,3,2013,,gdp_per_capita,1215,USD,IMF,2014-04-12
+1084,9,2009,,gdp,36300000000.0,USD,IMF,2010-05-12
+1085,1,2014,,gdp_growth,6.2,percent,World Bank,2015-05-11
+1086,4,2016,,gdp_per_capita,10869,USD,World Bank,2017-04-06
+1087,6,2021,,ecommerce_gmv,8400000000.0,USD,Statista,2022-05-04
+1088,3,2021,4,unemployment,3.8,percent,ILO,2022-03-08
+1089,8,2022,3,unemployment,4.3,percent,World Bank,2022-10-23
+1090,3,2015,,gdp_growth,4.0,percent,ADB,2016-04-22
+1091,2,2023,,population,92400000.0,people,UN Population Division,2024-04-18
+1092,2,2024,4,unemployment,3.4,percent,National Statistics,2025-02-07
+1093,1,2025,2,fdi_inflow,54000000000.0,USD,OECD,2025-08-17
+1094,7,2016,,internet_penetration,2.6,percent,WeAreSocial,2017-04-14
+1095,9,2015,,internet_penetration,1.3,percent,ITU,2016-05-20
+1096,3,2017,,gdp,144600000000.0,USD,World Bank,2018-05-22
+1097,3,2020,3,gdp_growth,5.1,percent,IMF,2020-11-06
+1098,4,2020,,gdp_per_capita,12778,USD,IMF,2021-05-27
+1099,9,2022,3,export_growth,-10.3,percent,UNCTAD,2022-11-17
+1100,4,2024,4,gdp_growth,6.0,percent,IMF,2025-02-27
+1101,4,2019,,internet_penetration,252.2,percent,Internet World Stats,2020-06-13
+1102,3,2018,,gdp_per_capita,1318,USD,ADB,2019-06-09
+1103,7,2018,,population,15800000.0,people,National Statistical Office,2019-05-20
+1104,8,2013,,gdp_growth,5.7,percent,IMF,2014-04-03
+1105,10,2025,,gdp,29800000000.0,USD,ADB,2026-05-31
+1106,8,2022,2,export_growth,17.5,percent,WTO,2022-07-26
+1107,6,2023,2,gdp_growth,5.3,percent,ADB,2023-08-26
+1108,9,2022,,ecommerce_gmv,16500000.0,USD,Statista,2023-06-14
+1109,3,2019,,population,106200000.0,people,National Statistical Office,2020-06-22
+1110,6,2021,1,unemployment,7.6,percent,ILO,2021-05-05
+1111,4,2012,,gdp,248200000000.0,USD,ADB,2013-05-05
+1112,3,2022,4,import_growth,9.7,percent,UNCTAD,2023-03-13
+1113,3,2021,4,consumer_confidence,133,index,National Statistics,2022-02-23
+1114,6,2025,2,unemployment,7.0,percent,National Statistics,2025-08-19
+1115,7,2021,2,fdi_inflow,234900000.0,USD,World Bank,2021-07-15
+1116,3,2023,,ecommerce_gmv,12800000000.0,USD,e-Conomy SEA,2024-04-30
+1117,6,2024,1,fdi_inflow,6600000000.0,USD,World Bank,2024-05-07
+1118,3,2019,,gdp_per_capita,1992,USD,ADB,2020-06-09
+1119,3,2023,,gdp_per_capita,1576,USD,World Bank,2024-06-05
+1120,7,2020,4,unemployment,1.8,percent,National Statistics,2021-01-15
+1121,8,2023,3,retail_sales_growth,18.1,percent,National Statistics,2023-12-01
+1122,8,2016,,population,7100000.0,people,National Statistical Office,2017-04-30
+1123,5,2025,,ecommerce_gmv,5500000000.0,USD,e-Conomy SEA,2026-06-21
+1124,8,2009,,internet_penetration,2.1,percent,Internet World Stats,2010-04-19
+1125,9,2020,3,consumer_confidence,59,index,Conference Board,2020-10-19
+1126,10,2020,2,export_growth,2.0,percent,UNCTAD,2020-08-03
+1127,3,2023,,internet_penetration,73.9,percent,GSMA,2024-06-20
+1128,1,2024,,population,283900000.0,people,National Statistical Office,2025-06-11
+1129,1,2021,2,export_growth,20.9,percent,UNCTAD,2021-09-03
+1130,9,2025,4,import_growth,8.1,percent,WTO,2026-01-19
+1131,4,2012,,population,29800000.0,people,UN Population Division,2013-04-15
+1132,4,2020,4,consumer_confidence,88,index,Mastercard,2021-03-15
+1133,3,2023,3,inflation,2.2,percent,World Bank,2023-11-30
+1134,3,2024,2,import_growth,9.8,percent,WTO,2024-08-13
+1135,2,2017,,gdp_growth,6.9,percent,ADB,2018-06-23
+1136,7,2021,1,gdp_growth,7.0,percent,ADB,2021-05-31
+1137,4,2020,2,fdi_inflow,10400000000.0,USD,ASEAN Secretariat,2020-08-18
+1138,9,2024,1,retail_sales_growth,13.8,percent,National Statistics,2024-05-21
+1139,5,2024,3,retail_sales_growth,16.4,percent,ASEANstats,2024-11-06
+1140,9,2025,,internet_penetration,3.3,percent,ITU,2026-05-17
+1141,4,2020,,gdp,478200000000.0,USD,IMF,2021-04-11
+1142,7,2025,4,export_growth,-6.4,percent,WTO,2026-01-16
+1143,7,2016,,gdp_growth,3.4,percent,IMF,2017-06-05
+1144,10,2025,3,retail_sales_growth,12.6,percent,Statista,2025-11-30
+1145,7,2024,2,retail_sales_growth,4.0,percent,Euromonitor,2024-09-03
+1146,3,2012,,gdp_growth,3.8,percent,ADB,2013-05-23
+1147,9,2022,,gdp_growth,7.1,percent,IMF,2023-06-24
+1148,1,2022,,gdp_per_capita,3738,USD,IMF,2023-04-26
+1149,1,2009,,gdp_per_capita,2343,USD,World Bank,2010-06-20
+1150,2,2025,,internet_penetration,79.2,percent,WeAreSocial,2026-04-12
+1151,1,2015,,gdp,721800000000.0,USD,IMF,2016-05-09
+1152,9,2025,3,consumer_confidence,135,index,Conference Board,2025-10-18
+1153,9,2013,,gdp_growth,3.6,percent,World Bank,2014-05-31
+1154,7,2022,3,inflation,3.0,percent,National Bank,2022-11-14
+1155,3,2020,2,inflation,1.8,percent,National Bank,2020-07-23
+1156,4,2021,4,consumer_confidence,86,index,Mastercard,2022-01-16
+1157,7,2023,,internet_penetration,7.5,percent,GSMA,2024-04-22
+1158,2,2018,,population,83300000.0,people,National Statistical Office,2019-06-21
+1159,2,2024,1,inflation,6.0,percent,World Bank,2024-05-21
+1160,6,2014,,internet_penetration,39.8,percent,ITU,2015-04-09
+1161,2,2022,4,retail_sales_growth,10.0,percent,ASEANstats,2023-02-14
+1162,4,2016,,gdp_growth,5.4,percent,ADB,2017-05-20
+1163,3,2022,2,unemployment,7.0,percent,World Bank,2022-08-31
+1164,10,2017,,gdp,19000000000.0,USD,World Bank,2018-05-20
+1165,4,2019,,gdp,382900000000.0,USD,World Bank,2020-05-12
+1166,6,2011,,population,93300000.0,people,UN Population Division,2012-06-14
+1167,6,2021,4,gdp_growth,6.2,percent,IMF,2022-02-25
+1168,9,2016,,population,58000000.0,people,National Statistical Office,2017-06-20
+1169,2,2025,,population,89300000.0,people,National Statistical Office,2026-04-28
+1170,3,2025,2,export_growth,16.5,percent,WTO,2025-09-03
+1171,5,2009,,internet_penetration,72.2,percent,WeAreSocial,2010-06-17
+1172,1,2023,1,export_growth,2.4,percent,WTO,2023-04-19
+1173,5,2025,1,consumer_confidence,96,index,Mastercard,2025-06-10
+1174,1,2013,,population,247400000.0,people,UN Population Division,2014-06-05
+1175,2,2010,,gdp_per_capita,4526,USD,ADB,2011-04-29
+1176,4,2010,,ecommerce_gmv,870600000.0,USD,e-Conomy SEA,2011-04-14
+1177,9,2021,4,gdp_growth,9.2,percent,ADB,2022-01-17
+1178,3,2025,,gdp_growth,6.1,percent,World Bank,2026-05-29
+1179,2,2012,,gdp,334800000000.0,USD,IMF,2013-04-01
+1180,1,2012,,population,251600000.0,people,UN Population Division,2013-06-19
+1181,7,2025,1,export_growth,18.8,percent,World Bank,2025-06-05
+1182,8,2022,1,export_growth,13.9,percent,WTO,2022-04-22
+1183,7,2019,,population,15800000.0,people,National Statistical Office,2020-04-15
+1184,6,2008,,gdp_growth,5.6,percent,IMF,2009-05-15
+1185,9,2024,4,fdi_inflow,3100000000.0,USD,UNCTAD,2025-01-15
+1186,4,2020,,population,33000000.0,people,National Statistical Office,2021-04-26
+1187,3,2010,,gdp_growth,4.5,percent,ADB,2011-05-12
+1188,4,2020,4,fdi_inflow,16100000000.0,USD,World Bank,2021-03-12
+1189,4,2021,3,retail_sales_growth,8.9,percent,Statista,2021-10-18
+1190,8,2023,,gdp_growth,4.5,percent,World Bank,2024-06-12
+1191,9,2021,3,retail_sales_growth,15.7,percent,Euromonitor,2021-12-13
+1192,10,2017,,gdp_growth,4.6,percent,IMF,2018-04-28
+1193,1,2022,2,gdp_growth,8.4,percent,ADB,2022-08-02
+1194,3,2022,,gdp_growth,7.7,percent,ADB,2023-04-05
+1195,6,2024,,gdp_growth,5.6,percent,World Bank,2025-04-23
+1196,10,2025,3,fdi_inflow,321100000.0,USD,World Bank,2025-11-17
+1197,7,2014,,ecommerce_gmv,50500000.0,USD,Google-Temasek,2015-06-26
+1198,6,2023,,internet_penetration,48.8,percent,Internet World Stats,2024-04-02
+1199,5,2021,1,unemployment,7.3,percent,World Bank,2021-04-30
+1200,7,2020,,gdp_per_capita,1202,USD,World Bank,2021-05-26
+1201,1,2014,,ecommerce_gmv,6000000000.0,USD,Statista,2015-06-28
+1202,2,2022,3,export_growth,19.4,percent,World Bank,2022-10-20
+1203,2,2024,,ecommerce_gmv,86000000000.0,USD,Bain & Company,2025-04-25
+1204,3,2023,3,export_growth,19.1,percent,World Bank,2023-10-20
+1205,6,2020,,gdp_growth,4.2,percent,ADB,2021-04-23
+1206,6,2020,3,inflation,3.4,percent,World Bank,2020-12-03
+1207,8,2014,,ecommerce_gmv,28900000.0,USD,Bain & Company,2015-05-29
+1208,6,2019,,internet_penetration,34.0,percent,ITU,2020-05-15
+1209,6,2024,3,gdp_growth,8.9,percent,IMF,2024-11-09
+1210,4,2012,,gdp_per_capita,10055,USD,World Bank,2013-06-09
+1211,5,2012,,population,5100000.0,people,World Bank,2013-04-17
+1212,1,2024,,gdp,1396100000000.0,USD,World Bank,2025-05-13
+1213,3,2008,,gdp_per_capita,1071,USD,World Bank,2009-03-31
+1214,4,2016,,internet_penetration,88.8,percent,ITU,2017-04-11
+1215,1,2013,,gdp_growth,3.4,percent,IMF,2014-04-06
+1216,8,2013,,ecommerce_gmv,10200000.0,USD,e-Conomy SEA,2014-06-20
+1217,8,2012,,population,6800000.0,people,National Statistical Office,2013-06-20
+1218,6,2023,2,retail_sales_growth,1.5,percent,Statista,2023-08-15
+1219,10,2023,1,export_growth,-9.7,percent,UNCTAD,2023-04-17
+1220,1,2015,,population,257800000.0,people,World Bank,2016-04-04
+1221,1,2025,,ecommerce_gmv,109200000000.0,USD,Bain & Company,2026-05-18
+1222,6,2010,,gdp_growth,6.2,percent,IMF,2011-05-12
+1223,2,2014,,ecommerce_gmv,2200000000.0,USD,e-Conomy SEA,2015-05-09
+1224,5,2021,2,unemployment,6.7,percent,World Bank,2021-09-04
+1225,3,2016,,gdp_growth,6.5,percent,World Bank,2017-05-24
+1226,10,2024,3,import_growth,11.4,percent,WTO,2024-10-25
+1227,6,2024,2,gdp_growth,6.6,percent,World Bank,2024-08-28
+1228,8,2010,,internet_penetration,2.2,percent,Internet World Stats,2011-04-29
+1229,3,2019,,ecommerce_gmv,8000000000.0,USD,Bain & Company,2020-06-05
+1230,4,2021,3,consumer_confidence,87,index,National Statistics,2021-11-02
+1231,5,2019,,gdp_per_capita,54941,USD,IMF,2020-04-20
+1232,7,2018,,ecommerce_gmv,43400000.0,USD,Statista,2019-05-30
+1233,1,2023,,gdp_growth,5.8,percent,World Bank,2024-05-01
+1234,4,2025,1,retail_sales_growth,15.3,percent,ASEANstats,2025-04-19
+1235,7,2023,,ecommerce_gmv,121300000.0,USD,Bain & Company,2024-06-12
+1236,1,2020,3,export_growth,11.3,percent,WTO,2020-10-20
+1237,9,2023,2,retail_sales_growth,10.4,percent,ASEANstats,2023-07-25
+1238,1,2023,4,inflation,3.6,percent,World Bank,2024-02-27
+1239,1,2008,,gdp_growth,3.6,percent,IMF,2009-05-06
+1240,1,2020,4,retail_sales_growth,6.0,percent,Statista,2021-03-06
+1241,6,2023,1,consumer_confidence,123,index,Nielsen,2023-05-09
+1242,6,2014,,gdp_per_capita,2638,USD,World Bank,2015-04-11
+1243,8,2022,,gdp_per_capita,1392,USD,ADB,2023-04-08
+1244,8,2016,,internet_penetration,2.9,percent,Internet World Stats,2017-06-07
+1245,3,2024,3,consumer_confidence,86,index,Mastercard,2024-10-28
+1246,8,2018,,population,7800000.0,people,National Statistical Office,2019-04-09
+1247,2,2011,,gdp,316900000000.0,USD,National Statistics,2012-04-16
+1248,1,2021,3,fdi_inflow,20800000000.0,USD,World Bank,2021-12-13
+1249,9,2008,,gdp_per_capita,700,USD,IMF,2009-04-01
+1250,4,2023,3,gdp_growth,7.1,percent,World Bank,2023-11-01
+1251,1,2017,,gdp,722600000000.0,USD,ADB,2018-06-29
+1252,7,2022,3,import_growth,-6.0,percent,UNCTAD,2022-11-04
+1253,7,2014,,gdp_per_capita,926,USD,ADB,2015-05-15
+1254,9,2021,,ecommerce_gmv,46500000.0,USD,Statista,2022-05-22
+1255,9,2022,4,unemployment,4.6,percent,National Statistics,2023-03-02
+1256,2,2021,1,inflation,3.9,percent,IMF,2021-05-01
+1257,7,2022,1,export_growth,-6.1,percent,UNCTAD,2022-05-16
+1258,6,2017,,gdp_growth,8.0,percent,World Bank,2018-05-15
+1259,6,2022,4,unemployment,4.8,percent,National Statistics,2023-02-07
+1260,1,2010,,gdp,552300000000.0,USD,IMF,2011-05-29
+1261,6,2013,,gdp_per_capita,2112,USD,ADB,2014-06-22
+1262,5,2022,2,unemployment,4.8,percent,National Statistics,2022-08-13
+1263,8,2013,,internet_penetration,3.5,percent,ITU,2014-04-08
+1264,10,2020,,ecommerce_gmv,475600000.0,USD,Google-Temasek,2021-04-28
+1265,5,2019,,gdp,256900000000.0,USD,ADB,2020-04-06
+1266,8,2020,2,inflation,3.9,percent,National Bank,2020-08-16
+1267,5,2017,,ecommerce_gmv,1800000000.0,USD,e-Conomy SEA,2018-06-17
+1268,8,2018,,gdp_growth,6.5,percent,ADB,2019-05-17
+1269,10,2010,,population,402047,people,UN Population Division,2011-04-15
+1270,6,2017,,internet_penetration,55.1,percent,ITU,2018-04-20
+1271,5,2018,,gdp,351600000000.0,USD,World Bank,2019-04-30
+1272,10,2023,1,import_growth,-6.6,percent,WTO,2023-06-08
+1273,2,2021,2,fdi_inflow,17400000000.0,USD,World Bank,2021-08-26
+1274,4,2024,1,consumer_confidence,106,index,Conference Board,2024-05-26
+1275,10,2022,1,inflation,4.4,percent,National Bank,2022-06-11
+1276,10,2025,,population,524081,people,National Statistical Office,2026-04-17
+1277,2,2024,3,consumer_confidence,117,index,Nielsen,2024-11-01
+1278,6,2009,,ecommerce_gmv,259700000.0,USD,Bain & Company,2010-06-09
+1279,1,2025,1,import_growth,-8.6,percent,World Bank,2025-05-17
+1280,3,2009,,internet_penetration,25.9,percent,Internet World Stats,2010-05-02
+1281,9,2016,,gdp_growth,6.5,percent,ADB,2017-05-13
+1282,1,2009,,gdp_growth,5.2,percent,World Bank,2010-04-16
+1283,8,2014,,internet_penetration,3.6,percent,WeAreSocial,2015-05-06
+1284,1,2008,,population,228000000.0,people,UN Population Division,2009-05-16
+1285,8,2022,4,inflation,5.5,percent,IMF,2023-02-01
+1286,5,2018,,ecommerce_gmv,7700000000.0,USD,Bain & Company,2019-06-11
+1287,4,2023,,ecommerce_gmv,7000000000.0,USD,Google-Temasek,2024-05-15
+1288,6,2020,,gdp,310300000000.0,USD,IMF,2021-04-29
+1289,2,2022,3,consumer_confidence,119,index,Mastercard,2022-12-04
+1290,2,2008,,gdp,270000000000.0,USD,World Bank,2009-06-10
+1291,4,2016,,population,31800000.0,people,National Statistical Office,2017-04-02
+1292,2,2023,,ecommerce_gmv,41500000000.0,USD,e-Conomy SEA,2024-04-18
+1293,5,2023,3,import_growth,-3.6,percent,WTO,2023-11-26
+1294,1,2018,,population,254600000.0,people,UN Population Division,2019-06-22
+1295,8,2025,,population,7400000.0,people,National Statistical Office,2026-06-17
+1296,7,2021,,gdp_growth,3.2,percent,World Bank,2022-04-06
+1297,2,2020,4,fdi_inflow,20100000000.0,USD,OECD,2021-01-23
+1298,4,2010,,gdp_growth,4.1,percent,ADB,2011-06-18
+1299,9,2010,,gdp_growth,7.0,percent,World Bank,2011-06-25
+1300,3,2011,,population,88100000.0,people,UN Population Division,2012-06-12
+1301,4,2022,1,inflation,5.9,percent,World Bank,2022-05-08
+1302,9,2010,,gdp,38800000000.0,USD,IMF,2011-05-02
+1303,3,2025,2,import_growth,14.3,percent,World Bank,2025-08-23
+1304,3,2024,,internet_penetration,104.6,percent,ITU,2025-04-10
+1305,7,2012,,internet_penetration,2.1,percent,Internet World Stats,2013-05-03
+1306,1,2018,,gdp,847600000000.0,USD,IMF,2019-06-29
+1307,8,2022,2,consumer_confidence,130,index,Nielsen,2022-08-15
+1308,3,2021,,gdp_per_capita,1612,USD,ADB,2022-05-17
+1309,10,2025,1,fdi_inflow,2100000000.0,USD,World Bank,2025-06-12
+1310,7,2024,4,export_growth,8.5,percent,World Bank,2025-03-11
+1311,6,2014,,population,96300000.0,people,National Statistical Office,2015-04-15
+1312,9,2025,4,gdp_growth,7.1,percent,World Bank,2026-02-13
+1313,7,2021,2,consumer_confidence,89,index,National Statistics,2021-07-29
+1314,9,2024,4,gdp_growth,6.8,percent,World Bank,2025-02-21
+1315,2,2021,2,consumer_confidence,96,index,Nielsen,2021-09-04
+1316,1,2023,2,consumer_confidence,116,index,Nielsen,2023-07-22
+1317,6,2025,4,unemployment,3.2,percent,ILO,2026-03-14
+1318,9,2020,,internet_penetration,2.9,percent,Internet World Stats,2021-05-30
+1319,10,2025,1,unemployment,6.1,percent,World Bank,2025-04-21
+1320,3,2016,,internet_penetration,48.3,percent,GSMA,2017-04-21
+1321,5,2020,4,gdp_growth,5.2,percent,World Bank,2021-03-04
+1322,9,2025,,gdp_growth,8.3,percent,ADB,2026-06-28
+1323,10,2010,,ecommerce_gmv,49500000.0,USD,e-Conomy SEA,2011-06-24
+1324,1,2023,3,consumer_confidence,84,index,Conference Board,2023-11-16
+1325,4,2021,,gdp,418100000000.0,USD,National Statistics,2022-04-21
+1326,8,2022,,population,8100000.0,people,UN Population Division,2023-06-13
+1327,7,2021,3,consumer_confidence,121,index,Conference Board,2021-11-24
+1328,5,2020,4,consumer_confidence,85,index,National Statistics,2021-02-23
+1329,6,2016,,internet_penetration,35.8,percent,GSMA,2017-04-02
+1330,6,2021,1,fdi_inflow,10300000000.0,USD,ASEAN Secretariat,2021-05-26
+1331,10,2024,4,export_growth,-2.9,percent,WTO,2025-01-22
+1332,8,2023,1,import_growth,1.8,percent,WTO,2023-04-14
+1333,5,2024,,ecommerce_gmv,46400000000.0,USD,e-Conomy SEA,2025-05-03
+1334,4,2009,,gdp,233500000000.0,USD,ADB,2010-05-30
+1335,4,2025,1,gdp_growth,6.1,percent,IMF,2025-05-24
+1336,3,2012,,population,92600000.0,people,National Statistical Office,2013-05-23
+1337,9,2018,,population,57100000.0,people,National Statistical Office,2019-06-03
+1338,8,2020,3,gdp_growth,2.5,percent,IMF,2020-10-30
+1339,4,2022,4,unemployment,5.4,percent,National Statistics,2023-03-02
+1340,4,2022,1,retail_sales_growth,9.2,percent,Euromonitor,2022-05-11
+1341,9,2024,,gdp,100600000000.0,USD,National Statistics,2025-05-12
+1342,7,2023,,gdp,18300000000.0,USD,National Statistics,2024-05-07
+1343,8,2025,1,retail_sales_growth,1.5,percent,Statista,2025-06-05
+1344,4,2021,,ecommerce_gmv,6800000000.0,USD,Statista,2022-04-27
+1345,7,2010,,gdp_per_capita,777,USD,World Bank,2011-06-27
+1346,10,2021,2,consumer_confidence,112,index,National Statistics,2021-08-26
+1347,8,2020,1,inflation,3.9,percent,World Bank,2020-05-24
+1348,5,2011,,gdp_growth,3.7,percent,ADB,2012-04-20
+1349,5,2022,,gdp_per_capita,73139,USD,IMF,2023-05-24
+1350,2,2020,2,consumer_confidence,52,index,Mastercard,2020-08-29
+1351,5,2022,1,inflation,3.3,percent,National Bank,2022-05-10
+1352,3,2025,2,consumer_confidence,100,index,Nielsen,2025-08-05
+1353,8,2012,,gdp_per_capita,1016,USD,ADB,2013-04-30
+1354,7,2012,,ecommerce_gmv,23600000.0,USD,Statista,2013-05-07
+1355,7,2010,,gdp,10800000000.0,USD,IMF,2011-04-16
+1356,4,2015,,gdp_per_capita,10682,USD,IMF,2016-06-26
+1357,2,2008,,gdp_per_capita,4091,USD,IMF,2009-04-07
+1358,9,2025,1,import_growth,12.1,percent,UNCTAD,2025-05-25
+1359,5,2024,4,consumer_confidence,97,index,National Statistics,2025-02-02
+1360,9,2022,,population,64600000.0,people,National Statistical Office,2023-05-24
+1361,8,2009,,ecommerce_gmv,6000000.0,USD,Statista,2010-05-22
+1362,8,2015,,ecommerce_gmv,15400000.0,USD,e-Conomy SEA,2016-06-01
+1363,10,2014,,gdp_per_capita,41067,USD,ADB,2015-05-26
+1364,9,2023,,internet_penetration,4.6,percent,Internet World Stats,2024-05-28
+1365,7,2020,,population,17400000.0,people,World Bank,2021-05-20
+1366,10,2021,4,unemployment,7.1,percent,National Statistics,2022-02-23
+1367,1,2021,1,gdp_growth,6.2,percent,World Bank,2021-05-09
+1368,2,2024,1,export_growth,-9.0,percent,World Bank,2024-06-10
+1369,9,2017,,gdp_growth,3.0,percent,IMF,2018-06-03
+1370,6,2021,3,inflation,4.5,percent,World Bank,2021-11-03
+1371,8,2025,1,fdi_inflow,314800000.0,USD,ASEAN Secretariat,2025-04-24
+1372,10,2009,,population,397039,people,National Statistical Office,2010-04-25
+1373,4,2023,,gdp_growth,6.9,percent,IMF,2024-04-30
+1374,10,2020,3,retail_sales_growth,3.0,percent,National Statistics,2020-10-29
+1375,5,2020,1,inflation,2.5,percent,World Bank,2020-04-20
+1376,5,2023,,gdp,296200000000.0,USD,IMF,2024-05-26
+1377,7,2019,,gdp_growth,7.4,percent,World Bank,2020-05-13
+1378,5,2019,,ecommerce_gmv,9000000000.0,USD,e-Conomy SEA,2020-06-17
+1379,3,2008,,internet_penetration,24.3,percent,ITU,2009-05-16
+1380,7,2024,,gdp_per_capita,1809,USD,World Bank,2025-06-13
+1381,8,2025,,internet_penetration,19.1,percent,ITU,2026-06-10
+1382,7,2020,4,gdp_growth,3.5,percent,World Bank,2021-01-21
+1383,9,2022,,internet_penetration,3.3,percent,GSMA,2023-05-23
+1384,6,2025,,population,113900000.0,people,World Bank,2026-06-22
+1385,10,2025,3,gdp_growth,8.4,percent,ADB,2025-11-06
+1386,5,2014,,gdp_growth,5.6,percent,World Bank,2015-04-16
+1387,8,2020,3,unemployment,4.4,percent,ILO,2020-11-04
+1388,5,2010,,gdp,200400000000.0,USD,IMF,2011-05-19
+1389,3,2022,1,export_growth,7.3,percent,WTO,2022-04-15
+1390,8,2016,,gdp_per_capita,1048,USD,World Bank,2017-04-28
+1391,8,2020,3,export_growth,11.1,percent,UNCTAD,2020-12-03
+1392,5,2024,2,export_growth,9.5,percent,UNCTAD,2024-09-02
+1393,10,2021,1,unemployment,3.9,percent,World Bank,2021-05-02
+1394,9,2021,1,import_growth,5.8,percent,UNCTAD,2021-04-30
+1395,4,2021,1,import_growth,6.5,percent,UNCTAD,2021-06-05
+1396,1,2024,,internet_penetration,96.3,percent,WeAreSocial,2025-06-13
+1397,7,2022,3,gdp_growth,4.2,percent,World Bank,2022-12-14
+1398,9,2024,1,unemployment,9.1,percent,World Bank,2024-05-31
+1399,4,2009,,ecommerce_gmv,637000000.0,USD,Bain & Company,2010-06-11
+1400,1,2020,2,consumer_confidence,64,index,Conference Board,2020-07-25
+1401,3,2021,3,retail_sales_growth,11.6,percent,ASEANstats,2021-11-29
+1402,6,2020,1,retail_sales_growth,6.3,percent,ASEANstats,2020-04-25
+1403,9,2021,,population,67700000.0,people,World Bank,2022-06-09
+1404,4,2021,1,consumer_confidence,129,index,National Statistics,2021-04-30
+1405,6,2024,2,unemployment,7.2,percent,ILO,2024-09-06
+1406,8,2024,2,inflation,2.9,percent,IMF,2024-08-15
+1407,3,2020,,population,99500000.0,people,UN Population Division,2021-04-24
+1408,6,2023,4,retail_sales_growth,13.3,percent,Euromonitor,2024-02-17
+1409,4,2019,,gdp_growth,3.9,percent,ADB,2020-04-03
+1410,6,2024,3,consumer_confidence,113,index,National Statistics,2024-10-19
+1411,4,2021,4,import_growth,-2.7,percent,World Bank,2022-03-04
+1412,5,2022,1,retail_sales_growth,3.0,percent,Euromonitor,2022-06-08
+1413,7,2024,4,fdi_inflow,1300000000.0,USD,ASEAN Secretariat,2025-03-12
+1414,8,2021,4,retail_sales_growth,18.9,percent,Statista,2022-01-27
+1415,10,2013,,gdp_per_capita,44524,USD,World Bank,2014-06-24
+1416,5,2017,,population,5300000.0,people,World Bank,2018-05-15
+1417,1,2020,4,import_growth,10.6,percent,UNCTAD,2021-03-15
+1418,9,2023,4,inflation,6.9,percent,IMF,2024-02-11
+1419,3,2023,1,import_growth,17.0,percent,UNCTAD,2023-05-01
+1420,5,2024,,internet_penetration,171.6,percent,GSMA,2025-05-29
+1421,6,2024,2,inflation,2.4,percent,National Bank,2024-08-21
+1422,4,2019,,ecommerce_gmv,5200000000.0,USD,Google-Temasek,2020-05-08
+1423,8,2008,,internet_penetration,1.8,percent,GSMA,2009-06-09
+1424,7,2022,,internet_penetration,4.8,percent,GSMA,2023-04-25
+1425,6,2015,,population,104000000.0,people,UN Population Division,2016-05-28
+1426,7,2021,,gdp,16200000000.0,USD,IMF,2022-05-27
+1427,2,2020,,internet_penetration,52.9,percent,ITU,2021-06-29
+1428,6,2021,4,inflation,5.3,percent,World Bank,2022-01-15
+1429,10,2021,,ecommerce_gmv,1000000000.0,USD,Google-Temasek,2022-05-18
+1430,8,2015,,gdp_per_capita,1297,USD,ADB,2016-06-14
+1431,10,2008,,gdp,14000000000.0,USD,IMF,2009-04-22
+1432,7,2021,1,consumer_confidence,124,index,Mastercard,2021-05-03
+1433,1,2012,,internet_penetration,13.8,percent,ITU,2013-06-09
+1434,7,2013,,gdp_per_capita,821,USD,World Bank,2014-03-31
+1435,5,2016,,internet_penetration,167.8,percent,GSMA,2017-04-18
+1436,7,2009,,gdp,10600000000.0,USD,World Bank,2010-05-29
+1437,9,2017,,gdp_per_capita,1152,USD,IMF,2018-06-17
+1438,6,2016,,gdp_growth,5.7,percent,World Bank,2017-04-02
+1439,4,2018,,ecommerce_gmv,5200000000.0,USD,e-Conomy SEA,2019-06-11
+1440,2,2009,,internet_penetration,21.6,percent,WeAreSocial,2010-06-22
+1441,10,2019,,gdp,24600000000.0,USD,IMF,2020-04-25
+1442,9,2025,2,unemployment,4.4,percent,National Statistics,2025-07-17
+1443,6,2010,,gdp,194000000000.0,USD,IMF,2011-04-05
+1444,2,2025,,gdp,518500000000.0,USD,National Statistics,2026-05-10
+1445,8,2023,4,fdi_inflow,377500000.0,USD,UNCTAD,2024-02-29
+1446,9,2020,,gdp,60700000000.0,USD,ADB,2021-06-28
+1447,3,2024,1,gdp_growth,8.0,percent,World Bank,2024-05-25
+1448,9,2009,,internet_penetration,0.9,percent,Internet World Stats,2010-06-29
+1449,10,2022,1,fdi_inflow,1000000000.0,USD,ASEAN Secretariat,2022-05-04
+1450,10,2009,,gdp_per_capita,38039,USD,World Bank,2010-04-12
+1451,9,2023,,population,69500000.0,people,UN Population Division,2024-06-13
+1452,5,2010,,ecommerce_gmv,713200000.0,USD,Statista,2011-05-18
+1453,10,2011,,gdp_per_capita,40030,USD,ADB,2012-06-27
+1454,10,2024,,gdp,35600000000.0,USD,World Bank,2025-05-01
+1455,5,2010,,gdp_per_capita,40315,USD,ADB,2011-04-22
+1456,9,2011,,gdp,40500000000.0,USD,National Statistics,2012-05-14
+1457,7,2023,4,fdi_inflow,865900000.0,USD,OECD,2024-03-13
+1458,10,2022,,population,543525,people,National Statistical Office,2023-05-04
+1459,6,2019,,gdp_per_capita,3399,USD,World Bank,2020-04-09
+1460,3,2017,,ecommerce_gmv,2700000000.0,USD,e-Conomy SEA,2018-06-08
+1461,2,2018,,gdp_per_capita,5292,USD,IMF,2019-05-24
+1462,6,2023,2,export_growth,18.5,percent,UNCTAD,2023-08-06
+1463,2,2014,,internet_penetration,30.4,percent,ITU,2015-05-09
+1464,1,2023,,gdp,956400000000.0,USD,National Statistics,2024-05-25
+1465,6,2020,1,inflation,4.6,percent,IMF,2020-06-02
+1466,5,2019,,gdp_growth,5.8,percent,IMF,2020-06-25
+1467,8,2020,2,unemployment,1.4,percent,National Statistics,2020-08-12
+1468,5,2022,2,inflation,4.1,percent,IMF,2022-07-18
+1469,2,2020,3,unemployment,4.7,percent,World Bank,2020-11-24
+1470,10,2016,,gdp,23200000000.0,USD,National Statistics,2017-06-02
+1471,6,2025,4,gdp_growth,3.8,percent,ADB,2026-01-24
+1472,7,2023,3,fdi_inflow,307300000.0,USD,World Bank,2023-11-05
+1473,7,2022,,gdp,15200000000.0,USD,World Bank,2023-05-18
+1474,8,2024,1,fdi_inflow,237200000.0,USD,World Bank,2024-04-17
+1475,5,2024,4,retail_sales_growth,4.6,percent,Euromonitor,2025-01-23
+1476,7,2014,,internet_penetration,2.0,percent,GSMA,2015-04-23
+1477,4,2024,3,unemployment,4.3,percent,ILO,2024-11-25
+1478,3,2020,1,fdi_inflow,6500000000.0,USD,World Bank,2020-05-27
+1479,1,2010,,gdp_growth,3.4,percent,IMF,2011-06-07
+1480,3,2017,,gdp_growth,4.5,percent,ADB,2018-06-19
+1481,4,2024,,gdp_per_capita,20058,USD,World Bank,2025-04-29
+1482,10,2022,3,consumer_confidence,132,index,National Statistics,2022-11-14
+1483,3,2017,,internet_penetration,54.7,percent,GSMA,2018-05-13
+1484,3,2020,,gdp_growth,4.7,percent,ADB,2021-06-01
+1485,3,2024,3,import_growth,9.5,percent,UNCTAD,2024-10-24
+1486,5,2023,,population,5700000.0,people,World Bank,2024-05-14
+1487,1,2014,,gdp_per_capita,3058,USD,World Bank,2015-05-11
+1488,7,2011,,gdp,11200000000.0,USD,IMF,2012-06-20
+1489,4,2023,4,fdi_inflow,26100000000.0,USD,OECD,2024-01-19
+1490,10,2025,1,inflation,6.1,percent,IMF,2025-04-29
+1491,8,2013,,gdp,7300000000.0,USD,World Bank,2014-04-20
+1492,4,2010,,gdp,239000000000.0,USD,IMF,2011-04-01
+1493,1,2012,,gdp_growth,8.2,percent,IMF,2013-05-19
+1494,2,2022,4,import_growth,13.9,percent,World Bank,2023-01-18
+1495,2,2024,3,inflation,2.5,percent,IMF,2024-11-28
+1496,3,2010,,gdp,103100000000.0,USD,ADB,2011-05-21
+1497,4,2015,,gdp_growth,3.9,percent,ADB,2016-05-15
+1498,3,2012,,ecommerce_gmv,927200000.0,USD,Bain & Company,2013-05-05
+1499,3,2021,,internet_penetration,143.6,percent,Internet World Stats,2022-05-14
+1500,8,2024,4,unemployment,7.3,percent,National Statistics,2025-02-19
+1501,2,2021,3,import_growth,5.4,percent,UNCTAD,2021-11-23
+1502,1,2022,3,export_growth,4.0,percent,UNCTAD,2022-12-11
+1503,7,2009,,gdp_growth,2.7,percent,ADB,2010-04-07
+1504,10,2023,3,import_growth,19.6,percent,WTO,2023-11-16
+1505,8,2024,3,retail_sales_growth,9.4,percent,Euromonitor,2024-12-08
+1506,6,2023,,ecommerce_gmv,3100000000.0,USD,Statista,2024-04-13
+1507,6,2021,1,gdp_growth,5.5,percent,IMF,2021-04-14
+1508,4,2025,,gdp,694500000000.0,USD,National Statistics,2026-05-10
+1509,5,2025,3,gdp_growth,4.1,percent,ADB,2025-12-01
+1510,5,2015,,population,5400000.0,people,World Bank,2016-05-06
+1511,7,2024,,gdp,18100000000.0,USD,National Statistics,2025-05-08
+1512,4,2013,,gdp_per_capita,9237,USD,ADB,2014-05-09
+1513,3,2023,3,unemployment,7.9,percent,ILO,2023-10-30
+1514,6,2010,,gdp_per_capita,2090,USD,IMF,2011-04-15
+1515,9,2011,,population,53500000.0,people,World Bank,2012-06-13
+1516,6,2022,3,export_growth,12.5,percent,WTO,2022-12-06
+1517,9,2014,,gdp_per_capita,909,USD,World Bank,2015-04-25
+1518,2,2021,3,export_growth,16.8,percent,World Bank,2021-10-31
+1519,6,2024,,gdp,393100000000.0,USD,ADB,2025-06-28
+1520,1,2023,,internet_penetration,46.6,percent,WeAreSocial,2024-04-18
+1521,7,2020,,internet_penetration,2.2,percent,GSMA,2021-06-17
+1522,6,2023,,gdp,356100000000.0,USD,ADB,2024-04-23
+1523,5,2023,2,import_growth,5.8,percent,WTO,2023-08-14
+1524,6,2025,4,inflation,3.9,percent,IMF,2026-01-23
+1525,9,2020,1,export_growth,5.4,percent,World Bank,2020-05-28
+1526,5,2023,3,inflation,3.6,percent,IMF,2023-11-25
+1527,4,2023,1,fdi_inflow,15700000000.0,USD,OECD,2023-04-24
+1528,10,2021,1,export_growth,1.2,percent,UNCTAD,2021-06-11
+1529,9,2020,4,export_growth,-6.6,percent,UNCTAD,2021-03-01
+1530,8,2022,2,inflation,5.2,percent,National Bank,2022-07-23
+1531,4,2021,3,gdp_growth,7.2,percent,IMF,2021-10-28
+1532,3,2021,1,fdi_inflow,1800000000.0,USD,World Bank,2021-04-15
+1533,4,2010,,internet_penetration,64.9,percent,ITU,2011-04-22
+1534,7,2023,,gdp_per_capita,1144,USD,World Bank,2024-06-17
+1535,6,2020,4,export_growth,8.2,percent,UNCTAD,2021-01-27
+1536,5,2025,3,inflation,6.0,percent,National Bank,2025-11-07
+1537,9,2022,3,gdp_growth,6.6,percent,IMF,2022-10-23
+1538,3,2010,,internet_penetration,27.8,percent,GSMA,2011-04-13
+1539,8,2023,3,export_growth,11.6,percent,World Bank,2023-10-25
+1540,3,2011,,internet_penetration,36.2,percent,Internet World Stats,2012-04-09
+1541,1,2017,,gdp_growth,8.2,percent,IMF,2018-04-10
+1542,4,2025,3,consumer_confidence,125,index,National Statistics,2025-11-03
+1543,4,2014,,internet_penetration,103.2,percent,WeAreSocial,2015-05-04
+1544,9,2021,1,retail_sales_growth,14.8,percent,Statista,2021-05-24
+1545,10,2020,4,inflation,3.6,percent,World Bank,2021-02-14
+1546,6,2021,,internet_penetration,104.7,percent,GSMA,2022-04-26
+1547,3,2025,,gdp,204300000000.0,USD,IMF,2026-06-26
+1548,6,2023,3,import_growth,13.8,percent,UNCTAD,2023-12-05
+1549,10,2023,4,unemployment,8.6,percent,World Bank,2024-02-27
+1550,9,2009,,gdp_growth,3.3,percent,World Bank,2010-04-29
+1551,6,2021,,gdp_growth,6.0,percent,ADB,2022-05-07
+1552,7,2024,2,export_growth,19.9,percent,UNCTAD,2024-08-06
+1553,1,2022,,population,286800000.0,people,National Statistical Office,2023-05-01
+1554,9,2025,3,export_growth,-9.0,percent,World Bank,2025-10-31
+1555,1,2021,4,unemployment,7.5,percent,ILO,2022-03-12
+1556,8,2024,,gdp_growth,8.8,percent,IMF,2025-04-21
+1557,8,2021,,gdp,9200000000.0,USD,World Bank,2022-06-19
+1558,9,2019,,internet_penetration,3.2,percent,GSMA,2020-06-01
+1559,9,2011,,gdp_growth,6.8,percent,World Bank,2012-06-11
+1560,4,2020,1,inflation,2.8,percent,World Bank,2020-05-10
+1561,8,2024,,internet_penetration,13.6,percent,Internet World Stats,2025-04-04
+1562,3,2024,,gdp_per_capita,2112,USD,IMF,2025-04-14
+1563,3,2024,,population,111400000.0,people,National Statistical Office,2025-05-05
+1564,4,2021,1,retail_sales_growth,16.9,percent,Statista,2021-05-01
+1565,10,2023,1,consumer_confidence,143,index,National Statistics,2023-04-27
+1566,2,2020,,gdp,437100000000.0,USD,ADB,2021-05-24
+1567,9,2022,2,inflation,5.0,percent,IMF,2022-07-25
+1568,5,2016,,gdp,306700000000.0,USD,IMF,2017-05-23
+1569,1,2020,,gdp_growth,3.3,percent,IMF,2021-06-29
+1570,9,2025,4,fdi_inflow,1100000000.0,USD,ASEAN Secretariat,2026-01-19
+1571,3,2023,,gdp_growth,5.7,percent,World Bank,2024-04-14
+1572,1,2024,,gdp_growth,8.2,percent,IMF,2025-06-13
+1573,4,2020,1,export_growth,5.8,percent,UNCTAD,2020-05-21
+1574,4,2021,4,unemployment,4.1,percent,National Statistics,2022-01-17
+1575,8,2008,,gdp_growth,2.3,percent,World Bank,2009-05-20
+1576,10,2012,,gdp_per_capita,38868,USD,ADB,2013-05-22
+1577,4,2015,,gdp,329900000000.0,USD,ADB,2016-06-23
+1578,4,2013,,internet_penetration,73.9,percent,WeAreSocial,2014-06-01
+1579,8,2025,3,gdp_growth,3.7,percent,IMF,2025-11-30
+1580,9,2020,4,unemployment,6.2,percent,World Bank,2021-02-28
+1581,3,2025,1,inflation,2.9,percent,National Bank,2025-06-10
+1582,4,2024,,gdp,583400000000.0,USD,ADB,2025-06-25
+1583,5,2021,4,retail_sales_growth,4.3,percent,Statista,2022-02-10
+1584,9,2022,,gdp_per_capita,958,USD,World Bank,2023-05-21
+1585,3,2020,1,export_growth,11.9,percent,UNCTAD,2020-05-23
+1586,7,2020,2,unemployment,3.3,percent,ILO,2020-08-03
+1587,7,2020,4,import_growth,3.1,percent,World Bank,2021-02-20
+1588,9,2020,4,consumer_confidence,63,index,Nielsen,2021-01-24
+1589,1,2024,,ecommerce_gmv,59600000000.0,USD,Statista,2025-05-03
+1590,5,2022,4,unemployment,6.2,percent,ILO,2023-03-06
+1591,3,2021,1,export_growth,-2.8,percent,World Bank,2021-05-10
+1592,3,2018,,population,102600000.0,people,National Statistical Office,2019-04-29
+1593,5,2011,,internet_penetration,87.0,percent,ITU,2012-06-23
+1594,10,2021,,gdp,30100000000.0,USD,IMF,2022-05-06
+1595,6,2022,,gdp_growth,7.3,percent,IMF,2023-04-05
+1596,6,2013,,ecommerce_gmv,517900000.0,USD,Statista,2014-05-27
+1597,7,2013,,ecommerce_gmv,42000000.0,USD,Bain & Company,2014-06-19
+1598,1,2019,,gdp_per_capita,3256,USD,World Bank,2020-06-06
+1599,10,2023,3,retail_sales_growth,14.9,percent,ASEANstats,2023-10-29
+1600,3,2016,,gdp_per_capita,1508,USD,ADB,2017-06-16
+1601,5,2018,,gdp_growth,4.9,percent,ADB,2019-04-22
+1602,9,2024,4,inflation,5.5,percent,IMF,2025-01-27
+1603,4,2023,3,import_growth,-0.1,percent,WTO,2023-10-21
+1604,4,2009,,population,27400000.0,people,World Bank,2010-04-20
+1605,7,2021,4,unemployment,3.1,percent,National Statistics,2022-03-14
+1606,10,2020,,population,454220,people,UN Population Division,2021-04-24
+1607,2,2024,1,consumer_confidence,126,index,Nielsen,2024-06-07
+1608,8,2017,,population,7200000.0,people,World Bank,2018-06-15
+1609,2,2016,,population,72500000.0,people,UN Population Division,2017-06-04
+1610,2,2009,,gdp_growth,3.9,percent,IMF,2010-05-08
+1611,3,2023,1,consumer_confidence,128,index,Conference Board,2023-04-23
+1612,2,2015,,gdp,357200000000.0,USD,National Statistics,2016-06-08
+1613,6,2025,3,inflation,6.3,percent,IMF,2025-11-21
+1614,9,2016,,ecommerce_gmv,17900000.0,USD,Statista,2017-05-13
+1615,7,2021,2,unemployment,9.1,percent,World Bank,2021-07-30
+1616,1,2025,4,import_growth,8.3,percent,UNCTAD,2026-02-25
+1617,9,2020,3,retail_sales_growth,7.6,percent,ASEANstats,2020-11-30
+1618,6,2022,3,unemployment,7.3,percent,ILO,2022-12-08
+1619,1,2013,,gdp_per_capita,2886,USD,World Bank,2014-04-03
+1620,2,2020,,gdp_growth,2.5,percent,IMF,2021-06-14
+1621,6,2017,,population,109700000.0,people,National Statistical Office,2018-04-03
+1622,1,2009,,ecommerce_gmv,1500000000.0,USD,Bain & Company,2010-05-24
+1623,10,2022,4,unemployment,4.4,percent,ILO,2023-03-15
+1624,4,2023,4,import_growth,15.3,percent,UNCTAD,2024-03-11
+1625,5,2025,,population,7300000.0,people,National Statistical Office,2026-05-25
+1626,7,2024,2,import_growth,11.1,percent,World Bank,2024-08-23
+1627,5,2020,1,gdp_growth,5.1,percent,ADB,2020-05-14
+1628,10,2023,3,consumer_confidence,113,index,Conference Board,2023-12-13
+1629,5,2017,,gdp,252600000000.0,USD,IMF,2018-06-14
+1630,7,2019,,gdp,19900000000.0,USD,World Bank,2020-06-18
+1631,9,2020,,gdp_per_capita,1244,USD,World Bank,2021-04-16
+1632,5,2023,3,fdi_inflow,11300000000.0,USD,UNCTAD,2023-11-16
+1633,5,2020,2,fdi_inflow,12200000000.0,USD,World Bank,2020-09-02
+1634,7,2020,4,inflation,1.8,percent,IMF,2021-03-11
+1635,1,2025,4,inflation,1.8,percent,National Bank,2026-02-28
+1636,6,2025,,internet_penetration,77.7,percent,GSMA,2026-04-30
+1637,2,2021,4,fdi_inflow,23900000000.0,USD,ASEAN Secretariat,2022-03-14
+1638,2,2013,,gdp,349200000000.0,USD,World Bank,2014-06-09
+1639,8,2013,,gdp_per_capita,982,USD,IMF,2014-06-29
+1640,9,2019,,ecommerce_gmv,52600000.0,USD,Bain & Company,2020-06-20
+1641,9,2025,1,retail_sales_growth,7.2,percent,Statista,2025-06-01
+1642,7,2015,,gdp,15500000000.0,USD,ADB,2016-04-25
+1643,10,2022,3,inflation,1.7,percent,IMF,2022-10-27
+1644,4,2020,,internet_penetration,200.2,percent,GSMA,2021-05-18
+1645,10,2020,3,inflation,1.2,percent,World Bank,2020-10-31
+1646,7,2018,,gdp,13500000000.0,USD,IMF,2019-06-09
+1647,5,2016,,gdp_growth,7.1,percent,World Bank,2017-05-01
+1648,4,2020,1,consumer_confidence,57,index,Mastercard,2020-05-23
+1649,3,2017,,population,104200000.0,people,World Bank,2018-06-07
+1650,9,2025,,ecommerce_gmv,317800000.0,USD,Bain & Company,2026-05-20
+1651,1,2024,4,consumer_confidence,91,index,Mastercard,2025-01-19
+1652,4,2021,,gdp_growth,7.7,percent,ADB,2022-05-30
+1653,7,2017,,gdp_growth,5.5,percent,World Bank,2018-04-16
+1654,5,2012,,gdp_growth,3.4,percent,IMF,2013-05-12
+1655,7,2011,,internet_penetration,1.6,percent,ITU,2012-06-15
+1656,8,2023,4,export_growth,15.4,percent,World Bank,2024-02-08
+1657,10,2021,3,export_growth,4.6,percent,UNCTAD,2021-12-06
+1658,10,2020,2,consumer_confidence,68,index,Conference Board,2020-09-07
+1659,6,2022,,ecommerce_gmv,4600000000.0,USD,Bain & Company,2023-06-22
+1660,8,2017,,internet_penetration,4.8,percent,Internet World Stats,2018-04-26
+1661,6,2015,,internet_penetration,28.5,percent,Internet World Stats,2016-04-09
+1662,4,2018,,gdp_growth,4.6,percent,World Bank,2019-04-23
+1663,8,2025,3,unemployment,9.9,percent,ILO,2025-10-25
+1664,8,2021,,internet_penetration,4.3,percent,GSMA,2022-05-08
+1665,8,2024,1,unemployment,5.2,percent,National Statistics,2024-05-20
+1666,6,2016,,ecommerce_gmv,745100000.0,USD,Bain & Company,2017-06-14
+1667,8,2020,3,inflation,3.6,percent,National Bank,2020-12-12
+1668,6,2018,,population,100400000.0,people,National Statistical Office,2019-06-14
+1669,10,2013,,internet_penetration,60.1,percent,WeAreSocial,2014-06-15
+1670,9,2014,,internet_penetration,1.4,percent,GSMA,2015-04-25
+1671,8,2020,2,import_growth,2.5,percent,WTO,2020-07-31
+1672,9,2022,2,retail_sales_growth,7.1,percent,Statista,2022-09-03
+1673,2,2023,1,fdi_inflow,14300000000.0,USD,UNCTAD,2023-05-29
+1674,7,2008,,gdp,10000000000.0,USD,IMF,2009-06-29
+1675,1,2024,4,unemployment,3.9,percent,ILO,2025-02-14
+1676,8,2011,,ecommerce_gmv,10200000.0,USD,Statista,2012-04-23
+1677,8,2024,3,consumer_confidence,130,index,Mastercard,2024-10-21
+1678,5,2021,1,fdi_inflow,7800000000.0,USD,UNCTAD,2021-04-15
+1679,9,2025,3,retail_sales_growth,3.2,percent,National Statistics,2025-12-14
+1680,7,2015,,internet_penetration,2.2,percent,Internet World Stats,2016-06-04
+1681,6,2012,,gdp_growth,6.0,percent,World Bank,2013-06-11
+1682,9,2023,,gdp_growth,5.3,percent,World Bank,2024-06-27
+1683,6,2020,2,import_growth,6.5,percent,World Bank,2020-07-30
+1684,8,2022,,internet_penetration,4.0,percent,ITU,2023-06-06
+1685,10,2008,,internet_penetration,45.2,percent,WeAreSocial,2009-06-03
+1686,5,2024,2,retail_sales_growth,5.5,percent,National Statistics,2024-08-26
+1687,7,2025,4,unemployment,7.5,percent,ILO,2026-02-07
+1688,7,2021,,gdp_per_capita,1134,USD,IMF,2022-05-30
+1689,6,2017,,gdp,300700000000.0,USD,World Bank,2018-04-03
+1690,3,2020,2,fdi_inflow,2400000000.0,USD,UNCTAD,2020-08-12
+1691,7,2022,4,fdi_inflow,526100000.0,USD,UNCTAD,2023-01-24
+1692,8,2021,,ecommerce_gmv,52600000.0,USD,Bain & Company,2022-06-16
+1693,3,2025,3,gdp_growth,7.6,percent,IMF,2025-12-07
+1694,5,2018,,gdp_per_capita,62510,USD,World Bank,2019-05-13
+1695,9,2017,,gdp,47600000000.0,USD,IMF,2018-06-14
+1696,9,2022,3,unemployment,4.3,percent,National Statistics,2022-12-09
+1697,4,2024,1,inflation,2.8,percent,National Bank,2024-04-27
+1698,6,2020,,ecommerce_gmv,1100000000.0,USD,Bain & Company,2021-06-24
+1699,7,2021,,population,18300000.0,people,UN Population Division,2022-04-29
+1700,3,2008,,ecommerce_gmv,300000000.0,USD,Statista,2009-06-08
+1701,9,2023,2,fdi_inflow,2000000000.0,USD,UNCTAD,2023-07-30
+1702,9,2008,,population,50000000.0,people,National Statistical Office,2009-04-09
+1703,3,2025,3,import_growth,12.9,percent,UNCTAD,2025-12-04
+1704,8,2022,2,fdi_inflow,368800000.0,USD,OECD,2022-07-28
+1705,1,2012,,gdp_per_capita,2651,USD,IMF,2013-05-27
+1706,10,2024,3,retail_sales_growth,11.6,percent,Euromonitor,2024-12-02
+1707,5,2020,2,import_growth,10.0,percent,WTO,2020-07-30
+1708,1,2016,,gdp,719500000000.0,USD,National Statistics,2017-04-30
+1709,8,2022,3,import_growth,20.2,percent,UNCTAD,2022-11-07
+1710,7,2024,4,retail_sales_growth,4.3,percent,Statista,2025-03-13
+1711,1,2024,3,gdp_growth,6.9,percent,ADB,2024-12-07
+1712,2,2023,3,consumer_confidence,92,index,Conference Board,2023-11-24
+1713,1,2017,,internet_penetration,16.3,percent,GSMA,2018-04-10
+1714,2,2022,,gdp_per_capita,8289,USD,IMF,2023-06-13
+1715,5,2023,,gdp_growth,5.9,percent,ADB,2024-05-02
+1716,5,2022,1,fdi_inflow,8300000000.0,USD,OECD,2022-06-13
+1717,6,2011,,ecommerce_gmv,483400000.0,USD,e-Conomy SEA,2012-06-20
+1718,10,2016,,internet_penetration,131.4,percent,ITU,2017-06-21
+1719,1,2020,1,retail_sales_growth,9.4,percent,ASEANstats,2020-05-23
+1720,1,2022,4,retail_sales_growth,5.3,percent,Euromonitor,2023-02-25
+1721,1,2020,,gdp,767200000000.0,USD,IMF,2021-05-25
+1722,9,2020,1,fdi_inflow,3100000000.0,USD,World Bank,2020-05-03
+1723,5,2021,4,export_growth,7.9,percent,WTO,2022-01-18
+1724,4,2024,2,unemployment,2.5,percent,World Bank,2024-08-27
+1725,5,2018,,population,5800000.0,people,National Statistical Office,2019-05-23
+1726,4,2013,,population,28900000.0,people,UN Population Division,2014-04-25
+1727,1,2025,1,gdp_growth,4.1,percent,World Bank,2025-04-28
+1728,6,2009,,gdp_per_capita,1996,USD,IMF,2010-04-12
+1729,1,2017,,gdp_per_capita,2988,USD,IMF,2018-06-26
+1730,10,2024,4,import_growth,5.4,percent,World Bank,2025-02-12
+1731,3,2020,3,retail_sales_growth,10.9,percent,Statista,2020-11-09
+1732,8,2016,,gdp_growth,6.3,percent,World Bank,2017-05-01
+1733,4,2024,1,unemployment,4.9,percent,World Bank,2024-05-13
+1734,6,2023,4,export_growth,1.4,percent,WTO,2024-02-08
+1735,4,2022,4,import_growth,0.9,percent,World Bank,2023-03-05
+1736,8,2019,,gdp,11100000000.0,USD,ADB,2020-05-19
+1737,5,2021,3,inflation,4.0,percent,National Bank,2021-11-08
+1738,2,2021,,gdp_per_capita,8518,USD,IMF,2022-05-23
+1739,5,2014,,internet_penetration,94.0,percent,ITU,2015-06-11
+1740,4,2025,,gdp_growth,6.7,percent,ADB,2026-05-24
+1741,10,2014,,ecommerce_gmv,157900000.0,USD,Bain & Company,2015-05-20
+1742,3,2011,,ecommerce_gmv,708300000.0,USD,Google-Temasek,2012-06-10
+1743,6,2021,3,retail_sales_growth,15.4,percent,Statista,2021-10-29
+1744,6,2019,,gdp,237300000000.0,USD,ADB,2020-06-20
+1745,5,2011,,gdp_per_capita,40550,USD,IMF,2012-05-22
+1746,6,2008,,gdp_per_capita,1889,USD,World Bank,2009-06-03
+1747,10,2023,,population,531740,people,UN Population Division,2024-04-03
+1748,8,2016,,ecommerce_gmv,42200000.0,USD,e-Conomy SEA,2017-04-15
+1749,8,2020,3,retail_sales_growth,4.0,percent,ASEANstats,2020-10-26
+1750,9,2015,,gdp_per_capita,954,USD,ADB,2016-06-06
+1751,8,2025,2,gdp_growth,4.3,percent,ADB,2025-07-30
+1752,6,2020,4,retail_sales_growth,1.6,percent,Euromonitor,2021-02-23
+1753,8,2012,,gdp_growth,6.7,percent,IMF,2013-05-15
+1754,9,2023,1,unemployment,3.0,percent,National Statistics,2023-04-25
+1755,4,2019,,population,31800000.0,people,National Statistical Office,2020-06-19
+1756,5,2022,4,export_growth,15.5,percent,WTO,2023-03-01
+1757,7,2025,3,export_growth,-3.6,percent,WTO,2025-12-14
+1758,7,2024,3,inflation,3.8,percent,National Bank,2024-10-16
+1759,7,2008,,internet_penetration,1.2,percent,WeAreSocial,2009-05-30
+1760,1,2025,3,gdp_growth,4.3,percent,World Bank,2025-12-09
+1761,10,2024,,population,536946,people,World Bank,2025-06-24
+1762,3,2023,1,unemployment,7.2,percent,World Bank,2023-05-06
+1763,2,2018,,ecommerce_gmv,4800000000.0,USD,Bain & Company,2019-06-29
+1764,1,2008,,internet_penetration,10.5,percent,GSMA,2009-05-12
+1765,5,2025,,gdp,319500000000.0,USD,World Bank,2026-06-07
+1766,9,2008,,internet_penetration,0.8,percent,ITU,2009-05-27
+1767,1,2009,,population,231100000.0,people,World Bank,2010-05-03
+1768,8,2011,,population,6500000.0,people,National Statistical Office,2012-06-25
+1769,1,2024,4,gdp_growth,6.3,percent,World Bank,2025-02-25
+1770,2,2012,,population,69900000.0,people,UN Population Division,2013-06-27
+1771,4,2024,4,inflation,2.9,percent,World Bank,2025-01-21
+1772,6,2011,,gdp_growth,7.5,percent,World Bank,2012-05-01
+1773,8,2022,1,consumer_confidence,103,index,Nielsen,2022-05-12
+1774,4,2015,,internet_penetration,83.6,percent,Internet World Stats,2016-04-22
+1775,7,2022,3,export_growth,-4.3,percent,World Bank,2022-11-05
+1776,4,2020,2,retail_sales_growth,7.5,percent,Euromonitor,2020-07-21
+1777,4,2008,,gdp_growth,3.2,percent,IMF,2009-06-29
+1778,5,2020,3,gdp_growth,4.2,percent,World Bank,2020-12-01
+1779,9,2025,,population,65600000.0,people,UN Population Division,2026-04-07
+1780,3,2020,4,fdi_inflow,3500000000.0,USD,World Bank,2021-02-26
+1781,2,2013,,gdp_growth,5.7,percent,World Bank,2014-04-24
+1782,10,2020,,gdp_growth,4.3,percent,ADB,2021-06-23
+1783,9,2018,,gdp_growth,4.3,percent,World Bank,2019-06-21
+1784,2,2019,,ecommerce_gmv,13500000000.0,USD,Google-Temasek,2020-06-19
+1785,10,2024,1,fdi_inflow,1200000000.0,USD,UNCTAD,2024-05-09
+1786,6,2012,,ecommerce_gmv,469300000.0,USD,e-Conomy SEA,2013-05-19
+1787,8,2022,1,inflation,2.0,percent,National Bank,2022-04-19
+1788,2,2021,4,consumer_confidence,95,index,National Statistics,2022-02-01
+1789,10,2023,3,export_growth,-5.3,percent,World Bank,2023-11-18
+1790,10,2018,,gdp_growth,7.9,percent,IMF,2019-03-31
+1791,2,2023,1,consumer_confidence,125,index,Nielsen,2023-06-01
+1792,10,2025,1,consumer_confidence,131,index,Mastercard,2025-06-12
+1793,10,2024,,internet_penetration,234.1,percent,ITU,2025-06-14
+1794,1,2013,,internet_penetration,20.6,percent,WeAreSocial,2014-05-26
+1795,9,2024,3,inflation,1.6,percent,World Bank,2024-10-26
+1796,5,2011,,ecommerce_gmv,913300000.0,USD,Bain & Company,2012-05-22
+1797,1,2021,2,gdp_growth,7.2,percent,ADB,2021-08-29
+1798,4,2016,,ecommerce_gmv,5400000000.0,USD,e-Conomy SEA,2017-05-04
+1799,1,2022,2,retail_sales_growth,18.6,percent,National Statistics,2022-07-29
+1800,7,2012,,gdp_per_capita,803,USD,World Bank,2013-06-14
+1801,3,2024,,gdp,258900000000.0,USD,IMF,2025-06-16
+1802,8,2010,,ecommerce_gmv,8100000.0,USD,Google-Temasek,2011-04-03
+1803,10,2020,3,export_growth,-5.8,percent,World Bank,2020-10-22
+1804,2,2022,3,gdp_growth,8.6,percent,IMF,2022-11-11
+1805,4,2024,,internet_penetration,176.5,percent,GSMA,2025-06-08
+1806,2,2022,2,fdi_inflow,16700000000.0,USD,UNCTAD,2022-08-21
+1807,6,2020,2,gdp_growth,3.8,percent,World Bank,2020-09-07
+1808,4,2023,1,consumer_confidence,125,index,Mastercard,2023-05-06
+1809,6,2019,,population,113300000.0,people,National Statistical Office,2020-06-26
+1810,9,2013,,ecommerce_gmv,8300000.0,USD,Bain & Company,2014-04-23
+1811,3,2021,1,unemployment,3.9,percent,World Bank,2021-04-28
+1812,4,2022,1,import_growth,10.6,percent,World Bank,2022-05-10
+1813,8,2019,,population,7300000.0,people,World Bank,2020-04-29
+1814,6,2025,,gdp,367900000000.0,USD,World Bank,2026-04-25
+1815,8,2023,,gdp_per_capita,2030,USD,World Bank,2024-06-06
+1816,7,2012,,population,15000000.0,people,World Bank,2013-05-25
+1817,7,2013,,gdp,12300000000.0,USD,ADB,2014-04-13
+1818,9,2013,,population,52800000.0,people,National Statistical Office,2014-04-08
+1819,1,2011,,gdp_per_capita,2584,USD,ADB,2012-06-27
+1820,10,2021,3,fdi_inflow,1100000000.0,USD,UNCTAD,2021-11-17
+1821,8,2010,,population,6300000.0,people,UN Population Division,2011-06-04
+1822,4,2015,,population,31900000.0,people,UN Population Division,2016-05-18
+1823,9,2021,3,fdi_inflow,1900000000.0,USD,World Bank,2021-12-10
+1824,4,2022,,gdp_growth,8.0,percent,ADB,2023-05-24
+1825,3,2024,3,export_growth,-2.1,percent,WTO,2024-11-15
+1826,6,2021,2,export_growth,7.1,percent,World Bank,2021-09-06
+1827,8,2017,,gdp,7100000000.0,USD,ADB,2018-03-31
+1828,7,2016,,population,15800000.0,people,National Statistical Office,2017-06-24
+1829,7,2024,2,consumer_confidence,127,index,National Statistics,2024-08-01
+1830,8,2014,,population,6700000.0,people,World Bank,2015-04-15
+1831,7,2020,2,export_growth,10.0,percent,WTO,2020-08-18
+1832,4,2020,2,import_growth,6.3,percent,World Bank,2020-08-18
+1833,6,2020,4,import_growth,10.8,percent,UNCTAD,2021-02-20
+1834,8,2022,3,fdi_inflow,161700000.0,USD,World Bank,2022-10-21
+1835,3,2023,,population,119600000.0,people,UN Population Division,2024-05-03
+1836,5,2023,4,import_growth,4.2,percent,WTO,2024-01-17
+1837,10,2018,,population,450716,people,National Statistical Office,2019-06-21
+1838,10,2025,4,export_growth,21.9,percent,WTO,2026-02-02
+1839,8,2021,2,gdp_growth,7.5,percent,IMF,2021-09-09
+1840,6,2020,4,gdp_growth,3.5,percent,ADB,2021-02-19
+1841,6,2019,,ecommerce_gmv,2000000000.0,USD,Statista,2020-05-17
+1842,2,2024,,internet_penetration,81.2,percent,GSMA,2025-05-30
+1843,9,2013,,gdp,45500000000.0,USD,National Statistics,2014-04-03
+1844,5,2008,,internet_penetration,67.2,percent,GSMA,2009-06-04
+1845,7,2017,,population,16300000.0,people,World Bank,2018-06-27
+1846,7,2021,4,fdi_inflow,369300000.0,USD,UNCTAD,2022-02-26
+1847,4,2024,3,import_growth,17.2,percent,World Bank,2024-11-18
+1848,2,2022,3,fdi_inflow,8200000000.0,USD,World Bank,2022-11-01
+1849,8,2021,2,export_growth,19.4,percent,WTO,2021-08-06
+1850,3,2024,2,fdi_inflow,10900000000.0,USD,ASEAN Secretariat,2024-07-26
+1851,10,2020,1,export_growth,13.0,percent,World Bank,2020-06-09
+1852,9,2013,,gdp_per_capita,861,USD,IMF,2014-04-24
+1853,5,2009,,population,4900000.0,people,World Bank,2010-05-15
+1854,10,2022,,gdp_per_capita,74509,USD,ADB,2023-05-18
+1855,2,2022,1,fdi_inflow,16300000000.0,USD,OECD,2022-05-16
+1856,2,2011,,population,69100000.0,people,UN Population Division,2012-05-30
+1857,5,2010,,population,4900000.0,people,World Bank,2011-06-01
+1858,6,2025,,ecommerce_gmv,3200000000.0,USD,Google-Temasek,2026-06-11
+1859,1,2023,2,import_growth,9.2,percent,WTO,2023-08-11
+1860,4,2023,2,import_growth,5.4,percent,World Bank,2023-08-12
+1861,2,2021,,ecommerce_gmv,6700000000.0,USD,e-Conomy SEA,2022-05-26
+1862,8,2022,,gdp,10400000000.0,USD,ADB,2023-04-18
+1863,8,2024,3,inflation,4.1,percent,National Bank,2024-11-20
+1864,10,2022,2,inflation,5.5,percent,IMF,2022-07-31
+1865,9,2019,,gdp_per_capita,887,USD,ADB,2020-05-19
+1866,6,2023,3,unemployment,6.9,percent,ILO,2023-11-17
+1867,6,2020,,internet_penetration,45.5,percent,ITU,2021-05-03
+1868,8,2024,3,import_growth,-4.9,percent,UNCTAD,2024-11-29
+1869,2,2023,,gdp_growth,6.8,percent,IMF,2024-05-13
+1870,3,2022,4,retail_sales_growth,15.6,percent,Euromonitor,2023-02-01
+1871,9,2025,2,retail_sales_growth,18.2,percent,Euromonitor,2025-07-22
+1872,7,2008,,ecommerce_gmv,10000000.0,USD,Statista,2009-05-29
+1873,9,2020,,gdp_growth,4.7,percent,IMF,2021-04-19
+1874,3,2019,,gdp_growth,6.4,percent,ADB,2020-05-12
+1875,4,2013,,gdp,279400000000.0,USD,World Bank,2014-04-23
+1876,4,2012,,ecommerce_gmv,1600000000.0,USD,Statista,2013-05-22
+1877,4,2024,,population,36700000.0,people,National Statistical Office,2025-05-18
+1878,9,2008,,gdp_growth,3.8,percent,World Bank,2009-06-17
+1879,3,2021,4,inflation,3.2,percent,World Bank,2022-03-08
+1880,9,2024,,population,67600000.0,people,National Statistical Office,2025-05-05
+1881,1,2019,,gdp,780500000000.0,USD,IMF,2020-05-30
+1882,6,2021,,gdp,346900000000.0,USD,National Statistics,2022-04-30
+1883,2,2010,,internet_penetration,23.5,percent,WeAreSocial,2011-05-25
+1884,9,2025,2,import_growth,8.6,percent,WTO,2025-08-18
+1885,5,2021,,gdp,416200000000.0,USD,ADB,2022-06-29
+1886,4,2020,4,export_growth,-0.3,percent,World Bank,2021-03-01
+1887,9,2024,,gdp_growth,5.0,percent,IMF,2025-05-03
+1888,8,2025,3,import_growth,15.9,percent,WTO,2025-10-25
+1889,3,2013,,gdp_growth,6.8,percent,ADB,2014-05-15
+1890,2,2025,3,import_growth,-4.9,percent,UNCTAD,2025-11-17
+1891,8,2025,,gdp_per_capita,2228,USD,World Bank,2026-06-02
+1892,4,2021,3,import_growth,-3.4,percent,UNCTAD,2021-11-12
+1893,4,2023,1,inflation,1.9,percent,IMF,2023-04-25
+1894,5,2021,3,import_growth,-6.6,percent,WTO,2021-12-14
+1895,6,2025,1,unemployment,3.6,percent,ILO,2025-06-02
+1896,8,2021,2,retail_sales_growth,4.2,percent,ASEANstats,2021-09-03
+1897,4,2020,4,inflation,4.3,percent,IMF,2021-01-26
+1898,9,2018,,internet_penetration,2.0,percent,GSMA,2019-04-12
+1899,3,2008,,population,85000000.0,people,World Bank,2009-06-11
+1900,7,2020,,gdp,20100000000.0,USD,World Bank,2021-05-05
+1901,3,2014,,ecommerce_gmv,781700000.0,USD,Statista,2015-04-15
+1902,9,2020,3,inflation,3.0,percent,IMF,2020-12-06
+1903,7,2018,,internet_penetration,4.7,percent,Internet World Stats,2019-04-06
+1904,5,2023,1,gdp_growth,7.9,percent,IMF,2023-04-16
+1905,2,2014,,gdp_per_capita,4651,USD,World Bank,2015-06-25
+1906,10,2025,3,import_growth,6.9,percent,UNCTAD,2025-10-17
+1907,7,2009,,internet_penetration,1.3,percent,ITU,2010-04-07
+1908,4,2011,,ecommerce_gmv,833500000.0,USD,Google-Temasek,2012-05-29
+1909,6,2016,,population,99900000.0,people,World Bank,2017-05-24
+1910,6,2016,,gdp_per_capita,3009,USD,World Bank,2017-04-04
+1911,10,2023,,gdp_growth,7.3,percent,ADB,2024-05-28
+1912,10,2022,4,retail_sales_growth,9.6,percent,National Statistics,2023-01-27
+1913,5,2025,3,fdi_inflow,8700000000.0,USD,UNCTAD,2025-10-20
+1914,9,2025,1,fdi_inflow,1300000000.0,USD,OECD,2025-05-31
+1915,10,2022,,ecommerce_gmv,676900000.0,USD,Bain & Company,2023-06-01
+1916,10,2020,,gdp_per_capita,61589,USD,ADB,2021-04-28
+1917,6,2021,4,unemployment,7.3,percent,ILO,2022-02-23
+1918,8,2018,,internet_penetration,3.5,percent,GSMA,2019-05-29
+1919,5,2025,1,gdp_growth,5.6,percent,World Bank,2025-05-17
+1920,9,2021,1,fdi_inflow,2600000000.0,USD,ASEAN Secretariat,2021-05-20
+1921,5,2013,,population,5300000.0,people,National Statistical Office,2014-06-29
+1922,2,2016,,gdp_growth,5.8,percent,World Bank,2017-06-02
+1923,3,2020,,gdp_per_capita,1515,USD,IMF,2021-04-17
+1924,6,2023,4,consumer_confidence,131,index,Mastercard,2024-03-09
+1925,2,2023,4,fdi_inflow,18300000000.0,USD,ASEAN Secretariat,2024-02-19
+1926,7,2025,,ecommerce_gmv,300500000.0,USD,e-Conomy SEA,2026-05-09
+1927,5,2023,4,inflation,5.4,percent,National Bank,2024-01-27
+1928,1,2016,,ecommerce_gmv,4000000000.0,USD,Bain & Company,2017-04-03
+1929,8,2011,,gdp_growth,6.6,percent,IMF,2012-06-28
+1930,9,2014,,gdp,42300000000.0,USD,National Statistics,2015-04-26
+1931,5,2020,4,inflation,1.6,percent,National Bank,2021-01-21
+1932,4,2025,1,consumer_confidence,81,index,National Statistics,2025-04-20
+1933,8,2008,,ecommerce_gmv,5000000.0,USD,Statista,2009-04-07
+1934,2,2009,,gdp,287000000000.0,USD,World Bank,2010-05-28
+1935,8,2025,2,consumer_confidence,114,index,Mastercard,2025-09-12
+1936,3,2024,1,inflation,7.2,percent,World Bank,2024-06-02
+1937,1,2022,2,unemployment,8.0,percent,National Statistics,2022-08-15
+1938,9,2024,3,unemployment,4.7,percent,World Bank,2024-11-25
+1939,5,2020,,internet_penetration,281.1,percent,Internet World Stats,2021-04-23
+1940,4,2023,4,inflation,4.4,percent,National Bank,2024-02-22
+1941,9,2024,1,fdi_inflow,2700000000.0,USD,UNCTAD,2024-05-01
+1942,5,2009,,gdp_per_capita,38787,USD,World Bank,2010-04-30
+1943,7,2021,3,retail_sales_growth,10.5,percent,National Statistics,2021-10-16
+1944,2,2022,4,gdp_growth,4.4,percent,World Bank,2023-02-05
+1945,7,2024,4,consumer_confidence,127,index,Conference Board,2025-03-08
+1946,10,2014,,gdp_growth,6.6,percent,World Bank,2015-05-09
+1947,4,2022,3,gdp_growth,6.7,percent,World Bank,2022-12-13
+1948,2,2018,,internet_penetration,36.5,percent,Internet World Stats,2019-05-21
+1949,4,2022,,gdp,423000000000.0,USD,ADB,2023-05-18
+1950,1,2010,,population,237600000.0,people,World Bank,2011-06-24
+1951,3,2025,4,import_growth,-0.5,percent,UNCTAD,2026-02-25
+1952,8,2011,,internet_penetration,2.6,percent,ITU,2012-04-16
+1953,1,2016,,internet_penetration,22.1,percent,GSMA,2017-06-19
+1954,5,2021,1,gdp_growth,9.0,percent,ADB,2021-04-25
+1955,1,2012,,gdp,633500000000.0,USD,ADB,2013-04-11
+1956,1,2021,2,unemployment,3.2,percent,National Statistics,2021-07-15
+1957,1,2022,,internet_penetration,68.0,percent,Internet World Stats,2023-04-07
+1958,9,2019,,population,60400000.0,people,UN Population Division,2020-04-19
+1959,7,2024,1,fdi_inflow,820600000.0,USD,OECD,2024-05-12
+1960,8,2020,,gdp,11900000000.0,USD,ADB,2021-05-28
+1961,3,2012,,gdp,115900000000.0,USD,World Bank,2013-06-13
+1962,6,2015,,gdp_per_capita,2211,USD,ADB,2016-04-01
+1963,5,2024,4,inflation,3.7,percent,National Bank,2025-01-23
+1964,4,2013,,gdp_growth,5.1,percent,ADB,2014-06-10
+1965,5,2023,2,inflation,1.8,percent,IMF,2023-08-12
+1966,10,2014,,population,415268,people,UN Population Division,2015-04-19
+1967,6,2022,4,consumer_confidence,130,index,Mastercard,2023-01-30
+1968,6,2021,1,export_growth,22.1,percent,UNCTAD,2021-06-03
+1969,6,2021,,gdp_per_capita,3879,USD,IMF,2022-05-31
+1970,7,2025,3,fdi_inflow,614300000.0,USD,ASEAN Secretariat,2025-10-24
+1971,6,2012,,gdp_per_capita,2203,USD,ADB,2013-04-24
+1972,9,2022,2,import_growth,2.8,percent,UNCTAD,2022-09-08
+1973,2,2024,1,retail_sales_growth,7.5,percent,ASEANstats,2024-05-19
+1974,2,2021,,gdp_growth,5.0,percent,IMF,2022-05-04
+1975,9,2015,,gdp_growth,6.0,percent,World Bank,2016-04-22
+1976,6,2024,3,unemployment,5.8,percent,ILO,2024-11-27
+1977,4,2008,,ecommerce_gmv,500000000.0,USD,Statista,2009-04-07
+1978,7,2025,,population,18700000.0,people,National Statistical Office,2026-04-18
+1979,5,2008,,ecommerce_gmv,400000000.0,USD,Bain & Company,2009-04-13
+1980,4,2011,,gdp,246700000000.0,USD,ADB,2012-05-31
+1981,8,2016,,gdp,6900000000.0,USD,ADB,2017-05-21
+1982,9,2021,,internet_penetration,3.7,percent,Internet World Stats,2022-05-31
+1983,7,2022,,gdp_growth,7.5,percent,World Bank,2023-06-02
+1984,2,2022,1,unemployment,2.0,percent,National Statistics,2022-05-18
+1985,2,2024,2,inflation,4.3,percent,National Bank,2024-08-05
+1986,1,2020,1,fdi_inflow,37700000000.0,USD,UNCTAD,2020-06-06
+1987,6,2020,1,fdi_inflow,6500000000.0,USD,World Bank,2020-05-05
+1988,1,2018,,gdp_per_capita,3578,USD,World Bank,2019-03-31
+1989,4,2023,4,export_growth,-6.1,percent,UNCTAD,2024-01-29
+1990,1,2020,3,import_growth,1.7,percent,World Bank,2020-10-22
+1991,3,2015,,internet_penetration,37.1,percent,WeAreSocial,2016-04-03
+1992,1,2025,4,unemployment,7.1,percent,World Bank,2026-01-31
+1993,4,2014,,ecommerce_gmv,2300000000.0,USD,e-Conomy SEA,2015-04-13
+1994,4,2021,2,import_growth,14.5,percent,WTO,2021-09-03
+1995,7,2025,,internet_penetration,5.7,percent,ITU,2026-04-04
+1996,2,2021,,internet_penetration,45.6,percent,Internet World Stats,2022-05-13
+1997,1,2017,,population,276900000.0,people,UN Population Division,2018-04-02
+1998,1,2011,,gdp,604600000000.0,USD,National Statistics,2012-05-29
+1999,9,2024,1,consumer_confidence,145,index,National Statistics,2024-05-01
+2000,4,2025,3,export_growth,-9.9,percent,World Bank,2025-11-08
+2001,3,2024,4,import_growth,-0.7,percent,UNCTAD,2025-01-24
+2002,10,2015,,gdp,20800000000.0,USD,ADB,2016-04-20
+2003,5,2012,,ecommerce_gmv,1300000000.0,USD,Bain & Company,2013-04-24
+2004,10,2024,2,gdp_growth,6.7,percent,ADB,2024-09-05
+2005,7,2022,4,inflation,1.7,percent,World Bank,2023-02-05
+2006,10,2024,,gdp_growth,5.8,percent,World Bank,2025-04-24
+2007,2,2017,,gdp,405800000000.0,USD,ADB,2018-06-19
+2008,10,2011,,population,414773,people,World Bank,2012-06-15
+2009,9,2021,,gdp,60900000000.0,USD,IMF,2022-05-14
+2010,6,2025,1,consumer_confidence,120,index,Mastercard,2025-05-17
+2011,7,2018,,gdp_growth,5.9,percent,IMF,2019-04-24
+2012,2,2023,4,export_growth,-9.9,percent,World Bank,2024-03-06
+2013,9,2020,1,import_growth,8.0,percent,WTO,2020-06-04
+2014,8,2021,1,fdi_inflow,458000000.0,USD,UNCTAD,2021-05-17
+2015,4,2022,2,gdp_growth,7.3,percent,ADB,2022-08-19
+2016,10,2009,,internet_penetration,48.4,percent,ITU,2010-06-25
+2017,8,2024,1,retail_sales_growth,3.7,percent,National Statistics,2024-04-30
+2018,8,2025,1,export_growth,5.3,percent,World Bank,2025-04-30
+2019,7,2021,,internet_penetration,6.8,percent,WeAreSocial,2022-06-08
+2020,4,2020,4,retail_sales_growth,1.1,percent,Statista,2021-02-28
+2021,7,2020,4,consumer_confidence,49,index,National Statistics,2021-02-06
+2022,2,2024,1,import_growth,12.2,percent,World Bank,2024-05-04
+2023,4,2023,3,export_growth,19.1,percent,UNCTAD,2023-11-17
+2024,10,2010,,gdp_growth,4.3,percent,IMF,2011-04-29
+2025,5,2025,,gdp_per_capita,60807,USD,ADB,2026-04-18
+2026,1,2020,4,fdi_inflow,52600000000.0,USD,ASEAN Secretariat,2021-01-24
+2027,9,2010,,ecommerce_gmv,2900000.0,USD,Statista,2011-04-23
+2028,1,2018,,ecommerce_gmv,8000000000.0,USD,Bain & Company,2019-05-01
